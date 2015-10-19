@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1830–1860</title>
+                <title type="short">1830–1860</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1830" to="1860">1830–1860</date>: Diplomacy and Westward
+                    Expansion</head>
+                <p>During this crucial period, the United States pursued a policy of expansion based
+                    on “manifest destiny,” the ideology that Americans were in fact destined to
+                    extend their nation across the continent.</p>
+                <figure>
+                    <graphic url="westward.jpg" height="200px" width="200px"/>
+                    <head>Illustration of “Manifest Destiny” ( John Gast, 1872)</head>
+                </figure>
+                <p>The United States even proved to be willing to go to war to secure new
+                    territories. While it managed to negotiate an agreement with <placeName>Great
+                        Britain</placeName> to secure the Oregon territory, acquiring the valuable
+                    territory south of it—including <placeName>California</placeName> and its
+                    important Pacific harbors—required the use of force, and, in 1845, the United
+                    States embarked on its first offensive war by invading
+                        <placeName>Mexico</placeName>.</p>
+                <p>In addition to advancing westward, the United States also continued to expand
+                    economically through investment in foreign markets and international trade. With
+                    these growing commercial interests, came a larger navy and increased
+                    international presence. The United States began to turn to the Pacific for new
+                    economic opportunities, establishing a presence in <placeName>China</placeName>,
+                    and opening <placeName>Japan</placeName> and <placeName>Korea</placeName> to
+                    western commercial interests.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="indian-treaties">
+                <head>Indian Treaties and the Removal Act of <date when="1830">1830</date>
+                </head>
+                <p>The U.S. Government used treaties as one means to displace Indians from their
+                    tribal lands, a mechanism that was strengthened with the Removal Act of 1830. In
+                    cases where this failed, the government sometimes violated both treaties and
+                    Supreme Court rulings to facilitate the spread of European Americans westward
+                    across the continent.</p>
+                <figure>
+                    <graphic url="andrewjackson.jpg" height="200px" width="200px"/>
+                    <head>Andrew Jackson</head>
+                </figure>
+                <p>As the 19th century began, land-hungry Americans poured into the backcountry of
+                    the coastal South and began moving toward and into what would later become the
+                    states of Alabama and Mississippi. Since Indian tribes living there appeared to
+                    be the main obstacle to westward expansion, white settlers petitioned the
+                    federal government to remove them. Although Presidents <ref
+                        target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson</ref>
+                    and <ref target="/departmenthistory/people/monroe-james">James Monroe</ref>
+                    argued that the Indian tribes in the Southeast should exchange their land for
+                    lands west of the Mississippi River, they did not take steps to make this
+                    happen. Indeed, the first major transfer of land occurred only as the result of
+                    war.</p>
+                <p>In 1814, Major General <persName>Andrew Jackson</persName> led an expedition
+                    against the Creek Indians climaxing in the Battle of Horse Shoe Bend (in present
+                    day Alabama near the Georgia border), where Jackson’s force soundly defeated the
+                    Creeks and destroyed their military power. He then forced upon the Indians a
+                    treaty whereby they surrendered to the United States over twenty-million acres
+                    of their traditional land—about one-half of present day Alabama and one-fifth of
+                    Georgia. Over the next decade, Jackson led the way in the Indian removal
+                    campaign, helping to negotiate nine of the eleven major treaties to remove
+                    Indians.</p>
+                <figure>
+                    <graphic url="horshoebend.jpg" height="200px" width="200px"/>
+                    <head>Depiction of William Weatherford surrendering to Andrew Jackson after the
+                        Battle of Horseshoe Bend </head>
+                </figure>
+                <p>Under this kind of pressure, Native American tribes—specifically the Creek,
+                    Cherokee, Chickasaw, and Choctaw—realized that they could not defeat the
+                    Americans in war. The appetite of the settlers for land would not abate, so the
+                    Indians adopted a strategy of appeasement. They hoped that if they gave up a
+                    good deal of their land, they could keep at least some a part of it. The
+                    Seminole tribe in Florida resisted, in the Second Seminole War (1835–1842) and
+                    the Third Seminole War (1855–1858), however, neither appeasement nor resistance
+                    worked.</p>
+                <p>From a legal standpoint, the United States Constitution empowered Congress to
+                        <quote>“regulate commerce with foreign nations, and among the several
+                        States, and with the Indian tribes.”</quote> In early treaties negotiated
+                    between the federal government and the Indian tribes, the latter typically
+                    acknowledged themselves <quote>“to be under the protection of the United States
+                        of America, and of no other sovereign whosoever.”</quote> When Andrew
+                    Jackson became president (1829–1837), he decided to build a systematic approach
+                    to Indian removal on the basis of these legal precedents.</p>
+                <p>To achieve his purpose, Jackson encouraged Congress to adopt the Removal Act of
+                    1830. The Act established a process whereby the President could grant land west
+                    of the Mississippi River to Indian tribes that agreed to give up their
+                    homelands. As incentives, the law allowed the Indians financial and material
+                    assistance to travel to their new locations and start new lives and guaranteed
+                    that the Indians would live on their new property under the protection of the
+                    United States Government forever. With the Act in place, Jackson and his
+                    followers were free to persuade, bribe, and threaten tribes into signing removal
+                    treaties and leaving the Southeast.</p>
+                <p>In general terms, Jackson’s government succeeded. By the end of his presidency,
+                    he had signed into law almost seventy removal treaties, the result of which was
+                    to move nearly 50,000 eastern Indians to Indian Territory—defined as the region
+                    belonging to the United States west of the Mississippi River but excluding the
+                    states of Missouri and Iowa as well as the Territory of Arkansas—and open
+                    millions of acres of rich land east of the Mississippi to white settlers.
+                    Despite the vastness of the Indian Territory, the government intended that the
+                    Indians’ destination would be a more confined area—what later became eastern
+                    Oklahoma.</p>
+                <figure>
+                    <graphic url="removal.jpg" height="200px" width="200px"/>
+                    <head>The Trail of Tears (Robert Lindneux, 1942)</head>
+                </figure>
+                <p>The Cherokee Nation resisted, however, challenging in court the Georgia laws that
+                    restricted their freedoms on tribal lands. In his 1831 ruling on Cherokee Nation
+                    v. the State of Georgia, Chief Justice <persName>John Marshall</persName>
+                    declared that <quote>“the Indian territory is admitted to compose a part of the
+                        United States,”</quote> and affirmed that the tribes were <quote>“domestic
+                        dependent nations” and “their relation to the United States resembles that
+                        of a ward to his guardian.”</quote> However, the following year the Supreme
+                    Court reversed itself and ruled that Indian tribes were indeed sovereign and
+                    immune from Georgia laws. President Jackson nonetheless refused to heed the
+                    Court’s decision. He obtained the signature of a Cherokee chief agreeing to
+                    relocation in the Treaty of New Echota, which Congress ratified against the
+                    protests of <ref target="/departmenthistory/people/webster-daniel">Daniel
+                        Webster</ref> and <ref target="/departmenthistory/people/clay-henry">Henry
+                        Clay</ref> in 1835. The Cherokee signing party represented only a faction of
+                    the Cherokee, and the majority followed Principal Chief <persName>John
+                        Ross</persName> in a desperate attempt to hold onto their land. This attempt
+                    faltered in 1838, when, under the guns of federal troops and Georgia state
+                    militia, the Cherokee tribe were forced to the dry plains across the
+                    Mississippi. The best evidence indicates that between three and four thousand
+                    out of the fifteen to sixteen thousand Cherokees died en route from the brutal
+                    conditions of the “Trail of Tears.”</p>
+                <p>With the exception of a small number of Seminoles still resisting removal in
+                        <placeName>Florida</placeName>, by the 1840s, from the Atlantic to the
+                    Mississippi, no Indian tribes resided in the American South. Through a
+                    combination of coerced treaties and the contravention of treaties and judicial
+                    determination, the United States Government succeeded in paving the way for the
+                    westward expansion and the incorporation of new territories as part of the
+                    United States. </p>
+            </div>
+            <div type="section" xml:id="amistad">
+                <head>The Amistad Case, <date when="1839">1839</date>
+                </head>
+                <p>When the Spanish cargo schooner La Amistad came aground off the coast of
+                        <placeName>Long Island, New York</placeName> in August 1839, the United
+                    States found itself with an explosive legal and diplomatic case that would pit
+                    the American system’s ability to provide justice for all on its shores against
+                    the federal government’s ability to enforce its treaty obligations where the
+                    jurisdiction of states is involved. Officers of the United States survey ship
+                    Washington found the Amistad in a state of distress, bearing 53 Africans and the
+                    two Spaniards who purchased them in Cuba with the intention of trading them into
+                    slavery there. The Africans had mutinied, however, and attempted to have the
+                    Spanish owners sail them back to Africa. After the American naval officers
+                    helped the owners recover control of the ship and arranged for the guarded
+                    detention of the Africans in <placeName>Connecticut</placeName>, procuring the
+                    Africans’ freedom became the cause celebre of the burgeoning abolitionist and
+                    missionary movement.</p>
+                <figure>
+                    <graphic url="cinque.jpg" height="200px" width="200px"/>
+                    <head>Joseph Cinqué of the Amistad (Nathaniel Jocelyn, 1840)</head>
+                </figure>
+                <p>Two lawsuits ensued. The Washington officers brought the first case to federal
+                    district court over salvage claims while the second case began in a Connecticut
+                    court after the state arrested the Spanish traders on charges of enslaving free
+                    Africans. The Spanish foreign minister, however, demanded that the Amistad and
+                    its cargo be released from custody and the “slaves” sent to Cuba for punishment
+                    by Spanish authorities. While the <ref
+                        target="/departmenthistory/people/van-buren-martin">Van Buren</ref>
+                    administration accepted the Spanish crown’s argument, Secretary of State <ref
+                        target="/departmenthistory/people/forsyth-john">John Forsyth</ref>
+                    explained, the president could not order the release of the Amistad and its
+                    cargo because the executive could not interfere with the judiciary under
+                    American law. He could also not release the Spanish traders from imprisonment in
+                    Connecticut because that would constitute federal intervention in a matter of
+                    state jurisdiction. Less interested in the separation of powers or the division
+                    of sovereignty in a federal state than in procuring immediate satisfaction for
+                    the Queen’s honor, the Spanish minister retorted that the arrest of Spaniards
+                    and the holding of their “Negro property” were violations of the treaty of 1795
+                    between Spain and the United States. Thus, at Forsyth’s direction, an attorney
+                    for the United States government appeared before the U. S. District Court and
+                    presented Spain’s argument that since a federally owned ship rescued the
+                    Amistad, the United States was obligated by international treaty to return the
+                    ship and its cargo to the Spanish owners.</p>
+                <p>The district court judge ruled that the Africans were not Spanish slaves, being
+                    captured as free men in Africa, and he ordered the U.S. to release them from
+                    prison and transport them back to Africa. Rejecting the argument that the
+                    Africans were the Spanish traders’ private property and their sale subject to
+                    salvage claims, the judge ruled that the Washington officers’ salvage payments
+                    be taken from the remaining cargo of the Amistad. The U.S. Government, feeling
+                    pressure from Spain and fearing Southern outcry against the court’s advocacy of
+                    African freedom, appealed the decision to the Supreme Court. To argue against
+                    the U.S. Government for the Africans’ freedom, the Christian Missionary
+                    Association convinced former President and Secretary of State <ref
+                        target="/departmenthistory/people/adams-john-quincy">John Quincy Adams</ref>
+                    to come out of retirement and face the predominantly southern Supreme Court
+                    bench. In a masterpiece of American law, Adams presented the case of the
+                    Africans’ freedom as a test of the American republic’s sincerity in the ideals
+                    it espoused abroad. The Supreme Court ruled for the Africans, accepting the
+                    argument that they were never citizens of Spain and were illegally taken from
+                    Africa where they lived in a state of freedom. The court acknowledged that the
+                    United States’ argument that it had obligations to Spain under the treaty, but
+                    said that the treaty “never could have been intended to take away the equal
+                    rights of [the Africans].” The 53 Africans returned to their homeland and the
+                    job of resisting Spain’s continued demand for damages passed onto incoming
+                    Secretary of State <ref target="/departmenthistory/people/webster-daniel">Daniel
+                        Webster.</ref>
+                </p>
+            </div>
+            <div type="section" xml:id="china-1">
+                <head>The Opening to China Part I: the First Opium War, the United States, and the
+                    Treaty of Wangxia, <date from="1839" to="1844">1839–1844</date>
+                </head>
+                <p>The Treaty of Wangxia (Wang-hsia) was the first formal treaty signed between the
+                        <placeName>United States</placeName> and <placeName>China</placeName> in
+                    1844. It served as an American counterpart to the Anglo-Chinese Treaty of
+                    Nanjing that ended the First Opium War in 1842.</p>
+                <figure>
+                    <graphic url="chinatreaty.jpg" height="200px" width="200px"/>
+                    <head>The Signing of the Treaty of Nanjing in 1842</head>
+                </figure>
+                <p>The Opium War and these treaties were emblematic of an era in which Western
+                    powers tried to gain unfettered access to Chinese products and markets for
+                    European and U.S. trade.</p>
+                <p>Western traders, including those from the United States, had long sought a
+                    variety of Chinese products (including furniture, silk and tea), but found there
+                    were few products that China wanted from the West. American trade with China
+                    began as early as 1784, relying on North American exports such as furs,
+                    sandalwood, and ginseng, but American interest in Chinese products soon
+                    outstripped the Chinese appetite for these American exports. The British had
+                    already discovered a great market in southern China for smuggled opium, and
+                    American traders soon also turned to opium to supplement their exports to China.
+                    Beyond the health problems related to opium addiction, the increasing opium
+                    trade with the Western powers meant that for the first time, China imported more
+                    goods than it exported. Settling this financial problem eventually led to the
+                    First Opium War between Great Britain and China, from 1839 to 1842. After
+                    defeating the Chinese in a series of naval conflicts, the British were in a
+                    position to make a large number of demands from the weaker Qing Government of
+                    China, in the Anglo-Chinese Treaty of <placeName>Nanjing</placeName>. Not to be
+                    outdone, U.S. negotiators sought to conclude a similar treaty with the Chinese,
+                    to guarantee the United States many of the favorable terms awarded the British.
+                    The Chinese readily agreed in an effort to keep all foreigners on the same
+                    footing.</p>
+                <p>U.S. President <persName>John Tyler</persName> chose Massachusetts Congressman
+                        <ref target="/departmenthistory/people/cushing-caleb">Caleb Cushing</ref> as
+                    his representative in treaty negotiations with the Chinese. Cushing and his
+                    counterparts reached the terms of the treaty quickly and signed it at Wangxia, a
+                    suburb of the Portuguese port city of Macau, in 1844. The Treaty of Wangxia
+                    replicated many of the key terms of the Treaty of Nanjing. Most importantly, it
+                    established five treaty ports as open for Chinese-Western trade (Guangzhou,
+                    Xiamen, Fuzhou, Ningbo, and Shanghai). These treaty ports became key crossroads
+                    for Western and Chinese culture, as they were the first locations where
+                    foreigners and foreign trading operations could own land in China.</p>
+                <figure>
+                    <graphic url="cushing.jpg" height="200px" width="200px"/>
+                    <head>Massachusetts Congressman Caleb Cushing</head>
+                </figure>
+                <p>The U.S. treaty was somewhat longer than the British version, as it included
+                    major points from the Treaty of Nanjing, but also added some issues of
+                    particular interest to the United States. Article 17 protected the interests of
+                    American missionaries in China (several had acted as translators during the
+                    negotiation process). Article 18 allowed Americans living or working in China to
+                    employ tutors to help them learn Chinese, a practice formerly forbidden by the
+                    Chinese Government. Unlike Great Britain, the United States agreed that anyone
+                    involved in the opium trade or the smuggling of contraband would be prosecuted
+                    under Chinese law, but, with that exception, the treaty allowed for other
+                    Americans in China to be afforded the benefits of extraterritoriality. This
+                    meant that any American accused of committing a crime in China would not be
+                    subject to the jurisdiction of the local law, but would instead be tried and, if
+                    necessary, punished by American officials in China. Due to the
+                    most-favored-nation clause in all of the western powers’ treaties with the
+                    Chinese Government, any special consideration given one power could ultimately
+                    be claimed by them all.</p>
+                <p>In the 1850s, the United States and the European powers grew increasingly
+                    dissatisfied with both the terms of their treaties with China, and the Qing
+                    Government’s failure to adhere to them. The British forced the issue by
+                    attacking the Chinese port cities of <placeName>Guangzhou</placeName> and
+                        <placeName>Tianjin</placeName> in the Second Opium War (1857–1858). Under
+                    the most-favored-nation clause, all of the foreign powers operating in China
+                    were permitted to seek the same concessions of China that Great Britain achieved
+                    by force. As a result, France, Russia, and the United States all signed treaties
+                    with China at Tianjin in quick succession in 1858.</p>
+                <p>The agreements reached between the Western powers and China following the Opium
+                    Wars came to be known as the “unequal treaties” because in practice they gave
+                    foreigners privileged status and extracted concessions from the Chinese.
+                    Ironically, the Qing Government had fully supported the clauses on
+                    extraterritoriality and most-favored nation status in the first treaties in
+                    order to keep the foreigners in line. This treaty system also marked a new
+                    direction for Chinese contact with the outside world. For years, the Chinese had
+                    conducted their foreign policy through the tribute system, in which foreign
+                    powers wishing to trade with China were required first to bring a tribute to the
+                    emperor, acknowledging the superiority of Chinese culture and the ultimate
+                    authority of the Chinese ruler. Unlike China’s neighbors, the European powers
+                    ultimately refused to make these acknowledgements in order to trade, and they
+                    demanded instead that China adhere to Western diplomatic practices, such as the
+                    creation of treaties. Although the unequal treaties and the use of the
+                    most-favored-nation clause were effective in creating and maintaining open trade
+                    with China, both were also important factors in building animosity and
+                    resentment toward Western imperialism.</p>
+            </div>
+            <div type="section" xml:id="webster-treaty">
+                <head>Webster-Ashburton Treaty, <date when="1842">1842</date>
+                </head>
+                <p>During <ref target="/departmenthistory/people/webster-daniel">Daniel
+                        Webster</ref>’s first term as Secretary of State (1841–1843), the primary
+                    foreign policy issues involved Great Britain. These included the northeast
+                    borders of the United States, the involvement of American citizens in the
+                    Canadian rebellion of 1837, and the suppression of the international slave
+                    trade. The Webster-Ashburton Treaty, signed August 9, 1842, resolved these
+                    frictions in Anglo-American relations. On April 4, 1842, British diplomat Lord
+                    Ashburton arrived in Washington at the head of a special mission to the United
+                    States. The first order of business was settling the border between the United
+                    States and Canada.</p>
+                <figure>
+                    <graphic url="webster-ashburton.jpg" height="200px" width="200px"/>
+                    <head>The Webster-Ashburton Treaty</head>
+                </figure>
+                <p>Several disputes had arisen from differing interpretations of the <ref
+                        target="/milestones/1776-1783/treaty">1783 Treaty of Paris</ref> that ended
+                    the Revolutionary War. When these differences led New Brunswick officials to
+                    arrest some Americans in disputed areas, Maine called out the militia and seized
+                    the territory in question, the so-called Aroostock War. The incident dramatized
+                    the need for a border settlement. Webster and Ashburton agreed on a division of
+                    disputed territory, giving 7,015 square miles to the United States and 5,012 to
+                    Great Britain; agreed on the boundary line through the Great Lakes to the Lake
+                    of the Woods; and agreed on provisions for open navigation in several bodies of
+                    water. The issue of the Oregon border was left to a later date. After the
+                    suppression of the Canadian Rebellion of 1837, several participants fled to the
+                    United States where some American adventurers joined them. This band occupied a
+                    Canadian island in the Niagara River and engaged a U.S. ship, the <hi
+                        rend="italic">Caroline</hi>, to re-supply them. Canadian troops seized the
+                        <hi rend="italic">Caroline</hi> in a New York port, killing one crewman in
+                    the process, and set the ship free to drift over Niagara Falls. Later,
+                        <persName>Alexander McLeod</persName> crossed into New York, bragging that
+                    he had participated in the seizure of the <hi rend="italic">Caroline</hi>, and
+                    had killed the crewman. McLeod was arrested. Great Britain maintained that
+                    McLeod had acted as a member the British forces and that it would take
+                    responsibility for his actions. Should he be executed, it would mean war.</p>
+                <p>The U.S. Government agreed that McLeod could not be tried for actions committed
+                    under orders of the British Government, but it was legally incapable of
+                    compelling the State of New York to release him. New York would not back down
+                    and tried McLeod. He was acquitted, but hard feelings remained. Webster and
+                    Ashburton agreed on the principles of international law involved and exchanged
+                    conciliatory statements. The United States enacted a law allowing Federal judges
+                    to discharge any person proved to have acted under instruction of a foreign
+                    power. The United States and Canada later concluded an extradition treaty.
+                    Secretary Webster would not agree to British inspection of U.S. ships suspected
+                    of carrying slaves, but did agree that U.S. warships would be maintained off the
+                    coast of Africa to search suspected slavers flying the American flag.
+                    Unfortunately, the United States did not implement this agreement very
+                    vigorously until the Civil War began. Webster and Ashburton also settled the
+                    case of the <hi rend="italic">Creole</hi>, although it was not mentioned in the
+                    treaty. The <hi rend="italic">Creole</hi> was sailing to New Orleans with 135
+                    slaves, when a mutiny resulted in the death of one of the white passengers. The
+                    ship sailed to the <placeName>Bahamas</placeName> where the slaves were freed.
+                        <placeName>Great Britain</placeName> eventually paid $110,330 to the United
+                    States on the grounds that under international law officials in the Bahamas
+                    should not have allowed the slaves to be freed. Also, outside of the treaty,
+                    Great Britain agreed to end the impressment of American sailors.</p>
+            </div>
+            <div type="section" xml:id="oregon-territory">
+                <head>The Oregon Territory, <date when="1846">1846</date></head>
+                <p>Along with territorial disputes with Spain and Mexico over the Southwest, the
+                    fate of the Oregon Territory was one of the major diplomatic issues of the first
+                    half of the 19th century.</p>
+                <figure>
+                    <graphic url="oregon.jpg" height="200px" width="200px"/>
+                    <head>Landscape in Oregon Country (Charles Marion Russell)</head>
+                </figure>
+                <p>The territory became a focus of those who believed that it was the United States’
+                    obligation and right to extend its rule and liberties across the North American
+                    continent. The Oregon Territory stretched from the Pacific coast to the Rocky
+                    Mountains, encompassing the area including present-day Oregon, Washington, and
+                    most of British Columbia.</p>
+                <p>Originally Spain, Great Britain, Russia, and the United States claimed the
+                    territory. In 1819, under terms of the Transcontinental Treaty, <ref
+                        target="/milestones/1801-1829/florida">Spain ceded its claims to the
+                        territory to the United States</ref>. Shortly thereafter the United States
+                    contested a unilateral Russian move to grant its citizens a fishing, whaling,
+                    and commercial monopoly from the Bering Straits to the 51st parallel. In 1823
+                    President Monroe promulgated his <ref target="/milestones/1801-1829/monroe"
+                        >doctrine</ref>, which put Russia on notice that the United States did not
+                    accept Russian attempts at monopoly. The U.S. claim was based on the
+                    explorations of Lewis and Clark and on the establishment of trading posts set up
+                    by <persName>John Jacob Astor</persName>’s Pacific Fur Company, such as Astoria
+                    at the mouth of the Columbia River. Great Britain based its claim, in part, on
+                    James Cook’s exploration of the Columbia River.</p>
+                <figure>
+                    <graphic url="astor.jpg" height="200px" width="200px"/>
+                    <head>John Jacob Astor</head>
+                </figure>
+                <p>As early as 1818 British and American Commissioners had fixed the border between
+                    the United States and Canada at the 49th parallel from the Lake of the Woods
+                    (Minnesota Territory) west to the Rocky Mountains. The United States had
+                    proposed to extend the border along the same parallel to the Pacific Ocean, but
+                    Great Britain insisted that the northern border be drawn west to the Columbia
+                    River and then follow that river to the ocean. Neither side then budged, but
+                    they did agree to postpone the decision for 10 years. In 1827 Washington and
+                    London agreed to postpone the issue indefinitely subject to one year’s notice by
+                    either party. There the matter remained until the <ref
+                        target="/milestones/1830-1860/webster-treaty">Webster-Ashburton Treaty of
+                        1842</ref> partially delineated the northeastern U.S.-Canada border, but
+                    left the border of the Oregon Territory unsettled.</p>
+                <p>By 1843, increased American immigration on the Oregon Trail to the Territory made
+                    the border issue a burning one in Congress, where jingoists raised the slogan of
+                    “54 degrees 40 minutes or fight.” President James Polk, a supporter of Manifest
+                    Destiny with an eye also on the Mexican Southwest and California, was eager to
+                    settle the boundary of the Oregon Territory and proposed a settlement on the 49
+                    degree line to Great Britain. British Minister to Washington, Richard Pakenham,
+                    and Secretary of State <ref target="/departmenthistory/people/buchanan-james"
+                        >James Buchanan,</ref> supported and encouraged by British Foreign Secretary
+                        <persName>Lord Aberdeen</persName> and Senator <ref
+                        target="/departmenthistory/people/calhoun-john-caldwell">John C.
+                        Calhoun</ref> of South Carolina, worked out a compromise. With some minor
+                    modifications, which reserved the whole of Vancouver Island to Canada, Great
+                    Britain agreed to Polk’s suggestion. The Senate ratified the treaty by a vote of
+                    41-14 on June 18, 1846. A later controversy over the precise boundaries in the
+                    Juan de Fuca Strait was resolved by international arbitration in favor of the
+                    United States.</p>
+            </div>
+            <div type="section" xml:id="texas-annexation">
+                <head>The Annexation of Texas, the Mexican-American War, and the Treaty of
+                    Guadalupe-Hidalgo, <date from="1845" to="1848">1845–1848</date>
+                </head>
+                <p>During his tenure, U.S. President <persName>James K. Polk</persName> oversaw the
+                    greatest territorial expansion of the United States to date. Polk accomplished
+                    this through the annexation of Texas in 1845, the negotiation of the <ref
+                        target="/milestones/1830-1860/oregon-territory">Oregon Treaty</ref> with
+                    Great Britain in 1846, and the conclusion of the Mexican-American War in 1848,
+                    which ended with the signing and ratification of the Treaty of Guadalupe-Hidalgo
+                    in 1848. </p>
+                <figure>
+                    <graphic url="mexicanwar.jpg" height="200px" width="200px"/>
+                    <head>The Battle of Veracruz</head>
+                </figure>
+                <p>These events brought within the control of the United States the future states of
+                    Texas, California, Nevada, New Mexico, Arizona, Utah, Washington, and Oregon, as
+                    well as portions of what would later become Oklahoma, Colorado, Kansas, Wyoming,
+                    and Montana.</p>
+                <p>Following Texas’ successful war of independence against Mexico in 1836, President
+                        <persName>Martin van Buren</persName> refrained from annexing
+                        <placeName>Texas</placeName> after the Mexicans threatened war. Accordingly,
+                    while the United States extended diplomatic recognition to Texas, it took no
+                    further action concerning annexation until 1844, when President <persName>John
+                        Tyler</persName> restarted negotiations with the Republic of Texas. His
+                    efforts culminated on April 12 in a Treaty of Annexation, an event that caused
+                    Mexico to sever diplomatic relations with United States. Tyler, however, lacked
+                    the votes in the Senate to ratify the treaty, and it was defeated by a wide
+                    margin in June. Shortly before he left office, Tyler tried again, this time
+                    through a joint resolution of both houses of Congress. With the support of
+                    President-elect Polk, Tyler managed to get the joint resolution passed on March
+                    1, 1845, and Texas was admitted into the United States on December 29.</p>
+                <figure>
+                    <graphic url="presidentyler.jpg" height="200px" width="200px"/>
+                    <head>President John Tyler</head>
+                </figure>
+                <p>While Mexico did not follow through with its threat to declare war if the United
+                    States annexed Texas, relations between the two nations remained tense due to
+                    Mexico’s disputed border with Texas. According to the Texans, their state
+                    included significant portions of what is today New Mexico and Colorado, and the
+                    western and southern portions of Texas itself, which they claimed extended to
+                    the Rio Grande River. The Mexicans, however, argued that the border only
+                    extended to the Nueces River, north of the Rio Grande.</p>
+                <p>In July, 1845, Polk, who had been elected on a platform of expansionism, ordered
+                    the commander of the U.S. Army in Texas, <persName>Zachary Taylor,</persName> to
+                    move his forces into the disputed lands that lay between the Nueces and Rio
+                    Grande rivers. In November, Polk dispatched Congressman <ref
+                        target="/departmenthistory/people/slidell-john">John Slidell</ref> to Mexico
+                    with instructions to negotiate the purchase of the disputed areas along the
+                    Texas-Mexican border, and the territory comprising the present-day states of New
+                    Mexico and California.</p>
+                <p>Following the failure of Slidell’s mission in May 1846, Polk used news of
+                    skirmishes inside disputed territory between Mexican troops and Taylor’s army to
+                    gain Congressional support for a declaration of war against Mexico. On May 13,
+                    1846, the United States declared war on Mexico.</p>
+                <p>Following the capture of <placeName>Mexico City</placeName> in September 1847,
+                        <ref target="/departmenthistory/people/trist-nicholas-philip">Nicholas
+                        Trist</ref>, chief clerk of the Department of State and Polk’s peace
+                    emissary, began negotiations for a peace treaty with the Mexican Government
+                    under terms similar to those pursued by Slidell the previous year. Polk soon
+                    grew concerned by Trist’s conduct, however, believing that he would not press
+                    for strong enough terms from the Mexicans, and because Trist became a close
+                    friend of General <persName>Winfield Scott,</persName> a Whig who was thought to
+                    be a strong contender for his party’s presidential nomination for the 1848
+                    election. Furthermore, the war had encouraged expansionist Democrats to call for
+                    a complete annexation of Mexico. Polk recalled Trist in October.</p>
+                <figure>
+                    <graphic url="trist.jpg" height="200px" width="200px"/>
+                    <head>Chief Clerk of the Department of State, Nicholas Trist</head>
+                </figure>
+                <p>Believing that he was on the cusp of an agreement with the Mexicans, Trist
+                    ignored the recall order and presented Polk with the Treaty of
+                    Guadalupe-Hidalgo, which was signed in <placeName>Mexico City</placeName> on
+                    February 2, 1848. Under the terms of the treaty, Mexico ceded to the United
+                    States approximately 525,000 square miles (55% of its prewar territory) in
+                    exchange for a $15 million lump sum payment, and the assumption by the U.S.
+                    Government of up to $3.25 million worth of debts owed by Mexico to U.S.
+                    citizens.</p>
+                <p>While Polk would have preferred a more extensive annexation of Mexican territory,
+                    he realized that prolonging the war would have disastrous political consequences
+                    and decided to submit the treaty to the Senate for ratification. Although there
+                    was substantial opposition to the treaty within the Senate, on March 10, 1848,
+                    it passed by a razor-thin margin of 38 to 14.</p>
+                <p>The war had another significant outcome. On August 8, 1846, Congressman
+                        <persName>David Wilmot</persName> introduced a rider to an appropriations
+                    bill that stipulated that “neither slavery nor involuntary servitude shall ever
+                    exist” in any territory acquired by the United States in the war against Mexico.
+                    While Southern senators managed to block adoption of the so-called “Wilmot
+                    Proviso,” it nonetheless provoked a political firestorm. The question of whether
+                    slavery could expand throughout the United States continue to fester until the
+                    defeat of the Confederacy in 1865. </p>
+            </div>
+            <div type="section" xml:id="liberia">
+                <head>Founding of Liberia, <date when="1847">1847</date>
+                </head>
+                <p>The founding of <ref target="/countries/liberia">Liberia</ref> in the early 1800s
+                    was motivated by the domestic politics of slavery and race in the United States
+                    as well as by U.S. foreign policy interests. In 1816, a group of white Americans
+                    founded the American Colonization Society (ACS) to deal with the “problem” of
+                    the growing number of free blacks in the United States by resettling them in
+                        <placeName>Africa</placeName>. The resulting state of Liberia would become
+                    the second (after Haiti) black republic in the world at that time.</p>
+                <figure>
+                    <graphic url="roberts.jpg" height="200px" width="200px"/>
+                    <head>Joseph Jenkins Roberts, First President of Liberia</head>
+                </figure>
+                <p>Prominent Americans such as <ref target="/departmenthistory/people/clay-henry"
+                        >Henry Clay, </ref>
+                    <ref target="/departmenthistory/people/webster-daniel">Daniel Webster,</ref> and
+                        <ref target="/departmenthistory/people/randolph-john">John Randolph</ref>
+                    were among the best known members of ACS. Former President <ref
+                        target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson</ref>
+                    publicly supported the organization’s goals, and President <ref
+                        target="/departmenthistory/people/madison-james">James Madison</ref>
+                    arranged public funding for the Society. The motives for joining the society
+                    were vast as a range of people from abolitionists to slaveholders counted
+                    themselves members. On the other hand, many abolitionists, both black and white,
+                    ultimately rejected the notion that it was impossible for the races to integrate
+                    and therefore did not support the idea of an African-American colony in Africa.
+                    Still, the ACS had powerful support and its colonization project gained
+                    momentum.</p>
+                <p>In 1818 the Society sent two representatives to <placeName>West
+                        Africa</placeName> to find a suitable location for the colony, but they were
+                    unable to persuade local tribal leaders to sell any territory. In 1820, 88 free
+                    black settlers and 3 society members sailed for Sierra Leone. Before departing
+                    they had signed a constitution requiring that an agent of the Society administer
+                    the settlement under U.S. laws. They found shelter on Scherbo Island off the
+                    west coast of Africa, but many died from malaria. In 1821, a U.S. Navy vessel
+                    resumed the search for a place of permanent settlement in what is now Liberia.
+                    Once again the local leaders resisted American attempts to purchase land. This
+                    time, the Navy officer in charge, Lieutenant Robert Stockton, coerced a local
+                    ruler to sell a strip of land to the Society. The Scherbo Island group moved to
+                    this new location and other blacks from the United States joined them. The local
+                    tribes continually attacked the new colony and in 1824, the settlers built
+                    fortifications for protection. In that same year, the settlement was named
+                    Liberia and its capital Monrovia, in honor of President <ref
+                        target="/departmenthistory/people/monroe-james">James Monroe</ref> who had
+                    procured more U.S. Government money for the project.</p>
+                <figure>
+                    <graphic url="stockton.jpg" height="200px" width="200px"/>
+                    <head>Lieutenant Robert Stockton</head>
+                </figure>
+                <p>Other colonization societies sponsored by individual states purchased land and
+                    sent settlers to areas near<placeName>Monrovia</placeName>. Africans removed
+                    from slave ships by the U.S. Navy after the abolition of the trans-Atlantic
+                    slave trade were also put ashore in Liberia. In 1838 most of these settlements,
+                    with up to 20,000 people, combined into one organization. The settlers attempted
+                    to retain the culture they had brought from the United States and for the most
+                    part did not integrate with the native societies. Today, about 5 percent of the
+                    population of Liberia is descended from these settlers.</p>
+                <p>The U.S. Government had provided Liberia some financial support, but Washington
+                    expected Monrovia to move toward self-sufficiency. Commerce was the first
+                    economic sector to grow in the colony. However, French and British traders
+                    continually encroached upon Liberian territory. As it was not a sovereign state,
+                    it was hard-pressed to defend its economic interests. The U.S. Government lent
+                    some diplomatic support, but Britain and France had territories in West Africa
+                    and were better poised to act. As a result, in 1847, Liberia declared
+                    independence from the American Colonization Society in order to establish a
+                    sovereign state and create its own laws governing commerce.</p>
+                <p>Despite protests by the affected British companies, London was the first to
+                    extend recognition to the new republic, signing a treaty of commerce and
+                    friendship with <placeName>Monrovia</placeName> in 1848. Because of fears of the
+                    impact this might have on the issue of slavery in the United States, Washington
+                    did not recognize the nation it had played a role in creating. In the meantime,
+                    a mass exodus of African-Americans to Liberia never materialized. Though
+                    President <persName>Abraham Lincoln</persName> was open to promoting the idea,
+                    several abolitionists in his cabinet opposed it, some for moral considerations
+                    and others for the more practical reason of retaining sufficient labor and
+                    military forces for the future. The United States finally established diplomatic
+                    relations with Liberia in <date when="1862">1862,</date> and continued to
+                    maintain strong ties until the 1990s.</p>
+            </div>
+            <div type="section" xml:id="pacific-expansion">
+                <head> United States Maritime Expansion across the Pacific during the 19th
+                    Century</head>
+                <p>The westward expansion of the United States during the 19th century was not
+                    limited to North America, but rather included an ongoing push to establish a
+                    stronger U.S. presence in and across the Pacific Ocean. This maritime expansion,
+                    driven mostly by commerce, had important implications for U.S. foreign
+                    policy.</p>
+                <figure>
+                    <graphic url="maritimeexpansion.jpg" height="200px" width="200px"/>
+                    <head>“Flying Cloud” (James E. Buttersworth, 1859–60)</head>
+                </figure>
+                <p>The appeal of profits to be earned from the China trade served as the initial
+                    impetus to motivate U.S. citizens and officials to enter into the Pacific
+                    region. <placeName>China</placeName> was the source of some of the world’s most
+                    sought after commodities—tea, porcelain, and silk—and Western merchants had
+                    sought access to this highly lucrative trade since at least the 17th century.
+                    Following U.S. independence, U.S.-based merchants continued to seek opportunity
+                    in China. In February 1784 the Empress of China became the first ship to sail
+                    from the United States to China, and in its wake came a steady flow of merchants
+                    in search of wealth. During the first decades of the 19th century, U.S.
+                    merchants amassed sizable fortunes that they subsequently invested in the
+                    development of their homeland. As this trade grew, U.S. traders built a small
+                    outpost in China and their interactions with Chinese subjects became more
+                    complex and occasionally contentious. The U.S. Government realized that it had
+                    to establish formal diplomatic ties in order to protect the interests of its
+                    citizens. In the wake of war between Britain and China, and the subsequent
+                    opening of diplomatic relations between those two countries, the United States
+                    moved to negotiate its own treaty with the Chinese Government. The resulting
+                    agreement, <ref target="/milestones/1830-1860/china-1">the Treaty of
+                        Wangxia</ref>, was ratified in 1844, and soon thereafter U.S. ministers and
+                    consuls took up residence in China’s capital and port cities.</p>
+                <p>Making the journey to <placeName>China</placeName> and maintaining the U.S.
+                    presence there also required a network of ports extending across the Pacific
+                    Ocean, and as such, the <placeName>China</placeName> trade soon drove the United
+                    States to expand its presence throughout the Pacific region. Perhaps most
+                    significantly, when Commodore Matthew Perry sailed his ships to Japan in 1853,
+                    his primary motivation was to establish a foothold that would strengthen the
+                    U.S. position for trade and diplomacy in the region. In other words, the United
+                    States opened relations with <placeName>Japan</placeName> in large part to
+                    enhance its status in China. On a smaller scale, as U.S. merchants began to stop
+                    at many of the Pacific Islands to replenish supplies and acquire goods to trade
+                    with Chinese merchants, the U.S. Government appointed consuls to several of
+                    these places. For example, consulates were established in Fiji in 1844, Samoa in
+                    1856, and the Marshall Islands in 1881. The U.S. presence in Hawai’i grew out of
+                    the need for a substantial base of operations in the Pacific to support U.S.
+                    interests in <placeName>China</placeName>. Ultimately this need became so great,
+                    and the U.S. presence so large, that the <placeName>United States</placeName>
+                    annexed the islands in <date when="1898">1898</date>.</p>
+                <figure>
+                    <graphic url="perry.jpg" height="200px" width="200px"/>
+                    <head>Commodore Matthew Perry</head>
+                </figure>
+                <p>The process of U.S. maritime expansion in the Pacific eventually became a goal in
+                    and of itself, culminating in the acquisition of the Philippines from Spain in
+                    1898. <ref target="/milestones/1866-1898/spanish-american-war">The
+                        Spanish-American War</ref> began with a dispute over Cuba, but a rising tide
+                    of interest in overseas empire among U.S. leaders, such as President
+                        <persName>William McKinley</persName> and future President
+                        <persName>Theodore Roosevelt</persName>, helped expand the conflict to
+                    Spanish possessions in Asia. After a swift victory over Spain, the United States
+                    set up a temporary military administration to govern the islands and promote
+                    their political, economic, and social development. The <placeName>United
+                        States</placeName> established full colonial rule over the
+                        <placeName>Philippines</placeName> in <date when="1900">1900</date> during
+                    the <ref target="/milestones/1899-1913/war"> Philippine-American War</ref>.</p>
+                <p>U.S. expansion across the Pacific fundamentally changed the global position of
+                    the United States. In 1800, the United States held closely to <persName>George
+                        Washington</persName>’s advice to avoid “entangling alliances” while
+                    pursuing foreign relations based upon trade. By 1900, the United States was a
+                    recognized world power with substantial commercial, political, and military
+                    interests and territorial holdings throughout the Pacific region. Maritime
+                    expansion led to the proclamation of an <ref
+                        target="/milestones/1899-1913/hay-and-china">Open Door policy for
+                            <placeName>China</placeName>
+                    </ref> in 1899­–1900, and set the stage for much greater involvement in local
+                    and regional politics and trade during the early 20th century.</p>
+            </div>
+            <div type="section" xml:id="gadsden-purchase">
+                <head>Gadsden Purchase, <date from="1853" to="1854">1853–1854</date>
+                </head>
+                <p>The Gadsden Purchase, or Treaty, was an agreement between the <placeName>United
+                        States</placeName> and <placeName>Mexico</placeName>, finalized in 1854, in
+                    which the United States agreed to pay Mexico $10 million for a 29,670 square
+                    mile portion of Mexico that later became part of <placeName>Arizona</placeName>
+                    and <placeName>New Mexico</placeName>. Gadsden’s Purchase provided the land
+                    necessary for a southern transcontinental railroad and attempted to resolve
+                    conflicts that lingered after the <ref
+                        target="/milestones/1830-1860/texas-annexation">Mexican-American
+                    War</ref>.</p>
+                <figure>
+                    <graphic url="gadsdenpurchase.jpg" height="258px" width="450px"/>
+                    <head>Map Depicting the Gadsden Purchase</head>
+                </figure>
+                <p>While the Treaty of Guadalupe Hidalgo formally ended the Mexican-American War in
+                        <date when="1848-02">February 1848</date>, tensions between the Governments
+                    of Mexico and the United States continued to simmer over the next six years. The
+                    two countries each claimed the Mesilla Valley as part of their own country. The
+                    Mexican Government demanded monetary compensation for Native American attacks in
+                    the region because, under the Treaty, the United States had agreed to protect
+                    Mexico from such attacks; however, the United States refused to comply,
+                    insisting that while they had agreed to protect Mexico from Native American
+                    attacks, they had not agreed to financially compensate for attacks that did
+                    occur. The persistent efforts of private American citizens to enter Mexico
+                    illegally and incite rebellions in an effort to gain territory exacerbated
+                    tensions between the governments.</p>
+                <p>These continuing tensions between Mexico and the United States complicated U.S.
+                    efforts to find a southern route for a transcontinental railroad as the only
+                    viable routes passed through Mexican territory. In 1847, the United States
+                    attempted to buy the Isthmus of Tehuantepec, an isthmus on the southern edge of
+                    North America, as an alternative means of providing a southern connection
+                    between the Atlantic and Pacific oceans. Mexico, however, had already granted
+                    Mexican Don <persName>José de Garay</persName> the right to build colonies for
+                    Americans on the isthmus with capital from the New Orleans Company. Fearing the
+                    colonists would rebel as those in Texas had, Mexican President Juan Ceballos
+                    revoked the grant, angering U.S. investors.</p>
+                <p>In 1853, Mexican officials evicted Americans from their property in the disputed
+                    Mesilla Valley. When the U.S. Government did not act, Governor William Lane of
+                    New Mexico declared the Mesilla Valley part of the U.S. territory of New Mexico.
+                    Mexican President <persName>Antonio de Santa Anna</persName> responded by
+                    sending troops into the valley. Attempting to defuse the situation, U.S.
+                    President Franklin Pierce sent <ref
+                        target="/departmenthistory/people/gadsden-james">James Gadsden</ref>, the
+                    new U.S. Minister to Mexico, to negotiate with Santa Anna. Secretary of State
+                        <ref target="/departmenthistory/people/marcy-william-learned">William
+                        Marcy</ref> instructed Gadsden to renegotiate a border that provided a route
+                    for a southern railroad, arrange for a release of U.S. financial obligations for
+                    Native American attacks, and settle the monetary claims between the countries
+                    related to the Garay project.</p>
+                <figure>
+                    <graphic url="santanna.jpg" height="200px" width="200px"/>
+                    <head>Mexican President Antonio de Santa Anna</head>
+                </figure>
+                <p>Gadsden met with Santa Anna on September 25, 1853. President
+                        <persName>Pierce</persName> sent verbal instructions for Gadsden through
+                    Christopher Ward, an agent for U.S. investors in the Garay project, giving
+                    Gadsden negotiating options ranging from $50 million for lower California and a
+                    large portion of northern Mexico to $15 million for a smaller land deal that
+                    would still provide for a southern railroad. Ward also lied to Gadsden, stating
+                    the President wanted the claims of the Garay party addressed in any treaty
+                    concluded with the Mexican Government; however, President Pierce never gave Ward
+                    these instructions because he did not believe in government involvement in
+                    affairs between private companies and foreign governments. Santa Anna refused to
+                    sell a large portion of Mexico, but he needed money to fund an army to put down
+                    ongoing rebellions, so on December 30, 1853 he and Gadsden signed a treaty
+                    stipulating that the United States would pay $15 million for 45,000 square miles
+                    south of the New Mexico territory and assume private American claims, including
+                    those related to the Garay deal. The United States Government agreed to work
+                    toward preventing American raids along Mexico’s border and
+                        <placeName>Mexico</placeName> voided U.S. responsibility for Native American
+                    attacks.</p>
+                <p>With a great deal of difficulty resulting from the increasing strife between the
+                    northern and southern states, the U.S. Senate ratified a revised treaty on April
+                    25, 1854. The new treaty reduced the amount paid to Mexico to $10 million and
+                    the land purchased to 29,670 square miles, and removed any mention of Native
+                    American attacks and private claims. President Pierce signed the treaty and
+                    Gadsden presented the new treaty to Santa Anna, who signed it on June 8,
+                    1854.</p>
+                <p>After Gadsden’s Purchase a new border dispute caused tension over the United
+                    States’ payment, and the treaty failed to resolve the issues surrounding
+                    financial claims and border attacks. However, it did create the southern border
+                    of the present-day United States, despite the beliefs of the vast majority of
+                    policymakers at the time who thought the United States would eventually expand
+                    further into Mexico.</p>
+            </div>
+            <div type="section" xml:id="opening-to-japan">
+                <head>The United States and the Opening to Japan, <date when="1853">1853</date>
+                </head>
+                <p>On July 8, 1853, American Commodore <persName>Matthew Perry</persName> led his
+                    four ships into the harbor at <placeName>Tokyo Bay</placeName>, seeking to
+                    re-establish for the first time in over 200 years regular trade and discourse
+                    between Japan and the western world.</p>
+                <figure>
+                    <graphic url="perry.jpg" height="200px" width="200px"/>
+                    <head>Commodore Matthew Perry</head>
+                </figure>
+                <p>Although he is often credited with opening <placeName>Japan</placeName> to the
+                    western world, Perry was not the first westerner to visit the islands.
+                    Portuguese, Spanish, and Dutch traders engaged in regular trade with Japan in
+                    the 16th and 17th centuries. Persistent attempts by the Europeans to convert the
+                    Japanese to Catholicism and their tendency to engage in unfair trading practices
+                    led Japan to expel most foreigners in 1639. For the two centuries that followed,
+                        <placeName>Japan</placeName> limited trade access to Dutch and Chinese ships
+                    with special charters.</p>
+                <p>There were several reasons why the United States became interested in
+                    revitalizing contact between <placeName>Japan</placeName> and the West in the
+                    mid-19th century. First, the combination of the opening of Chinese ports to
+                    regular trade and the annexation of California, creating an American port on the
+                    Pacific, ensured that there would be a steady stream of maritime traffic between
+                    North America and Asia. Then, as American traders in the Pacific replaced
+                    sailing ships with steam ships, they needed to secure coaling stations, where
+                    they could stop to take on provisions and fuel while making the long trip from
+                    the United States to China. The combination of its advantageous geographic
+                    position and rumors that Japan held vast deposits of coal increased the appeal
+                    of establishing commercial and diplomatic contacts with the Japanese.
+                    Additionally, the American whaling industry had pushed into the North Pacific by
+                    the mid-18th century, and sought safe harbors, assistance in case of shipwrecks,
+                    and reliable supply stations. In the years leading up to the Perry mission, a
+                    number of American sailors found themselves shipwrecked and stranded on Japanese
+                    shores, and tales of their mistreatment at the hands of the unwelcoming Japanese
+                    spread through the merchant community and across the United States.</p>
+                <p>The same combination of economic considerations and belief in Manifest Destiny
+                    that motivated U.S. expansion across the North American continent also drove
+                    American merchants and missionaries to journey across the Pacific. At the time,
+                    many Americans believed that they had a special responsibility to modernize and
+                    civilize the Chinese and Japanese. In the case of Japan, missionaries felt that
+                    Protestant Christianity would be accepted where Catholicism had generally been
+                    rejected. Other Americans argued that, even if the Japanese were unreceptive to
+                    Western ideals, forcing them to interact and trade with the world was a
+                    necessity that would ultimately benefit both nations.</p>
+                <p>Commodore Perry’s mission was not the first American overture to the Japanese. In
+                    the 1830s, the Far Eastern squadron of the U.S. Navy sent several missions from
+                    its regional base in Guangzhou (Canton), China, but in each case, the Japanese
+                    did not permit them to land, and they lacked the authority from the U.S.
+                    Government to force the issue. In 1851, President <persName>Millard
+                        Fillmore</persName> authorized a formal naval expedition to Japan to return
+                    shipwrecked Japanese sailors and request that Americans stranded in Japan be
+                    returned to the United States. He sent Commodore John Aulick to accomplish these
+                    tasks, but before Aulick left Guangzhou for Japan, he was relieved of his post
+                    and replaced by Commodore Matthew Perry. A lifetime naval officer, Perry had
+                    distinguished himself in the Mexican-American War and was instrumental in
+                    promoting the United States Navy’s conversion to steam power.</p>
+                <p>Perry first sailed to the Ryukyus and the Bonin Islands southwest and southeast
+                    of the main Japanese islands, claiming territory for the United States, and
+                    demanding that the people in both places assist him. He then sailed north to Edo
+                    (Tokyo) Bay, carrying a letter from the U.S. President addressed to the Emperor
+                    of Japan. By addressing the letter to the Emperor, the United States
+                    demonstrated its lack of knowledge about the Japanese government and society. At
+                    that time, the Japanese emperor was little more than a figurehead, and the true
+                    leadership of Japan was in the hands of the Tokugawa Shogunate.</p>
+                <p>Perry arrived in Japanese waters with a small squadron of U.S. Navy ships,
+                    because he and others believed the only way to convince the Japanese to accept
+                    western trade was to display a willingness to use its advanced firepower. At the
+                    same time, Perry brought along a variety of gifts for the Japanese Emperor,
+                    including a working model of a steam locomotive, a telescope, a telegraph, and a
+                    variety of wines and liquors from the West, all intended to impress upon the
+                    Japanese the superiority of Western culture. His mission was to complete an
+                    agreement with the Japanese Government for the protection of shipwrecked or
+                    stranded Americans and to open one or more ports for supplies and refueling.
+                    Displaying his audacity and readiness to use force, Perry’s approach into the
+                    forbidden waters around Tokyo convinced the Japanese authorities to accept the
+                    letter.</p>
+                <p>The following spring, Perry returned with an even larger squadron to receive
+                    Japan’s answer. The Japanese grudgingly agreed to Perry’s demands, and the two
+                    sides signed the Treaty of Kanagawa on March 31, 1854. According to the terms of
+                    the treaty, <placeName>Japan</placeName> would protect stranded seamen and open
+                    two ports for refueling and provisioning American ships: Shimoda and Hakodate.
+                    Japan also gave the United States the right to appoint consuls to live in these
+                    port cities, a privilege not previously granted to foreign nations. This treaty
+                    was not a commercial treaty, and it did not guarantee the right to trade with
+                    Japan. Still, in addition to providing for distressed American ships in Japanese
+                    waters, it contained a most-favored-nation clause, so that all future
+                    concessions Japan granted to other foreign powers would also be granted to the
+                    United States. As a result, Perry’s treaty provided an opening that would allow
+                    future American contact and trade with <placeName>Japan</placeName>.</p>
+                <figure>
+                    <graphic url="harris.jpg" height="200px" width="200px"/>
+                    <head>Townsend Harris</head>
+                </figure>
+                <p>The first U.S. consul assigned to a Japanese port was <ref
+                        target="/departmenthistory/people/harris-townsend">Townsend Harris</ref>.
+                    Like many of the early consuls in Asia, Harris was a New York merchant dealing
+                    with Chinese imports. He arrived in Shimoda in 1856, but, lacking the navy
+                    squadron that strengthened Perry’s bargaining position, it took Harris far
+                    longer to convince the Japanese to sign a more extended treaty. Ultimately,
+                    Japanese officials learned of how the British used military action to compel the
+                    opening to China, and decided that it was better to open its doors willingly
+                    than to be forced to do so. The United States and Japan signed their first true
+                    commercial treaty, sometimes called the Harris Treaty, in 1858. The European
+                    powers soon followed the U.S. example and drew up their own treaties with Japan.
+                        <placeName>Japan</placeName> sent its first mission to the West in 1860,
+                    when Japanese delegates journeyed to the United States to exchange the ratified
+                    Harris Treaty.</p>
+                <p>Although <placeName>Japan</placeName> opened its ports to modern trade only
+                    reluctantly, once it did, it took advantage of the new access to modern
+                    technological developments. <placeName>Japan</placeName>’s opening to the West
+                    enabled it to modernize its military, and to rise quickly to the position of the
+                    most formidable Asian power in the Pacific. At the same time, the process by
+                    which the United States and the Western powers forced Japan into modern
+                    commercial intercourse, along with other internal factors, weakened the position
+                    of the Tokugawa Shogunate to the point that the shogun fell from power. The
+                    Emperor gained formal control of the country in the Meiji Restoration of 1868,
+                    with long-term effects for the rule and modernization of
+                        <placeName>Japan</placeName>.</p>
+            </div>
+            <div type="section" xml:id="china-2">
+                <head>The Opening to China Part II: the Second Opium War, the United States, and the
+                    Treaty of Tianjin, <date from="1857" to="1859">1857–1859</date>
+                </head>
+                <p>Following the <ref target="/milestones/1830-1860/china-1">First Opium War in the
+                        1840s</ref>, the Western powers concluded a series of treaties with
+                        <placeName>China</placeName> in an effort to open its lucrative markets to
+                    Western trade. In the 1850s, the United States and the European powers grew
+                    increasingly dissatisfied with both the terms of their treaties with China and
+                    the Qing Government’s failure to adhere to them. The British forced the issue by
+                    attacking the Chinese port cities of <placeName>Guangzhou</placeName> and
+                        <placeName>Tianjin</placeName> in the Second Opium War. Under the
+                    most-favored-nation clause contained in the existing treaties, all of the
+                    foreign powers operating in China were permitted to seek the same concessions of
+                    China that Great Britain achieved by force. As a result, France, Russia, and the
+                    United States all signed treaties with China at Tianjin in quick succession in
+                    1858.</p>
+                <figure>
+                    <graphic url="princegong.jpg" height="200px" width="200px"/>
+                    <head>Prince Gong, 1860 (Felice Beato, photographer)</head>
+                </figure>
+                <p>These treaties granted the Western powers a number of rights and privileges. The
+                    number of treaty ports increased, with new ports opened to Western trade along
+                    the Chinese coast, on the islands of <placeName>Taiwan</placeName> and
+                        <placeName>Hainan</placeName>, and along the <placeName>Yangtze
+                        River</placeName> in the interior. With the opening of the Yangtze River,
+                    foreigners also gained full access to the interior, and were free to travel and
+                    conduct business or missions anywhere in China. The British demanded the right
+                    of Chinese citizens to emigrate on British ships. British (and therefore,
+                    French, American and Russian) diplomats were permitted to establish legations
+                    and live in Beijing. The agreements reached at Tianjin also set a new, low
+                    tariff for imported goods, giving foreign traders an important advantage.
+                    Frustrated by irregularities in Chinese customs services, British and U.S.
+                    merchants finally established the Imperial Maritime Customs Service, which
+                    regulated trade for the benefit of foreign merchants and provided a steady
+                    source of revenue to the Chinese Government.</p>
+                <p>Although the Chinese signed the treaties in 1858, it took two more years of
+                    fighting before the Chinese Government was disposed to ratify them and accept
+                    the terms. Noticing Chinese resistance to some of the principle clauses, in
+                    particular to the residence of foreign ambassadors in Beijing, the British
+                    continued their attacks on Chinese forts. Although the Chinese repulsed an
+                    attack on the Dagu forts in 1859, that one victory was not enough to stop the
+                    British forces from making their way north to Beijing. Joined by French forces,
+                    the British entered the city and burned the Summer Palace in the northwestern
+                    periphery, but spared the Forbidden City, home of the Chinese emperor.</p>
+                <p>While the British and French used military power to convince China to accept the
+                    new treaty agreements, U.S. diplomat John Ward sought, and finally achieved
+                    through diplomatic negotiations, an exchange of treaty ratifications in 1859.
+                    Under the most-favored-nation clause, the U.S. ratification allowed the other
+                    powers to take advantage of the treaty provisions of the Treaty of Tianjin
+                    secured by American diplomacy.</p>
+                <p>The agreements reached between the Western powers and China following the Opium
+                    Wars came to be known as the “unequal treaties” because in practice they gave
+                    foreigners privileged status and extracted concessions from the Chinese.
+                    Ironically, the Qing Government had fully supported the clauses on
+                    extraterritoriality and most-favored nation status in the first treaties in
+                    order to keep the foreigners in line. This treaty system also marked a new
+                    direction for Chinese contact with the outside world. For years, the Chinese had
+                    conducted their foreign policy through the tribute system, in which foreign
+                    powers wishing to trade with China were required first to bring a tribute to the
+                    emperor, acknowledging the superiority of Chinese culture and the ultimate
+                    authority of the Chinese ruler. Unlike China’s neighbors, the European powers
+                    ultimately refused to make these acknowledgements in order to trade, and they
+                    demanded instead that China adhere to Western diplomatic practices, such as the
+                    creation of treaties. Although the unequal treaties and the use of the
+                    most-favored-nation clause were effective in creating and maintaining open trade
+                    with China, both were also important factors in building animosity and
+                    resentment toward Western imperialism.</p>
+            </div>
+            <div type="section" xml:id="territorial-expansion">
+                <head>Territorial Expansion, Filibustering, and U.S. Interest in Central America and
+                    Cuba, <date from="1849" to="1861">1849–1861</date>
+                </head>
+                <p>During the years between the <ref target="/milestones/1830-1860/texas-annexation"
+                        >Mexican-American War</ref> and the Civil War, the United States became
+                    increasingly involved in <placeName>Central America</placeName> and the
+                    Caribbean. While U.S. Government officials attempted to acquire territorial
+                    possessions in that region, private citizens (known as “filibusterers”) also
+                    organized armed expeditions to various places in Mexico, Central America, and
+                    Cuba. Filibustering and official U.S. diplomacy were equally unsuccessful in
+                    acquiring permanent and significant territorial gains, and also tended to incite
+                    local antagonism against U.S. actions in the region.</p>
+                <figure>
+                    <graphic url="presidentfillmore.jpg" height="200px" width="200px"/>
+                    <head>President Millard Fillmore</head>
+                </figure>
+                <p>After the territorial acquisitions of the 1840s, the idea of additional
+                    territorial expansion remained popular with the U.S. public, as did the idea of
+                    spreading republican government. Many pro-slavery Southerners sought to expand
+                    southwards, allowing for more territory where slavery could continue to grow and
+                    expand. Some even imagined the United States as a great slave-owning republic
+                    that would stretch across the Caribbean to Brazil.</p>
+                <p>These expansionist dreams were aided at first by a Venezuelan-born resident of
+                    Cuba, <persName>Narciso López</persName>, who, like some wealthy Cuban
+                    slave-owners, was wary of shaky Spanish rule over the island, and thus sought to
+                    have it annexed by the United States in order to ensure slavery’s preservation
+                    in Cuba. Cuban property owners were concerned that Spain would give in to
+                    British pressure to abolish slavery in Cuba. López organized several failed
+                    expeditions to liberate Cuba from Spanish rule, the last resulting in his
+                    capture and execution in <placeName>Havana</placeName> in 1851. The American
+                    public condemned Spanish actions, especially López’s execution without trial,
+                    but U.S. President Millard Fillmore did not issue a denunciation. Public anger
+                    against Fillmore’s seemingly lukewarm support for expansion contributed to a
+                    Whig defeat in 1852.</p>
+                <p>In an attempt to mollify the Democratic Party’s staunch proslavery wing, the new
+                    President, <persName>Franklin Pierce</persName>, appointed the proslavery
+                    politician Pierre Soulé as Minister to Spain in 1853. However, Soulé did not
+                    possess a personality well-suited to tactful diplomacy. During his appointment,
+                    Soulé disregarded his instructions to preserve Spanish sovereignty and delivered
+                    an unauthorized ultimatum to the Spanish Government regarding a seized U.S.
+                    merchant ship. Soulé also wounded the French Ambassador in a duel and began to
+                    associate with Spanish revolutionaries planning to overthrow the government. In
+                    1854, Soulé met with other U.S. Ministers to draft a document known as the
+                    Ostend Manifesto, which outlined U.S. reasons for attempting to purchase Cuba
+                    from Spain. Once the documents were publicly released, they proved embarrassing
+                    for the Pierce Administration, and U.S. Secretary of State <ref
+                        target="/departmenthistory/people/marcy-william-learned">William Marcy</ref>
+                    implied that Soulé had instigated the meeting. In the meantime, the Spanish
+                    Government began to take countermeasures against U.S. interest in Cuba. The
+                    Spanish Minister to the United States, Angel Calderón de la Barca, gathered
+                    intelligence on planned filibustering expeditions to Cuba. In Cuba, officials
+                    took steps to free slaves who had arrived on the island after 1835 and planned
+                    to organize a free black militia that would oppose any proslavery invaders.
+                    Growing antislavery sentiment in the northern United States and Spanish
+                    determination to hold on to Cuba eventually forced U.S. leaders to end attempts
+                    to acquire the island.</p>
+                <figure>
+                    <graphic url="pierce-franklin.jpg" height="200px" width="200px"/>
+                    <head>President Franklin Pierce</head>
+                </figure>
+                <p>However, as <placeName>Cuba</placeName> receded from controversy, filibustering
+                    again gained attention in Nicaragua. American William Walker, who had led a
+                    failed filibustering expedition to Baja California in 1853, launched an
+                    expedition to <placeName>Nicaragua</placeName> in 1855. Allying himself at first
+                    with the Liberal faction in Nicaraguan politics, he eliminated his local rivals
+                    and became president in 1856. However, Walker’s policies hurt British business
+                    interests, as well as those of American tycoon <persName>Cornelius
+                        Vanderbilt</persName>. Walker also alienated his Nicaraguan Liberal allies,
+                    and his regime caused growing anti-American sentiment elsewhere in Central
+                    America. These factors eventually led to Walker’s downfall in 1857, despite his
+                    attempts to secure proslavery support by re-legalizing slavery in the Central
+                    American country. Walker attempted a re-conquest of Nicaragua in 1860, but was
+                    captured and executed.</p>
+                <p>Overall, official U.S. policy toward filibusterers was one of initial lenience
+                    driven by popular support. However, U.S. officials ultimately did take steps to
+                    curb filibusterers’ actions once they proved embarrassing to U.S. diplomatic
+                    relations. Despite this official ambivalence toward these filibusterers, U.S.
+                    leaders often protested the lack of due process by which foreign governments
+                    imprisoned and executed U.S. citizens involved in filibustering. Overall,
+                    filibustering and U.S. policies seem to have hindered more than helped U.S.
+                    attempts at territorial expansion in this time period. The Gadsden Purchase was
+                    the only official territorial acquisition during the 1850s. Filibustering tended
+                    to encourage local hostility to U.S. expansion and spread international
+                    resistance to growing U.S. power. U.S. expansion in the later 1850s was also
+                    hindered by domestic sectional tensions over slavery.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

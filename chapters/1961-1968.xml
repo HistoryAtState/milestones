@@ -1,0 +1,1305 @@
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1961–1968</title>
+                <title type="short">1961–1968</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31"
+                    target="#foreword #laos-crisis #pl-480 #bay-of-pigs #cuban-missile-crisis #arab-israeli-war-1967"
+                />
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword"
+                ana="kennedy-john-f johnson-lyndon-b laos vietnam russia cuba dominican-republic panama">
+                <head>
+                    <date from="1961" to="1968">1961–1968</date>: The Presidencies of John F.
+                    Kennedy and Lyndon B. Johnson</head>
+                <p>President <persName>John F. Kennedy</persName> assumed office on January 20,
+                    1961, following an eight-year career in the Senate. The first Catholic
+                    president, Kennedy was also the second youngest to ever serve in the office. In
+                    his inaugural address, Kennedy proclaimed “Let every nation know, whether it
+                    wishes us well or ill, that we shall pay any price, bear any burden, meet any
+                    hardship, support any friend, oppose any foe, in order to assure the survival
+                    and the success of liberty.” Kennedy came into the presidency determined to
+                    reenergize the foreign policy establishment. To that end, he assembled a team of
+                    young White House and National Security Council advisers—the so-called “best and
+                    the brightest”—which included <persName>McGeorge Bundy</persName>,
+                        <persName>Walt Rostow</persName>, <persName>Ted Sorensen</persName> and
+                        <persName>Arthur Schlesinger, Jr.</persName>
+                </p>
+                <figure>
+                    <graphic url="kennedy-johnson.jpg" height="450px" width="356px"/>
+                    <head>President John F. Kennedy and Vice President Lyndon B. Johnson at
+                        Legislative Leaders Meeting, February 7, 1961. (Abbie Rowe. White House
+                        Photographs. John F. Kennedy Presidential Library and Museum, Boston)</head>
+                </figure>
+                <p>Kennedy selected <persName>Dean Rusk</persName>, a taciturn Southerner and
+                    president of the Rockefeller Foundation, as his Secretary of State. Respected
+                    within foreign policy circles, Rusk had served in several positions at the
+                    Department of State, including Deputy Under Secretary of State and Assistant
+                    Secretary of State for East Asian and Pacific Affairs. Rusk believed that the
+                    Secretary of State served at the pleasure of the President and thus did not seek
+                    control of foreign policy. Kennedy selected <persName>Robert S.
+                        McNamara</persName>, the president of Ford Motor Company, as his Secretary
+                    of Defense. Harvard dean McGeorge Bundy served as his National Security Adviser.
+                    The Director of the Central Intelligence Agency, <persName>Allen W.
+                        Dulles</persName>, continued in that position, which he had held since
+                    1953.</p>
+                <p>The Kennedy administration inherited the containment doctrine of the 1940s and
+                    1950s, and maintained the belief that Communism was a threat to the United
+                    States. However, the brinksmanship of the Eisenhower era seemed archaic to the
+                    Kennedy idealists in their new international vision. Kennedy implemented the
+                    “flexible response” defense strategy, one that relied on multiple options for
+                    responding to the Soviet Union, discouraged massive retaliation, and encouraged
+                    mutual deterrence.</p>
+                <p>In April 1961, a short few months into his administration, Kennedy authorized a
+                    clandestine invasion of Cuba by a brigade of Cuban exiles. The CIA covert
+                    operation had been formulated and approved under President Eisenhower. Relying
+                    on faulty intelligence, the operation collapsed in two days with the defeat and
+                    capture of anti-Castro forces at the Bay of Pigs. The spectacular failure of
+                    this Cold War confrontation was a setback for Kennedy, and one he became
+                    determined to overcome. Though he took full responsibility for the failed
+                    operation, the CIA’s reputation was tarnished and Kennedy soon replaced DCI
+                    Allen W. Dulles with <persName>John A. McCone</persName>. Similarly, the Bay of
+                    Pigs fiasco affected Kennedy’s respect for the advice of the Joint Chiefs of
+                    Staff, placing a strain on the civil-military relationship that would remain
+                    under stress throughout the administration. McNamara’s management reforms in the
+                    Pentagon, the administration’s focus on counterinsurgency warfare, and finally
+                    the policy toward the war in Vietnam all found the uniformed military leadership
+                    in disagreement with the administration.</p>
+                <p>Tensions with the Soviet Union dominated U.S. foreign policy. Kennedy first met
+                    formally with Soviet Premier <persName>Nikita Khrushche</persName>v in June 1961
+                    at the Vienna Summit to discuss Berlin, Laos, and disarmament. Ailing and
+                    unprepared, Kennedy came across as an inexperienced adversary to his Russian
+                    counterpart. The two continued a series of both formal and public exchanges as
+                    well as more informal and very confidential exchanges—the “pen pal”
+                    correspondence. The channel was intended to give the two men a chance to
+                    informally exchange ideas under the heightened pressure of the Cold War. Still,
+                    the construction of the Berlin Wall in late 1961 and the military standoff
+                    between U.S. and Soviet troops there kept both nations on high alert.</p>
+                <p>The Cold War reached a frightening apex when in late 1962 the Soviet Union gave
+                    the Cuban Government medium-range ballistic missiles to defend against another
+                    U.S. invasion. American intelligence photographed Cuban missile sites, leading
+                    to a naval blockade and quarantine of Cuba. The tense thirteen days of the Cuban
+                    Missile Crisis tested the mettle of the Kennedy administration and his team of
+                    trusted advisers. Khrushchev agreed to remove the missiles, averting nuclear
+                    war, but resolving little between the two nations.</p>
+                <p>Kennedy avoided war in Laos, rejecting a military proposal to send American
+                    troops to fend off a communist insurgency there. However, he authorized sending
+                    troops and military advisers to the U.S.-backed nation of South Vietnam and
+                    steadily increased their numbers throughout his presidency. The administration
+                    was determined not to lose either the nation of South Vietnam or the broader
+                    region of Southeast Asia to communism, cementing its military commitment to
+                    Vietnam.</p>
+                <p>Kennedy’s assassination in November 1963 brought his Vice President,
+                        <persName>Lyndon B. Johnson</persName> to the presidency. Dean Rusk
+                    continued to serve as Secretary of State and stressed to the new President the
+                    necessity of continuity in foreign policy. President Johnson vowed to the nation
+                    that it would keep its commitments “from South Vietnam to West Berlin.” Johnson
+                    retained Kennedy’s close group of advisers and the National Security Council
+                    under Bundy continued to prove vital to foreign policy decision-making. Walt
+                    Rostow replaced Bundy as National Security Advisor in 1966.</p>
+                <p>President Johnson continued the U.S. military commitment to South Vietnam.
+                    Escalation followed with the August 1964 Gulf of Tonkin Resolution, which
+                    authorized Johnson to take any measures he believed were necessary to retaliate
+                    and to promote the maintenance of international peace and security in southeast
+                    Asia. Johnson won the landslide election shortly after. In early 1965, the U.S.
+                    military launched Operation Rolling Thunder, a bombing campaign against the
+                    North. Shortly after, Johnson introduced U.S. ground combat forces with the
+                    landing of Marines at Danang. By 1967, nearly 500,000 troops were in Vietnam.
+                    Following the Tet Offensive in 1968 and facing dwindling
+                    public support for the war, Johnson announced that he would not seek a second
+                    term as President.</p>
+                <p>Though preoccupied with Vietnam, the Johnson administration faced challenges
+                    elsewhere. In Latin America, riots in Panama in 1964 led to concessions that
+                    still preserved U.S. control of the Panama Canal. In an unpopular move, Johnson
+                    sent troops to the Dominican Republic in 1965 to intervene in their civil war
+                    and prevent another Cuba. Tensions flared in the Middle East in 1967 during the
+                    Arab-Israeli War. Johnson warned that the United States would oppose aggression
+                    by any state in the area but encouraged diplomatic negotiations. In 1968, the
+                    administration faced another major crisis when the Soviet Union led Warsaw Pact
+                    troops in an invasion of Czechoslovakia. The Soviet crackdown tested détente,
+                    but both powers avoided confrontation. Following the election of Republican
+                    Richard M. Nixon, Johnson left office on January 20, 1969.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="laos-crisis"
+                ana="kennedy-john-f rusk-david-dean laos thailand vietnam">
+                <head>The Laos Crisis, 1960–1963</head>
+                <p>The first foreign policy crisis faced by President-elect <persName>John F.
+                        Kennedy</persName> was not centered in Berlin, nor in Cuba, nor in the
+                    islands off the Chinese mainland, nor in Vietnam, nor in any of the better-known
+                    hot spots of the Cold War, but in landlocked, poverty stricken Laos. This was
+                    the major issue Kennedy and his foreign policy team—Secretary of State
+                        <persName>Dean Rusk</persName>, Secretary of Defense <persName>Robert S.
+                        McNamara</persName>, and National Security Advisor <persName>McGeorge
+                        Bundy</persName>—focused on during the days leading up to Kennedy’s
+                    inauguration on January 20, 1961.</p>
+                <figure>
+                    <graphic url="laotian-crisis.jpg" height="450px" width="352px"/>
+                    <head>President Kennedy meets with Ambassador at Large Averell Harriman in the
+                        Oval Office, March 29, 1961. (Abbie Rowe. White House Photographs. John F.
+                        Kennedy Presidential Library and Museum, Boston) </head>
+                </figure>
+                <p>Kennedy met with President Eisenhower the day before his inauguration with two
+                    goals in mind. He expected the meeting to “serve a specific purpose in
+                    reassuring the public as to the harmony of the transition. Therefore
+                    strengthening our hand.” His substantive focus was on Laos. “I was anxious,” he
+                    recounted to his secretary, “to get some commitment from the outgoing
+                    administration as to how they would deal with Laos which they were handing to
+                    us. I thought particularly it would be useful to have some idea as to how
+                    prepared they were for intervention.”</p>
+                <p>The Eisenhower administration was leaving Kennedy a confused, complex, and
+                    intractable situation. Laos was a victim of geography: a RAND study of the
+                    period summarized the nation as “Hardly a nation except in the legal sense, Laos
+                    lacked the ability to defend its recent independence. Its economy was
+                    undeveloped, its administrative capacity primitive, its population divided both
+                    ethnically and regionally, and its elite disunited, corrupt, and unfit to lead.”
+                    But this surpassingly weak state was the “cork in the bottle,” as Eisenhower
+                    summarized in his meeting with Kennedy; the outgoing President expected its loss
+                    to be “the beginning of the loss of most of the Far East.”</p>
+                <p>The Eisenhower administration had worked for years to create a strong
+                    anti-Communist bastion in Laos, a bulwark against Communist China and North
+                    Vietnam. While attractive on a map, this strategy was completely at odds with
+                    the characteristics of the Laotian state and people. By 1961, Laos was
+                    fragmented politically, with three factions vying for control. The United States
+                    had thrown its support behind General Nosavan Phoumi, whose forces were engaged
+                    in combat with a neutralist force under Kong Le. Soviet aircraft were conducting
+                    resupply missions for Kong Le’s forces. Neutralist leader and former Prime
+                    Minister Souvanna Phouma had gone into exile in Cambodia, but remained
+                    influential and active in Laotian politics. His half-brother, Souphanouverong,
+                    led the Communist-dominated Pathet Lao, which had established control over an
+                    extensive area along the Laos-North Vietnam border. Phoumi’s forces had little
+                    popular support, had proven ineffective in combat, and appeared to be well on
+                    their way to a military defeat.</p>
+                <p>The Eisenhower administration had led the creation of the Southeast Asia Treaty
+                    Organization for precisely this sort of contingency. In this first major test,
+                    however, the United States was unable to secure the alliance’s support for
+                    intervention. Its major European powers, Great Britain and France, considered
+                    Phoumi an illegitimate ruler and supported Souvanna Phouma; they were adamantly
+                    opposed to taking military action in Laos. An interagency analysis prepared in
+                    January 1961 summarized, “Since SEATO was created to act in circumstances such
+                    as that now existing in Laos but has not acted, it casts doubt not only on its
+                    own credibility but on the reliability of the United States as its originator .
+                    . . SEATO becomes a means by which restraint is imposed on us by our allies.” As
+                    the Eisenhower administration reached its final days, the United States was
+                    faced with the prospect of unilateral military intervention in a desperate
+                    attempt to salvage the situation. Beyond the vast logistics issues associated
+                    with intervention, the insertion of U.S. forces raised the substantial risk of a
+                    U.S.-Soviet military confrontation.</p>
+                <p>Kennedy faced a choice between two unpromising strategies: pursue a military
+                    solution, very likely demanding a unilateral intervention by U.S. forces; or
+                    adapt a major shift in policy, seeking a cease-fire and a neutralization of
+                    Laos. He rejected the military option, though he encouraged an offensive by
+                    Phoumi designed to strengthen his negotiating position. It failed abjectly.
+                    Kennedy opened his press conference on March 23, 1961, with an extended
+                    discussion of Laos, calling for an end to hostilities and negotiations leading
+                    to a neutralized and independent Laos. The Pathet Lao accepted the ceasefire
+                    offer on May 3. This delay gave the North Vietnamese Army (NVA) the time to
+                    conduct an offensive in southern Laos, capturing the crossroad village of
+                    Tchepone and the terrain necessary to extend the Ho Chi Minh Trail to the
+                    western side of the Annamite Mountains on the border between Laos and South
+                    Vietnam. Laos was a major topic at the Vienna Summit on June 4, with Kennedy and
+                    Soviet Premier Nikita Khruschev agreeing on a common goal of a ceasefire,
+                    neutrality, and a coalition government; as Khruschev summarized, “the basic
+                    question is to bring about agreement among the three forces in Laos, so that the
+                    formation of a truly neutral government could be secured.” Kennedy considered
+                    Laos a test case for the prospects of U.S.-Soviet cooperation, in areas where
+                    the superpowers could reach common objectives and avoid confrontation.</p>
+                <p>Kennedy appointed <persName>W. Averell Harriman</persName> as Ambassador at Large
+                    in the first days of his administration, and then formalized Harriman’s policy
+                    role in appointing him Assistant Secretary of State for Far Eastern Affairs the
+                    following November. Harriman took the lead in orchestrating American policy
+                    toward Laos as an international conference on Laos convened in Geneva on May 16.
+                    The fourteen nations involved included the U.S.S.R., Laos, People’s Republic of
+                    China, North Vietnam, South Vietnam, Poland, the United States, France, the
+                    United Kingdom, India, Burma, Cambodia, Canada, and Thailand. Meanwhile the
+                    three Laotian factions conducted negotiations on the composition of a coalition
+                    government. By the following March Harriman had become disenchanted with Phoumi,
+                    and decisively shifted American policy toward a coalition government led by
+                    Souvanna Phouma. The Laotian groups reached agreement on the composition of the
+                    coalition government on June 12, 1962, and the Geneva conference reached
+                    agreement on the Declaration on the Neutrality of Laos on July 23.</p>
+                <p>These agreements provided for a coalition government in Laos under
+                        <persName>Souvanna Phouma</persName>, with cabinet positions distributed
+                    among the three factions. The Declaration on the Neutrality of Laos and its
+                    associated protocols called for the withdrawal of all “foreign regular and
+                    irregular troops, foreign para-military formations and foreign military
+                    personnel” under the supervision of the International Commission for Supervision
+                    and Control in Laos (ICC), comprised of representatives of India, Poland, and
+                    Canada. The ICC would operate on the principle of unanimity, a change from its
+                    practice from 1954 to 1958, when it operated under majority rules. Integration
+                    and demobilization of the three Laotian armies would be conducted by the
+                    coalition government, with neither the ICC nor other international parties
+                    overseeing or enforcing these critical activities.</p>
+                <p>These agreements broke down quickly, with lasting consequences for Laos and its
+                    neighbors. The NVA conducted a symbolic withdrawal of 15 troops on August 27,
+                    and on October 9 North Vietnam notified the Laotian foreign ministry that their
+                    troops had been withdrawn in accordance with the Geneva agreement. However,
+                    North Vietnam continued its advisory, logistics, and combat in support of the
+                    Pathet Lao in violation of the accords. North Vietnam also continued to extend
+                    its territorial control in southern Laos to secure its logistics lines to the
+                    battle areas in South Vietnam. The United States withdrew its military advisory
+                    teams in compliance with the Geneva agreement, but in its aftermath responded to
+                    the North Vietnamese violation by supporting Meo and Thai forces, and by
+                    providing economic and military support to the Phouma government and its army.
+                </p>
+            </div>
+            <div type="section" xml:id="congo-decolonization"
+                ana="kennedy-john-f johnson-lyndon-b democratic-republic-of-the-congo-kinshasa united-nations">
+                <head>The Congo, Decolonization, and the Cold War, 1960–1965</head>
+                <p>The decolonization of Sub-Saharan Africa from the late 1950s to the mid-1970s
+                    resulted in several proxy Cold War confrontations between the United States and
+                    the Soviet Union over the dozens of newly independent, non-aligned nations. The
+                    first such confrontation occurred in the former Belgian Congo, which gained its
+                    independence on June 30, 1960.</p>
+                <figure>
+                    <graphic url="congo.jpg" height="350px" width="449px"/>
+                    <head>Colonel Joseph Mobutu, September 14, 1960. (AP Photo)</head>
+                </figure>
+                <p>In the months leading up to independence, the Congolese elected a president,
+                    <persName>Joseph Kasavubu</persName>, prime minister, <persName>Patrice
+                        Lumumba</persName>, a senate and assembly, and similar bodies in the Congo’s
+                    numerous provinces. The Eisenhower administration had high hopes that the
+                    Republic of the Congo would form a stable, pro-Western, central government.
+                    Those hopes vanished in a matter of days as the newly independent nation
+                    descended into chaos. On July 5, Congolese soldiers in the Force Publique
+                    mutinied against their white Belgian commanders at the Thysville military base,
+                    seeking higher pay as well as greater opportunity and authority. The mutiny
+                    quickly spread to other bases and violence soon broke out across the nation.
+                    Thousands of Europeans (primarily Belgians) fled, and stories of atrocities
+                    against whites surfaced in newspapers around the globe. Unable to control the
+                    indigenous army (renamed the Congolese National Army), the Belgians brought in
+                    troops to restore order without seeking permission to do so from either Kasavubu
+                    or Lumumba. In response, the Congolese government appealed directly to the
+                    United Nations to provide troops and demanded the removal of Belgian troops. On
+                    July 13, the United Nations approved a resolution which authorized the creation
+                    of an intervention force, the Organisations des Nations Unities au Congo (ONUC),
+                    and called for the withdrawal of all Belgian troops. Two days earlier, the
+                    wealthy Katanga province had declared its independence from the Republic of the
+                    Congo, followed in August by South Kasai province.</p>
+                <p>While the United States supported the U.N. effort, members of the Eisenhower
+                    administration, increasingly concerned that the Congo crisis would provide an
+                    opening for Soviet intervention, sought a diplomatic solution to the crisis.
+                    Lumumba was invited to visit Washington in late July, in the hopes that the
+                    United States could exert a moderating influence on the prime minister. The
+                    visit underscored the futility of that effort. Reports from <persName>Lawrence
+                        Devlin</persName>, the CIA Chief of Station in Leopoldville (Kinshasa),
+                    described the situation in the Congo as a classic Communist takeover. The
+                    reports, coupled with the arrival of Soviet bloc technicians and matériel,
+                    convinced members of the national security team that Lumumba had to be removed.
+                    A flurry of U.S. diplomatic activity in support of unseating Lumumba ensued.
+                    Plans were also developed to assassinate Lumumba if necessary. On September 5,
+                    Kasavubu dismissed Lumumba from the government. Lumumba ignored the decree and
+                    dismissed Kasavubu. Lumumba’s supporters in the Congo and abroad were outraged
+                    and pledged to support his return to office. In an attempt to avoid civil war,
+                    Colonel <persName>Joseph Mobutu</persName> of the Congolese National Army (CNA)
+                    orchestrated a coup d’état on September 14, and ordered the Soviets out of the
+                    country. Mobutu’s early efforts to support a pro-Western government and his ties
+                    to the military placed him in good stead with Devlin, who informed Mobutu of a
+                    plot to assassinate him on September 18. Lumumba, who was blamed for the plot,
+                    was arrested and ultimately killed on January 17, 1961. </p>
+                <p>Over the next four years, as the Republic of the Congo installed a series of
+                    prime ministers, the United States repeatedly attempted to create a stable,
+                    pro-Western regime through vote buying and financial support for pro-Western
+                    candidates. Mobutu also received funds to help him gain the loyalty of the CNA
+                    and avoid rebellion in the ranks. Neither effort succeeded in quelling the
+                    seemingly endless unrest in the volatile provinces. Concern over the instability
+                    that would occur following the departure of U.N. troops led the Kennedy
+                    administration to sign bilateral military agreements with the Republic of the
+                    Congo and resulted in a May 1963 visit to Washington by Mobutu, who met with
+                    President Kennedy on May 31.</p>
+                <p>Support for the Congo continued unabated during the Johnson administration. U.S.
+                    military assistance increased dramatically in response to the fall of
+                    Stanleyville (Kisangani) to rebel forces on August 4, 1964. Planes provided by
+                    the Department of Defense, flown by pilots supplied by the Central Intelligence
+                    Agency, augmented the CNA’s efforts against an increasingly robust rebel
+                    insurgency, which received support from neighboring African nations, the Soviet
+                    bloc and Chinese Communists. The United States also made diplomatic approaches
+                    to the Organization of African Unity (OAU) to secure support for the Republic of
+                    the Congo. By late October, the situation in Stanleyville was dire. On October
+                    28, the rebel army commander placed all Westerners in the area (including a
+                    number of Americans) under house arrest. Smaller but significant numbers of
+                    hostages were seized in other cities under rebel control. A joint U.S.-Belgian
+                    effort to rescue the hostages in late November, Operation Dragon Rouge,
+                    succeeded but severely damaged Prime Minister Tshombe, who was viewed as
+                    ineffectual by both Kasavubu and Mobutu. He was dismissed in October 1965 and
+                    once again, the nation teetered on the brink of civil war. Mobutu orchestrated
+                    another coup d’état on November 25, 1965, removed both the President and Prime
+                    Minister, and took control of the government.</p>
+                <p>Despite periodic uprisings and unrest, Mobutu ruled the Congo (renamed Zaire in
+                    1971) until the mid-1990s. Viewed as mercurial and occasionally irrational,
+                    Mobutu nonetheless proved to be a staunch ally against Communist encroachment in
+                    Africa. As such, he received extensive U.S. financial, matériel, and political
+                    support, which increased his stature in much of Sub-Saharan Africa where he
+                    often served the interests of administrations from Johnson through Reagan.</p>
+            </div>
+            <div type="section" xml:id="pl-480"
+                ana="eisenhower-dwight-d kennedy-john-f johnson-lyndon-b rusk-david-dean vietnam united-kingdom india canada agriculture foreign-aid peace">
+                <head>USAID and PL–480, 1961–1969</head>
+                <p>The administrations of <persName>John F. Kennedy</persName> and <persName>Lyndon
+                        B. Johnson</persName> marked a revitalization of the U.S. foreign assistance
+                    program, signified a growing awareness of the importance of humanitarian aid as
+                    a form of diplomacy, and reinforced the belief that American security was linked
+                    to the economic progress and stability of other nations.</p>
+                <figure>
+                    <graphic url="pl-480.jpg" height="450px" width="299px"/>
+                    <head>Johnson with Gandhi, March 28, 1966. (White House Photo Office)</head>
+                </figure>
+                <p>In the aftermath of World War II, the United States provided economic assistance
+                    to European nations to aid in their reconstruction, and extended security
+                    assistance to these and other nations as a bulwark against a perceived communist
+                    threat. The mechanisms for deploying this assistance were spread over several
+                    government agencies and, as a result, problems arose concerning the coordination
+                    of these efforts.</p>
+                <p>Kennedy sought both to improve the administration of U.S. assistance and refocus
+                    aid to meet the needs of the developing world. In September 1961, Kennedy signed
+                    into law the Foreign Assistance Act of 1961 (Public Law 87–195), which mandated
+                    the establishment of a single agency for the coordination of foreign assistance.
+                    The Agency for International Development (AID)—established under Executive Order
+                    10973—assumed responsibility for the disbursement of capital and technical
+                    assistance to developing nations. AID symbolized Kennedy’s invigorated approach
+                    to fostering the economic, political, and social development of recipient
+                    nations.</p>
+                <p>Kennedy also turned his attention to food aid, particularly the Food for Peace
+                    program started during the Eisenhower administration. President <persName>Dwight
+                        D. Eisenhower</persName> signed into law the Agricultural Trade Development
+                    and Assistance Act of 1954, commonly known as PL–480 or Food for Peace. Prior to
+                    that, the United States had extended food aid to countries experiencing natural
+                    disasters and provided aid in times of war, but no permanent program existed
+                    within the United States Government for the coordination and distribution of
+                    commodities. Public Law 480, administered at that time by the Departments of
+                    State and Agriculture and the International Cooperation Administration,
+                    permitted the president to authorize the shipment of surplus commodities to
+                    “friendly” nations, either on concessional or grant terms. It also allowed the
+                    federal government to donate stocks to religious and voluntary organizations for
+                    use in their overseas humanitarian programs. Public Law 480 established a broad
+                    basis for U.S. distribution of foreign food aid, although reduction of
+                    agricultural surpluses remained the key objective for the duration of the
+                    Eisenhower administration. Eisenhower remained sensitive to the foreign policy
+                    implications of a permanent program, as did Department of State officials who
+                    expressed concerns that PL–480 would disrupt the export markets of several
+                    allies, including Great Britain and Canada.</p>
+                <p>As with his overall efforts to streamline foreign assistance, Kennedy also
+                    intended to reinvigorate the Food for Peace program and redirect it away from
+                    surplus liquidation. Shortly after his inauguration, Kennedy issued Executive
+                    Order 10915, which affirmed the foreign policy dimension of PL–480. Kennedy also
+                    appointed George McGovern as his Food for Peace Director—a position located
+                    within the Executive Office of the President—and tasked him with supervising and
+                    coordinating the functions of the various agencies administering the program,
+                    including AID, the Department of State, and the Department of Agriculture.
+                    Kennedy directed McGovern to orient the program toward the use of “agricultural
+                    abundance” in combating malnutrition. Kennedy insisted that the United States
+                    must “narrow the gap between abundance here at home and near starvation
+                    abroad.”</p>
+                <p>Johnson emphasized the Food for Peace program as a cornerstone of U.S. foreign
+                    assistance, and intended to pursue revisions to the program to strengthen its
+                    foreign policy orientation. While Johnson believed that the United States should
+                    extend food aid for humanitarian reasons, he also favored conditioning food aid
+                    agreements on the recipient nation’s ability to implement necessary agricultural
+                    reforms. “Self-help” provisions, applied to both PL–480 agreements and other AID
+                    assistance, would contribute to the economic development of recipient nations by
+                    strengthening their agricultural sectors. The Food for Peace Act of 1966 (PL
+                    89–808) required that PL–480 agreements contain language describing the steps a
+                    recipient had already made, or planned to make, toward increasing food
+                    production and improving storage and distribution. Johnson pursued these
+                    revisions at the same time he announced a “war on hunger,” designed to
+                    accelerate agricultural production, improve nutrition, eradicate disease, and
+                    curb population growth. It remained incumbent upon the United States to
+                    demonstrate leadership and recreate Johnson’s domestic Great Society reforms on
+                    a global scale.</p>
+                <p>Johnson also understood that food aid served diplomatic ends and bolstered U.S.
+                    strategic interests. To strengthen Food for Peace’s foreign policy orientation,
+                    he pursued the transfer of the Food for Peace director’s functions from the
+                    White House to the Department of State, where the director would serve as a
+                    special assistant to Secretary of State Dean Rusk. Although the Johnson
+                    administration programmed PL–480 commodities to meet critical hunger needs, in
+                    several instances Johnson authorized food aid shipments to nations in order to
+                    allow recipients to redirect spending for military equipment or for security
+                    purposes. The administration also negotiated PL–480 agreements with countries in
+                    an attempt to dissuade these leaders from accepting assistance from U.S.
+                    adversaries. Johnson used PL–480 agreements as leverage in securing support for
+                    U.S. foreign policy goals, even placing critical famine aid to India on a
+                    limited basis, until he received assurance that the Indian Government would
+                    implement agricultural reforms and temper criticism of U.S. policy regarding
+                    Vietnam. While PL–480 commodities continued to serve humanitarian aims, the
+                    program had limitations as a tool of U.S. foreign policy, especially given
+                    Congressional reductions in foreign aid outlays by the end of the decade.</p>
+            </div>
+            <div type="section" xml:id="bay-of-pigs"
+                ana="eisenhower-dwight-d kennedy-john-f russia cuba covert-actions">
+                <head>The Bay of Pigs Invasion and its Aftermath, April 1961–October 1962</head>
+                <p>A left-wing revolution in Cuba had ended in 1959 with the ouster of President
+                    Fulgencia Batista and the establishment of a new government under Premier Fidel
+                    Castro. The Castro regime quickly severed the country’s formerly strong ties
+                    with the United States by expropriating U.S. economic assets in Cuba and
+                    developing close links with the Soviet Union.</p>
+                <figure>
+                    <graphic url="bay-pigs.jpg" height="450px" width="353px"/>
+                    <head>Skyhawks from the USS Essex fly sorties over combat areas during the Bay
+                        of Pigs. (Robert L. Lawson Photograph Collection)</head>
+                </figure>
+                <p>These developments proved a source of grave concern to the United States given
+                    Cuba’s geographical proximity to the United States and brought Cuba into play as
+                    a new and significant factor in the Cold War. In March 1960, President Dwight D.
+                    Eisenhower directed the Central Intelligence Agency (CIA) to develop a plan for
+                    the invasion of Cuba and overthrow of the Castro regime. The CIA organized an
+                    operation in which it trained and funded a force of exiled counter-revolutionary
+                    Cubans serving as the armed wing of the Democratic Revolutionary Front, known as
+                    Brigade 2506.</p>
+                <p>Following his election in November 1960, President John F. Kennedy learned of the
+                    invasion plan, concluded that Fidel Castro was a Soviet client posing a threat
+                    to all of Latin America and, after consultations with his advisors, gave his
+                    consent for the CIA-planned clandestine invasion of Cuba to proceed. Launched
+                    from Guatemala, the attack went wrong almost from the start. Components of
+                    Brigade 2506 landed at the Bay of Pigs on April 17, 1961 and were defeated
+                    within 2 days by Cuban armed forces under the direct command of Castro.</p>
+                <p>The failed invasion strengthened the position of Castro’s administration, which
+                    proceeded to openly proclaim its intention to adopt socialism and pursue closer
+                    ties with the Soviet Union. It also led to a reassessment of Cuba policy by the
+                    Kennedy administration. The President established a committee under former Army
+                    Chief of Staff General Maxwell Taylor and Attorney General Robert Kennedy to
+                    examine the causes of the defeat suffered at the Bay of Pigs.</p>
+                <p>This examination and policy assessment, initiated in May 1961, led in November of
+                    that year to a decision to implement a new covert program in Cuba, with the
+                    codename of Operation Mongoose. Oversight for Operation Mongoose was provided by
+                    the 5412/2 Special Group, under the auspices of the National Security Council,
+                    expanded to include General Taylor and Attorney General Kennedy.</p>
+                <p>Operation Mongoose was designed to do what the Bay of Pigs invasion failed to do:
+                    remove the Communist Castro regime from power in Cuba. Orchestrated by the CIA
+                    and Department of Defense under the direction of Edward Lansdale, Operation
+                    Mongoose constituted a multiplicity of plans with wide-ranging purpose and
+                    scope. Lansdale presented the Project’s six-phase schedule to Attorney General
+                    Kennedy on February 20, 1962, and President Kennedy received a briefing on the
+                    operation’s components on March 16, 1962. Lansdale outlined the coordinated
+                    program of political, psychological, military, sabotage, and intelligence
+                    operations, as well as proposed assassination attempts on key political leaders,
+                    including Castro. Monthly components of the operation were to be set in place to
+                    destabilize the communist regime, including the publication of Anti-Castro
+                    propaganda, provision of armaments for militant opposition groups, and
+                    establishment of guerilla bases throughout the country, all leading up to
+                    preparations for an October 1962 military intervention in Cuba. Some (though not
+                    all) of the planned Operation Mongoose actions were deployed during 1962, but
+                    the military intervention did not occur, and the Castro regime remained in
+                    power.</p>
+                <p>Although not considered as significant a U.S. foreign policy failure and
+                    embarrassment as the Bay of Pigs invasion, Operation Mongoose failed to achieve
+                    its most important goals. Meanwhile, throughout the spring and summer of 1962,
+                    U.S. intelligence reports indicated expanded arms shipments from the Soviet
+                    Union to Cuba. Amidst growing concern in Washington over whether the Soviet
+                    weapons being introduced into Cuba included ballistic missiles with nuclear
+                    warheads, in October 1962 the Kennedy administration suspended Operation
+                    Mongoose in the face of this far more serious threat—one that resulted in the
+                    most dangerous confrontation between the United States and the Soviet Union
+                    during the Cold War.</p>
+            </div>
+            <div type="section" xml:id="cuban-missile-crisis"
+                ana="kennedy-john-f russia turkey cuba united-nations national-security-council quarantine-blockade cuban-missile-crisis">
+                <head>The Cuban Missile Crisis, October 1962 </head>
+                <p>The Cuban Missile Crisis of October 1962 was a direct and dangerous confrontation
+                    between the United States and the Soviet Union during the Cold War and was the
+                    moment when the two superpowers came closest to nuclear conflict. The crisis was
+                    unique in a number of ways, featuring calculations and miscalculations as well
+                    as direct and secret communications and miscommunications between the two sides.
+                    The dramatic crisis was also characterized by the fact that it was primarily
+                    played out at the White House and the Kremlin level with relatively little input
+                    from the respective bureaucracies typically involved in the foreign policy
+                    process.</p>
+                <figure>
+                    <graphic url="cuban-missile-crisis.jpg" height="450px" width="378px"/>
+                    <head>Aerial view of missile launch site at San Cristobal, Cuba. (John F.
+                        Kennedy Library)</head>
+                </figure>
+                <p>After the failed U.S. attempt to overthrow the Castro regime in Cuba with the Bay
+                    of Pigs invasion, and while the Kennedy administration planned Operation
+                    Mongoose, in July 1962 Soviet premier <persName>Nikita Khrushchev</persName>
+                    reached a secret agreement with Cuban premier <persName>Fidel Castro</persName>
+                    to place Soviet nuclear missiles in Cuba to deter any future invasion attempt.
+                    Construction of several missile sites began in the late summer, but U.S.
+                    intelligence discovered evidence of a general Soviet arms build-up on Cuba,
+                    including Soviet IL–28 bombers, during routine surveillance flights, and on
+                    September 4, 1962, President <persName>Kennedy</persName> issued a public
+                    warning against the introduction of offensive weapons into Cuba. Despite the
+                    warning, on October 14 a U.S. U–2 aircraft took several pictures clearly showing
+                    sites for medium-range and intermediate-range ballistic nuclear missiles (MRBMs
+                    and IRBMs) under construction in Cuba. These images were processed and presented
+                    to the White House the next day, thus precipitating the onset of the Cuban
+                    Missile Crisis.</p>
+                <p>Kennedy summoned his closest advisers to consider options and direct a course of
+                    action for the United States that would resolve the crisis. Some
+                    advisers—including all the Joint Chiefs of Staff—argued for an air strike to
+                    destroy the missiles, followed by a U.S. invasion of Cuba; others favored stern
+                    warnings to Cuba and the Soviet Union. The President decided upon a middle
+                    course. On October 22, he ordered a naval “quarantine” of Cuba. The use of
+                    “quarantine” legally distinguished this action from a blockade, which assumed a
+                    state of war existed; the use of “quarantine” instead of “blockade” also enabled
+                    the Unites States to receive the support of the Organization of American
+                    States.</p>
+                <p>That same day, Kennedy sent a letter to Khrushchev declaring that the United
+                    States would not permit offensive weapons to be delivered to Cuba, and demanded
+                    that the Soviets dismantle the missile bases already under construction or
+                    completed, and return all offensive weapons to the U.S.S.R. The letter was the
+                    first in a series of direct and indirect communications between the White House
+                    and the Kremlin throughout the remainder of the crisis.</p>
+                <p>The President also went on national television that evening to inform the public
+                    of the developments in Cuba, his decision to initiate and enforce a
+                    “quarantine,” and the potential global consequences if the crisis continued to
+                    escalate. The tone of the President’s remarks was stern, and the message
+                    unmistakable and evocative of the Monroe Doctrine: “It shall be the policy of
+                    this nation to regard any nuclear missile launched from Cuba against any nation
+                    in the Western Hemisphere as an attack by the Soviet Union on the United States,
+                    requiring a full retaliatory response upon the Soviet Union.” The Joint Chiefs
+                    of Staff announced a military readiness status of DEFCON 3 as U.S. naval forces
+                    began implementation of the quarantine and plans accelerated for a military
+                    strike on Cuba.</p>
+                <p>On October 24, Khrushchev responded to Kennedy’s message with a statement that
+                    the U.S. “blockade” was an “act of aggression” and that Soviet ships bound for
+                    Cuba would be ordered to proceed. Nevertheless, during October 24 and 25, some
+                    ships turned back from the quarantine line; others were stopped by U.S. naval
+                    forces, but they contained no offensive weapons and so were allowed to proceed.
+                    Meanwhile, U.S. reconnaissance flights over Cuba indicated the Soviet missile
+                    sites were nearing operational readiness. With no apparent end to the crisis in
+                    sight, U.S. forces were placed at DEFCON 2—meaning war involving the Strategic
+                    Air Command was imminent. On October 26, Kennedy told his advisors it appeared
+                    that only a U.S. attack on Cuba would remove the missiles, but he insisted on
+                    giving the diplomatic channel a little more time. The crisis had reached a
+                    virtual stalemate.</p>
+                <p>That afternoon, however, the crisis took a dramatic turn. ABC News correspondent
+                    John Scali reported to the White House that he had been approached by a Soviet
+                    agent suggesting that an agreement could be reached in which the Soviets would
+                    remove their missiles from Cuba if the United States promised not to invade the
+                    island. While White House staff scrambled to assess the validity of this “back
+                    channel” offer, Khrushchev sent Kennedy a message the evening of October 26,
+                    which meant it was sent in the middle of the night Moscow time. It was a long,
+                    emotional message that raised the specter of nuclear holocaust, and presented a
+                    proposed resolution that remarkably resembled what Scali reported earlier that
+                    day. “If there is no intention,” he said, “to doom the world to the catastrophe
+                    of thermonuclear war, then let us not only relax the forces pulling on the ends
+                    of the rope, let us take measures to untie that knot. We are ready for
+                    this.”</p>
+                <p>Although U.S. experts were convinced the message from Khrushchev was authentic,
+                    hope for a resolution was short-lived. The next day, October 27, Khrushchev sent
+                    another message indicating that any proposed deal must include the removal of
+                    U.S. Jupiter missiles from Turkey. That same day a U.S. U–2 reconnaissance jet
+                    was shot down over Cuba. Kennedy and his advisors prepared for an attack on Cuba
+                    within days as they searched for any remaining diplomatic resolution. It was
+                    determined that Kennedy would ignore the second Khrushchev message and respond
+                    to the first one. That night, Kennedy set forth in his message to the Soviet
+                    leader proposed steps for the removal of Soviet missiles from Cuba under
+                    supervision of the United Nations, and a guarantee that the United States would
+                    not attack Cuba.</p>
+                <p>It was a risky move to ignore the second Khrushchev message. Attorney General
+                    Robert Kennedy then met secretly with Soviet Ambassador to the United States,
+                    Anatoly Dobrynin, and indicated that the United States was planning to remove
+                    the Jupiter missiles from Turkey anyway, and that it would do so soon, but this
+                    could not be part of any public resolution of the missile crisis. The next
+                    morning, October 28, Khrushchev issued a public statement that Soviet missiles
+                    would be dismantled and removed from Cuba.</p>
+                <p>The crisis was over but the naval quarantine continued until the Soviets agreed
+                    to remove their IL–28 bombers from Cuba and, on November 20, 1962, the United
+                    States ended its quarantine. U.S. Jupiter missiles were removed from Turkey in
+                    April 1963. </p>
+                <p>The Cuban missile crisis stands as a singular event during the Cold War and
+                    strengthened Kennedy’s image domestically and internationally. It also may have
+                    helped mitigate negative world opinion regarding the failed Bay of Pigs
+                    invasion. Two other important results of the crisis came in unique forms. First,
+                    despite the flurry of direct and indirect communications between the White House
+                    and the Kremlin—perhaps because of it—Kennedy and Khrushchev, and their
+                    advisers, struggled throughout the crisis to clearly understand each others’
+                    true intentions, while the world hung on the brink of possible nuclear war. In
+                    an effort to prevent this from happening again, a direct telephone link between
+                    the White House and the Kremlin was established; it became known as the
+                    “Hotline.” Second, having approached the brink of nuclear conflict, both
+                    superpowers began to reconsider the nuclear arms race and took the first steps
+                    in agreeing to a nuclear Test Ban Treaty.</p>
+            </div>
+            <div type="section" xml:id="alliance-for-progress" ana="johnson-lyndon-b">
+                <head>Alliance for Progress and Peace Corps, <date from="1961" to="1969"
+                        >1961–1969</date>
+                </head>
+                <p>Growing out of the fear of increased Soviet and Cuban influence in Latin America,
+                    the 1961–1969 Alliance for Progress was in essence a <ref
+                        target="/milestones/1945-1952/marshall-plan">Marshall Plan</ref> for
+                        <placeName>Latin America</placeName>. The United States pledged $20 billion
+                    in assistance (grants and loans) and called upon the Latin American governments
+                    to provide $80 billion in investment funds for their economies. It was the
+                    biggest U.S. aid program toward the developing world up to that point—and called
+                    for substantial reform of Latin American institutions.</p>
+                <figure>
+                    <graphic url="peace-corps.jpg" height="450px" width="400px"/>
+                    <head>President John F. Kennedy greeting Peace Corps volunteers. (John F.
+                        Kennedy Library)</head>
+                </figure>
+                <p>Washington policymakers saw the Alliance as a means of bulwarking capitalist
+                    economic growth, funding social reforms to help the poorest Latin Americans,
+                    promoting democracy—and strengthening ties between the United States and its
+                    neighbors. A key element of the Alliance was U.S. military assistance to
+                    friendly regimes in the region, an aspect that gained prominence with the
+                    ascension of President <persName>Lyndon B. Johnson</persName> to power in late
+                    1963 (as the other components of the Alliance were downplayed). The Alliance did
+                    not achieve all its lofty goals. According to one study, only 2 percent of
+                    economic growth in 1960s Latin America directly benefited the poor; and there
+                    was a general deterioration of United States-Latin American relations by the end
+                    of the 1960s. </p>
+                <p>Although derided as “Kennedy’s Kiddie Corps” by some when it was established in
+                    1961, the Peace Corps proved over time to be an important foreign policymaking
+                    institution. By sending intelligent, hard-working, and idealistic young
+                    Americans to do economic and social development work (on 2-year tours) in the
+                    areas of greatest need in the Third World, the Peace Corps provided a means by
+                    which young Americans could not only learn about the world, but promote positive
+                    change. A significant number of Peace Corps Volunteers went on to work as
+                    officials in the U.S. Government.</p>
+                <p>The Peace Corps remains an important, vibrant foreign policy institution. Since
+                    the Peace Corps’ founding, more than 187,000 men and women have joined the Peace
+                    Corps and served in 139 countries. There are 7,749 Peace Corps Volunteers
+                    currently serving 73 countries around the world. </p>
+            </div>
+            <div type="section" xml:id="limited-ban"
+                ana="nuclear-weapons russia arms-control-and-disarmament united-kingdom kennedy-john-f">
+                <head>The Limited Test Ban Treaty, <date when="1963">1963</date>
+                </head>
+                <p>In the early 1960s, U.S. President <persName>John F. Kennedy</persName> and
+                    Soviet Premier <persName>Nikita Khrushchev</persName> each expressed deep
+                    concern about the strength of their respective nations’ nuclear arms forces.
+                    This concern led them to complete the first arms control agreement of the Cold
+                    War, the Limited Test Ban Treaty of 1963.</p>
+                <figure>
+                    <graphic url="test-ban-treaty.jpg" height="450px" width="411px"/>
+                    <head>President signing the Limited Test Ban Treaty. (John F. Kennedy
+                        Library)</head>
+                </figure>
+                <p>This treaty did not have much practical effect on the development and
+                    proliferation of nuclear weapons, but it established an important precedent for
+                    future arms control. Both superpowers entered the 1960s determined to build or
+                    maintain nuclear superiority. The Soviet Union had led the way in the
+                    development of intercontinental ballistic missiles after its launch of the first
+                    man-made satellite, <ref target="/milestones/1953-1960/sputnik">
+                        <hi rend="italic">Sputnik</hi>
+                    </ref>, in 1957. In just a few years, it had developed an arsenal of long and
+                    medium range missiles that had raised alarm in Washington. President Kennedy had
+                    even campaigned for office on a claim that President Dwight Eisenhower had
+                    allowed the Soviet Union to far out-produce the United States in nuclear
+                    technology, creating a “missile gap.” However, soon after he took office, the
+                    Kennedy Administration determined that the balance of nuclear power remained in
+                    favor of the United States. </p>
+                <p>With both sides working to develop new and better nuclear technology over the
+                    course of the late 1950s and early 1960s, each engaged in a series of test
+                    explosions. These nuclear tests received worldwide scrutiny, not only for what
+                    they meant for the arms race but also for what they meant for human life. As the
+                    United States, Soviet Union and United Kingdom tested new nuclear technologies
+                    in the earth’s atmosphere, concerns emerged worldwide about the potential
+                    effects of radioactive fallout on the people exposed to it. This led to the
+                    formation of activist groups and public discussion of the issue. </p>
+                <p>The three countries entered into negotiations for a comprehensive test ban treaty
+                    in 1958. Having recently completed rounds of tests, at that time all three
+                    entered into a voluntary moratorium on all forms of testing, initiated first by
+                    the Soviet Union but later adhered to by the United States and Great Britain. In
+                    spite of this willingness to self-restrict testing, one of the most difficult
+                    issues preventing the conclusion of a formal treaty was the question of
+                    verification. The United States and Great Britain, in particular, pushed for
+                    on-site inspections of Soviet facilities as without them, it was impossible to
+                    determine whether the Soviets were continuing underground nuclear tests or just
+                    experiencing the frequent seismic activity to which its geographic area was
+                    prone. However, the Soviets were hesitant to permit such onsite inspections of
+                    its nuclear facilities, interpreting U.S. insistence on these inspections as a
+                    ruse to facilitate U.S. efforts to spy on Soviet advancements. After the Soviet
+                    military shot down an American U-2 spy plane over Russia in 1960, the prospects
+                    for reaching an agreement on the inspections issue all but disappeared.
+                    Khrushchev also rejected the idea of having the United Nations conduct
+                    inspections after observing what he believed was the organization’s mishandling
+                    of the Congo crisis. Instead, in the wake of these incidents both the United
+                    States and the Soviet Union resumed testing. </p>
+                <p>In 1961, Kennedy established an Arms Control and Disarmament Agency within the
+                    U.S. Department of State, and the new organization reopened talks with the
+                    Soviet Union. That year, however, neither side was ready to make major
+                    concessions. As long as it remained difficult to verify that the other side was
+                    not engaging in clandestine testing, there was little incentive to form an
+                    agreement. </p>
+                <p>Over the course of the next year, however, the situation changed dramatically for
+                    a number of reasons. Concerns about nuclear proliferation increased interest in
+                    the testing ban, as France exploded its first weapon in 1960 and the People’s
+                    Republic of China appeared close to successfully building its own atom bomb.
+                    However, it was the rapid escalation of the <ref
+                        target="/milestones/1961-1968/cuban-missile-crisis">Cuban Missile
+                        Crisis</ref> in October of 1962 that compelled leaders in both the United
+                    States and the Soviet Union to pursue more aggressively an agreement that could
+                    help them avoid the devastating destruction that nuclear warfare would bring.
+                    Although the crisis provided the impetus for an agreement, its final negotiation
+                    was made possible by the decision to step back from the original idea of a
+                    comprehensive test ban treaty and work instead on a more limited arrangement.
+                    Atmospheric and underground tests proved equally effective for scientific
+                    purposes, so there was no reason to insist that access to both types of testing
+                    remain available. In past negotiations, the inability to detect underground
+                    explosions and agree on provisions for inspections to ensure such explosions
+                    were not taking place became a problem that prevented an agreement. Once the
+                    Soviet Union and the United States decided that underground testing would not be
+                    included in this first treaty, the two sides very quickly reached terms they
+                    could agree upon. </p>
+                <p>The Limited Test Ban Treaty was signed by the United States, the Soviet Union,
+                    and Great Britain in 1963, and it banned all nuclear tests in the atmosphere, in
+                    space, or underwater. Because it stopped the spread of radioactive nuclear
+                    material through atmospheric testing and set the precedent for a new wave of
+                    arms control agreements, the Treaty was hailed as a success. The Treaty was the
+                    first of several Cold War agreements on nuclear arms, including the <ref
+                        target="/milestones/1961-1968/npt">Non-Proliferation Treaty</ref> that was
+                    signed in 1968 and the <ref target="/milestones/1969-1976/salt">SALT I
+                        agreements of 1972</ref>. In 1974, the Threshold Test Ban Treaty returned to
+                    the question of nuclear testing by limiting underground testing of bombs with a
+                    yield greater than 150 kilotons. </p>
+            </div>
+            <div type="section" xml:id="gulf-of-tonkin"
+                ana="vietnam vietnam-conflict johnson-lyndon-b">
+                <head>U.S. Involvement in the Vietnam War: the Gulf of Tonkin and Escalation, <date
+                        when="1964">1964</date>
+                </head>
+                <p>In early August 1964, two U.S. destroyers stationed in the <placeName>Gulf of
+                        Tonkin</placeName> in <placeName>Vietnam</placeName> radioed that they had
+                    been fired upon by North Vietnamese forces. In response to these reported
+                    incidents, President <persName>Lyndon B. Johnson</persName> requested permission
+                    from the U.S. Congress to increase the U.S. military presence in Indochina. On
+                    August 7, 1964, Congress passed the Gulf of Tonkin Resolution, authorizing
+                    President Johnson to take any measures he believed were necessary to retaliate
+                    and to promote the maintenance of international peace and security in southeast
+                    Asia. This resolution became the legal basis for the Johnson and Nixon
+                    Administrations prosecution of the Vietnam War.</p>
+                <figure>
+                    <graphic url="gulf-of-tonkin.jpg" width="450px" height="410px"/>
+                    <head>Secretary of Defense Robert S. McNamara points out action in Gulf of
+                        Tonkin during a briefing at the Pentagon. (AP Photo/Bob Schutz)</head>
+                </figure>
+                <p>After the end of the First Indochina War and the Viet Minh defeat of the French
+                    at <placeName>Dien Bien Phu</placeName> in 1954, the countries meeting at the
+                    Geneva Conference divided Vietnam into northern and southern halves, ruled by
+                    separate regimes, and scheduled elections to reunite the country under a unified
+                    government. The communists seemed likely to win those elections, thanks mostly
+                    to their superior organization and greater appeal in the countryside. The United
+                    States, however, was dedicated to containing the spread of communist regimes
+                    and, invoking the charter of the Southeast Asia Treaty Organization (1954),
+                    supported the South Vietnamese leader, <persName>Ngo Dinh Diem</persName>, when
+                    he refused to hold the elections. Diem held control of the South Vietnamese
+                    Government, but he could not halt the communist infiltration of the South. By
+                    1959, the Viet Cong, South Vietnamese communist guerillas, and the Viet Minh,
+                    began a large scale insurgency in the South that marked the opening of the
+                    Second Indochina War.</p>
+                <p>Ngo Dinh Diem failed to capture the loyalties of the people of South Vietnam the
+                    way that <persName>Ho Chi Minh</persName> had done among the population of North
+                    Vietnam. Despite U.S. support, Diem’s rural policies and ambivalent attitude
+                    toward necessary changes like land reform only bolstered support for the Viet
+                    Cong in the southern countryside. By 1963, Diem’s rule had so deteriorated that
+                    he was overthrown and assassinated by several of his generals with the tacit
+                    approval of the Kennedy Administration. Three weeks later, U.S. President
+                        <persName>John F. Kennedy</persName> was also assassinated, and the war
+                    continued under new leadership in both countries. Before his death, Kennedy had
+                    increased the U.S. advisory presence in South Vietnam in the hopes that a
+                    U.S.-supported program of “nation-building” would strengthen the new South
+                    Vietnamese government. However, South Vietnam continued to experience political
+                    instability and military losses to North Vietnam.</p>
+
+                <p>By August, 1964, the Johnson Administration believed that escalation of the U.S.
+                    presence in Vietnam was the only solution. The post-Diem South proved no more
+                    stable than it had been before his ouster, and South Vietnamese troops were
+                    generally ineffective. In addition to supporting on-going South Vietnamese raids
+                    in the countryside and implementing a U.S. program of bombing the Lao border to
+                    disrupt supply lines, the U.S. military began backing South Vietnamese raids of
+                    the North Vietnamese coast. The U.S. Navy stationed two destroyers, the Maddox
+                    and the Turner Joy, in the Gulf of Tonkin to bolster these actions. They
+                    reported an attack by North Vietnamese patrol boats on August 2, and a second
+                    attack on August 4. Doubts later emerged as to whether or not the attack against
+                    the Turner Joy had taken place. </p>
+                <p>Immediately after reports of the second attack, Johnson asked the U.S. Congress
+                    for permission to defend U.S. forces in Southeast Asia. The Senate passed the
+                    Gulf of Tonkin Resolution with only two opposing votes, and the House of
+                    Representatives passed it unanimously. Congress supported the resolution with
+                    the assumption that the president would return and seek their support before
+                    engaging in additional escalations of the war. </p>
+                <p>The Gulf of Tonkin incident and the subsequent Gulf of Tonkin resolution provided
+                    the justification for further U.S. escalation of the conflict in Vietnam. Acting
+                    on the belief that Hanoi would eventually weaken when faced with stepped up
+                    bombing raids, Johnson and his advisers ordered the U.S. military to launch
+                    Operation Rolling Thunder, a bombing campaign against the North. Operation
+                    Rolling Thunder commenced on February 13, 1965 and continued through the spring
+                    of 1967. Johnson also authorized the first of many deployments of regular ground
+                    combat troops to Vietnam to fight the Viet Cong in the countryside. </p>
+            </div>
+            <div type="section" xml:id="india-pakistan-war" ana="india pakistan">
+                <head>The India-Pakistan War of <date when="1965">1965</date>
+                </head>
+                <p>The 1965 war between <placeName>India</placeName> and
+                        <placeName>Pakistan</placeName> was the second conflict between the two
+                    countries over the status of the state of Jammu and Kashmir. The clash did not
+                    resolve this dispute, but it did engage the United States and the Soviet Union
+                    in ways that would have important implications for subsequent superpower
+                    involvement in the region. </p>
+                <figure>
+                    <graphic url="india-pakistan.jpg" height="450px" width="291px"/>
+                    <head>A patrol walks in the Haji Pir pass sector of Kashmir region. (AP
+                        Photo)</head>
+                </figure>
+                <p>The dispute over this region originated in the process of decolonization in South
+                    Asia. When the British colony of India gained its independence in 1947, it was
+                    partitioned into two separate entities: the secular nation of India and the
+                    predominantly Muslim nation of Pakistan. Pakistan was composed of two
+                    noncontiguous regions, East Pakistan and West Pakistan, separated by Indian
+                    territory. The state of Jammu and Kashmir, which had a predominantly Muslim
+                    population but a Hindu leader, shared borders with both India and West Pakistan.
+                    The argument over which nation would incorporate the state led to the first
+                    India-Pakistan War in 1947–48 and ended with UN mediation. Jammu and Kashmir,
+                    also known as “Indian Kashmir” or just “Kashmir,” joined the Republic of India,
+                    but the Pakistani Government continued to believe that the majority Muslim state
+                    rightfully belonged to Pakistan. </p>
+                <p>Conflict resumed again in early 1965, when Pakistani and Indian forces clashed
+                    over disputed territory along the border between the two nations. Hostilities
+                    intensified that August when the Pakistani army attempted to take Kashmir by
+                    force. The attempt to seize the state was unsuccessful, and the second
+                    India-Pakistan War reached a stalemate. This time, the international politics of
+                    the Cold War affected the nature of the conflict. </p>
+                <p>The United States had a history of ambivalent relations with India. During the
+                    1950s, U.S. officials regarded Indian leadership with some caution due to
+                    India’s involvement in the nonaligned movement, particularly its prominent role
+                    at the <ref target="/milestones/1953-1960/bandung-conf">Bandung Conference of
+                        1955</ref>. The United States hoped to maintain a regional balance of power,
+                    which meant not allowing India to influence the political development of other
+                    states. However, a 1962 border conflict between India and China ended with a
+                    decisive Chinese victory, which motivated the United States and the United
+                    Kingdom to provide military supplies to the Indian army. After the clash with
+                    China, India also turned to the Soviet Union for assistance, which placed some
+                    strains on U.S.-Indian relations. However, the United States also provided India
+                    with considerable development assistance throughout the 1960s and 1970s. </p>
+                <p>U.S.-Pakistani relations had been more consistently positive. The U.S. Government
+                    looked to Pakistan as an example of a moderate Muslim state and appreciated
+                    Pakistani assistance in holding the line against communist expansion by joining
+                    the <ref target="/milestones/1953-1960/seato">Southeast Asia Treaty Organization
+                        (SEATO)</ref> in 1954 and the Baghdad Pact (later renamed the <ref
+                        target="/milestones/1953-1960/cento">Central Treaty Organization, or
+                        CENTO</ref>) in 1955. Pakistan’s interest in these pacts stemmed from its
+                    desire to develop its military and defensive capabilities, which were
+                    substantially weaker than those of India. Both the United States and the United
+                    Kingdom supplied arms to Pakistan in these years. </p>
+                <p>After Pakistani troops invaded Kashmir, India moved quickly to internationalize
+                    the regional dispute. It asked the United Nations to reprise its role in the
+                    First India-Pakistan War and end the current conflict. The Security Council
+                    passed Resolution 211 on September 20 calling for an end to the fighting and
+                    negotiations on the settlement of the Kashmir problem, and the United States and
+                    the United Kingdom supported the UN decision by cutting off arms supplies to
+                    both belligerents. This ban affected both belligerents, but Pakistan felt the
+                    effects more keenly since it had a much weaker military in comparison to India.
+                    The UN resolution and the halting of arms sales had an immediate impact. India
+                    accepted the ceasefire on September 21 and Pakistan on September 22. </p>
+                <p>The ceasefire alone did not resolve the status of Kashmir, and both sides
+                    accepted the Soviet Union as a third-party mediator. Negotiations in Tashkent
+                    concluded in January 1966, with both sides giving up territorial claims,
+                    withdrawing their armies from the disputed territory. Nevertheless, although the
+                    Tashkent agreement achieved its short-term aims, conflict in South Asia would
+                    reignite a few years later.</p>
+            </div>
+            <div type="section" xml:id="arab-israeli-war-1967"
+                ana="johnson-lyndon-b egypt israel jordan syria palestine peace united-nations terrorism arab-israeli-dispute">
+                <head>The 1967 Arab-Israeli War</head>
+                <p>The 1967 Arab-Israeli War marked the failure of the Eisenhower, Kennedy, and
+                    Johnson administrations’ efforts to prevent renewed Arab-Israeli conflict
+                    following the 1956 Suez War. Unwilling to return to what National Security
+                    Advisor Walter Rostow called the “tenuous chewing gum and string arrangements”
+                    established after Suez, the Johnson administration sought Israel’s withdrawal
+                    from the territories it had occupied in exchange for peace settlements with its
+                    Arab neighbors. This formula has remained the basis of all U.S. Middle East
+                    peacemaking efforts into the present.</p>
+                <figure>
+                    <graphic url="six-day-war.jpg" height="450px" width="295px"/>
+                    <head>President Lyndon Johnson and his advisors meet with Israeli Foreign
+                        Minister Abba Eban to discuss the developing crisis in the Middle East, May
+                        26, 1967. (LBJ Library photo by Yoichi Okamoto)</head>
+                </figure>
+                <p>
+                    <hi rend="strong">The Johnson Administration and the Arab-Israeli Conflict,
+                        1963–1967</hi>
+                </p>
+                <p>Lyndon Johnson’s presidency witnessed the transformation of the American role in
+                    the Arab-Israeli conflict. Until the early 1960s, the United States had adhered
+                    to the terms of the Tripartite Declaration of 1950, wherein the United States,
+                    United Kingdom, and France had pledged to prevent aggression by Middle Eastern
+                    states and oppose a regional arms race. The United States had pressed Israel to
+                    withdraw from the Sinai Peninsula and Gaza Strip after Suez, and rejected
+                    Israeli requests for all but limited quantities of defensive weapons. By the
+                    time Johnson took office, however, U.S. policymakers concluded that this policy
+                    was no longer sustainable. Soviet arms sales to left-leaning Arab states,
+                    especially Egypt, threatened to erode Israel’s military superiority. Johnson’s
+                    advisors worried that if the United States did not offset this shift in the
+                    balance of power, Israel’s leaders might launch a preventive war or develop
+                    nuclear weapons.</p>
+                <p>Initially, the Johnson administration sought to convince Egyptian President Gamal
+                    Abdul Nasser and the Soviet leadership to work toward a regional arms control
+                    regime, but neither party proved receptive. Thus, in 1965, Johnson agreed to
+                    sell Israel M48A3 tanks, followed by A–4 Skyhawk aircraft in 1966. The rationale
+                    behind these sales, as National Security Council staffer Robert Komer put it,
+                    was that “Arab knowledge that they could not win an arms race against Israel
+                    should contribute long-term to the damping down of the Arab-Israeli
+                    dispute.”</p>
+                <p>However, U.S. efforts to preserve the regional balance of power were soon
+                    undermined by Fatah and other Palestinian guerilla organizations, which began
+                    attacking targets inside Israel. The Johnson administration tried to intercede
+                    with Fatah’s Syrian patrons and to prevent Israeli retaliation against Jordan,
+                    from which most Palestinian raids were launched. U.S. officials worried that
+                    Israeli reprisals could undermine Jordan’s King Hussein, who had secretly agreed
+                    to keep Jordan’s strategically crucial West Bank a buffer zone. In November
+                    1966, when the Israelis attacked the West Bank town of Samu‘ , the Johnson
+                    administration voted for a United Nations Resolution condemning Israel,
+                    admonished Israeli officials, and authorized an emergency airlift of military
+                    equipment to Jordan.</p>
+                <p>While the administration’s response to Samu‘ helped prevent further Israeli
+                    reprisals against Jordan, it failed to address the underlying problem of
+                    Palestinian cross-border attacks. By the spring of 1967, the Israelis were
+                    retaliating forcefully against Syria, whose leaders demanded that Egypt
+                    intervene on their behalf.</p>
+                <p>
+                    <hi rend="strong">The Prewar Crisis</hi>
+                </p>
+                <p>On May 13, 1967, Soviet officials informed the Syrian and Egyptian Governments
+                    that Israel had massed troops on Syria’s border. Though the report was false,
+                    Nasser sent large numbers of Egyptian soldiers into the Sinai anyway. On May 16,
+                    Egypt demanded that the United Nations Emergency Force (UNEF), which had been
+                    deployed in the Sinai Peninsula and the Gaza Strip since 1957, withdraw from
+                    Israel’s border. Secretary-General U Thant replied that he would have to
+                    withdraw UNEF from all its positions, including Sharm al-Shaykh, which would put
+                    political pressure on Nasser to close the Straits of Tiran to Israeli shipping.
+                    Nasser remained adamant, and on May 22, after UNEF withdrew, he announced that
+                    he would close the Straits. In 1957, President Dwight D. Eisenhower had promised
+                    that the United States would treat the closure of the Straits as an act of war.
+                    Johnson now had three unwelcome options: to renege on Eisenhower’s promise,
+                    acquiesce in an Israeli attack on Egypt, or order U.S. forces to reopen the
+                    waterway.</p>
+                <p>Instead, the President played for time. He sought international and Congressional
+                    support for Operation Red Sea Regatta, which called for a coalition of maritime
+                    nations to send a “probing force” through the Straits if Egypt refused to grant
+                    all nations free passage through them. Simultaneously, Johnson implored the
+                    Soviets to intercede with Nasser and urged Israeli restraint. “Israel,” Johnson
+                    told Israeli Foreign Minister Abba Eban on May 26, “will not be alone unless it
+                    decides to go it alone.” Yet over the following week, the administration failed
+                    to gain domestic or foreign backing for “Regatta.” Meanwhile, Jordan joined the
+                    Arab coalition, heightening the pressure for an Israeli strike. Though Johnson
+                    continued to caution Israel against preemption, a number of the President’s
+                    advisors had concluded that U.S. interests would be best served by Israel “going
+                    it alone” by the time the Israelis actually did so.</p>
+                <p>
+                    <hi rend="strong">The War and its Aftermath</hi>
+                </p>
+                <p>Between June 5 and June 10, Israel defeated Egypt, Jordan, and Syria and occupied
+                    the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem, and the
+                    Golan Heights. From the beginning, the United States sought a ceasefire in order
+                    to prevent an Arab defeat bad enough to force the Soviet Union to intervene.
+                    U.S. officials were also concerned about alienating pro-Western Arab regimes,
+                    especially after Egypt and several other Arab states accused the United States
+                    of helping Israel and broke diplomatic relations. Yet after June 5, the
+                    administration did not also demand an immediate Israeli pullback from the
+                    territories it had occupied. U.S. officials believed that in light of the
+                    tenuous nature of the prewar armistice regime, they should not force Israel to
+                    withdraw unless peace settlements were put into place.</p>
+                <p>The administration’s concept of “land-for-peace” solidified following the war.
+                    “Certainly,” Johnson proclaimed, “troops must be withdrawn; but there must also
+                    be recognized rights of national life, progress in solving the refugee problem,
+                    freedom of innocent maritime passage, limitation of the arms race, and respect
+                    for political independence and territorial integrity.” Yet after the Arab states
+                    rejected a Latin American UN resolution calling for full withdrawal in exchange
+                    for recognition of “the right of all states in the area to live in peace and
+                    security” and a similar U.S.-Soviet draft, the Johnson administration scaled
+                    back its efforts to promote a settlement. Though alarmed by Israeli decisions to
+                    absorb East Jerusalem and establish Jewish settlements in the occupied
+                    territories, U.S. officials believed that the Arabs remained too inflexible to
+                    justify pressing Israel to withdraw. </p>
+                <p>The Johnson administration did not re-enter the diplomatic fray until October,
+                    when the Soviets began to circulate a new version of the resolution that they
+                    had promoted that summer. Knowing that Israel would reject the Soviet draft, the
+                    administration encouraged the United Kingdom to introduce an alternative
+                    resolution devised by UN Ambassador Arthur Goldberg. Security Council Resolution
+                    242, adopted on November 22, called for Israel’s withdrawal from “territories
+                    occupied in the recent conflict” in exchange for “termination of all claims or
+                    states of belligerency and respect for and acknowledgment of the sovereignty,
+                    territorial integrity and political independence of every State in the area and
+                    their right to live in peace within secure and recognized boundaries free from
+                    threats or acts of force.” Interpreted differently by Israelis and Arabs, this
+                    resolution would nonetheless remain the bedrock of all subsequent U.S. efforts
+                    to resolve the Arab-Israeli dispute.</p>
+            </div>
+            <div type="section" xml:id="tet" ana="vietnam vietnam-conflict">
+                <head>U.S. Involvement in the Vietnam War: The Tet Offensive, <date when="1968"
+                        >1968</date>
+                </head>
+                <p>In late January, 1968, during the lunar new year (or “Tet”) holiday, North
+                    Vietnamese and communist Viet Cong forces launched a coordinated attack against
+                    a number of targets in <placeName>South Vietnam</placeName>. The U.S. and South
+                    Vietnamese militaries sustained heavy losses before finally repelling the
+                    communist assault. The Tet Offensive played an important role in weakening U.S.
+                    public support for the war in Vietnam. </p>
+                <figure>
+                    <graphic url="tet.jpg" height="200px" width="200px"/>
+                    <head>U.S. Captain Franklin Eller coordinates with military command during the
+                        Tet Offensive</head>
+                </figure>
+                <p>Ho Chi Minh and leaders in <placeName>Hanoi</placeName> planned the Tet Offensive
+                    in the hopes of achieving a decisive victory that would end the grinding
+                    conflict that frustrated military leaders on both sides. A successful attack on
+                    major cities might force the United States to negotiate or perhaps even to
+                    withdraw. At the very least, the North Vietnamese hoped it would serve to stop
+                    the ongoing escalation of guerilla attacks and bombing in the North. Hanoi
+                    selected the Tet holiday to strike because it was traditionally a time of truce,
+                    and because Vietnamese traveling to spend the festival with their relatives
+                    provided cover for the movement of <orgName>South Vietnamese National Liberation
+                        Forces (NLF)</orgName> who supported the communist forces.</p>
+                <p>The first phase of the assault began on January 30 and 31, when NLF forces
+                    simultaneously attacked a number of targets, mostly populated areas and places
+                    with heavy U.S. troop presence. The strikes on the major cities of
+                        <placeName>Huế</placeName> and <placeName>Saigon</placeName> had a strong
+                    psychological impact, as they showed that the NLF troops were not as weak as the
+                        <persName>Johnson</persName> Administration had previously claimed. The NLF
+                    even managed to breach the outer walls of the U.S. Embassy in Saigon. Although
+                    the first phase of the offensive became the most famous, a second phase also
+                    launched simultaneous assaults on smaller cities and towns on May 4 and
+                    stretched into June. A third phase began in August and lasted six weeks. In the
+                    months that followed, U.S. and South Vietnamese forces retook the towns that the
+                    NLF had secured over the course of the offensive, but they incurred heavy
+                    military and civilian casualties in the process.</p>
+                <p>At the end of the Tet Offensive, both sides had endured losses, and both sides
+                    claimed victory. The U.S. and South Vietnamese military response almost
+                    completely eliminated the NLF forces and regained all of the lost territory. At
+                    the same time, the Tet Offensive weakened domestic support for the Johnson
+                    Administration as the vivid reporting on the Tet Offensive by the U.S. media
+                    made clear to the American public that an overall victory in Vietnam was not
+                    imminent. </p>
+                <p>The aftermath of Tet brought public discussions about de-escalation, but not
+                    before U.S. generals asked for additional troops for a wide-scale “accelerated
+                    pacification program.” Believing that the U.S. was in a position to defeat the
+                    North, these military leaders sought to press for a U.S.-South Vietnam
+                    offensive. Johnson and others, however, read the situation differently. Johnson
+                    announced that the bombing of <placeName>North Vietnam</placeName> would cease
+                    above the 20th parallel and placed a limit on U.S. troops in <placeName>South
+                        Vietnam</placeName>. Johnson also attempted to set parameters for peace
+                    talks, but it would be several more years before these came to fruition. Within
+                    the United States, protests against continued involvement in Vietnam
+                    intensified. On March 31, 1968, Johnson announced that he would not seek a
+                    second term as president. The job of finding a way out of Vietnam was left to
+                    the next U.S. president, <persName>Richard Nixon</persName>.</p>
+            </div>
+            <div type="section" xml:id="soviet-invasion-czechoslavkia"
+                ana="czech-republic slovakia russia johnson-lyndon-b">
+                <head>Soviet Invasion of Czechoslovakia, <date when="1968">1968</date>
+                </head>
+                <p>On <date when="1968-08-20">August 20, 1968</date>, the Soviet Union led <ref
+                        target="/milestones/1953-1960/warsaw-treaty">Warsaw Pact</ref> troops in an
+                    invasion of <placeName>Czechoslovakia</placeName> to crack down on reformist
+                    trends in <placeName>Prague</placeName>. Although the Soviet Union’s action
+                    successfully halted the pace of reform in Czechoslovakia, it had unintended
+                    consequences for the unity of the communist bloc.</p>
+                <figure>
+                    <graphic url="prague.jpg" width="450px" height="333px"/>
+                    <head>Czech youths holding Czechoslovakian ﬂags stand atop of an overturned
+                        truck as other Prague residents surround Soviet tanks in downtown Prague on
+                        Aug. 21, 1968. (AP Photo/Libor Hajsky/CTK)</head>
+                </figure>
+                <p>Before the <ref target="/milestones/1937-1945">Second World War</ref>, the nation
+                    of Czechoslovakia had been a strong democracy in <placeName>Central
+                        Europe</placeName>, but beginning in the mid 1930s it faced challenges from
+                    both the West and the East. In 1938, the leadership in <placeName>Great
+                        Britain</placeName> and <placeName>France</placeName> conceded the German
+                    right to takeover the <placeName>Sudetenland</placeName> in the Munich
+                    Agreement, but the Czech government condemned this German occupation of its
+                    western-most territory as a betrayal. In 1948, Czech attempts to join the
+                    U.S.-sponsored <ref target="/milestones/1945-1952/marshall-plan">Marshall
+                        Plan</ref> to aid postwar rebuilding were thwarted by Soviet takeover and
+                    the installation of a new communist government in Prague. For the next twenty
+                    years, Czechoslovakia remained a stable state within the Soviet sphere of
+                    influence; unlike in Hungary or Poland, even the rise of de-Stalinization after
+                    1953 did not lead to liberalization by the fundamentally conservative Czech
+                    government.</p>
+                <p>In the 1960s, however, changes in the leadership in <placeName>Prague</placeName>
+                    led to a series of reforms to soften or humanize the application of communist
+                    doctrines within Czech borders. The Czech economy had been slowing since the
+                    early 1960s, and cracks were emerging in the communist consensus as workers
+                    struggled against new challenges. The government responded with reforms designed
+                    to improve the economy. In early 1968, conservative leader <persName>Antonin
+                        Novotny</persName> was ousted as the head of the Communist Party of
+                    Czechoslovakia, and he was replaced by <persName>Alexander Dubcek</persName>.
+                    The Dubcek government ended censorship in early 1968, and the acquisition of
+                    this freedom resulted in a public expression of broad-based support for reform
+                    and a public sphere in which government and party policies could be debated
+                    openly. In April, the Czech Government issued a formal plan for further reforms,
+                    although it tried to liberalize within the existing framework of the
+                    Marxist-Leninist State and did not propose a revolutionary overhaul of the
+                    political and economic systems. As conflicts emerged between those calling for
+                    further reforms and conservatives alarmed by how far the liberalization process
+                    had gone, Dubcek struggled to maintain control. </p>
+                <p>Soviet leaders were concerned over these recent developments in Czechoslovakia.
+                    Recalling the 1956 uprising in Hungary, leaders in <placeName>Moscow</placeName>
+                    worried that if Czechoslovakia carried reforms too far, other satellite states
+                    in <placeName>Eastern Europe</placeName> might follow, leading to a widespread
+                    rebellion against Moscow’s leadership of the Eastern Bloc. There was also a
+                    danger that the Soviet Republics in the East, such as the
+                        <placeName>Ukraine</placeName>, <placeName>Lithuania</placeName>,
+                        <placeName>Latvia</placeName>, and <placeName>Estonia</placeName> might make
+                    their own demands for more liberal policies. After much debate, the Communist
+                    Party leadership in Moscow decided to intervene to establish a more conservative
+                    and pro-Soviet government in Prague.</p>
+                <p>The Warsaw Pact invasion of <date when="1968-08-20">August 20–21</date> caught
+                    Czechoslovakia and much of the Western world by surprise. In anticipation of the
+                    invasion, the Soviet Union had moved troops from the Soviet Union, along with
+                    limited numbers of troops from <placeName>Hungary</placeName>,
+                        <placeName>Poland</placeName>, <placeName>East Germany</placeName> and
+                        <placeName>Bulgaria</placeName> into place by announcing Warsaw Pact
+                    military exercises. When these forces did invade, they swiftly took control of
+                    Prague, other major cities, and communication and transportation links. Given
+                    the escalating U.S. involvement in the conflict in Vietnam as well as past U.S.
+                    pronouncements on non-intervention in the East Bloc, the Soviets guessed
+                    correctly that the United States would condemn the invasion but refrain from
+                    intervening. Although the Soviet crackdown on Czechoslovakia was swift and
+                    successful, small-scale resistance continued throughout early 1969 while the
+                    Soviets struggled to install a stable government. Finally, in April of 1969, the
+                    Soviets forced Dubcek from power in favor of a more conservative administrator.
+                    In the years that followed, the new leadership reestablished government
+                    censorship and controls preventing freedom of movement, but it also improved
+                    economic conditions, eliminating one of the sources for revolutionary fervor.
+                    Czechoslovakia once again became a cooperative member of the Warsaw Pact.</p>
+                <p>The Soviet invasion of Czechoslovakia was significant in the sense that it
+                    delayed the splintering of Eastern European Communism and was concluded without
+                    provoking any direct intervention from the West. Repeated efforts in the UN
+                    Security Council to pass a resolution condemning the attacks met with opposition
+                    from the Soviet Union, and the effort finally died away. The invasion did,
+                    however, temporarily derail progress toward détente between the Soviet Union and
+                    the United States. The NATO allies valued the idea of a lessening of tensions,
+                    and as a result they were determined not to intervene. Still, the invasion
+                    forced U.S. President <persName>Lyndon B. Johnson</persName> to cancel a summit
+                    meeting with Soviet leader <persName>Leonid Brezhnev</persName>. Although
+                    Brezhnev knew this was the most likely outcome of the invasion, he considered
+                    maintaining Soviet control in the East Bloc a higher priority in the short-term
+                    than pursuing détente with the West. As it turned out, the progress on arms
+                    control agreements were only delayed by a few years in the aftermath of the
+                    Prague Spring. </p>
+                <p>There were also long-term consequences. After the invasion, the Soviet leadership
+                    justified the use of force in Prague under what would become known as the
+                    Brezhnev Doctrine, which stated that Moscow had the right to intervene in any
+                    country where a communist government had been threatened. This doctrine,
+                    established to justify Soviet action in Czechoslovakia, also became the primary
+                    justification for the Soviet invasion of Afghanistan in 1979, and even before
+                    that it helped to finalize the Sino-Soviet split, as Beijing feared that the
+                    Soviet Union would use the doctrine as a justification to invade or interfere
+                    with Chinese communism. Because the United States interpreted the Brezhnev
+                    Doctrine and the history of Soviet interventions in Europe as defending
+                    established territory, not expanding Soviet power, the aftermath of the Czech
+                    crisis also lent support to voices in the U.S. Congress calling for a reduction
+                    in U.S. military forces in Europe. </p>
+            </div>
+            <div type="section" xml:id="npt"
+                ana="arms-control-and-disarmament nuclear-weapons nuclear-nonproliferation international-atomic-energy-agency">
+                <head>The Nuclear Non-Proliferation Treaty (NPT), <date when="1968">1968</date>
+                </head>
+                <p>The Nuclear Non-Proliferation Treaty was an agreement signed in 1968 by several
+                    of the major nuclear and non-nuclear powers that pledged their cooperation in
+                    stemming the spread of nuclear technology. Although the NPT did not ultimately
+                    prevent nuclear proliferation, in the context of the Cold War arms race and
+                    mounting international concern about the consequences of nuclear war, the treaty
+                    was a major success for advocates of arms control because it set a precedent for
+                    international cooperation between nuclear and non-nuclear states to prevent
+                    proliferation.</p>
+                <figure>
+                    <graphic url="test-ban.jpg" height="450px" width="304px"/>
+                    <head>U.S. Ambassador Llewellyn E. Thompson, signs nuclear non-proliferation
+                        treaty as Soviet Foreign Minister Andrei A. Gromyko watches in Moscow,
+                        Russia, on July 1, 1968. (AP Photo)</head>
+                </figure>
+                <p> After the <placeName>United States</placeName> and the <placeName>Soviet
+                        Union</placeName> signed the Limited Test Ban Treaty in 1963, leaders of
+                    both nations hoped that other, more comprehensive agreements on arms control
+                    would be forthcoming. Given the excessive costs involved in the development and
+                    deployment of new and more technologically advanced nuclear weapons, both powers
+                    had an interest in negotiating agreements that would help to slow the pace of
+                    the arms race and limit competition in strategic weapons development. Four years
+                    after the first treaty, the two sides agreed to an Outer Space Treaty that
+                    prevented the deployment of nuclear weapons systems as satellites in space. Of
+                    far greater import, Soviet and U.S. negotiators also reached a settlement on
+                    concluding an international non-proliferation treaty. </p>
+                <p>By the beginning of the 1960s, nuclear weapons technology had the potential to
+                    become widespread. The science of exploding and fusing atoms had entered into
+                    public literature via academic journals, and nuclear technology was no longer
+                    pursued only by governments, but by private companies as well. Plutonium, the
+                    core of nuclear weapons, was becoming easier to obtain and cheaper to process.
+                    As a result of these changes, by 1964 there were five nuclear powers in the
+                    world: in addition to the United States, the Soviet Union, and the United
+                    Kingdom, all of which obtained nuclear capability during or shortly after the
+                    Second World War, France exploded its first nuclear bomb in 1960, and the
+                    People’s Republic of China was not far behind in 1964. There were many other
+                    countries that had not yet tested weapons, but which were technologically
+                    advanced enough that should they decide to build them, it was likely that they
+                    could do so before long. </p>
+                <p>The spread of nuclear weapons technology meant several things for international
+                    lawmakers. While the only countries that were capable of nuclear strike were the
+                    United States, its close ally Britain, and the Soviet Union, the doctrine of
+                    deterrence could be reasonably maintained. Because both sides of the Cold War
+                    had vast stocks of weapons and the capability of striking back after being
+                    attacked, any strike would likely have led to mutually assured destruction, and
+                    thus there remained a strong incentive for any power to avoid starting a nuclear
+                    war. However, if more nations, particularly developing nations that lay on the
+                    periphery of the balance of power between the two Cold War superpowers, achieved
+                    nuclear capability, this balance risked being disrupted and the system of
+                    deterrence would be threatened. Moreover, if countries with volatile border
+                    disputes became capable of attacking with nuclear weapons, then the odds of a
+                    nuclear war with truly global repercussions increased. This also caused the
+                    nuclear states to hesitate in sharing nuclear technology with developing
+                    nations, even technology that could be used for peaceful applications. All of
+                    these concerns led to international interest in a nuclear non-proliferation
+                    treaty that would help prevent the spread of nuclear weapons. </p>
+                <p>Although the benefits to be derived from such a treaty were clear, its
+                    development was not without controversy. A ban on the distribution of nuclear
+                    technology was first proposed by Ireland in a meeting of the General Assembly of
+                    the United Nations in 1961. Although the members approved the resolution, it
+                    took until 1965 for negotiations to begin in earnest at the Geneva disarmament
+                    conference. At that time, U.S. negotiators worked to strike a delicate balance
+                    between the interest in preventing further transfer of the technology that it
+                    shared with the Soviet Union and the desire to strengthen its NATO allies by
+                    giving several Western European nations some measure of control over nuclear
+                    weapons. The plan for a nuclear NATO threatened to scuttle the talks altogether,
+                    and the United States eventually abandoned it in favor of reaching a workable
+                    treaty. A more difficult problem involved the question of bringing non-nuclear
+                    nations into line with the planned treaty. Nations that had not yet developed
+                    nuclear weapons technology were essentially being asked to give up all
+                    intentions to ever develop the weapons. Without this agreement on the part of
+                    the non-nuclear powers, having the nuclear powers vow never to transfer the
+                    technology would likely not result in any real limitation on the number of
+                    worldwide nuclear powers. After two years of negotiations, the nuclear powers
+                    managed to make enough concessions to induce many non-nuclear powers to sign. </p>
+                <p>The final treaty involved a number of provisions all aimed at limiting the spread
+                    of nuclear weapons technology. First, the nuclear signatories agreed not to
+                    transfer either nuclear weapons or nuclear weapons technology to any other
+                    state. Second, the non-nuclear states agreed that they would not receive,
+                    develop or otherwise acquire nuclear weapons. All of the signatories agreed to
+                    submit to the safeguards against proliferation established by the International
+                    Atomic Energy Agency (IAEA). Parties to the treaty also agreed to cooperate in
+                    the development of peaceful nuclear technology and to continue negotiations to
+                    help end the nuclear arms race and limit the spread of the technology. The
+                    treaty was given a 25-year time limit, with the agreement that it would be
+                    reviewed every 5 years.</p>
+                <p>The Nuclear Non-Proliferation Treaty was, and continues to be, heralded as an
+                    important step in the ongoing efforts to reduce or prevent the spread of nuclear
+                    weapons. Still, it had one major drawback in that two nuclear powers, France and
+                    the People’s Republic of China, did not sign the agreement, nor did a number of
+                    non-nuclear states. Of the non-nuclear states refusing to adhere, and thereby
+                    limit their own future nuclear programs, of particular importance were
+                    Argentina, Brazil, India, Israel, Pakistan, Saudi Arabia and South Africa,
+                    because these powers were close to being capable of the technology. In fact, in
+                    1974, India joined the “nuclear club” by exploding its first weapon. Pakistan
+                    tested its first atomic bomb in 1983.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

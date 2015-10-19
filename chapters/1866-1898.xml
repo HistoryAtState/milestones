@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1866–1898</title>
+                <title type="short">1866–1898</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1866" to="1898">1866–1898</date>: The Continued Expansion of United
+                    States Interests</head>
+                <p>In the wake of the Civil War, the United States continued to expand into new
+                    territory and new markets.</p>
+                <figure>
+                    <graphic url="alaskaratification.jpg" height="200px" width="200px"/>
+                    <head>Russian ratification of the Alaska purchase, June 1867 </head>
+                </figure>
+                <p>In 1867, the U.S. nearly doubled its holdings with the purchase of the territory
+                    of <placeName>Alaska</placeName> from the Russians. During this period, U.S.
+                    economic power grew, driven by new inventions in communication and
+                    transportation that closed the distance from coast to coast, and by a massive
+                    influx of immigration that sparked an explosion of industrialization and
+                    urbanization throughout the country. The combination of high productivity and
+                    the industrial revolution resulted in a production rate that vastly outstripped
+                    that which people in the United States could consume. Following two devastating
+                    economic recessions, U.S. foreign policy leaders focused on finding foreign
+                    markets to absorb excess goods. This renewed emphasis on exploring international
+                    business opportunities resulted in a buildup of U.S. naval forces to protect
+                    commercial shipping and overseas interests. </p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="telegraph">
+                <head>U.S. Diplomacy and the Telegraph, <date when="1866">1866</date>
+                </head>
+                <p>The development of the electric telegraph greatly changed the way diplomacy was
+                    conducted in the 19th century. Until that time information was exchanged at the
+                    speed of a sailing ship or a galloping horse. During the 1830s and 1840s,
+                    inventors working independently in several countries developed workable electric
+                    telegraphs, and these devices quickly superceded other technologies with the
+                    same name. By the mid-nineteenth century, telegraphy had acquired its present
+                    definition as a device for converting messages into electric impulses that
+                    traveled instantaneously by wire to distant receivers, where they were converted
+                    back into readable text. European foreign ministries first used telegraphy
+                    during the early 1850s, but it did not become an important tool in the diplomacy
+                    of the United States until the completion of a successful transatlantic cable in
+                    1866.</p>
+                <figure>
+                    <graphic url="telegram.jpg" height="200px" width="200px"/>
+                    <head>The first telegram sent across the Atlantic, reading “What hath God
+                        wrought.”</head>
+                </figure>
+                <p>The most significant characteristic of the telegraph was its speed. Telegrams
+                    traveled like lightning across continents and oceans. Even with the additional
+                    time required for coding and handling, telegrams were typically available within
+                    a few hours of being sent. This speed brought many advantages to policymakers
+                    who found that they could respond rapidly to far off crises of whose very
+                    existence they would previously have remained ignorant for weeks. But the
+                    telegraph also brought disadvantages. The ability to act quickly placed new time
+                    pressures upon political leaders, especially since telegraphy could inform
+                    newspapers and an expectant public just as swiftly. The acceleration of
+                    international disputes posed challenges to foreign ministries, which frequently
+                    used delay as a tool in resolving international crises. The long pauses caused
+                    by relatively slow communication had previously allowed tempers to cool,
+                    provided time for careful, methodical diplomacy, and offered harried political
+                    leaders an opportunity to conceive creative solutions to complex problems.</p>
+                <p>Telegraphy increased the centralization of foreign ministries. When ambassadors
+                    were months away from their political superiors, they were often forced to take
+                    pressing and important decisions before they could receive their instructions.
+                    In such circumstances, they exercised enormous power, sometimes even acting as
+                    policymakers in their own right. In contrast, telegraphy circumscribed the
+                    independence of diplomats. It reduced the pressure of difficult decisions, which
+                    diplomats had previously faced without ready access to advice from their
+                    superiors. Yet, it also diminished the prestige and the power of diplomatic
+                    representatives. Their function changed. Whereas diplomats had once received
+                    autonomy because the sending of instructions to respond to every eventuality was
+                    slow and cumbersome, they now, in the age of the telegraph, were prized in part
+                    for their inefficiency. They provided an extra layer of expertise and slowed the
+                    policymaking process, thereby reducing the chances of a catastrophic error.</p>
+                <p>The formation and implementation of foreign policy can be a high-risk endeavor.
+                    In an environment in which miscalculation can lead to a disastrous war or
+                    diplomatic defeat, foreign ministries tend to be skeptical of radical changes
+                    and untried methods. Yet, foreign ministries did cautiously adapt to the
+                    telegraph. In 1859, Britain’s Foreign Office hired resident clerks to handle
+                    telegrams received after the close of business. The U.S. Department of State
+                    established a telegraph office in 1866, a few months after the permanent
+                    establishment of transatlantic telegraphy. Diplomats learned to write more
+                    concisely in order to reduce telegraph expenses, which typically increased with
+                    the length of messages. Foreign ministries made more frequent use of codes in an
+                    (often fruitless) effort to keep the contents of their telegrams secret from
+                    spies.</p>
+                <p>In the late 20th and early 21st centuries, new technologies of
+                    communication—especially networked computers and fiber optic cables (which
+                    carried light rather than electricity)—marked the end of diplomacy by telegraph.
+                    Yet, the telegraph deserves to be remembered as the technology that brought
+                    diplomacy into the high-speed age of electricity. </p>
+            </div>
+            <div type="section" xml:id="alaska-purchase">
+                <head>Purchase of Alaska, <date when="1867">1867</date>
+                </head>
+                <p>The purchase of <placeName>Alaska</placeName> in 1867 marked the end of Russian
+                    efforts to expand trade and settlements to the Pacific coast of North America,
+                    and became an important step in the United States rise as a great power in the
+                    Asia-Pacific region. Beginning in 1725, when Russian Czar <persName>Peter the
+                        Great</persName> dispatched Vitus Bering to explore the Alaskan coast,
+                    Russia had a keen interest in this region, which was rich in natural resources
+                    and lightly inhabited. As the United States expanded westward in the early
+                    1800s, Americans soon found themselves in competition with Russian explorers and
+                    traders. St. Petersburg, however, lacked the financial resources to support
+                    major settlements or a military presence along the Pacific coast of North
+                    America and permanent Russian settlers in Alaska never numbered more than four
+                    hundred. Defeat in the Crimean War further reduced Russian interest in this
+                    region.</p>
+                <figure>
+                    <graphic url="alaskatreaty.jpg" height="200px" width="200px"/>
+                    <head>Signing of the Alaska Treaty, 1867</head>
+                </figure>
+                <p>Russia offered to sell Alaska to the United States in 1859, believing the United
+                    States would off-set the designs of Russia’s greatest rival in the Pacific,
+                    Great Britain. The looming U.S. Civil War delayed the sale, but after the war,
+                    Secretary of State <ref target="/departmenthistory/people/seward-william-henry"
+                        >William Seward</ref> quickly took up a renewed Russian offer and on March
+                    30, 1867, agreed to a proposal from Russian Minister in Washington, Edouard de
+                    Stoeckl, to purchase Alaska for $7.2 million. The Senate approved the treaty of
+                    purchase on April 9; President Andrew Johnson signed the treaty on May 28, and
+                    Alaska was formally transferred to the United States on October 18, 1867. This
+                    purchase ended Russia’s presence in North America and ensured U.S. access to the
+                    Pacific northern rim.</p>
+                <p>For three decades after its purchase the United States paid little attention to
+                    Alaska, which was governed under military, naval, or Treasury rule or, at times,
+                    no visible rule at all. Seeking a way to impose U.S. mining laws, the United
+                    States constituted a civil government in 1884. Skeptics had dubbed the purchase
+                    of Alaska “Seward’s Folly,” but the former Secretary of State was vindicated
+                    when a major gold deposit was discovered in the Yukon in 1896, and Alaska became
+                    the gateway to the Klondike gold fields. The strategic importance of Alaska was
+                    finally recognized in World War II. Alaska became a state on January 3, 1959.
+                </p>
+            </div>
+            <div type="section" xml:id="burlingame-seward-treaty">
+                <head>The Burlingame-Seward Treaty, <date when="1868">1868</date>
+                </head>
+                <p>China and the United States concluded the Burlingame-Seward Treaty in 1868 to
+                    expand upon the Treaty of Tianjin of 1858. The new treaty established some basic
+                    principles that aimed to ease immigration restrictions, and represented a
+                    Chinese effort to limit American interference in internal Chinese affairs.</p>
+                <figure>
+                    <graphic url="burlingame-anson.jpg" height="200px" width="200px"/>
+                    <head>Republican Laywer and former U.S. Representative from Massachusetts, Anson
+                        Burlingame</head>
+                </figure>
+                <p>
+                    <ref target="/departmenthistory/people/burlingame-anson">Anson Burlingame</ref>,
+                    a lawyer and former Republican representative to Congress from Massachusetts,
+                    became the U.S. Minister to <placeName>China</placeName> in 1861 and, under the
+                    orders of Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William
+                    Seward</ref>, worked to establish the United States as a power in the East. The
+                    United States wanted to gain access to profitable trading opportunities and
+                    foster the spread of Christianity in Asia, alongside the leading European
+                    nations, who also sought to gain inroads in China and Japan. As a part of the
+                    general effort to convince the Chinese to adopt a more Western approach to
+                    diplomacy and governance, the Western powers also encouraged the Chinese
+                    Government to send diplomatic missions abroad. Finally persuaded to do so, the
+                    Chinese requested that Burlingame accompany their representatives on a tour that
+                    included stops in the major capitals of Washington, London, Paris, and Berlin.
+                    Burlingame, originally a representative of the U.S. Government, gave up his post
+                    to assist the Chinese in their treaty negotiations with Seward.</p>
+                <p>While in Washington, Burlingame negotiated a treaty with Seward to revise and
+                    expand upon the points established in the Treaty of Tianjin of 1858. The first
+                    few articles of the new treaty protected commerce conducted in Chinese ports and
+                    cities, and established the right of China to appoint consuls to American port
+                    cities. The more groundbreaking articles included measures that promised the
+                    Chinese the right to free immigration and travel within the United States, and
+                    allowed for the protection of Chinese citizens in the United States in
+                    accordance with the most-favored-nation principle. Another article gave the
+                    citizens of the two nations reciprocal access to education and schooling when
+                    living in the other country. All of these articles served to reinforce the
+                    principle of equality between the two nations.</p>
+                <p>The final article of the Burlingame-Seward Treaty offered China some protection
+                    from external influence in internal matters. In this article the U.S. recognized
+                    that the decision to begin new construction projects or similar improvements
+                    belonged in the hands of the local government, not foreign powers or their
+                    representatives. This point was intended to safeguard against undue U.S.
+                    involvement in Chinese domestic affairs.</p>
+                <p>Despite the reciprocal protections that the Treaty afforded Chinese in the United
+                    States and Americans in China, the Treaty ultimately reinforced U.S. trade
+                    interests with China under the principle of the most-favored-nation concept, and
+                    it ensured a steady flow of low-cost Chinese immigrant labor for U.S. firms. For
+                    these reasons, American industrial leaders initially celebrated the Treaty as a
+                    major advancement for American commercial interests.</p>
+                <p>However, the success of the treaty was short-lived. By the late 1870s, U.S.
+                    industrial leaders and politicians could no longer ignore the increasing
+                    anti-Chinese sentiment in the United States, particularly in the western states;
+                    in fact, industrialists and politicians often promoted anti-Chinese activities.
+                    A new treaty signed in 1880 revised the Burlingame-Seward agreement, and the
+                    Chinese Exclusion Act of 1882 abrogated its free immigration clauses
+                    altogether.</p>
+            </div>
+            <div type="section" xml:id="commodore-shufeldt">
+                <head>Commodore Robert W. Shufeldt’s Voyage to Africa, the Middle East, and Asia,
+                        <date from="1878" to="1880">1878–1880</date>
+                </head>
+                <p>Between 1878 and 1880, Commodore <persName>Robert Shufeldt</persName> commanded
+                    the U.S.S. <hi rend="italic">Ticonderoga</hi> on a mission to
+                        <placeName>Africa</placeName>, the <placeName>Middle East</placeName>, and
+                        <placeName>Asia</placeName> in an attempt to further open those regions to
+                    U.S. trade. The voyage was moderately successful at raising awareness of U.S.
+                    manufactures, but concrete results in the form of trade agreements were mostly
+                    lacking, except for an unratified 1880 treaty with Anjouan. However, Shufeldt
+                    was able to lay the groundwork for an 1883 commercial treaty with Korea.</p>
+                <figure>
+                    <graphic url="ticonderoga.jpg" height="200px" width="200px"/>
+                    <head>The Recommisioned USS <hi rend="italic">Ticonderoga</hi>, led by Commodore
+                        Robert Shufeldt</head>
+                </figure>
+                <p>
+                    <hi rend="strong">Planning the Voyage</hi>
+                </p>
+                <p>Shufeldt’s trip was conceived in 1878 by Secretary of State <ref
+                        target="/departmenthistory/people/evarts-william-maxwell">William
+                        Evarts</ref> and Secretary of the Navy <persName>Richard W.
+                        Thompson</persName>. The U.S. economy had suffered greatly after the Panic
+                    of 1873 and entered into a depression worsened by weak consumer demand. Evarts
+                    and Thompson hoped that a successful trade mission would open new markets for
+                    U.S. manufactures. The mission as described by Evarts and Thompson was to visit
+                    the “unfrequented ports of Africa, Asia, the islands of the Persian Ocean, and
+                    the adjacent seas, particularly where there are at present no American
+                    Commercial representatives with a view to the encouragement and extension of
+                    American Commerce.” For this task, they chose Commodore Robert Wilson Shufeldt
+                    (1822–1895), who had enjoyed a long and distinguished naval career.</p>
+                <p>Evarts instructed Shufeldt to renegotiate existing treaties and arrange new ones
+                    in the places he was scheduled to visit. Senator Aaron Sargent of California
+                    also hoped that Shufeldt would be able to improve relations with Korea, where
+                    U.S. Marines had invaded in 1871. Shufeldt was also instructed to arbitrate a
+                    boundary dispute between the West African nation of Liberia and the British
+                    colony of Sierra Leone.</p>
+                <p>The <hi rend="italic">Ticonderoga</hi> left the United States on December 7,
+                    1878, and arrived in Liberia on January 15, 1879. Shufeldt successfully
+                    arbitrated the boundary dispute with Sierra Leone, and the lands east of the
+                    Sugaree River were awarded to Liberia. From Liberia, Shufeldt sailed south along
+                    the coast of Africa toward Cape Town, making numerous stops, and recommending
+                    the establishment of consulates in key ports along the African coast. Shufeldt
+                    also recommended that the United States acquire the Spanish-controlled island of
+                    Fernando Po (present-day Bioko in Equatorial Guinea) in order to secure access
+                    to palm oil. Noting the hostility of European colonial officials to his mission,
+                    Shufeldt expressed a general concern about what seemed to be the joint
+                    Anglo-French division of Africa that might interfere with future U.S. trade in
+                    the African continent.</p>
+                <p>Rounding the Cape of Good Hope, Shufeldt then sailed up the eastern coast of
+                    Africa, stopping at Madagascar, and then heading to the island of Anjouan (also
+                    known as Johanna or Nzwane) in the present-day Comoros, where he successfully
+                    negotiated a commercial treaty with its ruler, Sultan Abdallah, on October 4,
+                    1879. Abdallah was concerned about British and French encroachments upon his
+                    rule, and hoped to cultivate the United States as a possible ally. However, the
+                    treaty was not ratified by the U.S. Senate.</p>
+                <p>Following his visit to Anjouan, Shufeldt sailed northwards and visited the
+                    Persian Gulf, where he also noted increasing British influence. Shufeldt
+                    recommended the establishment of U.S. relations with Persia (present-day Iran),
+                    and a U.S. legation was established there in 1883.</p>
+                <p>From the Persian Gulf, Shufeldt sailed to India, Singapore, Borneo, the
+                    Philippines, and Hong Kong before heading to Japan, where he aimed to secure
+                    Japanese mediation for his negotiations with the Korean government. The Korean
+                    government had been hostile to U.S. entreaties since an unsuccessful U.S.
+                    attempt to forcibly establish a commercial footing in 1871. However, Japanese
+                    mediation ultimately was not successful during Shufeldt’s voyage. Shufeldt left
+                    Japan for China, where he hoped to negotiate with Chinese Viceroy Li Hongzhang
+                    (also transliterated Hung-Chang) to obtain a commercial treaty with Korea. Li
+                    had followed a policy of reasserting Chinese claims over Korea and curbing
+                    Korean autonomy, and so was not amenable to arranging an agreement at that time.
+                    Shufeldt also hoped that Li Hongzhang would be interested in American assistance
+                    in the reorganization of the Chinese Navy, but the Chinese government had
+                    already secured French assistance. Shufeldt ultimately had to leave East Asia
+                    without any diplomatic agreements.</p>
+                <figure>
+                    <graphic url="li.jpg" height="200px" width="200px"/>
+                    <head>Chinese Viceroy Li Hongzhang</head>
+                </figure>
+                <p>Overall, Shufeldt’s voyage succeeded in raising the U.S.’s international profile
+                    and prestige, but came short of producing significant concrete results. However,
+                    the voyage did lay the necessary groundwork for the 1883 Korean treaty which was
+                    signed on May 22, 1883 after Shufeldt had been promoted to Rear Admiral and had
+                    secured a diplomatic post in China.</p>
+            </div>
+            <div type="section" xml:id="chinese-immigration">
+                <head>Chinese Immigration and the Chinese Exclusion Acts</head>
+                <p>In the <date when="1850">1850</date>s, Chinese workers migrated to the United
+                    States, first to work in the gold mines, but also to take agricultural jobs, and
+                    factory work, especially in the garment industry. Chinese immigrants were
+                    particularly instrumental in building railroads in the American west, and as
+                    Chinese laborers grew successful in the United States, a number of them became
+                    entrepreneurs in their own right. As the numbers of Chinese laborers increased,
+                    so did the strength of anti-Chinese sentiment among other workers in the
+                    American economy. This finally resulted in legislation that aimed to limit
+                    future immigration of Chinese workers to the United States, and threatened to
+                    sour diplomatic relations between the United States and China.</p>
+                <figure>
+                    <graphic url="chineseexclusionact.jpg" height="200px" width="200px"/>
+                    <head>The Chinese Exclusion Act</head>
+                </figure>
+                <p>American objections to Chinese immigration took many forms, and generally stemmed
+                    from economic and cultural tensions, as well as ethnic discrimination. Most
+                    Chinese laborers who came to the United States did so in order to send money
+                    back to China to support their families there. At the same time, they also had
+                    to repay loans to the Chinese merchants who paid their passage to America. These
+                    financial pressures left them little choice but to work for whatever wages they
+                    could. Non-Chinese laborers often required much higher wages to support their
+                    wives and children in the United States, and also generally had a stronger
+                    political standing to bargain for higher wages. Therefore many of the
+                    non-Chinese workers in the United States came to resent the Chinese laborers,
+                    who might squeeze them out of their jobs. Furthermore, as with most immigrant
+                    communities, many Chinese settled in their own neighborhoods, and tales spread
+                    of Chinatowns as places where large numbers of Chinese men congregated to visit
+                    prostitutes, smoke opium, or gamble. Some advocates of anti-Chinese legislation
+                    therefore argued that admitting Chinese into the United States lowered the
+                    cultural and moral standards of American society. Others used a more overtly
+                    racist argument for limiting immigration from East Asia, and expressed concern
+                    about the integrity of American racial composition.</p>
+                <p>To address these rising social tensions, from the 1850s through the 1870s the
+                    California state government passed a series of measures aimed at Chinese
+                    residents, ranging from requiring special licenses for Chinese businesses or
+                    workers to preventing naturalization. Because anti-Chinese discrimination and
+                    efforts to stop Chinese immigration violated the <ref
+                        target="/milestones/1866-1898/burlingame-seward-treaty">1868
+                        Burlingame-Seward Treaty</ref> with China, the federal government was able
+                    to negate much of this legislation.</p>
+                <p>In 1879, advocates of immigration restriction succeeded in introducing and
+                    passing legislation in Congress to limit the number of Chinese arriving to
+                    fifteen per ship or vessel. Republican President <persName>Rutherford B.
+                        Hayes</persName> vetoed the bill because it violated U.S. treaty agreements
+                    with <placeName>China</placeName>. Nevertheless, it was still an important
+                    victory for advocates of exclusion. Democrats, led by supporters in the West,
+                    advocated for all-out exclusion of Chinese immigrants. Although Republicans were
+                    largely sympathetic to western concerns, they were committed to a platform of
+                    free immigration. In order to placate the western states without offending
+                    China, President Hayes sought a revision of the Burlingame-Seward Treaty in
+                    which China agreed to limit immigration to the United States.</p>
+                <figure>
+                    <graphic url="hayes-rutherford.jpg" height="200px" width="200px"/>
+                    <head>President Rutherford B. Hayes</head>
+                </figure>
+                <p>In 1880, the Hayes Administration appointed U.S. diplomat <ref
+                        target="/departmenthistory/people/angell-james-burrill">James B.
+                        Angell</ref> to negotiate a new treaty with China. The resulting Angell
+                    Treaty permitted the United States to restrict, but not completely prohibit,
+                    Chinese immigration. In 1882, Congress passed the Chinese Exclusion Act, which,
+                    per the terms of the Angell Treaty, suspended the immigration of Chinese
+                    laborers (skilled or unskilled) for a period of 10 years. The Act also required
+                    every Chinese person traveling in or out of the country to carry a certificate
+                    identifying his or her status as a laborer, scholar, diplomat, or merchant. The
+                    1882 Act was the first in American history to place broad restrictions on
+                    immigration.</p>
+                <p>For American presidents and Congressmen addressing the question of Chinese
+                    exclusion, the challenge was to balance domestic attitudes and politics, which
+                    dictated an anti-Chinese policy, while maintaining good diplomatic relations
+                    with China, where exclusion would be seen as an affront and a violation of
+                    treaty promises. The domestic factors ultimately trumped international concerns.
+                    In 1888, Congress took exclusion even further and passed the Scott Act, which
+                    made reentry to the United States after a visit to China impossible, even for
+                    long-term legal residents. The Chinese Government considered this act a direct
+                    insult, but was unable to prevent its passage. In 1892, Congress voted to renew
+                    exclusion for ten years in the Geary Act, and in 1902, the prohibition was
+                    expanded to cover Hawaii and the Philippines, all over strong objections from
+                    the Chinese Government and people. Congress later extended the Exclusion Act
+                    indefinitely.</p>
+                <p>In China, merchants responded to the humiliation of the exclusion acts by
+                    organizing an anti-American boycott in 1905. Though the movement was not
+                    sanctioned by the Chinese government, it received unofficial support in the
+                    early months. President Theodore Roosevelt recognized the boycott as a direct
+                    response to unfair American treatment of Chinese immigrants, but with American
+                    prestige at stake, he called for the Chinese government to suppress it. After
+                    five difficult months, Chinese merchants lost the impetus for the movement, and
+                    the boycott ended quietly.</p>
+                <p>The Chinese Exclusion Acts were not repealed until 1943, and then only in the
+                    interests of aiding the morale of a wartime ally during World War II. With
+                    relations already complicated by the Opium Wars and the <ref
+                        target="/milestones/1830-1860/china-1">Treaties of Wangxia</ref> and <ref
+                        target="/milestones/1830-1860/china-2">Tianjian</ref>&gt;, the increasingly
+                    harsh restrictions on Chinese immigration, combined with the rising
+                    discrimination against Chinese living in the United States in the 1870s-early
+                    1900s, placed additional strain on the diplomatic relationship between the
+                    United States and China.</p>
+            </div>
+            <div type="section" xml:id="mahan">
+                <head>Mahan’s The Influence of Sea Power upon History: Securing International
+                    Markets in the <date when="1890">1890s</date>
+                </head>
+                <p>In 1890, Captain <persName>Alfred Thayer Mahan</persName>, a lecturer in naval
+                    history and the president of the United States Naval War College, published <hi
+                        rend="italic">The Influence of Sea Power upon History, 1660–1783,</hi> a
+                    revolutionary analysis of the importance of naval power as a factor in the rise
+                    of the British Empire. Two years later, he completed a supplementary volume, <hi
+                        rend="italic">The Influence of Sea Power upon the French Revolution and
+                        Empire, 1793–1812</hi>.</p>
+                <figure>
+                    <graphic url="bookcover.jpg" height="200px" width="200px"/>
+                    <head>Book Cover of the 12th Edition of Thayer Mahan’s The Influence of Sea
+                        Power upon History, 1660–1783</head>
+                </figure>
+                <p>Mahan argued that British control of the seas, combined with a corresponding
+                    decline in the naval strength of its major European rivals, paved the way for
+                    Great Britain’s emergence as the world’s dominant military, political, and
+                    economic power. Mahan and some leading American politicians believed that these
+                    lessons could be applied to U.S. foreign policy, particularly in the quest to
+                    expand U.S. markets overseas.</p>
+                <p>The 1890s were marked by social and economic unrest throughout the United States,
+                    which culminated in the onset of an economic depression between 1893 and 1894.
+                    The publication of Mahan’s books preceded much of the disorder associated with
+                    the 1890s, but his work resonated with many leading intellectuals and
+                    politicians concerned by the political and economic challenges of the period and
+                    the declining lack of economic opportunity on the American continent.</p>
+                <p>Mahan’s books complemented the work of one of his contemporaries, Professor
+                        <persName>Frederick Jackson Turner</persName>, who is best known for his
+                    seminal essay of 1893, “The Significance of the Frontier in American History.”
+                    An American history professor at the University of Wisconsin, Turner postulated
+                    that westward migration across the North American continent and the country’s
+                    population growth had finally led to the “closing” of the American frontier,
+                    with profound social and economic consequences. While Turner did not explicitly
+                    argue for a shift towards commercial expansion overseas, he did note that calls
+                    for a “vigorous foreign policy” were signs that Americans were increasingly
+                    looking outside the continental United States in order to satiate their desire
+                    for new economic opportunities and markets.</p>
+                <p>Mahan was one of the foremost proponents of the “vigorous foreign policy”
+                    referred to by Turner. Mahan believed that the U.S. economy would soon be unable
+                    to absorb the massive amounts of industrial and commercial goods being produced
+                    domestically, and he argued that the United States should seek new markets
+                    abroad. What concerned Mahan most was ensuring that the U.S. Government could
+                    guarantee access to these new international markets. Securing such access would
+                    require three things: a merchant navy, which could carry American products to
+                    new markets across the “great highway” of the high seas; an American battleship
+                    navy to deter or destroy rival fleets; and a network of naval bases capable of
+                    providing fuel and supplies for the enlarged navy, and maintaining open lines of
+                    communications between the United States and its new markets.</p>
+                <p>Mahan’s emphasis upon the acquisition of naval bases was not completely new.
+                    Following the Civil War, Secretary of State William Seward had attempted to
+                    expand the U.S. commercial presence in Asia by <ref
+                        target="/milestones/1866-1898/alaska-purchase">purchasing Alaska in
+                        1867</ref>, and increasing American influence over Hawaii by concluding a
+                    reciprocity treaty that would bind the islands’ economy to that of the United
+                    States. Seward also attempted to purchase suitable Caribbean naval bases.
+                    Finally, he attempted to ratify a treaty with the Colombian Government that
+                    would allow the United States to build an isthmian canal through the province of
+                    Panama. In the wake of the Civil War, however, Congress became preoccupied with
+                    Reconstructionin the South, and the Senate rejected all of Seward’s efforts to
+                    create a network of American naval bases.</p>
+                <p>In the 1890s, Mahan’s ideas resonated with leading politicians, including
+                    Assistant Secretary of the Navy Theodore Roosevelt, and Secretary of the Navy
+                    Herbert Tracy. After the outbreak of hostilities with Spain in May 1898,
+                    President William McKinley finally secured the <ref
+                        target="/milestones/1866-1898/hawaii">annexation of Hawaii</ref> by means of
+                    joint resolution of Congress. Following the successful conclusion of the <ref
+                        target="/milestones/1866-1898/spanish-american-war">Spanish-American War in
+                        1898</ref>, the United States gained control of territories that could serve
+                    as the coaling stations and naval bases that Mahan had discussed, such as Puerto
+                    Rico, Guam, and the Philippines. Five years later, the United States obtained a
+                    perpetual lease for a naval base at <placeName>Guantanamo Bay,
+                    Cuba</placeName>.</p>
+            </div>
+            <div type="section" xml:id="blaine">
+                <head>Blaine and Pan Americanism, <date from="1880" to="1890">1880s/1890s</date>
+                </head>
+                <p>President-elect <persName>Garfield</persName> named <ref
+                        target="/departmenthistory/people/blaine-james-gillespie">James G.
+                        Blaine</ref>, his former rival for the Republican presidential nomination,
+                    to his cabinet as Secretary of State. Blaine took office in 1881. As Secretary,
+                    Blaine continued his long interest in Latin America, “first, to bring about
+                    peace and prevent futile wars in North and South America; second, to cultivate
+                    such friendly commercial ties with all American countries as would lead to a
+                    large increase in the export trade of the United States.”</p>
+                <figure>
+                    <graphic url="blaine-james.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State James Blaine</head>
+                </figure>
+                <p>He sought exclusive U.S. control over any canal to be built in the Central
+                    American isthmus, a goal finally realized in the 1901 Hay-Pauncefote treaty with
+                    Great Britain. He sought to keep Hawaii as “part of the American System,”
+                    although <ref target="/milestones/1866-1898/hawaii">Hawaii was not annexed until
+                        1898</ref>. He tried and failed to resolve the 1879–1883 War of the Pacific
+                    between Chile, Peru and Bolivia. President Garfield’s assassination in July 1881
+                    elevated <persName>Chester Arthur</persName> to the presidency, and since Arthur
+                    belonged to a different wing of the Republican party Blaine’s days in the
+                    cabinet were numbered. After Arthur canceled a planned Pan American Congress,
+                    Blaine resigned as Secretary of State in December 1881.</p>
+                <p>When Benjamin Harrison was elected President in 1888, he invited Blaine to become
+                    Secretary of State once again. In 1889, a Pan American Congress was finally
+                    convened in Washington. Blaine followed up by campaigning tirelessly for
+                    arbitration treaties with Latin American nations and for Congressional authority
+                    to negotiate trade agreements on the basis of reciprocity. Blaine’s “spirited
+                    foreign policy” also included settlement of a dispute with Germany and Great
+                    Britain over the Samoan Islands, long-running negotiations with Great Britain
+                    over the right of Canadian vessels to hunt seals in the Bering Sea, and
+                    resolution of serious disputes with Chile and Italy over the murder of American
+                    citizens. Blaine’s major accomplishment in his second tenure as Secretary was
+                    the promotion of closer political and commercial relations between the United
+                    States and the nations of Latin America. But even here these good feelings began
+                    to deteriorate with rising jingoism in the United States, which stirred latent
+                    Latin American suspicions of the “Colossus of the North.” Whether because of
+                    worsening relations with President Harrison, deteriorating health, or ambition
+                    to again secure the Republican nomination for the presidency, Blaine resigned in
+                    June 1892. James G. Blaine, “the man from Maine,” died in January 1893 at age
+                    63.</p>
+            </div>
+            <div type="section" xml:id="venezuela">
+                <head>Venezuela Boundary Dispute, <date from="1895" to="1899">1895–1899</date>
+                </head>
+                <p>The Venezuelan Boundary Dispute officially began in 1841, when the Venezuelan
+                    Government protested alleged British encroachment on Venezuelan territory. In
+                    1814, Great Britain had acquired British Guiana (now Guyana) by treaty with the
+                    Netherlands. Because the treaty did not define a western boundary, the British
+                    commissioned Robert Schomburgk, a surveyor and naturalist, to delineate that
+                    boundary. His 1835 survey resulted in what came to be known as the Schomburgk
+                    Line, a boundary that effectively claimed an additional 30,000 square miles for
+                    Guiana.</p>
+                <figure>
+                    <graphic url="schmburgk.jpg" height="200px" width="200px"/>
+                    <head>Robert Schomburgk</head>
+                </figure>
+                <p>In 1841 Venezuela disputed the British delineation, claiming territorial
+                    delineations established at the time of their independence from Spain. Venezuela
+                    claimed its borders extended as far east as the Essequibo River—an effective
+                    claim on two-thirds of British Guiana’s territory. When gold was discovered in
+                    the disputed territory, Great Britain sought to further extend its reach,
+                    claiming an additional 33,000 square miles west of the Schomburgk Line, an area
+                    where gold had been discovered. In 1876 Venezuela protested, broke diplomatic
+                    relations with Great Britain, and appealed to the United States for assistance,
+                    citing the Monroe Doctrine as justification for U.S. involvement. For the next
+                    19 years Venezuela repeatedly petitioned for U.S. assistance, calling on its
+                    neighbor to the north to intervene by either sponsoring arbitration or
+                    intervening with force. The United States responded by expressing concern, but
+                    did little to facilitate a resolution.</p>
+                <p>In 1895, invoking the Monroe Doctrine, newly appointed U.S. Secretary of State
+                        <ref target="/departmenthistory/people/olney-richard">Richard Olney</ref>
+                    sent a strongly-worded note to British Prime Minister and Foreign Secretary Lord
+                    Salisbury, demanding that the British submit the boundary dispute to
+                    arbitration. Salisbury response was that the Monroe Doctrine had no validity as
+                    international law. The United States found that response unacceptable and in
+                    December 1895, President <persName>Grover Cleveland</persName> asked Congress
+                    for authorization to appoint a boundary commission, proposing that the
+                    commission’s findings be enforced “by every means.” Congress passed the measure
+                    unanimously and talk of war with Great Britain began to circulate in the U.S.
+                    press.</p>
+                <p>Great Britain, under pressure in South Africa with the Boers and managing an
+                    empire that spanned the globe, could ill afford another conflict. Lord
+                    Salisbury’s government submitted the dispute to the American boundary commission
+                    and said nothing else of the Monroe Doctrine. Venezuela enthusiastically
+                    submitted to arbitration, certain that the commission would decide in its favor.
+                    However, when the commission finally rendered a decision on October 3, 1899, it
+                    directed that the border follow the Schomburgk Line. Although of rejection of
+                    Great Britain’s increasingly extravagant claims, the ruling preserved the 1835
+                    demarcation. Disappointed the Venezuelans quietly ratified the commission’s
+                    finding. Of far greater significance, the Anglo-Venezuelan boundary dispute
+                    incident asserted for the first time a more outward-looking American foreign
+                    policy, particularly in the Western Hemisphere. Internationally the incident
+                    marked the United States as a world power and gave notice that under the Monroe
+                    Doctrine it would exercise its claimed prerogatives in the Western
+                    Hemisphere.</p>
+            </div>
+            <div type="section" subtype="removed-pending-rewrite" xml:id="hawaii">
+                <head>Annexation of Hawaii, <date when="1898">1898</date>
+                </head>
+            </div>
+            <div type="section" xml:id="yellow-journalism">
+                <head>U.S. Diplomacy and Yellow Journalism, <date from="1895" to="1898"
+                        >1895–1898</date>
+                </head>
+                <p>Yellow journalism was a style of newspaper reporting that emphasized
+                    sensationalism over facts. During its heyday in the late 19th century it was one
+                    of many factors that helped push the United States and Spain into war in Cuba
+                    and the Philippines, leading to the acquisition of overseas territory by the
+                    United States.</p>
+                <figure>
+                    <graphic url="yellowjournalism.jpg" height="200px" width="200px"/>
+                    <head>Example of Yellow Journalism in the cover of the Pulitzer’s World</head>
+                </figure>
+                <p>The term originated in the competition over the New York City newspaper market
+                    between major newspaper publishers <persName>Joseph Pulitzer</persName> and
+                        <persName>William Randolph Hearst</persName>. At first, yellow journalism
+                    had nothing to do with reporting, but instead derived from a popular cartoon
+                    strip about life in New York’s slums called Hogan’s Alley, drawn by Richard F.
+                    Outcault. Published in color by Pulitzer’s New York World, the comic’s most
+                    well-known character came to be known as the Yellow Kid, and his popularity
+                    accounted in no small part for a tremendous increase in sales of the World. In
+                    1896, in an effort to boost sales of his New York Journal, Hearst hired Outcault
+                    away from Pulitzer, launching a fierce bidding war between the two publishers
+                    over the cartoonist. Hearst ultimately won this battle, but Pulitzer refused to
+                    give in and hired a new cartoonist to continue drawing the cartoon for his
+                    paper. This battle over the Yellow Kid and a greater market share gave rise to
+                    the term yellow journalism.</p>
+                <p>Once the term had been coined, it extended to the sensationalist style employed
+                    by the two publishers in their profit-driven coverage of world events,
+                    particularly developments in Cuba. Cuba had long been a Spanish colony and the
+                    revolutionary movement, which had been simmering on and off there for much of
+                    the 19th century, intensified during the 1890s. Many in the United States called
+                    upon Spain to withdraw from the island, and some even gave material support to
+                    the Cuban revolutionaries. Hearst and Pulitzer devoted more and more attention
+                    to the Cuban struggle for independence, at times accentuating the harshness of
+                    Spanish rule or the nobility of the revolutionaries, and occasionally printing
+                    rousing stories that proved to be false. This sort of coverage, complete with
+                    bold headlines and creative drawings of events, sold a lot of papers for both
+                    publishers.</p>
+                <p>The peak of yellow journalism, in terms of both intensity and influence, came in
+                    early 1898, when a U.S. battleship, the Maine, sunk in Havana harbor. The naval
+                    vessel had been sent there not long before in a display of U.S. power and, in
+                    conjunction with the planned visit of a Spanish ship to New York, an effort to
+                    defuse growing tensions between the United States and Spain. On the night of
+                    February 15, an explosion tore through the ship’s hull, and the Maine went down.
+                    Sober observers and an initial report by the colonial government of Cuba
+                    concluded that the explosion had occurred on board, but Hearst and Pulitzer, who
+                    had for several years been selling papers by fanning anti-Spanish public opinion
+                    in the United States, published rumors of plots to sink the ship. When a U.S.
+                    naval investigation later stated that the explosion had come from a mine in the
+                    harbor, the proponents of yellow journalism seized upon it and called for war.
+                    By early May, the <ref target="/milestones/1866-1898/spanish-american-war"
+                        >Spanish-American War had begun</ref>.</p>
+                <p>The rise of yellow journalism helped to create a climate conducive to the
+                    outbreak of international conflict and the expansion of U.S. influence overseas,
+                    but it did not by itself cause the war. In spite of Hearst’s often quoted
+                    statement—“You furnish the pictures, I’ll provide the war!”—other factors played
+                    a greater role in leading to the outbreak of war. The papers did not create
+                    anti-Spanish sentiments out of thin air, nor did the publishers fabricate the
+                    events to which the U.S. public and politicians reacted so strongly. Moreover,
+                    influential figures such as Theodore Roosevelt led a drive for U.S. overseas
+                    expansion that had been gaining strength since the 1880s. Nevertheless, yellow
+                    journalism of this period is significant to the history of U.S. foreign
+                    relations in that its centrality to the history of the Spanish American War
+                    shows that the press had the power to capture the attention of a large
+                    readership and to influence public reaction to international events. The
+                    dramatic style of yellow journalism contributed to creating public support for
+                    the Spanish-American War, a war that would ultimately expand the global reach of
+                    the United States. </p>
+            </div>
+            <div type="section" xml:id="spanish-american-war">
+                <head>The Spanish-American War, <date when="1898">1898</date>
+                </head>
+                <p>The Spanish-American War of 1898 ended Spain’s colonial empire in the Western
+                    Hemisphere and secured the position of the United States as a Pacific power.
+                    U.S. victory in the war produced a peace treaty that compelled the Spanish to
+                    relinquish claims on Cuba, and to cede sovereignty over Guam, Puerto Rico, and
+                    the Philippines to the United States. The United States also annexed the
+                    independent state of Hawaii during the conflict. Thus, the war enabled the
+                    United States to establish its predominance in the Caribbean region and to
+                    pursue its strategic and economic interests in Asia.</p>
+                <figure>
+                    <graphic url="spanishwar.jpg" height="200px" width="200px"/>
+                    <head>Charge of the 24th and 25th Colored Infantry and Rescue of Rough Riders at
+                        San Juan Hill, July 2nd 1898 (Kurz and Allison)</head>
+                </figure>
+                <p>The war that erupted in 1898 between the United States and Spain was preceded by
+                    three years of fighting by Cuban revolutionaries to gain independence from
+                    Spanish colonial rule. From 1895–1898, the violent conflict in Cuba captured the
+                    attention of Americans because of the economic and political instability that it
+                    produced in a region within such close geographical proximity to the United
+                    States. The long-held U.S. interest in ridding the Western Hemisphere of
+                    European colonial powers and American public outrage over brutal Spanish tactics
+                    created much sympathy for the Cuban revolutionaries. By early 1898, tensions
+                    between the United States and Spain had been mounting for months. After the U.S.
+                    battleship Maine exploded and sank in Havana harbor under mysterious
+                    circumstances on February 15, 1898, U.S. military intervention in Cuba became
+                    likely.</p>
+                <p>On April 11, 1898, President <persName>William McKinley</persName> asked Congress
+                    for authorization to end the fighting in Cuba between the rebels and Spanish
+                    forces, and to establish a “stable government” that would “maintain order” and
+                    ensure the “peace and tranquility and the security” of Cuban and U.S. citizens
+                    on the island. On April 20, the U.S. Congress passed a joint resolution that
+                    acknowledged Cuban independence, demanded that the Spanish government give up
+                    control of the island, foreswore any intention on the part of the United States
+                    to annex Cuba, and authorized McKinley to use whatever military measures he
+                    deemed necessary to guarantee Cuba’s independence.</p>
+                <p>The Spanish government rejected the U.S. ultimatum and immediately severed
+                    diplomatic relations with the United States. McKinley responded by implementing
+                    a naval blockade of Cuba on April 22 and issued a call for 125,000 military
+                    volunteers the following day. That same day, Spain declared war on the United
+                    States, and the U.S. Congress voted to go to war against Spain on April 25.</p>
+                <p>The future Secretary of State <ref
+                        target="/departmenthistory/people/hay-john-milton">John Hay</ref> described
+                    the ensuing conflict as a “splendid little war.” The first battle was fought on
+                    May 1, in Manila Bay, where Commodore George Dewey’s Asiatic Squadron defeated
+                    the Spanish naval force defending the Philippines. On June 10, U.S. troops
+                    landed at Guantanamo Bay in Cuba and additional forces landed near the harbor
+                    city of Santiago on June 22 and 24. After isolating and defeating the Spanish
+                    army garrisons in Cuba, the U.S. Navy destroyed the Spanish Caribbean squadron
+                    on July 3 as it attempted to escape the U.S. naval blockade of Santiago.</p>
+                <figure>
+                    <graphic url="hay-john.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State John Hay</head>
+                </figure>
+                <p>On July 26, at the behest of the Spanish government, the French ambassador in
+                    Washington, Jules Cambon, approached the McKinley Administration to discuss
+                    peace terms, and a cease-fire was signed on August 12. The war officially ended
+                    four months later, when the U.S. and Spanish governments signed the Treaty of
+                    Paris on December 10, 1898. Apart from guaranteeing the independence of Cuba,
+                    the treaty also forced Spain to cede Guam and Puerto Rico to the United States.
+                    Spain also agreed to sell the Philippines to the United States for the sum of
+                    $20 million. The U.S. Senate ratified the treaty on February 6, 1899, by a
+                    margin of only one vote.</p>
+                <p>The McKinley Administration also used the war as a pretext to <ref target="/milestones/1866-1898/hawaii">annex the independent state of
+                    Hawaii</ref>. In 1893, a group of Hawaii-based planters and businessmen led a
+                    coup against Queen Liliuokalani and established a new government. They
+                    promptly sought annexation by the United States, but President <persName>Grover
+                        Cleveland</persName> rejected their requests. In 1898, however, President
+                    McKinley and the American public were more favorably disposed toward acquiring
+                    the islands. Supporters of annexation argued that Hawaii was vital to the U.S.
+                    economy, that it would serve as a strategic base that could help protect U.S.
+                    interests in Asia, and that other nations were intent on taking over the islands
+                    if the United States did not. At McKinley’s request, a joint resolution of
+                    Congress made Hawaii a U.S. territory on August 12, 1898.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

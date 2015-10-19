@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1899–1913</title>
+                <title type="short">1899–1913</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1899" to="1913">1899–1913</date>: Defending U.S. International
+                    Interests</head>
+                <p>Following the defeat Spain in the <ref target="/milestones/1866-1898/spanish0american-war">Spanish-American War of
+                        1898</ref>, the United States acquired overseas colonies in the Caribbean
+                    and the Pacific. In its new status as an imperial power, the United States
+                    pursued a series of policies designed to protect American territories and
+                    aggressively expand its international commercial interests.</p>
+                <figure>
+                    <graphic url="imperialism.jpg" height="200px" width="000px"/>
+                    <head>“Ten Thousand Miles From Tip to Tip.” This political cartoon depicted the
+                        United States’ growing territories in 1898.</head>
+                </figure>
+                <p>These policies included the promotion of the “Open Door” policy in China and the
+                    attachment of the Roosevelt Corollary to the Monroe Doctrine that formally
+                    announced the intention to use military force to defend the Western Hemisphere
+                    against European incursions. At the same time, President Theodore Roosevelt
+                    oversaw the construction of the Panama Canal, which would have profound economic
+                    implications for American trade, and engaged in great power diplomacy in the
+                    wake of the Russo-Japanese War. In just over a decade, the United States had
+                    redefined its national and international interests to include a large overseas
+                    military presence, overseas possessions, and direct engagement in setting
+                    priorities in international affairs.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="war">
+                <head>The Philippine-American War, <date from="1899" to="1902">1899–1902</date>
+                </head>
+                <p>After its defeat in the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American War of 1898</ref>, <placeName>Spain</placeName> ceded its
+                    longstanding colony of the <placeName>Philippines</placeName> to the United
+                    States in the Treaty of Paris. On February 4, 1899, just two days before the
+                    U.S. Senate ratified the treaty, fighting broke out between American forces and
+                    Filipino nationalists led by Emilio Aguinaldo who sought independence rather
+                    than a change in colonial rulers. The ensuing Philippine-American War lasted
+                    three years and resulted in the death of over 4,200 American and over 20,000
+                    Filipino combatants. As many as 200,000 Filipino civilians died from violence,
+                    famine, and disease.</p>
+                <figure>
+                    <graphic url="philippines.jpg" height="200px" width="200px"/>
+                    <head>“Battle of Manila Bay”</head>
+                </figure>
+                <p>The decision by U.S. policymakers to annex the Philippines was not without
+                    domestic controversy. Americans who advocated annexation evinced a variety of
+                    motivations: desire for commercial opportunities in Asia, concern that the
+                    Filipinos were incapable of self-rule, and fear that if the United States did
+                    not take control of the islands, another power (such as Germany or Japan) might
+                    do so. Meanwhile, American opposition to U.S. colonial rule of the Philippines
+                    came in many forms, ranging from those who thought it morally wrong for the
+                    United States to be engaged in colonialism, to those who feared that annexation
+                    might eventually permit the non-white Filipinos to have a role in American
+                    national government. Others were wholly unconcerned about the moral or racial
+                    implications of imperialism and sought only to oppose the policies of President
+                        <persName>William McKinley</persName>’s administration.</p>
+                <p>After the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American War</ref>, while the American public and politicians
+                    debated the annexation question, Filipino revolutionaries under Aguinaldo seized
+                    control of most of the Philippines’ main island of Luzon and proclaimed the
+                    establishment of the independent Philippine Republic. When it became clear that
+                    U.S. forces were intent on imposing American colonial control over the islands,
+                    the early clashes between the two sides in 1899 swelled into an all-out war.
+                    Americans tended to refer to the ensuing conflict as an “insurrection” rather
+                    than acknowledge the Filipinos’ contention that they were fighting to ward off a
+                    foreign invader.</p>
+                <figure>
+                    <graphic url="aguinaldo.jpg" height="200px" width="200px"/>
+                    <head>Emilio Aguinaldo</head>
+                </figure>
+                <p>There were two phases to the Philippine-American War. The first phase, from
+                    February to November of 1899, was dominated by Aguinaldo’s ill-fated attempts to
+                    fight a conventional war against the better-trained and equipped American
+                    troops. The second phase was marked by the Filipinos’ shift to guerrilla-style
+                    warfare. It began in November of 1899, lasted through the capture of Aguinaldo
+                    in 1901 and into the spring of 1902, by which time most organized Filipino
+                    resistance had dissipated. President Theodore Roosevelt proclaimed a general
+                    amnesty and declared the conflict over on July 4, 1902, although minor uprisings
+                    and insurrections against American rule periodically occurred in the years that
+                    followed.</p>
+                <p>The United States entered the conflict with undeniable military advantages that
+                    included a trained fighting force, a steady supply of military equipment, and
+                    control of the archipelago’s waterways. Meanwhile, the Filipino forces were
+                    hampered by their inability to gain any kind of outside support for their cause,
+                    chronic shortages of weapons and ammunition, and complications produced by the
+                    Philippines’ geographic complexity. Under these conditions, Aguinaldo’s attempt
+                    to fight a conventional war in the first few months of the conflict proved to be
+                    a fatal mistake; the Filipino army suffered severe losses in men and material
+                    before switching to the guerrilla tactics that might have been more effective if
+                    employed from the beginning of the conflict.</p>
+                <figure>
+                    <graphic url="roosevelt-t.jpg" height="200px" width="200px"/>
+                    <head>President Theodore Roosevelt</head>
+                </figure>
+                <p>The war was brutal on both sides. U.S. forces at times burned villages,
+                    implemented civilian reconcentration policies, and employed torture on suspected
+                    guerrillas, while Filipino fighters also tortured captured soldiers and
+                    terrorized civilians who cooperated with American forces. Many civilians died
+                    during the conflict as a result of the fighting, cholera and malaria epidemics,
+                    and food shortages caused by several agricultural catastrophes.</p>
+                <p>Even as the fighting went on, the colonial government that the United States
+                    established in the Philippines in 1900 under future President William Howard
+                    Taft launched a pacification campaign that became known as the “policy of
+                    attraction.” Designed to win over key elites and other Filipinos who did not
+                    embrace Aguinaldo’s plans for the Philippines, this policy permitted a
+                    significant degree of self-government, introduced social reforms, and
+                    implemented plans for economic development. Over time, this program gained
+                    important Filipino adherents and undermined the revolutionaries’ popular appeal,
+                    which significantly aided the United States’ military effort to win the war.</p>
+                <p>In 1907, the Philippines convened its first elected assembly, and in 1916, the
+                    Jones Act promised the nation eventual independence. The archipelago became an
+                    autonomous commonwealth in 1935, and the U.S. granted independence in 1946.</p>
+            </div>
+            <div type="section" xml:id="hay-and-china">
+                <head>Secretary of State <persName>John Hay</persName> and the Open Door in
+                        <placeName>China</placeName>, <date from="1899" to="1900">1899–1900</date>
+                </head>
+                <p>Secretary of State <ref target="/departmenthistory/people/hay-john-milton">John
+                        Hay</ref> first articulated the concept of the “Open Door” in China in a
+                    series of notes in 1899–1900. These Open Door Notes aimed to secure
+                    international agreement to the U.S. policy of promoting equal opportunity for
+                    international trade and commerce in China, and respect for China’s
+                    administrative and territorial integrity. British and American policies toward
+                    China had long operated under similar principles, but once Hay put them into
+                    writing, the “Open Door” became the official U.S. policy towards the Far East in
+                    the first half of the 20th century.</p>
+                <figure>
+                    <graphic url="hay-john.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State John Hay</head>
+                </figure>
+                <p>The idea behind the Open Door Notes originated with British and American China
+                    experts, <persName>Alfred E. Hippisley</persName> and <ref target="/departmenthistory/people/rockhill-william-woodville">William W.
+                        Rockhill</ref>. Both men believed that their countries’ economic interests
+                    in China would be best protected and promoted by a formal agreement among the
+                    European powers on the principle of maintaining an Open Door for trade and
+                    commercial activity. Under their influence, Secretary Hay sent the first of the
+                    Open Door Notes on September 6, 1899, to the other great powers that had an
+                    interest in China, including Great Britain, France, Russia, Germany, and Japan.
+                    These nations maintained significant physical and commercial presences in China,
+                    and were protective of their various spheres of influence and trading privileges
+                    there, and elsewhere in Asia.</p>
+                <p>Hay proposed a free, open market and equal trading opportunity for merchants of
+                    all nationalities operating in China, based in part on the most favored nation
+                    clauses already established in the <ref target="/milestones/1830-1860/china-1">Treaties of Wangxia</ref> and <ref target="/milestones/1830-1860/china-2">Tianjin</ref>. Hay argued that establishing equal access to commerce would
+                    benefit American traders and the U.S. economy, and hoped that the Open Door
+                    would also prevent disputes between the powers operating in China. For the
+                    United States, which held relatively little political clout and no territory in
+                    China, the principle of non-discrimination in commercial activity was
+                    particularly important. Hay called for each of the powers active in China to do
+                    away with economic advantages for their own citizens within their spheres of
+                    influence, and also suggested that the Chinese tariffs apply universally and be
+                    collected by the Chinese themselves. Although the other powers may not have
+                    agreed fully with these ideas, none openly opposed them.</p>
+                <figure>
+                    <graphic url="empressofchina.jpg" width="200px" height="200px"/>
+                    <head>Empress Dowager Cixi (Tz’u Hsi) of China</head>
+                </figure>
+                <p>First, Hay sought the approval of the British and Japanese Governments, both of
+                    which considered the American suggestion to be in their interests, although both
+                    conditioned their acceptance of the terms on the agreement of all the powers
+                    involved. France followed the British and Japanese example. This British,
+                    Japanese, and French endorsement of Hay’s suggestion pressured Germany and
+                    Russia to adhere to the terms of the note, although Russia did so with so many
+                    caveats that it practically negated the Note’s central principles. Nevertheless,
+                    Hay declared that all the powers had accepted the ideas with responses that were
+                    “final and definitive.”</p>
+                <p>In 1900, however, internal events in China threatened the idea of the Open Door.
+                    An anti-foreign movement known as the Boxer Rebellion, named for the martial
+                    artists that led the movement, gathered strength, and began attacking foreign
+                    missionaries and Chinese converts to Christianity. With the backing of Empress
+                        <persName>Dowager Cixi (Tz’u Hsi)</persName> and the imperial army, the
+                    Boxer Rebellion turned into a violent conflict that claimed the lives of
+                    hundreds of foreign missionaries and thousands of Chinese nationals. As the
+                    Boxers descended upon Beijing, foreign nationals living in that city—including
+                    embassy staff—clustered together in the besieged foreign legations, and called
+                    upon their home governments for assistance.</p>
+                <figure>
+                    <graphic url="boxer-rebellion.jpg" height="200px" width="200px"/>
+                    <head>Photograph of Boxer Rebels</head>
+                </figure>
+                <p>With foreign armies fighting their way from the Chinese coast to rescue their
+                    citizens in the capital, in some cases securing their own concessions and areas
+                    of special interest along the way, the principle of the Open Door seemed to be
+                    in grave danger. On July 3, 1900, Hay circulated another message to the foreign
+                    powers involved in China, this time noting the importance of respecting the
+                    “territorial and administrative integrity” of China. Although the goal was to
+                    prevent the powers from using the Boxer Rebellion as an excuse to carve China
+                    into individual colonies, the Open Door Circular requested no formal agreement
+                    or assurances from the other powers.</p>
+                <p>Together, the Open Door Notes served the important purpose of outlining U.S.
+                    policy toward China and expressing U.S. hopes for cooperation with the other
+                    foreign powers with a stake in the region. They were of lasting importance in
+                    U.S.-East Asian relations, and contributed to the idea of a Sino-American
+                    “special relationship.” However, because they were non-binding, the Notes did
+                    not prevent the United States—or any other power—from one day seeking Chinese
+                    territory, or acting in any way that was preferential to their own interests,
+                    even at the expense of the Chinese Government. Hay himself even briefly
+                    considered a seizure of Chinese territory, although he quickly rejected the
+                    idea. Although the Notes were not binding, Hay’s successors nonetheless adhered
+                    to the policy of maintaining the Open Door in China. The articulation of the
+                    Open Door policy represented the growing American interest and involvement in
+                    East Asia at the turn of the century.</p>
+                <p>Ironically, Hay articulated the Open Door policy at a time when the U.S.
+                    Government was doing everything in its power to close the door on Chinese
+                    immigration to the United States. This effectively stifled opportunities for
+                    Chinese merchants and workers in the United States. (See Chinese Immigration and
+                    the Chinese Exclusion Acts.)</p>
+            </div>
+            <div type="section" xml:id="japanese-relations">
+                <head>Japanese-American Relations at the Turn of the Century, <date from="1900" to="1922">1900–1922</date>
+                </head>
+                <p>In the first two decades of the twentieth century, the relationship between the
+                    United States and Japan was marked by increasing tension and corresponding
+                    attempts to use diplomacy to reduce the threat of conflict. Each side had
+                    territory and interests in Asia that they were concerned the other might
+                    threaten. U.S. treatment of Japanese immigrants, and competition for economic
+                    and commercial opportunities in China also heightened tensions. At the same
+                    time, each country’s territorial claims in the Pacific formed the basis for
+                    several agreements between the two nations, as each government sought to protect
+                    its own strategic and economic interests.</p>
+                <figure>
+                    <graphic url="katsura-taro.jpg" height="200px" width="200px"/>
+                    <head>Prime Minister Katsura Taro</head>
+                </figure>
+                <p>At the turn of the century, U.S. and Japanese interests appeared to be aligned.
+                    Both nations supported the idea of an “open door” for commercial expansion in
+                    China. After the Russo-Japanese War of 1904–05, U.S. President
+                        <persName>Theodore Roosevelt</persName> acted as a mediator at Japan’s
+                    request, and the two sides of the conflict met on neutral territory in
+                    Portsmouth, New Hampshire. In the same year, U.S. Secretary of War William
+                    Howard Taft met with Prime Minister Katsura Taro in Japan. The two concluded the
+                    secret Taft-Katsura Agreement, in which the United States acknowledged Japanese
+                    rule over Korea and condoned the Anglo-Japanese alliance of 1902. At the same
+                    time, Japan recognized U.S. control of the Philippines.</p>
+                <p>In the years that followed, however, tensions rose over Japanese actions in
+                    northeast China and immigration to the United States. In 1905, the Japanese
+                    started to establish more formal control over South Manchuria by forcing China
+                    to give Japan ownership rights to the South Manchurian Railway. The Japanese
+                    used this opening to make further inroads into northeast China, causing the
+                    Roosevelt Administration concern that this violated the ideals of free
+                    enterprise and the preservation of China’s territorial integrity.
+                    Simultaneously, leading Japanese officials expressed frustration with the
+                    treatment of Japanese immigrants in the United States. A U.S.-Japanese treaty
+                    signed in 1894 had guaranteed the Japanese the right to immigrate to the United
+                    States, and to enjoy the same rights in the country as U.S. citizens. In 1906,
+                    however, the San Francisco Board of Education enacted a measure to send Japanese
+                    and Chinese children to segregated schools. The Government of Japan was outraged
+                    by this policy, claiming that it violated the 1894 treaty. In a series of notes
+                    exchanged between late 1907 and early 1908, known collectively as the
+                    Gentlemen’s Agreement, the U.S. Government agreed to pressure the San Francisco
+                    authorities to withdraw the measure, and the Japanese Government promised to
+                    restrict the immigration of laborers to the United States.</p>
+                <figure>
+                    <graphic url="root-elihu.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State Elihu Root</head>
+                </figure>
+                <p>With the immigration problem temporarily settled, the two countries met to
+                    provide mutual reassurances about their territories and interests in East Asia.
+                    In 1908, U.S Secretary of State <ref target="/departmenthistory/people/root-elihu">Elihu Root</ref> and Japanese
+                    Ambassador Takahira Kogoro formed an agreement in which Japan promised to
+                    respect U.S. territorial possessions in the Pacific, its Open Door policy in
+                    China, and the limitation of immigration to the United States as outlined in the
+                    Gentlemen’s Agreement. The Government of Japan redirected its labor emigrants to
+                    its holdings in Manchuria, maintaining that these were not a part of China. For
+                    its part, the United States recognized Japanese control of Taiwan and the
+                    Pescadores, and the Japanese special interest in Manchuria. By reiterating each
+                    country’s position in the region, the Root-Takahira Agreement served to lessen
+                    the threat of a misunderstanding or war between the two nations.</p>
+                <p>This series of agreements still did not resolve all of the outstanding issues.
+                    U.S. treatment of Japanese residents continued to cause tension between the two
+                    nations. The Alien Land Act of 1913, for example, barred Japanese from owning or
+                    leasing land for longer than three years and adversely affected U.S.-Japanese
+                    relations in the years leading up to World War I. Economic competition in China,
+                    which the United States feared would result in increasing Japanese control, was
+                    another issue that increased tensions between the two nations. In 1915, the
+                    Japanese issued its “Twenty-One Demands” of China, in which it asked that China
+                    recognize its territorial claims, prevent other powers from obtaining new
+                    concessions along its coast, and take a series of actions designed to benefit
+                    the Japanese economically. China turned to the United States for assistance, and
+                    U.S. officials responded with a declaration that they would not recognize any
+                    agreement that threatened the Open Door. Although this was consistent with past
+                    policies, this announcement was of little use to the Chinese. However, President
+                    Woodrow Wilson was not willing to take a stronger stand given his need for
+                    assistance in protecting U.S. interests in Asia, addressing the growing conflict
+                    in Europe, and managing racial issues in California.</p>
+                <figure>
+                    <graphic url="rlansing.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State Robert Lansing</head>
+                </figure>
+                <p>The potential for conflict between the United States and Japan, especially over
+                    China, led the two governments to negotiate yet again. In the Ishii-Lansing
+                    Agreement of 1917, Secretary of State <ref target="/departmenthistory/people/lansing-robert">Robert Lansing</ref>
+                    acknowledged that Manchuria was under Japanese control, while Japanese Foreign
+                    Minister Ishii Kikujiro agreed not to place limitations on U.S. commercial
+                    opportunities elsewhere in China. The two powers also agreed not to take
+                    advantage of the war in Europe to seek additional rights and privileges. Though
+                    non-binding, Lansing considered the agreement an important measure in promoting
+                    mutual interests in Asia, but it proved short-lived. Ultimately, the two nations
+                    agreed to cancel the Ishii-Lansing Agreement after concluding the <ref target="/milestones/1921-1936/naval-conference">Nine-Power Treaty</ref>,
+                    which they signed in 1922 at the Washington Conference.</p>
+                <p>Japan and the United States clashed again during the <ref target="/milestones/1914-1920/league">League of Nations negotiations in
+                    1919</ref>. The United States refused to accept the Japanese request for a
+                    racial equality clause or an admission of the equality of the nations. In
+                    addition, the Versailles Treaty granted Japan control over valuable German
+                    concessions in Shandong, which led to an outcry in China. This coupled with the
+                    growing fear of a militant Japan, contributed to the defeat of the League
+                    Covenant in the U.S. Senate. The persistent issues preventing accommodation
+                    continued to be racial equality (especially with regard to the treatment of
+                    Japanese immigrants in the United States) and differences in how to address
+                    expansion in Asia. In spite of the many efforts to reach agreements on these
+                    points, by the early 1920s Japan and the United States were again at odds.</p>
+            </div>
+            <div type="section" xml:id="platt">
+                <head>The United States, Cuba, and the Platt Amendment, <date when="1901">1901</date>
+                </head>
+                <p>The Platt Amendment, an amendment to a U.S. army appropriations bill, established
+                    the terms under which the United States would end its military occupation of
+                    Cuba (which had begun in 1898 during the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American
+                    War</ref>) and “leave the government and control of the island of Cuba to its
+                    people.” While the amendment was named after Senator Orville Platt of
+                    Connecticut, it was drafted largely by Secretary of War <ref target="/departmenthistory/people/root-elihu">Elihu Root</ref>. The Platt
+                    Amendment laid down eight conditions to which the Cuban Government had to agree
+                    before the withdrawal of U.S. forces and the transfer of sovereignty would
+                    begin.</p>
+                <figure>
+                    <graphic url="platt.jpg" height="200px" width="200px"/>
+                    <head>Platt Amendment (page one)</head>
+                </figure>
+                <p>The Platt Amendment’s conditions prohibited the Cuban Government from entering
+                    into any international treaty that would compromise Cuban independence or allow
+                    foreign powers to use the island for military purposes. The United States also
+                    reserved the right to intervene in Cuban affairs in order to defend Cuban
+                    independence and to maintain “a government adequate for the protection of life,
+                    property, and individual liberty.” Other conditions of the Amendment demanded
+                    that the Cuban Government implement plans to improve sanitary conditions on the
+                    island, relinquish claims on the Isle of Pines (now known as the Isla de la
+                    Juventud), and agree to sell or lease territory for coaling and naval stations
+                    to the United States. (This clause ultimately led to the perpetual lease by the
+                    United States of Guantánamo Bay.) Finally, the amendment required the Cuban
+                    Government to conclude a treaty with the United States that would make the Platt
+                    amendment legally binding, and the United States pressured the Cubans to
+                    incorporate the terms of the Platt Amendment in the Cuban constitution.</p>
+                <figure>
+                    <graphic url="platt2.jpg" height="200px" width="200px"/>
+                    <head>Platt Amendment (page two)</head>
+                </figure>
+                <p>The rationale behind the Platt Amendment was straightforward. The United States
+                    Government had intervened in Cuba in order to safeguard its significant
+                    commercial interests on the island in the wake of Spain’s inability to preserve
+                    law and order. As U.S. military occupation of the island was to end, the United
+                    States needed some method of maintaining a permanent presence and order.
+                    However, anti-annexationists in Congress had incorporated the Teller Amendment
+                    in the 1898 war resolution authorizing President William McKinley to take action
+                    against Spain in the Spanish-American War. This Teller Amendment committed the
+                    U.S. Government to granting Cuba its independence following the removal of
+                    Spanish forces. By directly incorporating the requirements of the Platt
+                    Amendment into the Cuban constitution, the McKinley Administration was able to
+                    shape Cuban affairs without violating the Teller Amendment.</p>
+                <p>General <persName>Leonard Wood</persName>, commander of the U.S. occupation
+                    forces and military governor of Cuba, presented the terms of the Platt Amendment
+                    to the delegates of the Cuban Constitutional Convention in late 1900. Although
+                    the Cuban delegates realized that the amendment significantly limited Cuban
+                    sovereignty, and originally refused to include it within their constitution, the
+                    U.S. Government promised them a trade treaty that would guarantee Cuban sugar
+                    exports access to the U.S. market. After several failed attempts by the Cubans
+                    to reject or modify the terms of the Platt amendment, the Cuban Constitutional
+                    Convention finally succumbed to American pressure and ratified it on June 12,
+                    1901, by a vote of 16 to 11. The Platt Amendment remained in force until 1934
+                    when both sides agreed to cancel the treaties that enforced it.</p>
+            </div>
+            <div type="section" xml:id="roosevelt-and-monroe-doctrine">
+                <head>Roosevelt Corollary to the Monroe Doctrine, <date when="1904">1904</date>
+                </head>
+                <p>President <persName>Theodore Roosevelt’s</persName> assertive approach to Latin
+                    America and the Caribbean has often been characterized as the “Big Stick,” and
+                    his policy came to be known as the Roosevelt Corollary to the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>.</p>
+                <figure>
+                    <graphic url="roosevelt-t.jpg" height="200px" width="200px"/>
+                    <head>President Theodore Roosevelt</head>
+                </figure>
+                <p>Although the Monroe Doctrine of 1823 was essentially passive (it asked that
+                    Europeans not increase their influence or recolonize any part of the Western
+                    Hemisphere), by the 20th century a more confident United States was willing to
+                    take on the role of regional policeman. In the early 1900s Roosevelt grew
+                    concerned that a crisis between Venezuela and its creditors could spark an
+                    invasion of that nation by European powers. The Roosevelt Corollary of December
+                    1904 stated that the United States would intervene as a last resort to ensure
+                    that other nations in the Western Hemisphere fulfilled their obligations to
+                    international creditors, and did not violate the rights of the United States or
+                    invite “foreign aggression to the detriment of the entire body of American
+                    nations.” As the corollary worked out in practice, the United States
+                    increasingly used military force to restore internal stability to nations in the
+                    region. Roosevelt declared that the United States might “exercise international
+                    police power in ‘flagrant cases of such wrongdoing or impotence.’” Over the long
+                    term the corollary had little to do with relations between the Western
+                    Hemisphere and Europe, but it did serve as justification for U.S. intervention
+                    in Cuba, Nicaragua, Haiti, and the Dominican Republic.</p>
+            </div>
+            <div type="section" xml:id="portsmouth-treaty">
+                <head>The Treaty of Portsmouth and the Russo-Japanese War, <date from="1904" to="1905">1904–1905</date>
+                </head>
+                <p>The Treaty of Portsmouth formally ended the Russo-Japanese War of 1904–05. The
+                    negotiations took place in August in Portsmouth, New Hampshire, and were
+                    brokered in part by U.S. President Theodore Roosevelt. The final agreement was
+                    signed in September of 1905, and it affirmed the Japanese presence in south
+                    Manchuria and Korea and ceded the southern half of the island of Sakhalin to
+                    Japan.</p>
+                <figure>
+                    <graphic url="russo-japanese-war.jpg" height="200px" width="200px"/>
+                    <head>Photograph from the Russo-Japanese War</head>
+                </figure>
+                <p>By 1904, Russia and Japan had endured several years of disputes over control of
+                    Manchuria. The Russians had entered the region during the Sino-Japanese War of
+                    1894–95 and, along with Germany and France, was a part of the “Triple
+                    Intervention” that forced Japan to give up its demands for ports in South
+                    Manchuria and the Liaodong Peninsula in the wake of its victory in China.
+                    Instead, Russia moved into the area and took control of Port Arthur, a warm
+                    water port with strategic and commercial significance. A Japanese attempt to
+                    stage a coup in adjacent Korea was thwarted in part by the Russian presence in
+                    the region, and the two nations’ divergent interests appeared more and more
+                    likely to clash.</p>
+                <p>In 1904, the Japanese attacked the Russian fleet at Port Arthur before the formal
+                    declaration of war was received in Moscow, surprising the Russian navy and
+                    earning an early victory. Over the course of the next year, the two forces
+                    clashed in Korea and the Sea of Japan, with the Japanese scoring significant,
+                    but costly, victories. War casualties were high on both sides. At the battle
+                    over Mukden, the Russians lost 60,000 soldiers and the Japanese lost 41,000
+                    soldiers. The military costs were high as well. A Russian fleet made the long
+                    trip from the Baltic Sea around Africa and India, only to be half destroyed by
+                    the Japanese upon its arrival in Northeast Asia. By 1905, the combination of
+                    these losses and the economic cost of financing the war led both countries to
+                    seek an end to the war.</p>
+                <figure>
+                    <graphic url="port-arthur.jpg" height="200px" width="200px"/>
+                    <head>Photograph of Attack on Port Arthur</head>
+                </figure>
+                <p>The Japanese asked U.S. President Roosevelt to negotiate a peace agreement, and
+                    representatives of the two nations met in Portsmouth, New Hampshire in 1905. For
+                    the sake of maintaining the balance of power and equal economic opportunity in
+                    the region, Roosevelt preferred that the war end on terms that left both Russia
+                    and Japan a role to play in Northeast China. Though excited by the Japanese
+                    military victories, Roosevelt worried about the consequences to American
+                    interests if Japan managed to drive Russia out entirely.</p>
+                <p>The negotiations centered on access to ports and territories in Manchuria and
+                    Korea, control of Sakhalin Island, and the question of who was responsible for
+                    paying war costs. The chief aims of the Japanese negotiator included first
+                    control in Korea and South Manchuria, then the negotiation of an indemnity and
+                    control of Sakhalin Island. The Russians wanted to maintain Sakhalin Island,
+                    refused to pay a war costs indemnity to the Japanese, and hoped to maintain
+                    their fleet in the Pacific. The indemnity issue, along with the dispensation of
+                    Sakhalin Island, were the major sticking points in the negotiation, although
+                    given its financial straits in 1905, Russia was likely unable to pay an
+                    indemnity even if required by a treaty to do so.</p>
+                <p>When negotiations reached an impasse, Roosevelt stepped in with the proposal that
+                    Russia “buy back” the northern part of Sakhalin from Japanese control. The
+                    Russians were adamant that they would not pay any amount of money, which would
+                    act as a disguised indemnity, when the territory ought to be theirs. After long
+                    internal debate, Japan eventually agreed to take only the southern half of the
+                    island, without any kind of payment. Theirs had not been a decisive enough
+                    victory to force the point.</p>
+                <p>The Treaty ultimately gave Japan control of Korea and much of South Manchuria,
+                    including Port Arthur and the railway that connected it with the rest of the
+                    region, along with the southern half of Sakhalin Island; Russian power was
+                    curtailed in the region, but it was not required to pay Japan’s war costs.
+                    Because neither nation was in a strong financial position to continue the war
+                    easily, both were forced to compromise in the terms of the peace. Still, the
+                    Japanese public felt they had won the war, and they considered the lack of an
+                    indemnity to be an affront. There was a brief outbreak of protests and rioting
+                    in Tokyo when the terms of the agreement were made public. Similarly, the
+                    Russian people were also dissatisfied, angry about giving up half of Sakhalin.</p>
+                <figure>
+                    <graphic url="treatyofportsmouth.jpg" height="200px" width="200px"/>
+                    <head>Individuals gathered to work out what became the Treaty of
+                    Portsmouth</head>
+                </figure>
+                <p>Throughout the war and the peace talks, American public opinion largely sided
+                    with Japan. Believing that the Japanese were fighting a “just war” against
+                    Russian aggression, and that the island nation was equally committed to the Open
+                    Door and the territorial integrity of China, the American people were anxious to
+                    support it. This sense did not really change over the course of the
+                    negotiations, in spite of the best efforts of the Russian negotiator to improve
+                    the press coverage of his nation’s position. The final decision of the Japanese
+                    to forgo an indemnity only served to strengthen U.S. approval of Japan’s actions
+                    throughout the conflict. The anti-treaty and, at times, anti-American
+                    demonstrations in Tokyo that followed the ratification of the treaty caught many
+                    Americans off-guard.</p>
+                <p>The Treaty of Portsmouth marked the last real event in an era of U.S.-Japanese
+                    cooperation that began with the Meiji Restoration in 1868. Instead, competition
+                    between the two nations in the Pacific grew over the years that followed.
+                    Conversely, Japanese relations with Russia improved in the wake of the treaty.
+                    Although the actual importance of Roosevelt’s mediation and personal pressure on
+                    the leadership in Moscow and Tokyo to the final agreement is unclear, he won the
+                    Nobel Peace Prize for his efforts in moderating the talks and pushing toward
+                    peace.</p>
+            </div>
+            <div type="section" xml:id="dollar-diplo">
+                <head>Dollar Diplomacy, <date from="1909" to="1913">1909–1913</date>
+                </head>
+                <p>From 1909 to 1913, President <persName>William Howard Taft</persName> and
+                    Secretary of State <persName>Philander C. Knox</persName> followed a foreign
+                    policy characterized as “dollar diplomacy.”</p>
+                <figure>
+                    <graphic url="taft-william-howard.jpg" height="200px" width="200px"/>
+                    <head>William Howard Taft</head>
+                </figure>
+                <p>Taft shared the view held by Knox, a corporate lawyer who had founded the giant
+                    conglomerate U.S. Steel, that the goal of diplomacy was to create stability and
+                    order abroad that would best promote American commercial interests. Knox felt
+                    that not only was the goal of diplomacy to improve financial opportunities, but
+                    also to use private capital to further U.S. interests overseas. “Dollar
+                    diplomacy” was evident in extensive U.S. interventions in the Caribbean and
+                    Central America, especially in measures undertaken to safeguard American
+                    financial interests in the region. In China, Knox secured the entry of an
+                    American banking conglomerate, headed by J.P. Morgan, into a European-financed
+                    consortium financing the construction of a railway from Huguang to Canton. In
+                    spite of successes, “dollar diplomacy” failed to counteract economic instability
+                    and the tide of revolution in places like Mexico, the Dominican Republic,
+                    Nicaragua, and China.</p>
+            </div>
+            <div type="section" xml:id="chinese-rev">
+                <head>The Chinese Revolution of <date when="1911">1911</date>
+                </head>
+                <p>In October of 1911, a group of revolutionaries in southern China led a successful
+                    revolt against the Qing Dynasty, establishing in its place the Republic of China
+                    and ending the imperial system.</p>
+                <figure>
+                    <graphic url="chinese-revolution.jpg" height="200px" width="200px"/>
+                    <head>Photograph of Revolutionaries in Shanghai</head>
+                </figure>
+                <p>In the Nineteenth Century, the Qing Empire faced a number of challenges to its
+                    rule, including a number of foreign incursions into Chinese territory. The two
+                    Opium Wars against Western powers led by Great Britain resulted in the loss of
+                    Hong Kong, forced opening of “treaty ports” for international trade, and large
+                    foreign “concessions” in major cities privileged with extraterritorial rule.
+                    After its loss in the Sino-Japanese War (1894–95), Imperial China was forced to
+                    relinquish control over still more of its territory, losing Taiwan and parts of
+                    Manchuria and ending its suzerainty over Korea. The <ref target="/milestones/1899-1913/portsmouth-treaty">Russo-Japanese War
+                    (1904–05)</ref> firmly established Japanese claims to the Northeast and further
+                    weakened Qing rule. The combination of increasing imperialist demands (from both
+                    Japan and the West), frustration with the foreign Manchu Government embodied by
+                    the Qing court, and the desire to see a unified China less parochial in outlook
+                    fed a growing nationalism that spurred on revolutionary ideas.</p>
+                <p>As Qing rule fell into decline, it made a few last-ditch efforts at
+                    constitutional reform. In 1905, the court abolished the examination system,
+                    which had limited political power to elites who passed elaborate exams on
+                    Chinese classics. Faced with increasing foreign challenges, it worked to
+                    modernize its military. With its central power weakening, the court also
+                    attempted a limited decentralization of power, creating elected assemblies and
+                    increasing provincial self-government.</p>
+                <figure>
+                    <graphic url="qing.jpg" height="200px" width="200px"/>
+                    <head>Qing Soldiers</head>
+                </figure>
+                <p>Although the Qing court maintained a degree of control within China in these
+                    years, millions of Chinese living overseas, especially in Southeast Asia and the
+                    Americas, began pressing for either widespread reform or outright revolution.
+                    Kang Youwei and Liang Qichao emerged as leaders of those proposing the creation
+                    of a constitutional monarchy. Sun Yat-sen led the amalgam of groups that
+                    together formed the Revolutionary Alliance or Tongmenghui. The Revolutionary
+                    Alliance advocated replacing Qing rule with a republican government; Sun himself
+                    was a nationalist with some socialist tendencies.</p>
+                <p>Both the revolutionary leaders and the overseas Chinese bankrolling their efforts
+                    had their roots in southern China. The Revolutionary Alliance attempted seven or
+                    more different revolts against the Qing in the years leading up to the
+                    revolution, most of which originated in south China and all of which were
+                    ultimately stopped by the Qing army.</p>
+                <p>Finally, in the autumn of 1911, the right set of conditions turned an uprising in
+                    Wuchang into a nationalist revolt. As its losses mounted, the Qing court
+                    responded positively to a set of demands intended to transform authoritarian
+                    imperial rule into a Constitutional monarchy. They named Yuan Shikai the new
+                    premier of China, but before he was able to retake the captured areas from the
+                    revolutionaries, the provinces started to declare their allegiance to the
+                    Revolutionary Alliance. Dr. Sun was in the United States on a fundraising tour
+                    at the time of the initial revolt; he hastened first to London and Paris to
+                    ensure that neither country would give financial or military support to the Qing
+                    government in its struggle. By the time he returned to China, the
+                    revolutionaries had taken Nanjing, a former capital under the Ming Dynasty, and
+                    representatives from the provinces began to arrive for the first national
+                    assembly. Together, they elected Dr. Sun the provisional president of the newly
+                    declared Republic of China.</p>
+                <figure>
+                    <graphic url="sun-yat-sen.jpg" height="200px" width="200px"/>
+                    <head>Sun Yat-Sen</head>
+                </figure>
+                <p>Sun Yat-sen telegrammed Yuan Shikai to promise that, should Yuan agree to the
+                    formation of a republic, the position of president would be his. With the
+                    military position of the Qing weakening and provisions made for the maintenance
+                    of the royal family at court, the emperor and the royal family abdicated the
+                    throne in February of 1912.</p>
+                <p>The 1911 revolution was only the first steps in a process that would require the
+                        <ref target="/milestones/1945-1952/chinese-rev">1949 revolution</ref> to
+                    complete. Though the new government created the Republic of China and
+                    established the seat of government in Nanjing, it failed to unify the country
+                    under its control. The Qing withdrawal led to a power vacuum in certain regions,
+                    resulting in the rise of warlords. These warlords often controlled their
+                    territories without acknowledging the nationalist government. Additionally, the
+                    reforms set in place by the new government were not nearly as sweeping as the
+                    revolutionary rhetoric had intended; unifying the country took precedent over
+                    fundamental changes.</p>
+                <p>International reaction to the revolution was guarded. Foreign nations with
+                    investments in China remained neutral throughout the upheaval, though they were
+                    anxious to protect the treaty rights they gained from the Qing through the first
+                    and second opium wars. Still, the United States was largely supportive of the
+                    republican project, and in 1913, the United States was among the first countries
+                    to establish full diplomatic relations with the new Republic. Britain, Japan,
+                    and Russia soon followed.</p>
+            </div>
+            <div type="section" xml:id="panama-canal">
+                <head>Building the Panama Canal, <date from="1903" to="1914">1903–1914</date>
+                </head>
+                <p>President <persName>Theodore Roosevelt</persName> oversaw the realization of a
+                    long-term United States goal—a trans-isthmian canal. Throughout the 1800s,
+                    American and British leaders and businessmen wanted to ship goods quickly and
+                    cheaply between the Atlantic and Pacific coasts.</p>
+                <figure>
+                    <graphic url="panama-canal3.jpg" height="450px" width="306px"/>
+                    <head>Roosevelt on a digging machine during construction of the Panama
+                        Canal, circa 1908. (Library of Congress, Prints and Photographs Division)</head>
+                </figure>
+                <p>To that end, in 1850 the United States and Great Britain negotiated the
+                    Clayton-Bulwer Treaty to reign in rivalry over a proposed canal through the
+                    Central American Republic of Nicaragua. The Anglo-American canal, however, never
+                    went beyond the planning stages. French attempts to build a canal through Panama
+                    (province of Colombia) advanced further. Led by Ferdinand de Lesseps—the builder
+                    of the Suez Canal in Egypt—the French began excavating in 1880. Malaria, yellow
+                    fever, and other tropical diseases conspired against the de Lesseps campaign and
+                    after 9 years and a loss of approximately 20,000 lives, the French attempt went
+                    bankrupt. In spite of such setbacks, American interest in a canal continued
+                    unabated. The Hay-Pauncefote Treaty of 1901 abrogated the earlier Clayton-Bulwer
+                    Treaty and licensed the United States to build and manage its own canal.
+                    Following heated debate over the location of the proposed canal, on June 19,
+                    1902, the U.S. Senate voted in favor of building the canal through Panama.
+                    Within 6 months, Secretary of State <ref target="/departmenthistory/people/hay-john-milton">John Hay</ref> signed a
+                    treaty with Colombian Foreign Minister Tomás Herrán to build the new canal. The
+                    financial terms were unacceptable to Colombia’s congress, and it rejected the
+                    offer.</p>
+                <p>President Roosevelt responded by dispatching U.S. warships to Panama City (on the
+                    Pacific) and Colón (on the Atlantic) in support of Panamanian independence.
+                    Colombian troops were unable to negotiate the jungles of the Darien Strait and
+                    Panama declared independence on November 3, 1903. The newly declared Republic of
+                    Panama immediately named Philippe Bunau-Varilla (a French engineer who had been
+                    involved in the earlier de Lesseps canal attempt) as Envoy Extraordinary and
+                    Minister Plenipotentiary. In his new role, Bunau-Varilla negotiated the
+                    Hay-Bunau-Varilla Treaty of 1903, which provided the United States with a
+                    10-mile wide strip of land for the canal, a one-time $10 million payment to
+                    Panama, and an annual annuity of $250,000. The United States also agreed to
+                    guarantee the independence of Panama. Completed in 1914, the Panama Canal
+                    symbolized U.S. technological prowess and economic power. Although U.S. control
+                    of the canal eventually became an irritant to U.S.-Panamanian relations, at the
+                    time it was heralded as a major foreign policy achievement.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

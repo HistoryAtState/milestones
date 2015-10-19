@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1981–1988</title>
+                <title type="short">1981–1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31"
+                    target="#foreword #u.s.-soviet-relations #central-america #south-atlantic"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword"
+                ana="reagan-ronald haig-alexander-meigs shultz-george-pratt lebanon afghanistan falkland-islands-islas-malvinas arms-control-and-disarmament">
+                <head>
+                    <date from="1981" to="1988">1981–1988</date>: The Presidency of Ronald W.
+                    Reagan</head>
+                <p>The principal foreign policy framework for the <persName>Ronald Reagan</persName>
+                    administration rejected acquiescence in the Cold War status quo that had emerged
+                    during the Nixon, Ford, and Carter presidencies. Reagan objected to the implied
+                    moral equivalency of détente, insisting instead on the superiority of
+                    representative government, free-market capitalism, and freedom of conscience
+                    over what he viewed as godless, collectivist, Communism. This more
+                    confrontational approach eventually came to be labeled the “Reagan Doctrine,”
+                    which advocated opposition to Communist-supported regimes wherever they existed,
+                    as well as a willingness to directly challenge the Soviet Union on a variety of
+                    fronts.</p>
+                <p>Often referred to as “the great communicator,” Reagan utilized his rhetorical
+                    skills to frame the Cold War contest as a fundamental clash between good and
+                    evil. In his first inaugural address on January 20, 1981, the new President
+                    contrasted the “enemies of freedom” as doomed to fail when faced with the “will
+                    and moral courage of free men and women.” Later that year in an address at Notre
+                    Dame University he stated that “the West won’t contain Communism, it will
+                    transcend Communism.” In 1983, he famously characterized the Soviet Union as an
+                    “evil empire.” In 1987, standing in front of the Berlin Wall constructed by the
+                    East German communist regime a quarter-century earlier to stem the flow of East
+                    Germans to the West, Reagan challenged the patron of the East German regime,
+                    Soviet leader Mikhail Gorbachev, to “tear down this wall.” Reagan’s many
+                    memorable public addresses served as an important tool to galvanize support for
+                    policies that often sparked considerable controversy.</p>
+                <figure>
+                    <graphic url="reagan-admin.jpg" height="450px" width="301px"/>
+                    <head>Arrival of General Secretary Mikhail Gorbachev of the USSR for his first
+                        meeting with President Reagan for the Geneva Summit at Fleur D’Eau in
+                        Switzerland, November 19, 1985. (Ronald Reagan Presidential Library)</head>
+                </figure>
+                <p>The Reagan administration advocated a wide array of initiatives that heightened
+                    confrontation with the U.S.S.R. and its allies. Reagan engineered a significant
+                    increase in U.S. defense spending designed to modernize existing forces and
+                    achieve technological advances the Soviet Union could not match. For example,
+                    the administration advocated building a much larger navy with enhanced technical
+                    capabilities, deployment of intermediate-range nuclear missiles in Europe,
+                    development of terrain-hugging cruise missiles difficult both to detect and to
+                    shoot down, and the Strategic Defense Initiative, which held out the prospect of
+                    seizing the ultimate “high ground”—outer space—by preventing intercontinental
+                    nuclear missile warheads from reaching their targets. During his two terms in
+                    office, Reagan successfully advocated increasing the Defense Department budget
+                    by 35%. The United States supported Afghan resistance organizations opposing the
+                    Soviet-backed regime in Kabul, anti-communist forces in Angola, and the Contras
+                    in Nicaragua. In 1983 American forces invaded Grenada to forestall installation
+                    of a Marxist regime. The administration also greatly increased spending on the
+                    U.S. Information Agency, especially Voice of America and Radio Free Europe/Radio
+                    Liberty, signaling the importance placed on challenging Soviet ideology
+                    throughout the world.</p>
+                <p>Conversely, heightened tensions also led Reagan administration officials to
+                    attempt conciliatory measures designed to reduce the threat of direct
+                    confrontation, especially nuclear war. In 1982, Reagan broached the idea of
+                    substantially decreasing nuclear weapon stockpiles, which eventually resulted in
+                    the landmark Strategic Arms Reduction Treaty (START). The emergence of Mikhail
+                    Gorbachev as the principal Soviet leader provided Reagan with a partner willing
+                    to engage in substantive negotiations. A series of summit meetings ensued which
+                    reduced tensions and produced concrete results, such as the 1987
+                    Intermediate-Range Nuclear Forces Treaty (INF) that eliminated the deployment of
+                    theater-level nuclear missiles in Europe.</p>
+                <p>The Reagan administration dealt with many other foreign policy issues as well.
+                    Affairs in and around Southwest Asia continued to present multiple challenges,
+                    including a Lebanese civil war, strained relations with Iran, and increasing
+                    tensions after the bombing of Libya in retaliation for a state-sanctioned
+                    terrorist attack in Berlin. A (third) joint communiqué with the Peoples’
+                    Republic of China reiterated both parties’ commitment to improved relations,
+                    while not resolving all issues related to Taiwan. Trade disputes with Japan
+                    required constant attention. The United States had to determine what course to
+                    steer amid hostilities between allies during the Falklands Crisis. A variety of
+                    global issues also rose to prominence. After a decade of negotiation, the
+                    administration opted not to support Senate ratification of a comprehensive Law
+                    of the Sea treaty out of concerns about the potential for the internationalizing
+                    of seabed mining operations and potential impingement on U.S. Navy prerogatives.
+                    The United States increasingly promoted its enforcement preferences regarding
+                    drug trafficking, resulting in a landmark 1988 treaty. It became apparent that
+                    the AIDS crisis represented an international public health issue of consequence.
+                    With the increasing rapidity of international communications, enhanced global
+                    trade, and the rising world-wide movement of people, many issues previously
+                    considered “domestic” became subject to diplomatic negotiation.</p>
+                <p>The Secretary of State occupied a prominent position in Reagan’s approach to
+                    creating and implementing foreign policy. <persName>Alexander Haig</persName>
+                    first occupied the chair, but an inability to exert as much influence as he
+                    desired caused him to resign after only 18 months in office. <persName>George
+                        Shultz</persName> served as Secretary for the remainder of Reagan’s two
+                    terms, and is generally regarded as an effective bureaucratic manager and
+                    influential policy leader. <persName>Caspar Weinberger</persName> served as
+                    Secretary of Defense for almost seven years and <persName>William
+                        Casey</persName> as Director of Central Intelligence for six years. Both
+                    played key roles in the foreign policy arena. The position of National Security
+                    Adviser was downgraded somewhat during the Reagan administration. The six
+                    individuals who occupied the position exercised relatively less influence than
+                    predecessors in the Carter, Ford, or Nixon White House.</p>
+                <p>Perhaps to an unusual degree, the accomplishments of this administration are
+                    viewed in the light of events that occurred after Ronald Reagan left office in
+                    January 1989. Within a year, the Berlin Wall fell, and by the end of 1991 the
+                    Soviet Union had collapsed, signaling the end of the Cold War. Historians and
+                    other analysts continue to debate the extent of their influence, but there is no
+                    question that Ronald Reagan and his foreign policy advisers played key roles in
+                    this remarkable turn of events.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="u.s.-soviet-relations"
+                ana="reagan-ronald bush-george-h-w shultz-george-pratt baker-james-addison russia arms-control-and-disarmament nuclear-weapons">
+                <head>U.S.-Soviet Relations, 1981–1991</head>
+                <p>The period 1981–1991 witnessed a dramatic transformation in the relationship
+                    between the United States and the Soviet Union. During these years the specter
+                    of a nuclear war between the superpowers receded as the Cold War ended swiftly,
+                    nearly entirely peacefully, and on U.S. terms.</p>
+                <figure>
+                    <graphic url="us-soviet.jpg" height="450px" width="298px"/>
+                    <head>Gorbachev, Reagan, and Bush in New York City, December 1988. (Ronald
+                        Reagan Presidential Library)</head>
+                </figure>
+                <p>When Ronald Reagan became president in January 1981, such outcomes were
+                    inconceivable. The Soviets had invaded Afghanistan, causing President Jimmy
+                    Carter to withdraw a strategic arms limitation treaty (SALT II) from Senate
+                    ratification, boycott the 1980 Olympics Games in Moscow, and ban U.S. grain
+                    sales to Moscow. Détente—or, “relaxation of tensions”—yielded to
+                    confrontation.</p>
+                <p>Committed to restoring U.S. strength and reversing strategic imbalances real and
+                    perceived, President Reagan pursued a comprehensive modernization of U.S.
+                    nuclear and conventional forces and attempted to roll back communism in South
+                    America, Africa, and South Asia. At the same time, he wrote to Soviet leaders
+                    Leonid Brezhnev, Yuri Andropov, and Konstantin Chernenko, imploring them to
+                    alleviate Cold War tensions and negotiate arms reductions. He lifted the grain
+                    embargo as a show of good faith, but the crackdown on Solidarity and declaration
+                    of martial law in Poland in December 1981 led the President to declare further
+                    economic sanctions against Moscow and curtail U.S.-Soviet academic
+                    exchanges.</p>
+                <p>Although formal nuclear arms control talks resumed, the relationship between
+                    Washington and Moscow remained tense throughout Reagan’s first term. The
+                    President spoke of leaving “Marxism-Leninism on the ash-heap of history;”
+                    labeled the Soviet Union an “evil empire;” and introduced the Strategic Defense
+                    Initiative (“Star Wars”), which Soviet leaders found highly threatening. The
+                    nadir of this time period was the fall of 1983, when the Soviets shot down
+                    Korean Airlines Flight 007 over the Sea of Japan, NATO deployed a new generation
+                    of intermediate-range nuclear missiles in Western Europe, and Soviet negotiators
+                    walked out of arms control talks in Geneva.</p>
+                <p>Reagan’s top advisers disagreed about Soviet strategies. Secretary of Defense
+                    Caspar Weinberger was deeply skeptical of arms control. Secretary of State
+                    George Shultz believed that agreements would enhance U.S. security. The
+                    President seldom intervened to resolve such disputes, yet he shared Shultz’s
+                    enthusiasm for establishing a dialogue on human rights—in particular, the plight
+                    of religious and political dissidents—as a central focus of U.S.-Soviet
+                    negotiations. In January 1984, he delivered an eloquent speech, drafted by his
+                    Soviet aide Jack Matlock, which imagined the human connections that fictional
+                    American and Soviet couples could forge if left to their own devices.</p>
+                <p>The March 1985 appointment of Mikhail Gorbachev as General Secretary of the
+                    Communist Party of the Soviet Union provided Reagan with a viable negotiating
+                    partner. A series of summits and high-profile encounters followed. At Reykjavik
+                    in October 1986, Reagan and Gorbachev discussed the prospect of abolishing all
+                    nuclear weapons. In December 1987 they signed the Intermediate-Range Nuclear
+                    Forces Treaty, which eliminated an entire class of missiles. In May 1988,
+                    standing in the middle of Red Square in Moscow, Reagan declared that the term
+                    “evil empire” belonged to “another era.”</p>
+                <p>Fearful that Reagan had moved too quickly to accept Gorbachev’s good intentions
+                    and the feasibility of his economic and political agenda (“Perestroika” and
+                    “Glasnost”), President George H.W. Bush ordered a strategic review to reassess
+                    U.S. objectives toward the Soviet Union in the first months of 1989.
+                    Simultaneously, Assistant to the President for National Security Affairs Brent
+                    Scowcroft reiterated that the Cold War was not over, and Secretary of Defense
+                    Richard Cheney publicly stated that Gorbachev’s reforms were destined to
+                    fail.</p>
+                <p>These statements aggravated Gorbachev, yet the pause did not derail the
+                    constructive relationship between Washington and Moscow. Gorbachev accommodated
+                    as revolutions occurred in Central and Eastern Europe that fall. After Bush met
+                    with his Soviet counterpart off the coast of Malta in December 1989, one month
+                    after the fall of the Berlin Wall, Gorbachev’s spokesman declared, “We buried
+                    the Cold War at the bottom of the Mediterranean Sea.” In the months that
+                    followed, Bush worked with the Soviet leader to allow for the peaceful
+                    reunification of Germany within NATO, to sign the Conventional Forces in Europe
+                    (CFE) treaty and the Strategic Arms Reduction Treaty (START), and to enable the
+                    transition to democratically-elected governments in countries emerging from
+                    Communist rule.</p>
+                <p>The starkest example of the improvement in U.S.-Soviet relations came after
+                    Saddam Hussein invaded Kuwait in August 1990. The Iraqi regime had previously
+                    been a Soviet client and Gorbachev vigorously opposed the use of force to turn
+                    back Saddam; yet Gorbachev did not stand in Washington’s way. Secretary of State
+                    James Baker, who had been Reagan’s chief of staff in 1981, recalled the fall of
+                    1990 as “the world turned upside down.”</p>
+                <p>As Gorbachev’s economic reforms foundered and his political base crumbled in
+                    1991, the Bush administration increasingly engaged Russian President Boris
+                    Yeltsin. Yeltsin turned back a coup against Gorbachev in August 1991, but in
+                    subsequent months consolidated authority over political and military
+                    institutions, and increasingly supported Russian independence and dissolution of
+                    the Soviet Union. On the evening of December 25, after speaking to Gorbachev on
+                    the telephone, Bush addressed the nation from the Oval Office to announce that
+                    the Soviet Union had ceased to exist.</p>
+            </div>
+            <div type="section" xml:id="central-america"
+                ana="reagan-ronald bush-george-h-w haig-alexander-meigs costa-rica cuba el-salvador guatemala honduras nicaragua panama narcotics organization-of-american-states">
+                <head>Central America, 1981–1993</head>
+                <p>Following his electoral victory in November 1980, President <persName>Ronald
+                        Reagan</persName> amplified the concerns expressed by President Carter and
+                    Congress about foreign support of Central American leftist guerrilla forces. In
+                    February 1981, a month after the leftist <hi rend="italic">Farabundo Martí
+                        National Liberation Front</hi> (FMLN) launched a major offensive against the
+                    Salvadoran military, the Department of State issued a White Paper stating that
+                    Cuba and other Communist countries had played a central role in the political
+                    unification, military direction, and arming of the Salvadoran insurgents.
+                    Secretary of State <persName>Alexander Haig</persName> accused the Sandinista
+                    government of exporting terrorism to El Salvador and in April 1981, Reagan
+                    terminated economic assistance to Nicaragua citing its involvement in supporting
+                    Salvadoran rebels. After several failed diplomatic attempts to dissuade Managua
+                    from supporting FMLN activities, Reagan opted to support a clandestine guerrilla
+                    force to quash the Sandinista training and arming of Salvadoran guerillas. These
+                    “Contras,” as in “counterrevolutionaries,” were primarily ex-Nicaraguan National
+                    Guard members who had gathered in Honduran territory. The Contras launched their
+                    first major attack against the Sandinistas in March 1982. In response, the
+                    Sandinistas undertook a dramatic build-up of military manpower assisted by
+                    Soviet and Cuban advisers and weaponry, mostly from the Soviet bloc.</p>
+                <figure>
+                    <graphic url="reagan-central-america.jpg" height="450px" width="296px"/>
+                    <head>Supporters of the Nicaraguan Contra rebels outside a protest against the
+                        Contras at Hurlburt Field, Florida.(Department of Defense)</head>
+                </figure>
+                <p>Reagan’s efforts to strengthen the Contras met with opposition from a divided
+                    Congress and resistance in Nicaragua. Concerns about the ultimate goals of the
+                    Contras and the possibility of direct U.S. military involvement prompted
+                    Representative <persName>Edward Boland</persName>, Chairman of the House
+                    Intelligence Committee, to sponsor legislation in December 1982 that prohibited
+                    the use of U.S. funds for the purpose of overthrowing the Sandinista government.
+                    The bill, signed into law by Reagan later that December, allowed assistance to
+                    the Contras for other purposes. Reagan continued to advocate increases in
+                    support for the Contras. He addressed a joint session of Congress in April 1983
+                    asserting that the Sandinista government presented a threat to Central America
+                    and U.S. national security. American military exercises off the Nicaraguan coast
+                    and the invasion of Grenada in October 1983 demonstrated Reagan’s commitment to
+                    countering Communist threats in the region. Consequently, the Sandinistas
+                    decided to participate in the Contadora peace negotiations that had begun in
+                    January 1983 at the initiative of Mexico, Venezuela, Colombia, and Panama.
+                    Claiming success in rolling back Communism in Grenada, Reagan gained
+                    congressional increases of up to $100 million in non-military aid to the
+                    Contras. In October 1984, however, Congress ended the support after learning
+                    about the mining of Nicaraguan harbors and the destruction of an oil facility.
+                    In November 1984 Reagan’s re-election and Sandinista leader Daniel Ortega’s
+                    elevation to president in a controversial national election set the tone for
+                    additional confrontation.</p>
+                <p>Reagan redoubled his commitment to the Contras in his second term. In his 1985
+                    State of the Union address he called them “freedom-fighters” who were risking
+                    their lives to “defy Soviet-supported aggression.” In June 1985 Congress agreed
+                    to $27 million in humanitarian aid for the Contras, but no military support.
+                    Sandinista victories against the Contra fighters, heavy Presidential lobbying,
+                    and an incursion into Honduran territory by Nicaraguan forces helped to sway
+                    Congress into approving $100 million for the Contras, with seventy percent
+                    allocated for military aid to be delivered in October 1986. However, the
+                    Iran-Contra scandal broke the next month. The Tower Commission reported that
+                    White House staff members had been using extralegal funds raised from arms sales
+                    to Iran and foreign donors to arm the Contras prior to October 1986.</p>
+                <p>Following the deaths of hundreds of thousands and a decade of economic
+                    devastation, peace initiatives eventually gained traction in Central America.
+                    Numerous efforts to establish a peace plan by regional leaders, the United
+                    Nations, and the Organization of American States had continued in the wake of
+                    the 1983 Contadora initiative. In August 1987, Central American leaders signed a
+                    peace accord at Esquipulas, Guatemala that had been shaped and promoted
+                    primarily by Costa Rican President Óscar Arias. The plan focused on
+                    democratization and regional security, backed with a system of verification.
+                    Meeting in Costa Rica in January 1988, Central American leaders cemented their
+                    commitment to implement the Guatemala peace accord. Nicaraguan President Ortega
+                    entered into negotiations with the Contras and the United States began to shift
+                    aid to humanitarian purposes. Nicaragua implemented the accord and held
+                    internationally supervised elections in 1990. <persName>Violeta
+                        Chamorro</persName>, former member of the revolutionary Provisional
+                    Government and widow of <persName>Pedro Joaquín Chamorro</persName>, the
+                    journalist and hero of the opposition who had been slain in 1978, was elected
+                    president and the Contras disbanded. The civil war in El Salvador lasted until
+                    1991, when the FMLN reached a peace accord with the Salvadoran Government under
+                    United Nations supervision. In Guatemala, fighting between leftist groups and
+                    the military continued into the mid-1990s.</p>
+                <p>Washington continued to perceive threats in Central America after the end of the
+                    Cold War. On December 20, 1989, President <persName>George H.W. Bush</persName>
+                    dispatched over twenty thousand troops to invade Panama and arrest its head of
+                    state, <persName>Manuel Noriega</persName>. Noriega had nullified a presidential
+                    election won by opposition candidate <persName>Guillermo Endara</persName> that
+                    May. In addition, Bush had become opposed to Noriega's continued leadership of
+                    Panama due to Noriega’s connections with drug smuggling and money laundering, as
+                    well as the declining security situation around the Panama Canal. In the months leading up to the
+                    invasion, the Bush administration implemented economic sanctions and increased
+                    local troop levels. The Panamanian legislature declared that a state of war
+                    existed with the United States on December 15 due to the escalating tension
+                    between the two countries. A U.S. serviceman was killed in Panama the following
+                    day; this and other events, including the harassment of a U.S. officer and his
+                    wife, precipitated U.S. action. Code-named Operation Just Cause, the fighting
+                    lasted for five days. After taking refuge in the Vatican Embassy, Noriega
+                    eventually surrendered to U.S. authorities and Endara regained his presidency.
+                    Noriega was tried in a United States court and convicted on charges of drug
+                    trafficking, money laundering, and racketeering.</p>
+            </div>
+            <div type="section" xml:id="lebanon"
+                ana="reagan-ronald haig-alexander-meigs shultz-george-pratt israel lebanon syria palestine peace military-intervention-presence-and-withdrawal terrorism arab-israeli-dispute">
+                <head>The Reagan Administration and Lebanon, 1981–1984</head>
+                <p>From 1981 onward, the Reagan administration feared that conflict between Lebanese
+                    factions backed by Syria and Israel, along with clashes between Israel and the
+                    Palestine Liberation Organization (PLO), could escalate into an Arab-Israeli
+                    war. Yet American policymakers differed over how to prevent such a conflict,
+                    especially over whether to commit troops for that purpose. Following Israel’s
+                    1982 invasion of Lebanon, the advocates of military intervention won out. But by
+                    1984, terrorist attacks, a lack of diplomatic progress, and congressional
+                    opposition led President <persName>Ronald Reagan</persName> to withdraw U.S.
+                    forces from Lebanon.</p>
+                <figure>
+                    <graphic url="lebanon.jpg" height="350px" width="533px"/>
+                    <head>U.S. Marines on patrol in Beirut, April 1983. (Department of
+                        Defense)</head>
+                </figure>
+                <p>In April 1981, the Israeli Air Force attacked Syrian forces in Lebanon to prevent
+                    them from seizing the strategic Sannin ridge. Syria responded by deploying
+                    surface-to-air missiles into the Biqa‘ Valley, threatening Israel’s ability to
+                    monitor PLO forces in Lebanon. To avert war, Reagan sent emissary
+                        <persName>Philip Habib</persName> to the Middle East, but he failed to
+                    persuade the Syrians to withdraw the missiles. When fighting escalated between
+                    Israel and the PLO that July, the Reagan administration feared that Israel would
+                    invade Lebanon. Ultimately, Habib managed to negotiate a de facto ceasefire
+                    between Israel and the PLO.</p>
+                <p>The ceasefire, however, merely postponed a larger crisis. The Lebanese remained
+                    at odds, Syria refused to withdraw its missiles, and Israel chafed under the
+                    restrictions of the ceasefire, which allowed the PLO to strengthen itself and
+                    did not prevent terrorist attacks from the West Bank and Gaza Strip or against
+                    Israeli and Jewish targets in Europe. In London on June 3, 1982, Palestinian
+                    assailants shot Shlomo Argov, Israel’s ambassador to the United Kingdom. The
+                    Israel Defense Forces (IDF) invaded Lebanon on June 6.</p>
+                <p>The Reagan administration was divided over how to respond to Israel’s invasion.
+                    Secretary of State <persName>Alexander Haig</persName> argued that the United
+                    States should not pressure Israel to withdraw without demanding that the PLO and
+                    Syria do likewise. Secretary of Defense <persName>Caspar Weinberger</persName>,
+                    Vice President <persName>George Bush</persName>, and National Security Advisor
+                        <persName>William Clark</persName> wanted the IDF to withdraw immediately
+                    and to sanction Israel if they did not. The debate sharpened when the IDF
+                    destroyed Syria’s missiles in the Biqa‘ on June 9, raising the specter of a
+                    wider war. President Reagan sent Habib to Israel to demand a ceasefire. The IDF
+                    halted its advance into the Biqa‘ but continued to the outskirts of
+                    PLO-controlled West Beirut.</p>
+                <p>With the Israeli-Syrian confrontation defused, Reagan adopted Haig’s strategy of
+                    helping the Lebanese Government take over West Beirut, then negotiating Israeli
+                    and Syrian withdrawal. By July, the PLO informed Habib that they would leave
+                    Beirut if an international force deployed to protect Palestinian civilians.
+                    Against Weinberger’s advice, Reagan agreed to contribute Marines to a
+                    multinational force (MNF), alongside French and Italian troops. However, the
+                    Palestinian withdrawal did not begin until August 21. The United States could
+                    not convince any Arab country to receive all PLO fighters from Beirut; they were
+                    ultimately dispersed to several states. Initially, the Israelis refused to let
+                    the MNF deploy until the PLO left, instead intensifying their attacks on Beirut.
+                    The PLO completed its withdrawal by September 1. Though the MNF was supposed to
+                    remain for thirty days, Weinberger announced that the Marines would leave on
+                    September 10.</p>
+                <p>On September 14, Lebanese President-elect <persName>Bashir Gemayel</persName>,
+                    whose election had been backed by the Israelis, was assassinated. Citing a need
+                    to prevent civil disorder, the IDF entered West Beirut. By September 18, it
+                    became clear that the Israelis had allowed Maronite militiamen to enter the
+                    Sabra and Shatilla camps and massacre Palestinian civilians. An international
+                    outcry ensued, and Reagan decided to commit Marines to a new MNF. On October 28,
+                    Reagan signed National Security Decision Directive (NSDD) 64, calling for the
+                    United States to work toward the withdrawal of foreign forces from Lebanon, help
+                    rebuild the Lebanese army, and contribute to an expanded MNF if necessary. In
+                    April–May 1983, Secretary of State George Shultz helped Israel and Lebanon
+                    negotiate an agreement that ended the hostilities between the two countries and
+                    provided a basis for normal relations once Israel withdrew. For Israel to
+                    withdraw, however, Syrian and Palestinian forces would also need to leave
+                    Lebanon. </p>
+                <p>The Israeli-Lebanese agreement was opposed by Syrian President <persName>Hafiz
+                        al-Asad</persName>, who claimed that it would enable Israel to dominate
+                    Lebanon. Asad refused to remove his troops and encouraged Lebanese opposition to
+                    President <persName>Amin Gemayel</persName>. Meanwhile, the Israelis, facing
+                    guerilla attacks in the Shuf, decided that they would unilaterally withdraw from
+                    the area.</p>
+                <p>The Reagan administration feared that an Israeli pullback could lead to the
+                    partition of Lebanon and expose the MNF to shelling from the Shuf. New emissary
+                        <persName>Robert McFarlane</persName> attempted to soften Syria’s position,
+                    delay Israeli withdrawal, and help Gemayel and his opponents reconcile, but
+                    without success. The IDF pulled back on September 3, and fighting erupted
+                    between Maronite Lebanese Forces and pro-Syrian militias led by <persName>Walid
+                        Jumblatt’s</persName> Popular Socialist Party. To prevent Lebanese troops
+                    from intervening, Jumblatt and his allies attacked them as well, leading
+                    McFarlane to warn that they might reach Beirut and topple Gemayel’s
+                    government.</p>
+                <p>Reagan responded by authorizing the Marines to engage in “aggressive
+                    self-defense,” dispatching the battleship <hi rend="italic">New Jersey</hi>to
+                    Lebanon, and authorizing naval gunfire and airstrikes to prevent hostile forces
+                    from seizing Suq al-Gharb, which overlooked the Marine barracks. But by the time
+                    a ceasefire took hold on September 25, the fighting had provoked significant
+                    opposition to Reagan’s Lebanon policy. On September 29, Congress passed
+                    legislation invoking the War Powers Act and authorizing the Marines to remain in
+                    Lebanon for 18 months, the first time constraint placed on their presence.
+                    Weinberger now proposed withdrawing U.S. forces offshore.</p>
+                <p>On October 23, suicide bombers attacked the barracks of the U.S. and French
+                    contingents of the MNF, killing 241 American servicemen. The administration
+                    believed that the bombings, like the attack on the U.S. Embassy in Beirut that
+                    April, were perpetrated by Shi‘i militants linked to Syria’s ally Iran. Reagan
+                    responded by adopting a tough policy championed by Shultz and McFarlane, now
+                    National Security Advisor. On October 28, he signed NSDD 111, which called for
+                    broadening strategic cooperation with Israel and Arab opponents of Syria,
+                    reducing Syrian influence over Lebanon’s Druze and Shi‘a, and expanded rules of
+                    engagement regarding naval and air support for the Lebanese army.</p>
+                <p>The implementation of NSDD 111, however, was marred by disagreements between
+                    Reagan’s advisors, Syrian intransigence, a lack of progress toward Lebanese
+                    reconciliation, and major public relations setbacks. Though Reagan publicly
+                    proclaimed that the perpetrators of the October 23 bombings “must be dealt
+                    justice,” U.S. forces did not join their French counterparts in attacking an
+                    Iranian Revolutionary Guards barrack in the Biqa‘ that November. McFarlane later
+                    contended that Reagan had authorized U.S. participation in the strikes, but
+                    Weinberger refused to follow through on his order. On December 4, the Syrians
+                    shot down two U.S. planes, and held one of the pilots, Lt. Robert Goodman,
+                    prisoner until releasing him to Democratic presidential candidate Jesse Jackson.
+                    Even more damaging to the administration’s prestige were press leaks regarding
+                    the Department of Defense’s Long Commission report, which harshly criticized the
+                    Marines’ deployment. On February 1, 1984, amidst mounting congressional
+                    criticism, Reagan approved the idea of redeploying the Marines but did not set a
+                    date for doing so. Almost immediately afterward, however, pro-Syrian militias
+                    overran West Beirut, and on February 7, Reagan announced that the Marines would
+                    withdraw offshore.</p>
+                <p>Reagan’s decision to withdraw the Marines remains controversial. Supporters argue
+                    that it did not make sense to sacrifice American lives and resources to help
+                    resolve a conflict where the parties involved showed little interest in working
+                    toward U.S. goals. Critics, however, claim that Reagan failed to stand firm
+                    against terrorism and demonstrated that the United States was an undependable
+                    ally.</p>
+            </div>
+            <div type="section" xml:id="south-atlantic"
+                ana="reagan-ronald haig-alexander-meigs united-kingdom argentina falkland-islands-islas-malvinas south-georgia-and-the-south-sandwich-islands warfare">
+                <head>Crisis in the South Atlantic: The Reagan Administration and the
+                    Anglo-Argentine War of 1982</head>
+                <p>Early on the morning of April 2, 1982, Argentine military forces landed on the
+                    Falkland Islands (Spanish: <hi rend="italic">Islas Malvinas</hi>) in the
+                    southern Atlantic Ocean. Argentina had maintained a claim to the islands dating
+                    to its independence from Spain in 1816; beginning in 1833, however, the United
+                    Kingdom had established a presence on the islands and developed them as a
+                    British colony. The issue of the islands’ future sovereignty had been the
+                    subject of intermittent and inconclusive negotiations between the two countries
+                    since the 1960s. Within hours of the invasion, the Argentines overwhelmed the
+                    small British garrison, forcing its surrender. In subsequent days, the military
+                    junta led by General Leopoldo Galtieri formalized Argentine control over the
+                    territory (as well as over other British South Atlantic possessions in South
+                    Georgia and the South Sandwich Islands) and expelled the British administration.
+                    British Prime Minister Margaret Thatcher condemned the landings as an act of
+                    aggression against the wishes of the islands’ inhabitants who, she argued,
+                    favored overwhelmingly continued association with the United Kingdom. She
+                    ordered the deployment of a naval task force to the region.</p>
+                <figure>
+                    <graphic url="falklands.jpg" height="450px" width="296px"/>
+                    <head>Prime Minister Margaret Thatcher of England is welcomed by Secretary of
+                        State Alexander Haig upon arrival for a visit to the United States.
+                        (Department of Defense)</head>
+                </figure>
+                <p>Amidst a situation that initially struck some U.S. policy makers as an
+                    anachronistic “Gilbert and Sullivan battle,” this crisis presented the Ronald
+                    Reagan administration with a formidable foreign policy dilemma. Although the
+                    United States had proclaimed its neutrality on the question of the islands’
+                    sovereignty since the mid-nineteenth century, the clash between Argentina and
+                    the United Kingdom created conflicts among Reagan’s foreign policy team.
+                    Ambassador to the United Nations Jeane Kirkpatrick did not want to alienate the
+                    Argentines, regarded by the administration as key partners in halting the
+                    perceived expansion of Soviet-directed communist influence in the Western
+                    Hemisphere. Secretary of Defense Caspar Weinberger argued strongly to support
+                    the British. The United Kingdom was one of Washington’s closest allies and
+                    Weinberger feared the administration’s failure to vigorously support the
+                    Thatcher government would tacitly condone the Argentines’ actions and encourage
+                    other countries to employ similarly aggressive methods. Secretary of State
+                    Alexander M. Haig, Jr., argued that Cuba and the Soviet Union stood poised to
+                    exploit the crisis and expand their influence in South America if the United
+                    States failed to prevent an escalation of hostilities. In such an environment,
+                    he advocated an even-handed “honest broker” approach toward both sides.</p>
+                <p>Containing the crisis and preserving Washington’s relationships with both
+                    governments hinged upon the conclusion of a negotiated settlement. Having failed
+                    to persuade Galtieri to refrain from landing on the islands, after much internal
+                    debate, Reagan dispatched Haig to the United Kingdom and Argentina for talks
+                    with Thatcher and Galtieri on April 7. The backdrop to Haig’s mission was
+                    ominous: in addition to an increasingly bellicose war of words between the
+                    Argentine and British governments, Britain’s mounting military buildup in the
+                    region raised the possibility of actual hostilities.</p>
+                <p>Haig shuttled between London and Buenos Aires for two rounds of intensive
+                    discussions over the next fortnight, but failed to broker a peaceful solution.
+                    Supported by most Britons, Thatcher insisted on a return to the <hi
+                        rend="italic">status quo ante</hi>. Any other result would, she believed,
+                    imply moral equivalence between the British and Argentine positions, validate
+                    Argentina’s aggression, and diminish the islanders’ right to self-determination.
+                    Moreover, Thatcher stipulated that no negotiation over sovereignty could occur
+                    until Argentine forces withdrew. The Argentine Junta held its own suspicions
+                    about U.S. impartiality, refused to make concessions that might prejudice its
+                    claims to sovereignty over the islands, and viewed the dispute as a matter
+                    national honor. A series of detailed proposals and counterproposals failed to
+                    break the diplomatic impasse. Following a successful British operation to retake
+                    South Georgia and with growing indications of the Thatcher government’s
+                    readiness to seek a military solution, Argentina officially rejected Haig’s
+                    final peace proposal on April 29.</p>
+                <p>The following day, after a meeting of the National Security Council, Haig
+                    announced the breakdown of negotiations, administration support for the British
+                    position, and the suspension of military and economic aid to Argentina. On May
+                    5, Weinberger met with British Defense Secretary John Nott to finalize
+                    arrangements for the fulfillment of British requests for military materiel as
+                    part of a broad range of political, diplomatic, and military measures undertaken
+                    by the United States in support of the Thatcher government.</p>
+                <p>Despite this public tilt toward the British position, the Reagan administration
+                    continued its efforts to control the conflict and to mitigate the fighting’s
+                    impact upon U.S. interests. Indeed, most Latin American countries viewed U.S.
+                    support for Britain as a betrayal of the hemispheric solidarity embodied in the
+                    1947 Inter-American Treaty of Reciprocal Assistance (the Rio Treaty). In
+                    addition to offering broad support for peace initiatives undertaken by the
+                    Peruvian president and U.N. General Secretary Javier Pérez de Cuéllar, the
+                    administration pressed the belligerents to draw down their military engagement.
+                    Ambassador-at-Large General Vernon Walters met secretly with the Argentine
+                    Junta, while Reagan attempted to personally intercede with Prime Minister
+                    Thatcher. Over the course of two tense telephone conversations in late May,
+                    Reagan failed to persuade Thatcher to refrain from “scoring total victory” in
+                    the South Atlantic in order to avoid toppling the Junta.</p>
+                <p>British victory in the field brought an end to the 1982 Falklands/Malvinas
+                    crisis. Following a three-week ground campaign, British forces re-captured the
+                    islands’ capital, Port Stanley, on June 14, forcing the surrender of all
+                    Argentine troops. Three days later, Galtieri resigned as Argentine president,
+                    the first step in the eventual return of civilian government to Argentina.</p>
+            </div>
+            <div type="section" xml:id="china-communique"
+                ana="reagan-ronald bush-george-h-w east-asia-and-pacific china taiwan arms-transfers">
+                <head>The August 17, 1982 U.S.-China Communiqué on Arms Sales to Taiwan</head>
+                <p>On August 17, 1982, after eight months of contentious negotiations, the United
+                    States and the People’s Republic of China (PRC) issued the United States-China
+                    Joint Communiqué on United States Arms Sales to Taiwan, more commonly known as
+                    the August 17 Communiqué. The Communiqué addressed the troublesome issue of U.S.
+                    arms sales to Taiwan in an effort to prevent the collapse of U.S.–PRC
+                    relations.</p>
+                <figure>
+                    <graphic url="china-communique-1982.jpg" height="350px" width="515px"/>
+                    <head>President and Nancy Reagan at the Great Wall of China, April 1984. (Ronald
+                        Reagan Presidential Library)</head>
+                </figure>
+                <p>The administration of President Jimmy Carter formally normalized relations with
+                    the People’s Republic of China on January 1, 1979, but the perpetually divisive
+                    issue of U.S. arms sales to Taiwan remained unresolved. On the one hand,
+                    officials in the Carter administration and the incoming administration of
+                    President Ronald Reagan, along with majorities in Congress, agreed that the
+                    United States should not end arms sales to Taiwan. On the other hand, PRC
+                    officials insisted that the continuation of such sales was a violation of their
+                    country’s sovereignty and justification for downgrading relations with the
+                    United States. Making matters more contentious, the Taiwan Relations Act of
+                    April 1979 required the United States to continue to sell defensive arms to
+                    Taiwan; PRC officials saw the law as a direct challenge to the normalization
+                    agreement finalized a few months earlier. U.S. and PRC officials both recognized
+                    that if the two sides could not establish a <hi rend="italic">modus vivendi</hi>
+                    on the future of U.S. arms sales, U.S.–PRC relations could retrogress or
+                    collapse entirely.</p>
+                <p>In January 1982, the United States and the People’s Republic of China commenced
+                    official discussions on U.S. arms sales to Taiwan. As the two sides began
+                    exchanging drafts of a potential communiqué, two major disagreements were
+                    immediately apparent. The first area of discord was the nature of future U.S.
+                    arms sales to Taiwan. The People’s Republic of China insisted that the United
+                    States eventually, and relatively quickly, end all arms sales. While the Reagan
+                    administration was prepared to place qualitative and quantitative limits on its
+                    future arms sales, and gradually to reduce those sales over time, it was
+                    unwilling to commit itself to the termination of such transactions. The second
+                    dispute centered on the nature of PRC policy toward Taiwan. The Reagan
+                    administration stated that arms sales reductions were contingent on a PRC policy
+                    of maintaining peaceful relations with Taiwan. PRC officials, however, refused
+                    to make any official commitments to the United States on their future policy
+                    toward Taiwan, arguing that doing so would be a challenge to their country’s
+                    sovereignty.</p>
+                <p>In May 1982, with negotiations largely stalled due to these significant
+                    disagreements, Reagan suggested that Vice President George H.W. Bush travel to
+                    Beijing to meet with high-level officials. Bush was not traveling to China to
+                    engage in detailed communiqué negotiations, but U.S. officials hoped that his
+                    visit would, nonetheless, jumpstart the languishing talks and convince PRC
+                    officials that the United States was committed to reaching an agreement. Bush
+                    met with several high-level Chinese officials, including the leader of the
+                    People’s Republic of China, Deng Xiaoping, and discussed a wide range of issues
+                    affecting U.S.–PRC relations. In addition, during Bush’s trip the White House
+                    publicized three letters from President Reagan—to Deng, Premier Zhao Ziyang, and
+                    Communist Party Chairman Hu Yaobang—that stressed the importance of U.S.–PRC
+                    relations, recognized the significance of the People’s Republic of China’s
+                    peaceful approach to the Taiwan issue, and reinforced Reagan’s willingness to
+                    reduce U.S. arms sales to Taiwan if the People’s Republic of China maintained
+                    its peaceful policy. The visit marked a turning point in the communiqué
+                    negotiations, largely because it confirmed the personal involvement of both Deng
+                    and Reagan in the ongoing talks. Both leaders, it was clear, wanted and
+                    anticipated a speedy and successful conclusion to the communiqué
+                    negotiations.</p>
+                <p>By the end of July, after several weeks of intense internal discussions in both
+                    Washington and Beijing, U.S. and PRC officials had worked out many of the
+                    communiqué’s most vexing problems. Chinese officials dropped their insistence
+                    that the United States agree to a “date certain” for the termination of all arms
+                    sales to Taiwan and the two sides found agreeable language that combined the
+                    People’s Republic of China’s commitment to maintaining peaceful relations toward
+                    Taiwan with the United States’ respect for China’s sovereignty.</p>
+                <p>On August 17, 1982, the People’s Republic of China and United States announced
+                    the agreement of the Communiqué. Agreement on the Communiqué did not, however,
+                    signal consensus between the United States and the People’s Republic of China on
+                    the issue of arms sales to Taiwan. In describing it, U.S. and PRC officials
+                    purposefully highlighted different aspects of the Communiqué and offered
+                    significantly different interpretations of the language. U.S. officials, for
+                    example, focused on the correlation between reduction of arms sales to Taiwan
+                    and the People’s Republic of China’s peaceful policy toward Taiwan. PRC
+                    officials chose instead to focus on the U.S. pledges to respect PRC sovereignty
+                    and gradually reduce arms sales to Taiwan. The malleability of the Communiqué
+                    was intentional and, in fact, allowed it to be successful. Though the Communiqué
+                    did not put an end to differences over U.S. arms sales to Taiwan, U.S. and PRC
+                    officials were able to embrace it as it provided each nation a reasonable
+                    platform from which to pursue its own policy while simultaneously challenging
+                    that of the other side. This understanding, however tenuous, allowed the United
+                    States and the People’s Republic of China to move beyond the divisive and
+                    restrictive issue of arms sales to Taiwan and take up other bilateral
+                    issues.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

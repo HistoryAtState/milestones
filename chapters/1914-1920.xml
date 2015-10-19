@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1914–1920</title>
+                <title type="short">1914–1920</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1914" to="1920">1914–1920</date>: World War One and Wilsonian
+                    Diplomacy</head>
+                <p>During his tenure as President, <persName>Woodrow Wilson</persName> encouraged
+                    the country to look beyond its economic interests and to define and set foreign
+                    policy in terms of ideals, morality, and the spread of democracy abroad.</p>
+                <figure>
+                    <graphic url="wilson-woodrow.jpg" height="200px" width="200px"/>
+                    <head>President Woodrow Wilson</head>
+                </figure>
+                <p>The United States continued its efforts to become an active player on the
+                    international scene. It engaged in action both in its traditional “sphere of
+                    influence” in the Western Hemisphere and in Europe during the First World War.
+                    The Wilsonian vision for collective security through U.S. leadership in
+                    international organizations, like the newly established League of Nations,
+                    appealed to the public. However, the United States ultimately declined
+                    membership in the League due to Article X of its charter that committed the
+                    United States to defend any League member in the event of an attack. In voting
+                    down U.S. participation, Congress challenged the informal tradition of the
+                    executive branch determining U.S. foreign policy. </p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="haiti">
+                <head>U.S. Invasion and Occupation of Haiti, <date from="1915" to="1934"
+                        >1915–34</date>
+                </head>
+                <p>Following the assassination of the Haitian President in July of 1915, President
+                        <persName>Woodrow Wilson</persName> sent the United States Marines into
+                    Haiti to restore order and maintain political and economic stability in the
+                    Caribbean. This occupation continued until 1934.</p>
+                <figure>
+                    <graphic url="wilson-w.jpg" height="200px" width="200px"/>
+                    <head>President Woodrow Wilson</head>
+                </figure>
+                <p>The United States Government's interests in <placeName>Haiti</placeName> existed
+                    for decades prior to its occupation. As a potential naval base for the United
+                    States, Haiti’s stability concerned U.S. diplomatic and defense officials who
+                    feared Haitian instability might result in foreign rule of Haiti. In 1868,
+                    President <persName>Andrew Johnson</persName> suggested the annexation of the
+                    island of Hispaniola, consisting of Haiti and the Dominican Republic, to secure
+                    a U.S. defensive and economic stake in the West Indies. From 1889 to 1891,
+                    Secretary of State <ref
+                        target="/departmenthistory/people/blaine-james-gillespie">James Blaine</ref>
+                    unsuccessfully sought a lease of Mole-Saint Nicolas, a city on Haiti’s northern
+                    coast strategically located for a naval base. In 1910, President William Howard
+                    Taft granted Haiti a large loan in hopes that Haiti could pay off its
+                    international debt, thus lessening foreign influence. The attempt failed due to
+                    the enormity of the debt and the internal instability of the country.</p>
+                <p>France, as the former colonizer of Haiti, retained strong economic and diplomatic
+                    ties with the Haitian Government. In the 1824 Franco-Haitian Agreement, France
+                    agreed to recognize Haitian independence if Haiti paid a large indemnity. This
+                    kept Haiti in a constant state of debt and placed France in a position of power
+                    over Haiti’s trade and finances.</p>
+                <figure>
+                    <graphic url="haiti-coatofarms.jpg" height="200px" width="200px"/>
+                    <head>Haitian Coat of Arms</head>
+                </figure>
+                <p>Although unhappy about the Haitians' close connection to France, the United
+                    States became increasingly concerned with heightened German activity and
+                    influence in Haiti. At the start of the 20th century, German presence increased
+                    with German merchants establishing trading branches in Haiti that dominated
+                    commercial business in the area. German men married Haitian women to get around
+                    laws denying foreigners land ownership and established roots in the community.
+                    The United States considered Germany its chief rival in the Caribbean and feared
+                    German control of Haiti would give them a powerful advantage in the region.</p>
+                <p>As a result of increased instability in Haiti in the years before 1915, the
+                    United States heightened its activity to deter foreign influence. Between 1911
+                    and 1915, seven presidents were assassinated or overthrown in Haiti, increasing
+                    U.S. policymakers’ fear of foreign intervention. In 1914, the Wilson
+                    administration sent U.S. Marines into Haiti. They removed $500,000 from the
+                    Haitian National Bank in December of 1914 for safe-keeping in New York, thus
+                    giving the United States control of the bank. In 1915, Haitian President Jean
+                    Vilbrun Guillaume Sam was assassinated and the situation in Haiti quickly became
+                    unstable. In response, President Wilson sent the U.S. Marines to Haiti to
+                    prevent anarchy. In actuality, the act protected U.S. assets in the area and
+                    prevented a possible German invasion.</p>
+                <p>The invasion ended with the Haitian-American Treaty of 1915. The articles of this
+                    agreement created the Haitian Gendarmerie, essentially a military force made up
+                    of U.S. citizens and Haitians and controlled by the U.S. Marines. The United
+                    States gained complete control over Haitian finances, and the right to intervene
+                    in Haiti whenever the U.S. Government deemed necessary. The U.S. Government also
+                    forced the election of a new pro-American President, Philippe Sudré
+                    Dartiguenave, by the Haitian legislature in August 1915. The selection of a
+                    President that did not represent the choice of the Haitian populace increased
+                    unrest in Haiti.</p>
+                <figure>
+                    <graphic url="haitian-pres.jpg" height="200px" width="200px"/>
+                    <head>Philippe Sudré Dartiguenave</head>
+                </figure>
+                <p>Following the successful manipulation of the 1915 elections, the Wilson
+                    administration attempted to strong-arm the Haitian legislature into adopting a
+                    new constitution in 1917. This constitution allowed foreign land ownership,
+                    which had been outlawed since the Haitian Revolution as a way to prevent foreign
+                    control of the country. Extremely reluctant to change the long-standing law, the
+                    legislature rejected the new constitution. Law-makers began drafting a new
+                    anti-American constitution, but the United States forced President Dartiguenave
+                    dissolve the legislature, which did not meet again until 1929.</p>
+                <p>Some of the Gendarmerie’s more unpopular policies—including racial segregation,
+                    press censorship and forced labor—led to a peasant rebellion from 1919 to 1920.
+                    The U.S. Senate sent an investigative committee into Haiti in 1921 to examine
+                    claims of abuse, and subsequently the U.S. Senate reorganized and centralized
+                    power in Haiti. After the reorganization, Haiti remained fairly stable and a
+                    select group achieved economic prosperity, though most Haitians remained in
+                    poverty.</p>
+                <p>In 1929, a series of strikes and uprisings led the United States to begin
+                    withdrawal from Haiti. In 1930, U.S. officials began training Haitian officials
+                    to take control of the government. In 1934, the United States, in concert with
+                    President <persName>Franklin D. Roosevelt</persName>’s <ref
+                        target="/milestones/1921-1936/good-neighbor">Good Neighbor Policy</ref>,
+                    officially withdrew from Haiti while retaining economic connections.</p>
+            </div>
+            <div type="section" xml:id="wwi">
+                <head>U.S. Entry into World War I, <date when="1917">1917</date>
+                </head>
+                <p>On April 2, 1917, President <persName>Woodrow Wilson</persName> went before a
+                    joint session of Congress to request a declaration of war against Germany.
+                    Wilson cited Germany’s violation of its pledge to suspend unrestricted submarine
+                    warfare in the North Atlantic and the Mediterranean, as well as its attempts to
+                    entice Mexico into an alliance against the United States, as his reasons for
+                    declaring war. On April 4, 1917, the U.S. Senate voted in support of the measure
+                    to declare war on <placeName>Germany</placeName>. The House concurred two days
+                    later. The United States later declared war on German ally Austria-Hungary on
+                    December 7, 1917.</p>
+                <figure>
+                    <graphic url="wwi.jpg" height="200px" width="200px"/>
+                    <head>World War I Trenches in France</head>
+                </figure>
+                <p>Germany’s resumption of submarine attacks on passenger and merchant ships in 1917
+                    became the primary motivation behind Wilson’s decision to lead the United States
+                    into World War I. Following the sinking of an unarmed French boat, the <hi
+                        rend="italic">Sussex</hi>, in the English Channel in March 1916, Wilson
+                    threatened to sever diplomatic relations with Germany unless the German
+                    Government refrained from attacking all passenger ships and allowed the crews of
+                    enemy merchant vessels to abandon their ships prior to any attack. On May 4,
+                    1916, the German Government accepted these terms and conditions in what came to
+                    be known as the “<hi rend="italic">Sussex</hi> pledge.”</p>
+                <p>By January 1917, however, the situation in Germany had changed. During a wartime
+                    conference that month, representatives from the German Navy convinced the
+                    military leadership and Kaiser Wilhelm II that a resumption of unrestricted
+                    submarine warfare could help defeat Great Britain within five months. German
+                    policymakers argued that they could violate the “<hi rend="italic">Sussex</hi>
+                    pledge” since the United States could no longer be considered a neutral party
+                    after supplying munitions and financial assistance to the Allies. Germany also
+                    believed that the United States had jeopardized its neutrality by acquiescing to
+                    the Allied blockade of Germany.</p>
+                <p>German Chancellor <persName>Theobald von Bethmann-Hollweg</persName> protested
+                    this decision, believing that resuming submarine warfare would draw the United
+                    States into the war on behalf of the Allies. This, he argued, would lead to the
+                    defeat of Germany. Despite these warnings, the German Government decided to
+                    resume unrestricted submarine attacks on all Allied and neutral shipping within
+                    prescribed war zones, reckoning that German submarines would end the war long
+                    before the first U.S. troopships landed in Europe. Accordingly, on January 31,
+                    1917, German Ambassador to the United States Count Johann von Bernstorff
+                    presented U.S. Secretary of State <ref
+                        target="/departmenthistory/people/lansing-robert">Robert Lansing</ref> a
+                    note declaring Germany’s intention to restart unrestricted submarine warfare the
+                    following day.</p>
+                <figure>
+                    <graphic url="german-chancellor.jpg" height="200px" width="200px"/>
+                    <head>German Chancellor Theobald von Bethmann-Hollweg</head>
+                </figure>
+                <p>Stunned by the news, President Wilson went before Congress on February 3 to
+                    announce that he had severed diplomatic relations with Germany. However, he
+                    refrained from asking for a declaration of war because he doubted that the U.S.
+                    public would support him unless he provided ample proof that Germany intended to
+                    attack U.S. ships without warning. Wilson left open the possibility of
+                    negotiating with Germany if its submarines refrained from attacking U.S.
+                    shipping. Nevertheless, throughout February and March 1917, German submarines
+                    targeted and sank several U.S. ships, resulting in the deaths of numerous U.S.
+                    seamen and citizens.</p>
+                <p>On February 26, Wilson asked Congress for the authority to arm U.S. merchant
+                    ships with U.S. naval personnel and equipment. While the measure would probably
+                    have passed in a vote, several anti-war Senators led a successful filibuster
+                    that consumed the remainder of the congressional session. As a result of this
+                    setback, President Wilson decided to arm U.S. merchant ships by executive order,
+                    citing an old anti-piracy law that gave him the authority to do so.</p>
+                <p>While Wilson weighed his options regarding the submarine issue, he also had to
+                    address the question of Germany’s attempts to cement a secret alliance with
+                    Mexico. On January 19, 1917, British naval intelligence intercepted and
+                    decrypted a telegram sent by German Foreign Minister Arthur Zimmerman to the
+                    German Ambassador in Mexico City. The “Zimmerman Telegram” promised the Mexican
+                    Government that Germany would help Mexico recover the territory it had ceded to
+                    the United States following the Mexican-American War. In return for this
+                    assistance, Germany asked for Mexican support in the war.</p>
+                <figure>
+                    <graphic url="zimmerman-telegram.jpg" height="200px" width="200px"/>
+                    <head>The “Zimmerman Telegram”</head>
+                </figure>
+                <p>Initially, the British had not shared the news of the Zimmerman Telegram with
+                    U.S. officials because they did not want the Germans to discover that British
+                    code breakers had cracked the German code. However, following Germany’s
+                    resumption of unrestricted submarine warfare in February, the British decided to
+                    use the note to help sway U.S. official and public opinion in favor of joining
+                    the war. The British finally forwarded the intercepted telegram to President
+                    Wilson on February 24. The U.S. press carried the story the following week.</p>
+                <p>Despite the shocking news of the Zimmerman Telegram, Wilson still hesitated
+                    asking for a declaration of war. He waited until March 20 before convening a
+                    Cabinet meeting to broach the matter—almost a month after he had first seen the
+                    telegram. The precise reasons for Wilson’s decision to choose war in 1917 remain
+                    the subject of debate among historians, especially in light of his efforts to
+                    avoid war in 1915 after the sinking of the British passenger liners <hi
+                        rend="italic">Lusitania</hi> and <hi rend="italic">Arabic</hi>, which had
+                    led to the deaths of 131 U.S. citizens.</p>
+                <p>However, by 1917, the continued submarine attacks on U.S. merchant and passenger
+                    ships, and the “Zimmerman Telegram’s” implied threat of a German attack on the
+                    United States, swayed U.S. public opinion in support of a declaration of war.
+                    Furthermore, international law stipulated that the placing of U.S. naval
+                    personnel on civilian ships to protect them from German submarines already
+                    constituted an act of war against Germany. Finally, the Germans, by their
+                    actions, had demonstrated that they had no interest in seeking a peaceful end to
+                    the conflict. These reasons all contributed to President Wilson’s decision to
+                    ask Congress for a declaration of war against Germany. They also encouraged
+                    Congress to grant Wilson’s request and formally declare war on Germany.</p>
+            </div>
+            <div type="section" xml:id="fourteen-points">
+                <head>Wilson’s Fourteen Points, <date when="1918">1918</date>
+                </head>
+                <p>The immediate cause of <ref target="/milestones/1914-1920/wwi">the United States’
+                        entry into World War I</ref> in April 1917 was the German announcement of
+                    unrestricted submarine warfare and the subsequent sinking of ships with U.S.
+                    citizens on board. But President Woodrow Wilson’s war aims went beyond the
+                    defense of U.S. maritime interests. In his War Message to Congress, President
+                    Wilson declared that the U.S. objective was “to vindicate the principles of
+                    peace and justice in the life of the world.”</p>
+                <figure>
+                    <graphic url="wilson-14points.jpg" height="200px" width="200px"/>
+                    <head>President Woodrow Wilson delivering his Fourteen Points to Congress</head>
+                </figure>
+                <p>In several speeches earlier in the year, President Wilson sketched out his vision
+                    of an end to the war that would bring a “just and secure peace,” not merely “a
+                    new balance of power.” He then appointed a committee of experts known as The
+                    Inquiry to help him refine his ideas for peace. In December 1917, he asked The
+                    Inquiry to draw up specific recommendations for a comprehensive peace
+                    settlement. Using these recommendations, Wilson presented a program of fourteen
+                    points to a joint session of Congress on January 8, 1918. Eight of the fourteen
+                    points treated specific territorial issues among the combatant nations. Five of
+                    the other six concerned general principles for a peaceful world: open covenants
+                    (i.e. treaties or agreements) openly arrived at; freedom of the seas; free
+                    trade; reduction of armaments; and adjustment of colonial claims based on the
+                    principles of self-determination. The fourteenth point proposed what was to
+                    become the League of Nations to guarantee the “political independence and
+                    territorial integrity [of] great and small states alike.” </p>
+                <p>Though Wilson’s idealism pervades the Fourteen Points, he also had more practical
+                    objectives in mind. He hoped to keep Russia in the war by convincing the
+                    Bolsheviks that they would receive a better peace from the Allies, to bolster
+                    Allied morale, and to undermine German war support. The address was immediately
+                    hailed in the United States and Allied nations, and even by Bolshevik leader
+                    Vladimir Lenin, as a landmark of enlightenment in international relations.
+                    Wilson subsequently used the Fourteen Points as the basis for negotiating the
+                        <ref target="/milestones/1914-1920/paris-peace">Treaty of Versailles</ref>
+                    that ended the war. Although the Treaty did not fully realize Wilson’s unselfish
+                    vision, the Fourteen Points still stand as the most powerful expression of the
+                    idealist strain in United States diplomacy. </p>
+            </div>
+            <div type="section" xml:id="bullitt-mission">
+                <head>The Bullitt Mission to Soviet Russia, <date when="1919">1919</date>
+                </head>
+                <p>In March of 1919, <ref
+                        target="/departmenthistory/people/bullitt-william-christian">William
+                        Christian Bullitt</ref>, an attaché to the U.S. delegation to the Paris
+                    Peace Conference, visited Soviet Russia on a clandestine mission. Although
+                    Secretary of State <ref target="/departmenthistory/people/lansing-robert">Robert
+                        Lansing</ref> only authorized him to report on political and economic
+                    conditions, Bullitt’s actual objective was far more ambitious: to broker an
+                    agreement between the Allies and Russia’s Bolshevik government that would end
+                    the Russian Civil War, lift the Allied blockade of that country, and allow the
+                    Allies to withdraw the troops dispatched to Russia in 1918. Bullitt eventually
+                    received a proposal from the Bolshevik government that would have realized these
+                    goals, but the Allied leaders at the <ref
+                        target="/milestones/1914-1920/paris-peace">Paris Peace Conference</ref> were
+                    unwilling to accept the offer.</p>
+                <figure>
+                    <graphic url="bullitt-william-christian.jpg" height="200px" width="200px"/>
+                    <head>William Christian Bullitt</head>
+                </figure>
+                <p>Following the withdrawal of Allied diplomats from Petrograd and Moscow in 1918,
+                    the Allied leaders – U.S. President <persName>Woodrow Wilson</persName>, British
+                    Prime Minister <persName>David Lloyd George</persName>, French Prime Minister
+                        <persName>Georges Clemenceau</persName>, and Italian Prime Minister
+                        <persName>Vittorio Emmanuele Orlando</persName> – grappled with the question
+                    of how to address the Russian Civil War that erupted between the Bolsheviks and
+                    White Russian forces following the Russian Revolution. After the signing of the
+                    Treaty of Brest-Litovsk on March 3, 1918, Japanese and Allied forces, including
+                    U.S. troops, occupied parts of Northern Russia, the Ukraine, and Siberia to
+                    protect vital areas from falling into the hands of the Germans, as well as to
+                    provide assistance to the White Russians. When the First World War ended,
+                    however, Allied leaders found it difficult to justify leaving tens of thousands
+                    of war-weary troops in Russia.</p>
+                <figure>
+                    <graphic url="world-powers.jpg" height="200px" width="200px"/>
+                    <head>Meeting of World Leaders in Paris</head>
+                </figure>
+                <p>In early 1919, both Lloyd George and President Wilson suggested that the leaders
+                    of the warring Russian factions should meet in order to hammer out a peace
+                    accord. In spite of fierce French opposition, President Wilson succeeded in
+                    proposing that the Russians would meet on Prinkipo Island off the coast of
+                    Turkey. While the Bolsheviks accepted Wilson’s proposal, the conference failed
+                    to materialize due to French resistance and the unwillingness of Russian
+                    anti-Bolsheviks to attend negotiations that would include the Bolshevik
+                    government.</p>
+                <p>Nevertheless, Lloyd George and President Wilson remained interested in working
+                    toward resolving the Russian situation. Because Bullitt urged that a mission be
+                    dispatched to Russia, Wilson’s chief adviser, Colonel Edward M. House, asked
+                    Bullitt if he would be willing to lead such an endeavor. Bullitt then drew up a
+                    list of peace proposals to present to the Bolshevik government that included an
+                    armistice, the re-establishment of economic relations, and the withdrawal of
+                    Allied troops. Additionally, House encouraged Bullitt to secure a promise from
+                    the Bolsheviks that they would honor Tsarist Russia’s debts to the Allied
+                    powers. However, while Bullitt secured House’s assent to his proposals, neither
+                    Wilson nor Lloyd George knew of them.</p>
+                <p>On March 6, 1919, the Bullitt Mission (comprised of Bullitt, journalist Lincoln
+                    Steffens, and a U.S. Army intelligence officer) crossed the Russian border.
+                    Following a meeting with Deputy Soviet Foreign Minister Maxim Litvinov in
+                    Petrograd, Bullitt and Steffens left for Moscow, where they met with Bolshevik
+                    leader Vladimir Lenin and his Foreign Minister, Georgi Chicherin. Although there
+                    was opposition to negotiations with the United States within the Bolshevik
+                    leadership, on March 14, Bullitt received a Russian proposal that demanded that
+                    the Allies call for a ceasefire within the former Russian Empire and agree to a
+                    peace conference in a neutral nation. The proposed terms for discussion at the
+                    conference included allowing all de facto governments within the borders of
+                    Russia to retain the territory they held prior to the armistice, the lifting of
+                    the Allied blockade, the withdrawal of Allied troops from Russia, disarmament of
+                    the warring Russian factions, and a commitment by the Bolshevik government to
+                    honor Russia’s financial obligations to the Allies.</p>
+                <figure>
+                    <graphic url="lenin.jpg" height="200px" width="200px"/>
+                    <head>Bolshevik Leader, Vladimir Lenin</head>
+                </figure>
+                <p>During his week in Russia, Bullitt also compiled an extensive report on
+                    conditions there. While acknowledging the economic hardships facing the Russian
+                    people, Bullitt asserted that the violent phase of the Bolshevik Revolution had
+                    ended and that the Bolsheviks enjoyed popular support. Furthermore, he reported
+                    that Lenin and a large segment of the Bolshevik Party were willing to compromise
+                    with the United States. In fact, Bullitt believed that the greatest danger
+                    confronting the United States was the possibility that continued Allied
+                    interventions and support of the Whites Russians would lead to the rise of more
+                    radical political factions. Consequently, Bullitt concluded that “[no]
+                    Government save a Socialist Government can be set up in Russia today except by
+                    bayonets,” and that Lenin’s faction of the Bolshevik was “as moderate as any
+                    Socialist Government which can control Russia.”</p>
+                <p>Bullitt returned to Paris on March 25, where he faced Allied resistance to the
+                    proposal he received from Lenin. Although Lloyd George privately assured Bullitt
+                    that he was sympathetic to the Bolsheviks’ offer, he repudiated it once news of
+                    Bullitt’s Mission leaked to the British press. Clemenceau had opposed any
+                    overtures to Lenin from the start. Wilson was in poor health and was focused on
+                    achieving a breakthrough in negotiations with the French concerning the peace
+                    treaty with Germany. Furthermore, the President’s relations with House,
+                    Bullitt’s original patron, had soured greatly. Finally, news from Russia
+                    indicated that anti-Bolshevik forces would soon capture Moscow, thus obviating
+                    the need to negotiate with Lenin. Consequently, the April 10th deadline for the
+                    Allies to respond to Lenin’s offer passed without any word from the Allied side,
+                    and Bullitt angrily resigned from the U.S. delegation on May 17. The failure of
+                    the Allies to agree to the proposal secured by the Bullitt Mission delayed
+                    official U.S. recognition of Soviet Russia for many years.</p>
+            </div>
+            <div type="section" xml:id="paris-peace">
+                <head>The Paris Peace Conference and the Treaty of Versailles</head>
+                <p>The Paris Peace Conference convened in January 1919 at
+                        <placeName>Versailles</placeName> just outside <placeName>Paris</placeName>.
+                    The conference was called to establish the terms of the peace after World War I.
+                    Though nearly thirty nations participated, the representatives of the United
+                    Kingdom, France, the United States, and Italy became known as the “Big Four.”
+                    The “Big Four” dominated the proceedings that led to the formulation of the
+                    Treaty of Versailles, a treaty that ended World War I. </p>
+                <p>The Treaty of Versailles articulated the compromises reached at the conference.
+                    It included the planned formation of the <ref
+                        target="/milestones/1914-1920/league">League of Nations</ref>, which would
+                    serve both as an international forum and an international collective security
+                    arrangement. U.S. President <persName>Woodrow Wilson</persName> was a strong
+                    advocate of the League as he believed it would prevent future wars.</p>
+                <figure>
+                    <graphic url="versailles-treaty.jpg" height="200px" width="200px"/>
+                    <head>Treaty of Versailles</head>
+                </figure>
+                <p>Negotiations at the Paris Peace Conference were complicated. The United Kingdom,
+                    France, and Italy fought together as the Allied Powers during the First World
+                    War. The United States, entered the war in April 1917 as an Associated Power.
+                    While it fought alongside the Allies, the United States was not bound to honor
+                    pre-existing agreements among the Allied Powers. These agreements focused on
+                    postwar redistribution of territories. U.S. President Woodrow Wilson strongly
+                    opposed many of these arrangements, including Italian demands on the Adriatic.
+                    This often led to significant disagreements among the “Big Four.”</p>
+                <p>Treaty negotiations were also weakened by the absence of other important nations.
+                    Russia had fought as one of the Allies until December 1917, when its new
+                    Bolshevik Government withdrew from the war. The Bolshevik decision to repudiate
+                    Russia’s outstanding financial debts to the Allies and to publish the texts of
+                    secret agreements between the Allies concerning the postwar period angered the
+                    Allies. The Allied Powers refused to recognize the new Bolshevik Government and
+                    thus did not invite its representatives to the Peace Conference. The Allies also
+                    excluded the defeated Central Powers (Germany, Austria-Hungary, Turkey, and
+                    Bulgaria).</p>
+                <p>According to French and British wishes, the Treaty of Versailles subjected
+                    Germany to strict punitive measures. The Treaty required the new German
+                    Government to surrender approximately 10 percent of its prewar territory in
+                    Europe and all of its overseas possessions. It placed the harbor city of Danzig
+                    (now Gdansk) and the coal-rich Saarland under the administration of the League
+                    of Nations, and allowed France to exploit the economic resources of the Saarland
+                    until 1935. It limited the German Army and Navy in size, and allowed for the
+                    trial of Kaiser Wilhelm II and a number of other high-ranking German officials
+                    as war criminals. Under the terms of Article 231 of the Treaty, the Germans
+                    accepted responsibility for the war and the liability to pay financial
+                    reparations to the Allies. The Inter-Allied Commission determined the amount and
+                    presented its findings in 1921. The amount they determined was 132 billion gold
+                    Reichmarks, or 32 billion U.S. dollars, on top of the initial $5 billion payment
+                    demanded by the Treaty. Germans grew to resent the harsh conditions imposed by
+                    the Treaty of Versailles.</p>
+                <figure>
+                    <graphic url="henrycabotlodget.jpg" width="200px" height="200px"/>
+                    <head>Henry Cabot Lodge</head>
+                </figure>
+                <p>While the Treaty of Versailles did not satisfy all parties concerned, by the time
+                    President Woodrow Wilson returned to the United States in July 1919, U.S. public
+                    opinion overwhelmingly favored ratification of the Treaty, including the
+                    Covenant of the League of Nations. However, in spite of the fact that 32 state
+                    legislatures passed resolutions in favor of the Treaty, the U.S. Senate strongly
+                    opposed it.</p>
+                <p>Senate opposition cited Article 10 of the Treaty, which dealt with collective
+                    security and the League of Nations. This article, opponents argued, ceded the
+                    war powers of the U.S. Government to the League’s Council. The opposition came
+                    from two groups: the “Irreconcilables,” who refused to join the League of
+                    Nations under any circumstances, and “Reservationists,” led by Senate Foreign
+                    Relations Committee Chairman, Henry Cabot Lodge, who wanted amendments made
+                    before they would ratify the Treaty. While Chairman Lodge's attempt to pass
+                    amendments to the Treaty was unsuccessful in September, he did manage to attach
+                    14 “reservations” to it in November. In a final vote on March 19, 1920, the
+                    Treaty of Versailles fell short of ratification by seven votes. Consequently,
+                    the U.S. Government signed the Treaty of Berlin on August 25, 1921. This
+                    separate peace treaty with Germany stipulated that the United States would enjoy
+                    all “rights, privileges, indemnities, reparations or advantages” conferred to it
+                    by the Treaty of Versailles, but left out any mention of the League of Nations,
+                    which the United States never joined. </p>
+            </div>
+            <div type="section" xml:id="league">
+                <head>The League of Nations, <date when="1920">1920</date>
+                </head>
+                <p>The League of Nations was an international organization, headquartered in
+                        <placeName>Geneva, Switzerland</placeName>, created after the First World
+                    War to provide a forum for resolving international disputes. Though first
+                    proposed by President <persName>Woodrow Wilson</persName> as part of his
+                    Fourteen Points plan for an equitable peace in Europe, the United States never
+                    became a member.</p>
+                <figure>
+                    <graphic url="league-cartoon.jpg" height="200px" width="200px"/>
+                    <head>Cartoon critizing U.S. lack of participation in the League of
+                        Nations</head>
+                </figure>
+                <p>Speaking before the U.S. Congress on January 8, 1918, President <persName>Woodrow
+                        Wilson</persName> enumerated the last of his <ref
+                        target="/milestones/1914-1920/fourteen-points">Fourteen Points</ref>, which
+                    called for a “general association of nations…formed under specific covenants for
+                    the purpose of affording mutual guarantees of political independence and
+                    territorial integrity to great and small states alike.” Many of Wilson’s
+                    previous points would require regulation or enforcement. In calling for the
+                    formation of a "general association of nations," Wilson voiced the wartime opinions of
+                    many diplomats and intellectuals on both sides of the Atlantic who believed there was a need for
+                    a new type of standing international organization dedicated to fostering
+                    international cooperation, providing security for its members, and ensuring a
+                    lasting peace. With Europe’s population exhausted by four years of total war,
+                    and with many in the United States optimistic that a new
+                    organization would be able to solve the international disputes that had led to
+                    war in 1914, Wilson’s articulation of a League of Nations was wildly popular.
+                    However, it proved exceptionally difficult to create, and Wilson left office
+                    never having convinced the United States to join it.</p>
+                <figure>
+                    <graphic url="davidlloydgeorge.jpg" width="200px" height="200px"/>
+                    <head>David Lloyd George of the United Kingdom</head>
+                </figure>
+                <p> The idea of the League was grounded in the broad, international revulsion
+                    against the unprecedented destruction of the First World War and the
+                    contemporary understanding of its origins. This was reflected in all of Wilson’s
+                    Fourteen Points, which were themselves based on theories of collective security
+                    and international organization debated amongst academics, jurists, socialists
+                    and utopians before and during the war. After adopting many of these ideas,
+                    Wilson took up the cause with evangelical fervor, whipping up mass enthusiasm
+                    for the organization as he traveled to the Paris Peace Conference in January
+                    1919, the first President to travel abroad in an official capacity.</p>
+                <p>Wilson used his tremendous influence to attach the Covenant of the League, its
+                    charter, to the <ref target="/milestones/1914-1920/paris-peace">Treaty of Versailles</ref>. An effective League, he believed, would
+                    mitigate any inequities in the peace terms. He and the other members of the “Big
+                    Three,” <persName>Georges Clemenceau</persName> of France and <persName>David
+                        Lloyd George</persName> of the United Kingdom, drafted the Covenant as Part I of the
+                    Treaty of Versailles. The League’s main organs were an Assembly of all members,
+                    a Council made up of five permanent members and four rotating members,
+                    and an International Court of Justice. Most important for Wilson, the
+                    League would guarantee the territorial integrity and political independence of
+                    member states, authorize the League to take “any action…to safeguard the peace,”
+                    establish procedures for arbitration, and create the mechanisms for economic and
+                    military sanctions.</p>
+                <figure>
+                    <graphic url="georgeclemenceau.jpg" width="200px" height="200px"/>
+                    <head>Georges Clemenceau of France</head>
+                </figure>
+                <p>The struggle to ratify the Treaty of Versailles and the Covenant in the U.S.
+                    Congress helped define the most important political division over the role of
+                    the United States in the world for a generation. A triumphant Wilson returned to
+                    the United States in February 1919 to submit the Treaty and Covenant to Congress
+                    for its consent and ratification. Unfortunately for the President, while popular
+                    support for the League was still strong, opposition within Congress and the
+                    press had begun building even before he had left for Paris. Spearheading the
+                    challenge was the Senate majority leader and chairman of the Foreign Relations
+                    Committee, <ref target="/departmenthistory/people/lodge-henry-cabot">Henry Cabot
+                        Lodge</ref>.</p>
+                <p>Motivated by Republican concerns that the League would commit the United States
+                    to an expensive organization that would reduce the United States’ ability to
+                    defend its own interests, Lodge led the opposition to joining the League. Where
+                    Wilson and the League’s supporters saw merit in an international body that would
+                    work for peace and collective security for its members, Lodge and his supporters feared the
+                    consequences of involvement in Europe’s tangled politics, now even more complex
+                    because of the 1919 peace settlement. They adhered to a vision of the United
+                    States returning to its traditional aversion to commitments outside the Western Hemisphere.
+                    Wilson and Lodge’s personal dislike of each other poisoned any hopes for a
+                    compromise, and in March 1920, the Treaty and Covenant were defeated by a 49-35
+                    Senate vote. Nine months later, <persName>Warren Harding</persName> was elected
+                    President on a platform opposing the League.</p>
+                <figure>
+                    <graphic url="lodge-henry-cabot.jpg" height="200px" width="200px"/>
+                    <head>Henry Cabot Lodge</head>
+                </figure>
+                <p>The United States never joined the League. Most historians hold that the
+                    League operated much less effectively without U.S. participation than it would
+                    have otherwise. However, even while rejecting membership, the Republican
+                    Presidents of the period, and their foreign policy architects, agreed with many
+                    of its goals. To the extent that Congress allowed, the Harding, Coolidge, and
+                    Hoover administrations associated the United States with League efforts on
+                    several issues. Constant suspicion in Congress, however, that steady U.S.
+                    cooperation with the League would lead to de facto membership prevented a close
+                    relationship between Washington and Geneva. Additionally, growing
+                    disillusionment with the Treaty of Versailles diminished support for the League
+                    in the United States and the international community. Wilson’s insistence that
+                    the Covenant be linked to the Treaty was a blunder; over time, the Treaty was
+                    discredited as unenforceable, short-sighted, or too extreme in its provisions,
+                    and the League’s failure either to enforce or revise it only reinforced U.S.
+                    congressional opposition to working with the League under any circumstances.
+                    However, the coming of World War II once again demonstrated the need for an
+                    effective international organization to mediate disputes, and the United States
+                    public and the Roosevelt administration supported and became founding members of
+                    the new <ref target="/milestones/1937-1945/un">United Nations</ref>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

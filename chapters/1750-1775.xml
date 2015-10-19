@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1750–1775</title>
+                <title type="short">1750–1775</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1750" to="1775">1750–1775</date>: Diplomatic Struggles in the
+                    Colonial Period</head>
+                <p>Colonial era diplomacy focused on two issues: the European balance of power and
+                    the colonists’ appropriation of land from the Native Americans. </p>
+                <figure>
+                    <graphic url="FrenchandIndianWar2.jpg" height="200px" width="200px"/>
+                    <head>French and Indian War</head>
+                </figure>
+                <p>Rivalry in Europe, between the French and the British in particular, often
+                    influenced the course of events in their North American colonies.In an effort to
+                    increase their political and economic power, the British and the French competed
+                    to acquire the better share of the available land and control over the new
+                    trading opportunities the colonies presented.</p>
+                <p>At the same time, the European colonial governments tried to find ways to coexist
+                    with the original inhabitants of North America, often making alliances with some
+                    tribes while alienating others. Sometimes, as in the case of the French and
+                    Indian War (which in Europe was referred to as the Seven Years’ War), European
+                    politics regarding balances of power resulted in conflict in the colonies. As
+                    wars in Europe became more heated, fighting broke out between the French and the
+                    British in the American colonies. Both sides called upon Native American allies
+                    to assist them, exacerbating tensions between the tribes, as well as tensions
+                    between the tribes and colonists. Ultimately, the British Government found it
+                    necessary to pour additional troops and resources into protecting its
+                    possessions in the Americas and taxed their colonists to pay for these
+                    resources. These taxes eventually became a rallying cry for the American
+                    independence movement.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="incidents">
+                <head>Incidents leading up to the French and Indian War, <date from="1753" to="1754"
+                        >1753–54</date>
+                </head>
+                <p>The French and Indian War, the North American phase of the larger Seven Years’
+                    War, began after a series of incidents in the upper Ohio River valley, which the
+                    French and British governments both claimed as their territory. Military forces
+                    assembled by both imperial powers built forts in the region and attempted to capture each others’
+                    forts. These skirmishes, which included an expedition led by
+                    George Washington, ultimately led to the escalation of a wider, full-scale war
+                    between Great Britain and France.</p>
+                <p>Wanting to limit British influence along their frontier, the French built a
+                    string of forts from <placeName>Lake Erie</placeName> towards the forks of the
+                    Ohio (present-day Pittsburgh).</p>
+                <figure>
+                    <graphic url="lakeerie.jpg" height="200px" width="200px"/>
+                    <head>Lake Erie, Pennsylvania</head>
+                </figure>
+                <p>Since the colony of Virginia also claimed this region, Virginian lieutenant
+                    governor Robert Dinwiddie sent Major <persName>George Washington</persName> with
+                    a small expedition to order the removal of the French forts in late 1753.
+                    Washington arrived at Fort Le Boeuf, about 15 miles inland from present-day
+                    Erie, Pennsylvania, and delivered his message. The commander of the fort,
+                    Jacques Legardeur de Saint-Pierre, received Washington and his men courteously,
+                    but denied the validity of English claims to the contested region. Washington
+                    then returned hastily to Virginia, arriving in early 1754, and delivered the
+                    French reply to Governor Dinwiddie. Dinwiddie and the legislature agreed that
+                    French rejection of British demands constituted a hostile act, and that the
+                    French must be driven from their frontier forts on British-claimed land.
+                    Dinwiddie sent Captain William Trent of the Virginia militia to construct a fort
+                    at the strategically important forks of the Ohio River and to convince the
+                    local Indians to ally against the French. Dinwiddie also promoted Washington to
+                    the rank of Lieutenant Colonel and ordered an expedition to compel the French to
+                    surrender their forts.</p>
+                <p>While French and British officials maneuvered military forces about, they also
+                    attempted to curry favor with American Indians living in the region. The most
+                    important group, the Mingoes, were part of the Iroquois Confederation, which was allied with Great Britain. British officials claimed the Iroquois
+                    Confederacy had granted a Native American named Tanaghrisson the title of
+                    ‘Half-King’ over the Mingoes and other Native communities under Iroquois rule.
+                    However, many Indians in the upper Ohio Valley were concerned about British
+                    colonists encroaching upon their land, and did not acknowledge either British or
+                    Iroquois authority. Although many of them also feared French power and bore
+                    grudges against the French from previous wars, the Indians of the upper Ohio
+                    valley believed a French alliance to be the lesser of two evils. Consequently,
+                    they were amenable to supplying French forces with additional men and
+                    intelligence about British movements.</p>
+                <p>Aided by such reports, the French soon learned of the British fort that William
+                    Trent and his small group of men were constructing, and French forces moved
+                    swiftly to compel its surrender on April 17, 1754. The French destroyed the
+                    unfinished fort, building in its place the much more formidable Fort
+                    Duquesne.</p>
+                <figure>
+                    <graphic url="fortduquesne.jpg" height="200px" width="200px"/>
+                    <head>Fort Duquesne</head>
+                </figure>
+                <p>Further south, <persName>George Washington</persName>, accompanied by
+                    Tanaghrisson, surprised an encampment of French soldiers in southwestern
+                    Pennsylvania on May 24, 1754. A brief fight ensued, and afterwards the wounded
+                    French leader, Ensign Joseph de Jumonville, attempted to explain through
+                    translators that the French expedition was on a peaceful mission to warn British
+                    forces about their incursions into French-claimed territory. Although accounts
+                    of the incident differ, it seems that Tanaghrisson, who bore an intense personal
+                    hatred of the French stemming from earlier war experiences, intervened in the
+                    negotiations and killed Jumonville. Expecting further French incursions,
+                    Washington then hastily constructed a fort and prepared to defend his forces,
+                    but a combined French and Indian force forced his surrender on July 3.</p>
+                <p>Once he heard of Washington’s defeat, Lieutenant-Governor Dinwiddie immediately
+                    passed on the news to his superiors in London and called for aid from
+                    neighboring colonies. Only North Carolina responded, but refused to make any
+                    expenditures outside its own borders. However, British Prime Minister Thomas
+                    Pelham-Holles, Duke of Newcastle, reacted swiftly to the news, and planned a
+                    quick strike against the French forts before they could be reinforced. King
+                    George II approved Newcastle’s plan to send General Edward Braddock to quickly
+                    seize French frontier forts.</p>
+                <p>Other political leaders wanted a bigger war, and so they publicly announced
+                    Newcastle’s plans and changed the original plan so that Braddock would command
+                    more forces and order the fractious North American colonies to provide
+                    additional support against the French. Once the plans had been publicly
+                    announced, the French government moved quickly to dispatch reinforcements to
+                    North America and further pursued negotiations to diplomatically isolate the
+                    British government by winning over its traditional European allies. Once
+                    military forces were under way, war was inevitable.</p>
+            </div>
+            <div type="section" xml:id="french-indian-war">
+                <head>French and Indian War/Seven Years’ War, <date from="1754" to="1763"
+                        >1754–63</date>
+                </head>
+                <p>The French and Indian War was the North American conflict in a larger imperial
+                    war between Great Britain and France known as the Seven Years’ War. The French
+                    and Indian War began in 1754 and ended with the Treaty of Paris in 1763. The war
+                    provided Great Britain enormous territorial gains in North America, but disputes
+                    over subsequent frontier policy and paying the war’s expenses led to colonial
+                    discontent, and ultimately to the American Revolution.</p>
+                <figure>
+                    <graphic url="French_and_Indian_War_map.gif" height="200px" width="200px"/>
+                    <head>Map from the French and Indian War</head>
+                </figure>
+                <p>The French and Indian War resulted from ongoing frontier tensions in North
+                    America as both French and British imperial officials and colonists sought to
+                    extend each country’s sphere of influence in frontier regions. In North America,
+                    the war pitted France, French colonists, and their Native allies against Great
+                    Britain, the Anglo-American colonists, and the Iroquois Confederacy, which
+                    controlled most of upstate New York and parts of northern Pennsylvania. In 1753,
+                    prior to the outbreak of hostilities, Great Britain controlled the 13 colonies
+                    up to the Appalachian Mountains, but beyond lay New France, a very large,
+                    sparsely settled colony that stretched from Louisiana through the Mississippi
+                    Valley and Great Lakes to Canada. (See <ref
+                        target="/milestones/1750-1775/incidents">Incidents Leading up to the French
+                        and Indian War</ref> and <ref target="/milestones/1750-1775/albany-plan"
+                        >Albany Plan</ref>)</p>
+                <p>The border between French and British possessions was not well defined, and one
+                    disputed territory was the upper Ohio River valley. The French had constructed a
+                    number of forts in this region in an attempt to strengthen their claim on the
+                    territory. British colonial forces, led by Lieutenant Colonel George Washington,
+                    attempted to expel the French in 1754, but were outnumbered and defeated by the
+                    French. When news of Washington’s failure reached British Prime Minister Thomas
+                    Pelham-Holles, Duke of Newcastle, he called for a quick undeclared retaliatory
+                    strike. However, his adversaries in the Cabinet outmaneuvered him by making the
+                    plans public, thus alerting the French Government and escalating a distant
+                    frontier skirmish into a full-scale war.</p>
+                <figure>
+                    <graphic url="ebraddock.jpg" height="200px" width="200px"/>
+                    <head>General Edward Braddock</head>
+                </figure>
+                <p>The war did not begin well for the British. The British Government sent General
+                    Edward Braddock to the colonies as commander in chief of British North American
+                    forces, but he alienated potential Indian allies and colonial leaders failed to
+                    cooperate with him. On July 13, 1755, Braddock died after being mortally wounded
+                    in an ambush on a failed expedition to capture Fort Duquesne in present-day
+                    Pittsburgh. The war in North America settled into a stalemate for the next
+                    several years, while in Europe the French scored an important naval victory and
+                    captured the British possession of Minorca in the Mediterranean in 1756.
+                    However, after 1757 the war began to turn in favor of Great Britain. British
+                    forces defeated French forces in India, and in 1759 British armies invaded and
+                    conquered Canada.</p>
+                <p>Facing defeat in North America and a tenuous position in Europe, the French
+                    Government attempted to engage the British in peace negotiations, but British
+                    Minister William Pitt (the elder), Secretary for Southern Affairs, sought not
+                    only the French cession of Canada but also commercial concessions that the
+                    French Government found unacceptable. After these negotiations failed, Spanish
+                    King Charles III offered to come to the aid of his cousin, French King Louis XV,
+                    and their representatives signed an alliance known as the Family Compact on
+                    August 15, 1761. The terms of the agreement stated that Spain would declare war
+                    on Great Britain if the war did not end before May 1, 1762. Originally intended
+                    to pressure the British into a peace agreement, the Family Compact ultimately
+                    reinvigorated the French will to continue the war, and caused the British
+                    Government to declare war on Spain on January 4, 1762, after bitter infighting
+                    among King George III’s ministers.</p>
+                <p>Despite facing such a formidable alliance, British naval strength and Spanish
+                    ineffectiveness led to British success. British forces seized French Caribbean
+                    islands, Spanish Cuba, and the Philippines. Fighting in Europe ended after a
+                    failed Spanish invasion of British ally Portugal. By 1763, French and Spanish
+                    diplomats began to seek peace. In the resulting <ref
+                        target="/milestones/1750-1775/treaty-of-paris">Treaty of Paris</ref> (1763),
+                    Great Britain secured significant territorial gains in North America, including
+                    all French territory east of the Mississippi river, as well as Spanish Florida,
+                    although the treaty returned Cuba to Spain.</p>
+                <p>Unfortunately for the British, the fruits of victory brought seeds of
+                    trouble with Great Britain’s American colonies. The war had been enormously
+                    expensive, and the British government’s attempts to impose taxes on colonists to
+                    help cover these expenses resulted in increasing colonial resentment of British
+                    attempts to expand imperial authority in the colonies. British attempts to limit
+                    western expansion by colonists and inadvertent provocation of a major Indian war
+                    further angered the British subjects living in the American colonies. These
+                    disputes ultimately spurred colonial rebellion, which eventually developed into
+                    a full-scale war for independence.</p>
+            </div>
+            <div type="section" xml:id="albany-plan">
+                <head>Albany Plan of Union, <date when="1754">1754</date>
+                </head>
+                <p>The Albany Plan of Union was a plan to place the British North American colonies
+                    under a more centralized government. On July 10, 1754, representatives from
+                    seven of the British North American colonies adopted the plan. Although never
+                    carried out, the Albany Plan was the first important proposal to conceive of the
+                    colonies as a collective whole united under one government.</p>
+                <figure>
+                    <graphic url="albanyplan.jpg" height="200px" width="200px"/>
+                    <head>Cartoon originally appearing in Benjamin Franklin’s <hi rend="italic"
+                            >Pennsylvania Gazette</hi> in 1754</head>
+                </figure>
+                <p>Representatives of the colonial governments adopted the Albany Plan during a
+                    larger meeting known as the Albany Congress. The British Government in London
+                    had ordered the colonial governments to meet in 1754, initially because of a
+                    breakdown in negotiations between the colony of New York and the Mohawk nation,
+                    which was part of the Iroquois Confederation. More generally, imperial officials
+                    wanted a treaty between the colonies and the Iroquois that would articulate a
+                    clear colonial-Indian relations policy. The colonial governments of Maryland,
+                    Pennsylvania, New York, Connecticut, Rhode Island, Massachusetts and New
+                    Hampshire all sent commissioners to the Congress. Although the treaty with the
+                    Iroquois was the main purpose of the Congress, the delegates also met to discuss
+                    intercolonial cooperation on other matters. With the French and Indian War
+                    looming, the need for cooperation was urgent, especially for colonies likely to
+                    come under attack or invasion.</p>
+                <p>Prior to the Albany Congress, a number of intellectuals and government officials
+                    had formulated and published several tentative plans for centralizing the
+                    colonial governments of North America. Imperial officials saw the advantages of
+                    bringing the colonies under closer authority and supervision, while colonists
+                    saw the need to organize and defend common interests. One figure of emerging
+                    prominence among this group of intellectuals was Pennsylvanian Benjamin
+                    Franklin. Earlier, Franklin had written to friends and colleagues proposing a
+                    plan of voluntary union for the colonies. Upon hearing of the Albany Congress,
+                    his newspaper, <hi rend="italic">The Pennsylvania Gazette</hi>, published the
+                    political cartoon "Join or Die," which illustrated the importance of union by
+                    comparing the colonies to pieces of a snake’s body. The Pennsylvania government
+                    appointed Franklin as a commissioner to the Congress, and on his way, Franklin
+                    wrote to several New York commissioners outlining ‘short hints towards a scheme
+                    for uniting the Northern Colonies’ by means of an act of the British
+                    Parliament.</p>
+                <p>The Albany Congress began on June 19, 1754, and the commissioners voted
+                    unanimously to discuss the possibility of union on June 24. The union committee
+                    submitted a draft of the plan on June 28, and commissioners debated aspects of
+                    it until they adopted a final version on July 10.</p>
+                <p>Although only seven colonies sent commissioners, the plan proposed the union of
+                    all the British colonies except for Georgia and Delaware. The colonial
+                    governments were to select members of a "Grand Council," while the British
+                    Government would appoint a "president General." Together, these two branches of
+                    the unified government would regulate colonial-Indian relations and also resolve
+                    territorial disputes between the colonies. Acknowledging the tendency of royal
+                    colonial governors to override colonial legislatures and pursue unpopular
+                    policies, the Albany Plan gave the Grand Council greater relative authority. The
+                    plan also allowed the new government to levy taxes for its own support.</p>
+                <p>Despite the support of many colonial leaders, the plan, as formulated at Albany,
+                    did not become a reality. Colonial governments, sensing that it would curb their
+                    own authority and territorial rights, either rejected the plan or chose not to
+                    act on it at all. The British Government had already dispatched General Edward
+                    Braddock as military commander in chief along with two commissioners to handle
+                    Indian relations, and believed that directives from London would suffice in the
+                    management of colonial affairs.</p>
+                <p>The Albany Plan was not conceived out of a desire to secure independence from
+                    Great Britain. Many colonial commissioners actually wished to increase imperial
+                    authority in the colonies. Its framers saw it instead as a means to reform
+                    colonial-imperial relationsand to recognize that the colonies collectively
+                    shared certain common interests. However, the colonial governments’ own fears of
+                    losing power, territory, and commerce, both to other colonies and to the British
+                    Parliament, ensured the Albany Plan’s failure.</p>
+                <p>Despite the failure of the Albany Plan, it served as a model for future attempts
+                    at union: it attempted to establish the division between the executive and
+                    legislative branches of government, while establishing a common governmental
+                    authority to deal with external relations. More importantly, it conceived of the
+                    colonies of mainland North America as a collective unit, separate not only from
+                    the mother country, but also from the other British colonies in the West Indies
+                    and elsewhere.</p>
+            </div>
+            <div type="section" xml:id="treaty-of-paris">
+                <head>Treaty of Paris, <date when="1763">1763</date>
+                </head>
+                <p>The Treaty of Paris of 1763 ended the French and Indian War/Seven Years’ War
+                    between Great Britain and France, as well as their respective allies. In the
+                    terms of the treaty, France gave up all its territories in mainland North
+                    America, effectively ending any foreign military threat to the British colonies
+                    there.</p>
+                <figure>
+                    <graphic url="treaty1763.jpg" height="200px" width="200px"/>
+                    <head>The Treaty of Paris, 1763</head>
+                </figure>
+                <p>During the war, British forces had scored important overseas victories against
+                    France: not only had the British conquered French Canada, they also won
+                    victories in India, and captured French island colonies in the Caribbean. In
+                    March of 1762, French King Louis XV issued a formal call for peace talks.</p>
+                <p>The British Government was also interested in ending the war. The Seven Years’
+                    War had been enormously expensive, and the Government had to finance the war
+                    with debt. Creditors were beginning to doubt Great Britain’s ability to pay back
+                    the loans it had floated on financial markets. In addition, British King George
+                    II had died in 1760, and his successor George III was more amenable to ending
+                    the war.</p>
+                <p>Initial attempts at negotiating a peace settlement failed, and instead French and
+                    Spanish diplomats signed the Family Compact, a treaty that brought Spain into
+                    the war against Britain. British Prime Minister Lord Bute continued secret and
+                    informal talks with French diplomat Étienne-François de Stainville, duc de
+                    Choiseul, and they came to an unofficial agreement in June, 1762. Bute promised
+                    fairly generous terms, and the two countries agreed to an exchange of
+                    ambassadors in September.</p>
+                <p>By the time the formal negotiations began, the situation had changed. News had
+                    reached Europe of the British capture of Havana, and with it the Spanish colony
+                    of Cuba. Spanish King Charles III refused to agree to a treaty that would
+                    require Spain to cede Cuba, but the British Parliament would never ratify a
+                    treaty that did not reflect British territorial gains made during the war.</p>
+                <p>Facing this dilemma, French negotiator Choiseul proposed a solution that
+                    redistributed American territory between France, Spain and Great Britain. Under
+                    Choiseul’s plan, Britain would gain all French territory east of the
+                    Mississippi, while Spain would retain Cuba in exchange for handing Florida over
+                    to Great Britain. French territories west of the Mississippi would become
+                    Spanish, along with the port of New Orleans. In return for these cessions, along
+                    with territory in India, Africa, and the Mediterranean island of Minorca, France
+                    would regain the Caribbean islands that British forces had captured during the
+                    war. The British Government also promised to allow French Canadians to freely
+                    practice Catholicism and provided for French fishing rights off
+                    Newfoundland.</p>
+                <figure>
+                    <graphic url="etienne.jpg" width="200px" height="200px"/>
+                    <head>French diplomat Étienne-François de Stainville, duc de Choiseul</head>
+                </figure>
+                <p>Choiseul preferred to keep the small Caribbean islands of Martinique, Guadeloupe,
+                    and St. Lucia rather than hold on to the vast territory stretching from
+                    Louisiana to Canada. This decision was motivated by the fact that the islands’
+                    sugar industry was enormously profitable. In contrast, Canada had been a drain
+                    on the French treasury. The loss of Canada, while lamentable to French
+                    officials, made sense from a mercantile perspective.</p>
+                <p>The diplomats completed their negotiations and signed the preliminary Treaty of
+                    Paris on November 3, 1762. Spanish and French negotiators also signed the Treaty
+                    of San Ildefonso at the same time, which confirmed the cession of French
+                    Louisiana to Spain.</p>
+                <p>Although British King George III and his ministers were in favor of the treaty,
+                    it was unpopular with the British public. However, the treaty contained enough
+                    concessions to war hawks that the British Parliament ratified the Treaty of
+                    Paris by a majority of 319 to 64, and the treaty went into effect on February
+                    10, 1763.</p>
+                <p>For Anglo-American colonists, the treaty was a theoretical success. By confirming
+                    the conquest of Canada and extending British possessions to the Mississippi, the
+                    colonists no longer had to worry about the threat of a French invasion. For the
+                    American Indians in what had been frontier territory, the treaty proved
+                    disastrous. They could no longer pursue what had been a largely effective
+                    strategy of playing the French and British against each other to extract the
+                    most favorable terms of alliance and preserve their lands against encroachment
+                    by Anglo-American colonists.</p>
+                <p>Despite what seemed like a success, the Treaty of Paris ultimately encouraged
+                    dissension between Anglo-American colonists and the British Government because
+                    their interests in North America no longer coincided. The British Government no
+                    longer wanted to maintain an expensive military presence, and its attempts to
+                    manage a post-treaty frontier policy that would balance colonists’ and Indians’
+                    interests would prove ineffective and even counterproductive. Coupled with
+                    differences between the imperial government and colonists on how to levy taxes
+                    to pay for debts on wartime expenses, the Treaty of Paris ultimately set the
+                    colonists on the path towards seeking independence, even as it seemed to make
+                    the British Empire stronger than ever. (see Parliamentary Taxation of
+                    Colonies)</p>
+            </div>
+            <div type="section" xml:id="parliamentary-taxation">
+                <head>Parliamentary taxation of colonies, international trade, and the American
+                    Revolution, <date from="1763" to="1775">1763–1775</date>
+                </head>
+                <p>The American Revolution was precipitated, in part, by a series of laws passed
+                    between 1763 and 1775 that regulating trade and taxes. This legislation caused
+                    tensions between colonists and imperial officials, who made it clear that the
+                    British Parliament would not address American complaints that the new laws were
+                    onerous. British unwillingness to respond to American demands for change allowed
+                    colonists to argue that they were part of an increasingly corrupt and autocratic
+                    empire in which their traditional liberties were threatened. This position
+                    eventually served as the basis for the colonial <ref
+                        target="/milestones/1776-1783/declaration">Declaration of
+                    Independence</ref>.</p>
+                <figure>
+                    <graphic url="bostonteaparty.jpg" height="200px" width="200px"/>
+                    <head>Boston Tea Party</head>
+                </figure>
+                <p>In 1763, the British government emerged from the Seven Years’ War burdened by
+                    heavy debts. This led British Prime Minister <persName>George
+                        Grenville</persName> to reduce duties on sugar and molasses but also to
+                    enforce the law more strictly. Since enforcement of these duties had previously
+                    been lax, this ultimately increased revenue for the British Government and
+                    served to increase the taxes paid by the colonists. The colonial governments of
+                    New York and Massachusetts sent formal letters of protest to Parliament.</p>
+                <p>The end of the war had also brought about a postwar recession, and British
+                    merchants began to request payment for debts that colonists had incurred buying
+                    British imports. Moreover, they wanted payment in British pounds sterling rather
+                    than colonial currency of more questionable value. The result was that the
+                    British Parliament passed the 1764 Currency Act which forbade the colonies from
+                    issuing paper currency. This made it even more difficult for colonists to pay
+                    their debts and taxes.</p>
+                <p>Soon after Parliament passed the Currency Act, Prime Minister Grenville proposed
+                    a Stamp Tax. This law would require colonists to purchase a government-issued
+                    stamp for legal documents and other paper goods. Grenville submitted the bill to
+                    Parliament for questioning, and only one member raised objections to
+                    Parliament’s right to tax the colonies.</p>
+                <p>After news of the successful passage of the Stamp Act reached the colonies, the
+                    Virginia House of Burgesses passed resolutions denying the British Parliament’s
+                    authority to tax the colonies. In Boston, colonists rioted and destroyed the
+                    house of the stamp distributor. News of these protests inspired similar
+                    activities and protests in other colonies, and thus the Stamp Act served as a
+                    common cause to unite the 13 colonies in opposition to the British Parliament.
+                    In October of 1765, delegates from 9 colonies met to issue petitions to the
+                    British Government denying Parliament’s authority to tax the colonies. An
+                    American boycott of British goods, coupled with recession, also led British
+                    merchants to lobby for the act’s repeal on pragmatic economic grounds. Under
+                    pressure from American colonists and British merchants, the British Government
+                    decided it was easier to repeal the Stamp Act than to enforce it.</p>
+                <p>The repeal of the Stamp Act temporarily quieted colonial protest, but there was
+                    renewed resistance to new taxes instituted in 1767 under the Townshend Acts.
+                    However, in 1773, the colonists staged more vocal widespread protests against
+                    the British Parliament’s decision to grant the East India Company a monopoly on
+                    the tax-free transport of tea. Although Parliament did lower taxes levied on
+                    other tea importers, the tax-free status of the British East India Company meant
+                    that colonial tea traders could not compete. Enraged colonists responded by
+                    encouraging a general boycott of British goods. On December 16, 1773, American
+                    colonists disguised as Indians boarded East India Company ships in Boston Harbor
+                    and threw crates of tea overboard. This famous protest came to be known as the
+                    Boston Tea Party.</p>
+                <p>When news of the Tea Party reached England, British officials moved to enforce
+                    discipline and order in the colonies. The British Government ordered the closure
+                    of the port of Boston until the East India Company was compensated for the
+                    destroyed tea. Parliament also passed several pieces of legislation in 1774
+                    which attempted to place Massachusetts under direct British control. In the
+                    American colonies, these laws were referred to as the Intolerable Acts. British
+                    control was further solidified by the appointment of General Thomas Gage as
+                    military governor of Massachusetts.</p>
+                <p>By 1774, opinion among the colonists was mixed. Some Bostonians felt that the
+                    time had come to ease tensions and sent to London a written offer to pay for the
+                    destroyed tea. Others put out a colony-wide call for a boycott. However, many
+                    colonial merchants were reluctant to participate in a difficult-to-enforce
+                    boycott. Despite this disagreement, most colonists agreed that a meeting to
+                    discuss an appropriate collective response to British actions was a good idea.
+                    Colonial legislatures sent representatives to Philadelphia, and the First
+                    Continental Congress convened in September of 1774. The Continental Congress
+                    agreed to the Articles of Association on October 20. These Articles listed
+                    colonial grievances and called for a locally-enforced boycott in all the
+                    colonies to take effect on December 1. The delegates also drafted a petition to
+                    King George III laying out their grievances, although by then they doubted that
+                    the crisis would be resolved peacefully.</p>
+                <p>Realizing that further coercive steps would only enrage the colonists and might
+                    lead to war, British military governor Gage wrote to London recommending
+                    suspension of the Intolerable Acts. Gage hoped to appease many of the colonists
+                    and thereby split colonial moderates from radicals. If London was not amenable
+                    to his recommendations, Gage stated that he would need significant
+                    reinforcements to crush the growing rebellion.</p>
+                <p>British ministers responded to Gage’s suggestions by removing him from his post.
+                    They felt that further punitive measures were necessary and pushed Parliament to
+                    pass additional trade restrictions on New England. London declared the colonies
+                    to be in rebellion, but also offered to stop taxing those colonies that
+                    supported the British Government.</p>
+                <p>By this time, the most astute leaders from both sides viewed armed conflict as
+                    inevitable. Gage’s attempts to secure his position in Boston only brought him
+                    into conflict with local militias and a hostile populace, and it was only a
+                    matter of time until open war began in 1775. The opportunity for peaceful
+                    negotiation came to an end, and the war for American Independence began on April
+                    19, 1775 when British troops and American colonists clashed at Lexington and
+                    Concord.</p>
+            </div>
+            <div type="section" xml:id="proclamation-line-1763">
+                <head>Proclamation Line of <date when="1763">1763</date>, Quebec Act of <date
+                        when="1774">1774</date> and Westward Expansion</head>
+                <p>The British won vast territory in North America after the <ref
+                        target="/milestones/1750-1775/french-indian-war">Seven Years’ War</ref>, but
+                    with the land came numerous problems of how to govern it. Conflicts arose from
+                    the inability of British officials to balance the interests of colonists and
+                    Indians, which led to colonial dissatisfaction with imperial rule and,
+                    ultimately, to the causes of the American Revolution.</p>
+                <figure>
+                    <graphic url="1763line.jpg" height="200px" width="200px"/>
+                    <head>The Proclamation Line of 1763—between the red colored colonies and the
+                        pink territories</head>
+                </figure>
+                <p>The Treaty of Paris of 1763 that ended the Seven Years’ War provided Great
+                    Britain with enormous territorial gains. Under the treaty, Canada and the entire
+                    present-day United States east of the Mississippi came under British control.
+                    With the official end of the war, Anglo-American colonists began to pour over
+                    the Appalachian Mountains in search of land. As the native population had made
+                    no land cessions, many of these settlers had no official claim to the land. In
+                    many cases, the land was claimed by private land companies, in which the
+                    Virginia elite had invested heavily in an attempt to diversify their holdings
+                    outside of the volatile tobacco market. Thus, they had an interest in pressing
+                    the British Government to address ensuing tensions.</p>
+                <p>The settlement of the lands west of the Appalachians brought inevitable tension
+                    and conflict between settlers and indigenous peoples. British military officials
+                    attempted to halt settlement, but eager settlers and land speculators ignored
+                    their directives. With the military unwilling to forcibly remove settlers from
+                    the lands, Anglo-American colonists continued to migrate west and lay claim
+                    these lands.</p>
+                <p>British officials made the situation worse by alienating American Indians who had
+                    been allied with France during the Seven Years’ War. The French Government had
+                    devoted significant resources to furnishing gifts to their Indian allies. When
+                    British forces arrived to take over former French forts, they halted the
+                    gift-giving practice, not realizing that doing so undercut the authority of any
+                    pro-British leaders within indigenous communities and antagonized the Indian
+                    leaders.</p>
+                <p>In response to British actions and western settlement, the leader of the Ottawa
+                    tribe, Pontiac, sent messages encoded in wampum belts to other communities
+                    throughout the present-day Midwest to coordinate an attack on British forts.
+                    Unaware of the depth of Indian anger and resentment, British forces were caught
+                    largely by surprise and lost all their western forts except for Fort Pitt and
+                    Detroit, where British military officials were tipped off and, therefore, able
+                    to prevent seizure.</p>
+                <p>When news of the rebellion reached London, the government decided to put into
+                    action a plan for creating a western Indian reserve, and produced the Royal
+                    Proclamation of 1763, which forbid colonial settlement beyond the line of the
+                    Appalachian Mountains. The act also created the provinces of Quebec, West
+                    Florida, and East Florida. The proclamation was largely ineffective in
+                    preventing western settlement, and served only to anger both settlers and the
+                    political elite who had invested in western land speculation.</p>
+                <p>War with the Indian tribes continued from 1764 into 1766. British officials
+                    managed to negotiate peace with the Senecas in the Niagara region and with
+                    Indians in the upper Ohio River valley, and, in 1766, Pontiac agreed to a formal
+                    treaty signed at Fort Ontario on July 25. Pontiac’s War is diplomatically
+                    significant because it was the first war between European settlers and American
+                    Indians where Indians had united broadly across tribal lines.</p>
+                <p>After the end of Pontiac’s rebellion, regulation of the western frontier was not
+                    significantly altered until Parliament passed the Quebec Act of 1774. With this
+                    piece of legislation, the British intended to preempt any dissatisfaction among
+                    the French Canadian population by restoring French civil law and allowing
+                    Catholics to hold office. It also imposed direct crown rule on Quebec and
+                    extended Quebec’s borders south to the Ohio River.</p>
+                <p>The Quebec Act angered the Virginia elite, since most of the western lands they
+                    claimed were now officially part of Quebec or in the Indian reserve. The act,
+                    which Parliament passed at the same time as legislation placing Massachusetts
+                    under crown control, also fueled resentment among Calvinist New Englanders, who
+                    saw in its autocratic, pro-Catholic provisions further evidence of an imperial
+                    conspiracy against colonial liberties.</p>
+                <p>When the American Revolution began in 1774, tensions between settlers and Indians
+                    became a part of the conflict. The Continental Congress’s attempts to secure
+                    Indian alliances largely failed, as most Indians saw the British military as the
+                    lesser of two evils in their struggle against settlers’ encroachments upon their
+                    land. However, the Oneida and Tuscarora Nations of the Iroquois Confederacy did
+                    side with the colonists.</p>
+                <p>The ultimate effect of British frontier policy was to unite frontiersmen,
+                    Virginia land speculators, and New Englanders against unpopular British
+                    policies. These groups, angered by British taxation policies, forged
+                    revolutionary alliances with other colonists. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

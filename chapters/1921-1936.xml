@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1921–1936</title>
+                <title type="short">1921–1936</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31" target="#dawes"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1921" to="1936">1921–1936</date>: Interwar Diplomacy</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>Disillusionment with World War I, international commitments that could lead to
+                    another war, and economic uncertainty discouraged ambitious U.S. involvement in
+                    global affairs during the interwar period.</p>
+                <figure>
+                    <graphic url="lady-liberty.jpg" height="228px" width="200px"/>
+                    <head>Cartoon depicting uncertainties felt by U.S. citizens in the Interwar
+                        Period</head>
+                </figure>
+                <p>The United States, however, did not retreat into complete isolation. The
+                    necessities of commercial growth dictated continued government support for
+                    overseas private investment. That, in turn, drove the United States to further
+                    engage with both with Latin America and the rebuilding of Europe in the 1920s.
+                    The United States also played important roles in both international negotiations
+                    to set arms limitations and the creation of pacts that aimed at securing a
+                    lasting peace. By the mid-1920s, however, a general feeling of economic
+                    uncertainty reinforced isolationist tendencies and encouraged new legislation
+                    that placed severe limits on immigration to the United States, particularly from
+                    Asia. During the 1930s, the rise of fascism as a threat to international peace
+                    sparked concern in the United States, but the Great Depression curtailed U.S.
+                    willingness to act. In this environment, keeping the nation out of the brewing
+                    tension in Europe and Asia became an important foreign policy goal.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="naval-conference">
+                <head>The Washington Naval Conference, <date from="1921" to="1922">1921–1922</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>Between 1921 and 1922, the world’s largest naval powers gathered in
+                        <placeName>Washington, D.C.</placeName> for a conference to discuss naval
+                    disarmament and ways to relieve growing tensions in East Asia.</p>
+                <p>In the wake of World War I, leaders in the international community sought to
+                    prevent the possibility of another war. Rising Japanese militarism and an
+                    international arms race heightened these concerns. As a result, policymakers
+                    worked to reduce the rising threat. Senator <persName>William E.
+                        Borah</persName> (R–Idaho) led a congressional effort to demand that the
+                    United States engage its two principal competitors in the naval arms race, Japan
+                    and the United Kingdom, in negotiations for disarmament.</p>
+                <figure>
+                    <graphic url="borah-william.jpg" height="224px" width="175px"/>
+                    <head>Senator William E. Borah</head>
+                </figure>
+                <p>In 1921, U.S. Secretary of State <ref
+                        target="/departmenthistory/people/hughes-charles-evans">Charles Evans
+                        Hughes</ref> invited nine nations to Washington, D.C. to discuss naval
+                    reductions and the situation in the Far East. The United Kingdom, Japan, France
+                    and Italy were invited to take part in talks on reducing naval capacity, while
+                    Belgium, China, Portugal, and the Netherlands were invited to join in
+                    discussions on the situation in the Far East. Three major treaties emerged out
+                    of the Washington Naval Conference: the Five-Power Treaty, the Four-Power
+                    Treaty, and the Nine-Power Treaty.</p>
+                <p>
+                    <hi rend="strong">The Five-Power Treaty</hi>
+                </p>
+                <p>The Five-Power Treaty, signed by the United States, the United Kingdom, Japan,
+                    France and Italy was the cornerstone of the naval disarmament program. It called
+                    for each of the countries involved to maintain a set ratio of warship tonnage
+                    which allowed the United States and the United Kingdom 500,000 tons, Japan
+                    300,000 tons, and France and Italy each 175,000 tons. Japan preferred that
+                    tonnage be allotted at a 10:10:7 ratio, while the U.S. Navy preferred a 10:10:5
+                    ratio. The conference ultimately adopted the 5:5:3 ratio limits. Since the
+                    United States and the United Kingdom maintained navies in both the Pacific and
+                    Atlantic Oceans to support their colonial territories, the Five-Power Treaty
+                    allotted both countries the highest tonnage allowances. The treaty also called
+                    on all five signatories to stop building capital ships and reduce the size of
+                    their navies by scrapping older ships. </p>
+                <p>Though the treaty was widely regarded as a success, the inclusion of Article XIX,
+                    which recognized the status quo of U.S., British, and Japanese bases in the
+                    Pacific but outlawed their expansion, created a controversy amongst U.S.
+                    policymakers. Many members of the U.S. Navy in particular worried that limiting
+                    the expansion of fortifications in the Pacific would endanger U.S. holdings in
+                    Hawaii, Guam, and the Philippines.</p>
+                <p>Additionally, although the Five-Power Treaty controlled tonnage of each navy’s
+                    warships, some classes of ships were left unrestricted. As a result, a new race
+                    to build cruiser ships emerged after 1922, leading the five nations to return to
+                    the negotiating table in 1927 and 1930 in an effort to close the remaining
+                    loopholes in the Treaty.</p>
+                <p>
+                    <hi rend="strong">The Four-Power Treaty</hi>
+                </p>
+                <p>In the Four-Power Treaty, the United States, France, the United Kingdom, and
+                    Japan agreed to consult with each other in the event of a future crisis in East
+                    Asia before taking action. This treaty replaced the Anglo-Japanese Treaty of
+                    1902, which had been a source of some concern for the United States. In the
+                    years following World War I, U.S. policymakers saw Japan as the greatest rising
+                    military threat. Heavily militarized and looking to expand its influence and
+                    territory, Japan had the potential to threaten U.S. colonial possessions in Asia
+                    and the profitable China trade. Because of the 1902 agreement between the United
+                    Kingdom and Japan, however, if the United States and Japan entered into a
+                    conflict, the United Kingdom might be obligated to join Japan against the United
+                    States. By ending that treaty and creating a Four-Power agreement, the countries
+                    involved ensured that none would be obligated to engage in a conflict, but a
+                    mechanism would exist for discussions if one emerged.</p>
+                <p>
+                    <hi rend="strong">The Nine-Power Treaty</hi>
+                </p>
+                <p>The final multilateral agreement made at the Washington Naval Conference, the
+                    Nine-Power Treaty, marked the internationalization of the U.S. Open Door Policy
+                    in China. The treaty promised that each of the signatories—the United States,
+                    the United Kingdom, Japan, France, Italy, Belgium, the Netherlands, Portugal,
+                    and China—would respect the territorial integrity of China. The treaty
+                    recognized Japanese dominance in Manchuria but otherwise affirmed the importance
+                    of equal opportunity for all nations doing business in the country. For its
+                    part, China agreed not to discriminate against any country seeking to do
+                    business there. Like the Four-Power Treaty, this treaty on China called for
+                    further consultations amongst the signatories in the event of a violation. As a
+                    result, it lacked a method of enforcement to ensure that all powers abided by
+                    its terms.</p>
+                <p>In addition to the multilateral agreements, the participants completed several
+                    bilateral treaties at the conference. Japan and China signed a bilateral
+                    agreement, the Shangtung (Shandong) Treaty, which returned control of that
+                    province and its railroad to China. Japan had taken control of the area from the
+                    Germans during World War I and maintained control of it over the years that
+                    followed. The combination of the Shangtung Treaty and the Nine-Power Treaty was
+                    meant to reassure China that its territory would not be further compromised by
+                    Japanese expansion. Additionally, Japan agreed to withdraw its troops from
+                    Siberia and the United States and Japan formally agreed to equal access to
+                    cable and radio facilities on the Japanese-controlled island of Yap.</p>
+                <p>Together, the treaties signed at the Washington Naval Conference served to uphold the
+                    status quo in the Pacific: they recognized existing interests and did not make
+                    fundamental changes to them. At the same time, the United States secured
+                    agreements that reinforced its existing policy in the Pacific, including the
+                    Open Door Policy in China and the protection of the Philippines, while limiting the
+                    scope of Japanese imperial expansion as much as possible.</p>
+            </div>
+            <div type="section" xml:id="immigration-act">
+                <head>The Immigration Act of <date when="1924">1924</date> (The Johnson-Reed
+                    Act)</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>The Immigration Act of 1924 limited the number of immigrants allowed entry into
+                    the United States through a national origins quota. The quota provided
+                    immigration visas to two percent of the total number of people of each
+                    nationality in the United States as of the 1890 national census. It completely
+                    excluded immigrants from Asia.</p>
+                <figure>
+                    <graphic url="johnson-reed.jpg" height="125px" width="180px"/>
+                    <head>President Coolidge signing the Johnson-Reed Act</head>
+                </figure>
+                <p>
+                    <hi rend="strong">Literacy Tests and “Asiatic Barred Zone”</hi>
+                </p>
+                <p>In 1917, the U.S. Congress enacted the first widely restrictive immigration law.
+                    The uncertainty generated over national security during World War I made it
+                    possible for Congress to pass this legislation, and it included several important
+                    provisions that paved the way for the 1924 Act. The 1917 Act implemented a
+                    literacy test that required immigrants over 16 years old to demonstrate basic
+                    reading comprehension in any language. It also increased the tax paid by new
+                    immigrants upon arrival and allowed immigration officials to exercise more
+                    discretion in making decisions over whom to exclude. Finally, the Act excluded
+                    from entry anyone born in a geographically defined “Asiatic Barred Zone” except
+                    for Japanese and Filipinos. In 1907, the Japanese Government had voluntarily
+                    limited Japanese immigration to the United States in the Gentlemen’s Agreement. The
+                    Philippines was a U.S. colony, so its citizens were U.S. nationals and
+                    could travel freely to the United States. China was not included in the Barred
+                    Zone, but the Chinese were already denied immigration visas under the Chinese
+                    Exclusion Act.</p>
+                <p>
+                    <hi rend="strong">Immigration Quotas</hi>
+                </p>
+                <p>The literacy test alone was not enough to prevent most potential immigrants from
+                    entering, so members of Congress sought a new way to restrict immigration in the
+                    1920s. Immigration expert and Republican Senator from Vermont <persName>William
+                        P. Dillingham</persName> introduced a measure to create immigration quotas,
+                    which he set at three percent of the total population of the foreign-born of
+                    each nationality in the United States as recorded in the 1910 census. This put
+                    the total number of visas available each year to new immigrants at 350,000. It
+                    did not, however, establish quotas of any kind for residents of the Western
+                    Hemisphere. President Wilson opposed the restrictive act, preferring a more
+                    liberal immigration policy, so he used the pocket veto to prevent its passage.
+                    In early 1921, the newly inaugurated President Warren Harding called Congress
+                    back to a special session to pass the law. In 1922, the act was renewed for
+                    another two years.</p>
+                <figure>
+                    <graphic url="dillingham-william.jpg" height="216px" width="171px"/>
+                    <head>Senator William P. Dillingham</head>
+                </figure>
+                <p>When the congressional debate over immigration began in 1924, the quota system
+                    was so well-established that no one questioned whether to maintain it, but
+                    rather discussed how to adjust it. Though there were advocates for raising
+                    quotas and allowing more people to enter, the champions of restriction
+                    triumphed. They created a plan that lowered the existing quota from three to two
+                    percent of the foreign-born population. They also pushed back the year on which
+                    quota calculations were based from 1910 to 1890.</p>
+                <p>Another change to the quota altered the basis of the quota calculations. The
+                    quota had been based on the number of people born outside of the United States,
+                    or the number of immigrants in the United States. The new law traced the origins
+                    of the whole of the U.S. population, including natural-born citizens. The
+                    new quota calculations included large numbers of people of British descent whose
+                    families had long resided in the United States. As a result, the percentage of
+                    visas available to individuals from the British Isles and Western Europe
+                    increased, but newer immigration from other areas like Southern and Eastern
+                    Europe was limited.</p>
+                <p>The 1924 Immigration Act also included a provision excluding from entry any alien
+                    who by virtue of race or nationality was ineligible for citizenship. Existing
+                    nationality laws dating from 1790 and 1870 excluded people of Asian lineage from
+                    naturalizing. As a result, the 1924 Act meant that even Asians not previously
+                    prevented from immigrating – the Japanese in particular – would no longer be
+                    admitted to the United States. Many in Japan were very offended by the new law,
+                    which was a violation of the <ref
+                        target="/milestones/1899-1913/japanese-relations">Gentlemen’s
+                        Agreement</ref>. The Japanese government protested, but the law remained,
+                    resulting in an increase in existing tensions between the two nations. Despite the increased tensions, it
+                    appeared that the U.S. Congress had decided that preserving the racial
+                    composition of the country was more important than promoting good ties with Japan.</p>
+                <p>The restrictive principles of the Act could have resulted in strained
+                    relations with some European countries as well, but these potential problems did
+                    not appear for several reasons. The global
+                    depression of the 1930s, World War II, and stricter enforcement of U.S.
+                    immigration policy served to curtail European emigration. When these crises had
+                    passed, emergency provisions for the resettlement of displaced persons in 1948
+                    and 1950 helped the United States avoid conflict over its new immigration
+                    laws.</p>
+                <p>In all of its parts, the most basic purpose of the 1924 Immigration Act was to
+                    preserve the ideal of U.S. homogeneity. Congress revised the Act in
+                    1952.</p>
+            </div>
+            <div type="section" xml:id="dawes">
+                <head>The Dawes Plan, the Young Plan, German Reparations, and Inter-allied War
+                    Debts</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>In the years following the First World War, issues of debt repayment and
+                    reparations troubled relations between the Allies and the now defeated Germany.
+                    The U.S.-sponsored Dawes and Young Plans offered a possible solution to
+                    these challenges.</p>
+                <figure>
+                    <graphic url="dawes-charles.jpg" height="350px" width="466px"/>
+                    <head>Charles G. Dawes (Prints and Photographs Division, Library of
+                        Congress)</head>
+                </figure>
+                <p>At the end of the First World War, the victorious European powers demanded that
+                    Germany compensate them for the devastation wrought by the four-year conflict,
+                    for which they held Germany and its allies responsible. Unable to agree upon the
+                    amount that Germany should pay at the <ref
+                        target="/milestones/1914-1920/paris-peace">Paris Peace Conference</ref> in
+                    1919, the United States, the United Kingdom, France, and the other Allies
+                    established a Reparation Commission to settle the question. In the spring of
+                    1921, the Commission set the final bill at 132 billion gold marks, approximately
+                    $31.5 billion. When Germany defaulted on a payment in January 1923, France and
+                    Belgium occupied the Ruhr in an effort to force payment. Instead, they met a
+                    government-backed campaign of passive resistance. Inflation in Germany, which
+                    had begun to accelerate in 1922, spiraled into hyperinflation. The value of the
+                    German currency collapsed; the battle over reparations had reached an
+                    impasse.</p>
+                <p>
+                    <hi rend="strong">U.S. Loans to Allied Powers</hi>
+                </p>
+                <p>Meanwhile, a second wartime financial issue was causing tension among the former
+                    co-belligerents. While the United States had little interest in collecting
+                    reparations from Germany, it was determined to secure repayment of the more than
+                    $10 billion it had loaned to the Allies over the course of the war. Time and
+                    again, Washington rejected calls to cancel these debts in the name of the common
+                    wartime cause; it also resisted efforts to link reparations to inter-allied war
+                    debts. In 1922, London made this link explicit in the Balfour Note, which stated
+                    that it would seek reparations and wartime debt repayments from its European
+                    allies equal to its debt to the United States. That same year, Congress created
+                    the United States War Debt Commission to negotiate repayment plans, on
+                    concessionary terms, with the 17 countries that had borrowed money from the
+                    United States.</p>
+                <p>
+                    <hi rend="strong">The Dawes Plan</hi>
+                </p>
+                <p>In late 1923, with the European powers stalemated over German reparations, the
+                    Reparation Commission formed a committee to review the situation. Headed by
+                        <persName>Charles G. Dawes</persName> (Chicago banker, former Director of
+                    the Bureau of the Budget, and future Vice President), the committee presented
+                    its proposal in April 1924. Under the Dawes Plan, Germany’s annual reparation
+                    payments would be reduced, increasing over time as its economy improved; the
+                    full amount to be paid, however, was left undetermined. Economic policy making
+                    in Berlin would be reorganized under foreign supervision and a new currency, the
+                    Reichsmark, adopted. France and Belgium would evacuate the Ruhr and foreign
+                    banks would loan the German government $200 million to help encourage economic
+                    stabilization. U.S. financier <persName>J. P. Morgan</persName> floated the
+                    loan on the U.S. market, which was quickly oversubscribed. Over the next four
+                    years, U.S. banks continued to lend Germany enough money to enable it to meet
+                    its reparation payments to countries such as France and the United Kingdom.
+                    These countries, in turn, used their reparation payments from Germany to service
+                    their war debts to the United States. In 1925, Dawes was a co-recipient of the
+                    Nobel Peace Prize in recognition of his plan’s contribution to the resolution of
+                    the crisis over reparations.</p>
+                <p>
+                    <hi rend="strong">The Young Plan</hi>
+                </p>
+                <p>In the autumn of 1928, another committee of experts was formed, this one to
+                    devise a final settlement of the German reparations problem. In 1929, the
+                    committee, under the chairmanship of Owen D. Young, the head of General Electric
+                    and a member of the Dawes committee, proposed a plan that reduced the total
+                    amount of reparations demanded of Germany to 121 billion gold marks, almost $29
+                    billion, payable over 58 years. Another loan would be floated in foreign
+                    markets, this one totaling $300 million. Foreign supervision of German finances
+                    would cease and the last of the occupying troops would leave German soil. The
+                    Young Plan also called for the establishment of a Bank for International
+                    Settlements, designed to facilitate the payment of reparations.</p>
+                <figure>
+                    <graphic url="young-committee.jpg" height="450px" width="349px"/>
+                    <head>Reparations Committee confers with Secretary of State Henry L. Stimson.
+                        Committee chairman Owen D. Young sits to Stimson’s left. (Harris &amp;
+                        Ewing; Prints and Photographs Division, Library of Congress)</head>
+                </figure>
+                <p>The advent of the Great Depression doomed the Young Plan from the start. Loans
+                    from U.S. banks had helped prop up the German economy until 1928; when these
+                    loans dried up, Germany’s economy floundered. In 1931, as the world sunk ever
+                    deeper into depression, a one-year moratorium on all debt and reparation
+                    payments was declared at the behest of President Herbert Hoover; an effort to
+                    renew the moratorium the following year failed. At the Lausanne Conference in
+                    1932, European nations agreed to cancel their reparation claims against Germany,
+                    save for a final payment. After the November 1932 election of Franklin D.
+                    Roosevelt, France and the United Kingdom resurrected the link between
+                    reparations and war debts, tying their Lausanne Conference pledge to cancel
+                    their claims against Germany to the cancellation of their debts to the United
+                    States. The United States would not accept the proposal. By mid-1933, all
+                    European debtor nations except Finland had defaulted on their loans from the
+                    United States.</p>
+                <p>Nevertheless, the Dawes and Young Plans were important U.S. efforts that had
+                    lasting consequences. Coming so soon after the U.S. rejection of the <ref target="/milestones/1914-1920/paris-peace">Treaty
+                    of Versailles</ref> and the <ref target="/milestones/1914-1920/league">League of Nations</ref>, the Dawes and Young Plans were
+                    significant instances of U.S. reengagement with European affairs. The Young Plan
+                    also had a more lasting effect: the Bank for International Settlements, or BIS,
+                    continues to operate to this day as a forum for central bank consultation and
+                    cooperation. The United States’ experience with inter-allied war debts continued
+                    to influence its foreign policy for years to come; this influence is evident in
+                    the Johnson Act in 1934, the <ref target="/milestones/1921-1936/neutrality-acts">Neutrality Acts</ref> of the 1930s, and the <ref target="/milestones/1937-1945/lend-lease">Lend-Lease</ref>
+                    program in the Second World War.</p>
+            </div>
+            <div type="section" xml:id="geneva">
+                <head>The Geneva Naval Conference, <date when="1927">1927</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>The Geneva Naval Conference of 1927 was a gathering of the United States, Great
+                    Britain and Japan, to discuss making joint limitations to their naval
+                    capacities. The conference was a failure because the parties did not reach an
+                    agreement and the naval arms race continued unabated after the conference.</p>
+                <figure>
+                    <graphic url="coolidge-calvin.jpg" height="293px" width="225px"/>
+                    <head>President Calvin Coolidge</head>
+                </figure>
+                <p>
+                    <hi rend="strong">Initial Arms Limits</hi>
+                </p>
+                <p>After World War I, many nations became concerned about the threat of another war
+                    and the possibility of an arms race. To address these issues in the naval arena,
+                    in 1922, Great Britain, the United States, Japan, France, and Italy signed the
+                    Five Powers Treaty at the <ref target="/milestones/1921-1936/naval-conference"
+                        >Washington Conference</ref>. In the treaty, the powers agreed to a
+                    5:5:3:1.75:1.75 ratio of naval tonnage and restrictions with regard to new
+                    building of both ships and bases. This meant that while the United States and
+                    Great Britain remained on par with each other in the size of their navies, Japan
+                    was held to a navy 60 percent as large. France and Italy were restricted to
+                    navies 35 percent the size of the British and American forces. In 1927, U.S.
+                    President <persName>Calvin Coolidge</persName> invited these powers to meet
+                    again to discuss extending the agreement to include other classes of vessels not
+                    included in the original treaty, such as cruisers, destroyers, and submarines.
+                    France and Italy declined the invitation to participate in the conference. The
+                    League of Nations was already engaged in preparing a more comprehensive
+                    disarmament conference (which took place in Geneva in 1932), and the two powers
+                    preferred to wait until that event to discuss air, land, and sea armaments all
+                    at once.</p>
+                <p>
+                    <hi rend="strong">Geneva Conference</hi>
+                </p>
+                <p>The other three powers met in Geneva and began negotiations on the extension of
+                    naval limitations. The United States proposed that the existing 5:5:3 ratios
+                    between the three powers be extended to include auxiliary vessels; that the
+                    maximum size of cruisers remain at less than 10,000 tons with 8-inch guns; and
+                    that the total tonnage of cruisers be limited to 400,000 for the United States
+                    and Great Britain (240,000 tons for Japan). The latter measure was designed to
+                    prevent the United States from having to embark on a massive building program to
+                    keep its fleet in line with the ratios established at the conference; as it was,
+                    to reach 400,000 tons it would have to build several new ships. Great Britain
+                    proposed dividing the classes of cruisers into “heavy” and “light,” so that
+                    heavy cruisers did not exceed 10,000 tons, but light cruisers did not exceed
+                    7,000. As the British had a far greater need for light cruisers, it proposed
+                    limiting production of heavy cruisers, while including more freedom for building
+                    those in the lighter class. They also proposed an overall cruiser limit of 70
+                    ships and 600,000 tons. This plan would have required the United States to build
+                    as many as thirty new heavy cruisers just to maintain parity between the two
+                    nations, thus sparking an arms race instead of disarmament. Japan proved to be
+                    the most flexible party with regard to the cruiser limitations, but preferred
+                    that a 10:10:7 ratio be applied to auxiliary craft, rather than the Washington
+                    Conference ratio of 5:5:3.</p>
+                <p>The differences between the parties emerged in several areas. First, there was a
+                    dispute about whether “parity” should be measured based on tonnage or number of
+                    vessels. The United States preferred tonnage, while the British preferred to
+                    count the fleet. To keep overall tonnage below the established limits, the
+                    British preferred to build light cruisers, but because light cruisers were
+                    essentially useless in battle against heavy cruisers, they wanted the United
+                    States and Japan to build the lighter variety as well. The United States had
+                    virtually no use for light cruisers and felt that as long as they stayed below
+                    the tonnage limit, they should be able to build as many heavy cruisers as they
+                    liked. It was a fundamental impasse. Second, Great Britain set forth what it
+                    called the “doctrine of requirements,” which asserted that the size of a
+                    nation’s naval fleet should be based on what it required to defend its
+                    territory; this idea was in opposition to the American preference that the size
+                    of the fleet required should be proportional to the size of the navies of other
+                    nations in the world. Accepting the “doctrine of requirements” would mean
+                    agreeing to the British demand for a large number of cruisers and then
+                    undertaking a massive American building program to achieve parity, so neither
+                    the United States nor Japan approved of it. Although the three countries made
+                    some progress in their discussions over other classes of auxiliary ships, the
+                    powers were agreed that there would only be a new treaty if the “cruiser
+                    controversy” was solved. As a result, the stalemate over the cruiser question
+                    ended the conference without a new treaty.</p>
+                <p>
+                    <hi rend="strong">Failure to Form a Treaty</hi>
+                </p>
+                <p>The failure of the conference can be attributed to the inability of the
+                        <placeName>United States</placeName> and <placeName>Great
+                        Britain</placeName> to come to terms on these issues; one side or both
+                    needed to make substantial compromises to solve the problem. Far from allowing
+                    the “friendship” of their shared heritage to bring cooperation, it seemed that
+                    few at the conference on either side had definitively ruled out the possibility
+                    of the two nations engaging on opposite sides of a future conflict, so each
+                    hoped to maintain as much of an edge as possible in naval capacity. In the wake
+                    of the failed talks at Geneva, the United States passed a bill to build fifteen
+                    new cruisers and an aircraft carrier, and thereby joined the naval arms race.
+                    This led <placeName>Japan</placeName> and <placeName>Britain</placeName> to
+                    consider their own building programs, making the result of the conference a
+                    potential new arms race, rather than limitation. The United States and Great
+                    Britain realized that without an agreement, the cruiser issue would block
+                    advancements at any future conferences, so they continued discussions in the
+                    years that followed. In 1929, the two sides agreed on a limit of 50 cruisers and
+                    339,000 tons, with a limit to the maximum number of heavy cruisers. Both sides
+                    compromised heavily to reach this deal, but the issue of how many heavy cruisers
+                    would be permitted was not yet settled. The countries addressed the issue once
+                    again at the <ref target="/milestones/1921-1936/london-naval-conf">London Naval
+                        Conference in 1930</ref>.</p>
+            </div>
+            <div type="section" xml:id="kellogg">
+                <head>The Kellogg-Briand Pact, <date when="1928">1928</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>The Kellogg-Briand Pact was an agreement to outlaw war signed on <date
+                        when="1928-09-27">August 27, 1928</date>. Sometimes called the Pact of Paris
+                    for the city in which it was signed, the pact was one of many international
+                    efforts to prevent another World War, but it had little effect in stopping the
+                    rising militarism of the 1930s or preventing World War II.</p>
+                <figure>
+                    <graphic url="kellogg-briand.jpg" height="201px" width="400px"/>
+                    <head>Photograph with representatives who signed the Kellogg-Briand Pact in the
+                        White House</head>
+                </figure>
+                <p>
+                    <hi rend="strong">U.S. Peace Advocates</hi>
+                </p>
+                <p>In the wake of World War I, U.S. officials and private citizens made significant
+                    efforts to guarantee that the nation would not be drawn into another war. Some
+                    focused on disarmament, such as the series of naval conferences that began in
+                    Washington in 1921, and some focused on cooperation with the League of Nations
+                    and the newly formed World Court. Others initiated a movement to try to outlaw
+                    war outright. Peace advocates <persName>Nicholas Murray Butler</persName> and
+                        <persName>James T. Shotwell</persName> were part of this movement. Both men
+                    were affiliated with the Carnegie Endowment for International Peace, an
+                    organization dedicated to promoting internationalism that was established in
+                    1910 by leading American industrialist <persName>Andrew Carnegie</persName>.</p>
+                <p>
+                    <hi rend="strong">French Involvement</hi>
+                </p>
+                <p>With the influence and assistance of Shotwell and Butler, French Minister of
+                    Foreign Affairs <persName>Aristide Briand</persName> proposed a peace pact as a
+                    bilateral agreement between the United States and France to outlaw war between
+                    them. Particularly hard hit by World War I, <placeName>France</placeName> faced
+                    continuing insecurity from its German neighbor and sought alliances to shore up
+                    its defenses. Briand published an open letter in April of 1927 containing the
+                    proposal. Though the suggestion had the enthusiastic support of some members of
+                    the American peace movement, U.S. President <persName>Calvin Coolidge</persName>
+                    and Secretary of State <persName>Frank B. Kellogg</persName> were less eager
+                    than Briand to enter into a bilateral arrangement. They worried that the
+                    agreement against war could be interpreted as a bilateral alliance and require
+                    the United States to intervene if France was ever threatened. To avoid this,
+                    they suggested that the two nations take the lead in inviting all nations to
+                    join them in outlawing war.</p>
+                <figure>
+                    <graphic url="kellogg.jpg" height="140px" width="120px"/>
+                    <head>Secretary of State Frank B. Kellogg</head>
+                </figure>
+                <p>The extension of the pact to include other nations was well-received
+                    internationally. After the severe losses of the First World War, the idea of
+                    declaring war to be illegal was immensely popular in international public
+                    opinion. Because the language of the pact established the important point that
+                    only wars of aggression – not military acts of self-defense – would be covered
+                    under the pact, many nations had no objections to signing it. If the pact served
+                    to limit conflicts, then everyone would benefit; if it did not, there were no
+                    legal consequences. In early 1928, negotiations over the agreement expanded to
+                    include all of the initial signatories. In the final version of the pact, they
+                    agreed upon two clauses: the first outlawed war as an instrument of national
+                    policy and the second called upon signatories to settle their disputes by
+                    peaceful means.</p>
+                <p>On August 27, 1928, fifteen nations signed the pact at Paris. Signatories
+                    included France, the United States, the United Kingdom, Ireland, Canada,
+                    Australia, New Zealand, South Africa, India, Belgium, Poland, Czechoslovakia,
+                    Germany, Italy and Japan. Later, an additional forty-seven nations followed
+                    suit, so the pact was eventually signed by most of the established nations in
+                    the world. The U.S. Senate ratified the agreement by a vote of 85–1, though it
+                    did so only after making reservations to note that U.S. participation did not
+                    limit its right to self-defense or require it to act against signatories
+                    breaking the agreement.</p>
+                <p>
+                    <hi rend="strong">Mukden Incident</hi>
+                </p>
+                <p>The first major test of the pact came just a few years later in 1931, when the
+                        <ref target="/milestones/1921-1936/mukden-incident">Mukden Incident</ref>
+                    led to the Japanese invasion of <placeName>Manchuria</placeName>. Though Japan
+                    had signed the pact, the combination of the worldwide depression and a limited
+                    desire to go to war to preserve China prevented the League of Nations or the
+                    United States from taking any action to enforce it. Further threats to the Peace
+                    Agreement also came from fellow signatories Germany, Austria and Italy. It soon
+                    became clear that there was no way to enforce the pact or sanction those who
+                    broke it; it also never fully defined what constituted “self-defense,” so there
+                    were many ways around its terms. In the end, the Kellogg-Briand Pact did little
+                    to prevent World War II or any of the conflicts that followed. Its legacy
+                    remains as a statement of the idealism expressed by advocates for peace in the
+                    interwar period. <persName>Frank Kellogg</persName> earned the Nobel Peace Prize
+                    in 1929 for his work on the Peace Pact.</p>
+            </div>
+            <div type="section" xml:id="red-line">
+                <head>The <date when="1928">1928</date> Red Line Agreement</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>The 1928 Group Agreement (better known as the “Red Line” Agreement) was a deal
+                    struck between several American, British, and French oil companies concerning
+                    the oil resources within territories that formerly comprised the Ottoman Empire
+                    within the Middle East. The origins of the Red Line Agreement can be traced back
+                    to the initial formation of the Turkish Petroleum Company (TPC) in <date
+                        when="1912">1912</date>.</p>
+                <p>The TPC was formed as a joint venture between Royal Dutch/Shell, the Deutsche
+                    Bank, and the Turkish National Bank, in order to promote oil exploration and
+                    production within the Ottoman Empire. In March 1914, however, the British
+                    Government, which controlled the Turkish National Bank, managed to have its
+                    shares within the TPC transferred to the Anglo-Persian Oil Company. The
+                    following June, the Ottoman Grand Vizier promised an oil concession to the
+                    reconstituted TPC to develop oil fields within the Ottoman provinces of Baghdad
+                    and Mosul.</p>
+                <p>
+                    <hi rend="strong">Seven Sisters</hi>
+                </p>
+                <p>During World War I, the Allies expropriated Deutsche Bank’s share in the TPC and
+                    transferred them to the French Government during the San Remo Conference of
+                    1920. At the time, Royal Dutch/Shell hoped that it could purchase the French
+                    Government’s shares so as to balance out Anglo-Persian’s 50% stake within the
+                    TPC. Prime Minister Raymond Poincaré of France, however, brushed aside any such
+                    suggestions, since he was determined to create an independent French oil company
+                    that could compete with major British and American oil companies, which became
+                    known collectively as the seven sisters. The seven sisters were the Standard Oil
+                    Company of New Jersey (later Exxon), the Standard Oil Company of New York
+                    (Socony, later Mobil, which eventually merged with Exxon), the Standard Oil
+                    Company of California (Socal, later renamed Chevron), the Texas Oil Company
+                    (later renamed Texaco), Gulf Oil (which later merged with Chevron),
+                    Anglo-Persian (later British Petroleum), and Royal Dutch/Shell.</p>
+                <p>The San Remo Oil Agreement excluded American oil companies from participation in
+                    the TPC. This fact provoked strong protests from both American oil companies,
+                    who feared that the Europeans would deny them access to foreign oil sources and
+                    dump cheap Middle Eastern oil on the world market, and the U.S. Department of
+                    State, which opposed any attempts by foreign governments and businesses to
+                    discriminate against American firms in their search for new markets and business
+                    opportunities. In order to discourage the Europeans from treating American oil
+                    companies unfairly, the U.S. Congress passed the Mineral Leasing Act in February
+                    of 1920, which denied drilling rights on publicly-owned land in the United
+                    States to any foreign company whose parent government discriminated against
+                    American businesses. Neither the British nor the U.S. Government, however,
+                    wished to jeopardize relations over the issue. In 1928, the TPC was reorganized
+                    to include the Near East Development Corporation, an American oil syndicate that
+                    included Jersey Standard, Socony, Gulf Oil, the Pan-American Petroleum and
+                    Transport Company, and Atlantic Refining (later Arco). Jersey Standard and
+                    Socony later assumed total control over the NEDC after they bought out their
+                    partners during the 1930s.</p>
+                <p>
+                    <hi rend="strong">Signing the Red Line Agreement</hi>
+                </p>
+                <p>On July 31, 1928, following the discovery of an immense oil field in Iraq and TPC
+                    negotiating regarding the division of crude oil output between the partners,
+                    representatives from the Anglo-Persian, Royal Dutch/Shell, the Compagnie
+                    Française des Pétroles (CFP, later Total), and the Near East Development
+                    Corporation signed the Red Line Agreement in Ostend, Belgium. Under the terms of
+                    the agreement, each of the four parties received a 23.75% share of all the crude
+                    oil produced by TPC, which was allowed to operate anywhere in the Middle East
+                    between the Suez Canal and Iran, with the exception of Kuwait. The remaining 5%
+                    share went to Calouste Gulbenkian, an Armenian businessman who was a partial
+                    stakeholder within the TPC. The most important feature of the Red Line
+                    Agreement, however, was its ‘self-denying’ clause. It stipulated that the
+                    participating companies would agree not to develop oilfields within the
+                    territory comprising the TPC unless they secured the support of the other
+                    members.</p>
+                <p>The deal became known as the Red Line agreement because, supposedly, during the
+                    negotiations between TPC members, none of the participants was exactly certain
+                    of the pre-war boundaries of the Ottoman Empire. Consequently, during one of the
+                    final meetings, Gulbenkian drew the boundaries from memory on a map of the
+                    Middle East with a red pencil. In fact, the question had been resolved well
+                    before, during negotiations between the British and French foreign ministries.
+                    Nevertheless, the name stuck.</p>
+                <p>The Red Line Agreement proved to be a difficult arrangement, since it could not
+                    keep non-member companies from seeking concessions within the area covered by
+                    the TPC (which was renamed the Iraqi Petroleum Company in 1929). In 1928, Socal
+                    secured a concession to search for oil in Bahrain and, in 1933, they managed to
+                    gain another concession from the Saudi Government that encompassed the province
+                    of al-Hasa. In 1936, the Texas Oil Company purchased a 50% share within the
+                    California Arabian Standard Oil Company (the Saudi subsidiary of Socal, which
+                    was renamed Aramco in 1944) in order to further develop Socal’s concession
+                    within Saudi Arabia.</p>
+                <p>In 1946, Socal and Texaco invited Jersey Standard and Socony to join them as
+                    partners in Aramco, but the latter two were barred from doing so under the terms
+                    of the Red Line Agreement unless they invited the other members of the TPC to
+                    join them. Consequently, Jersey Standard and Socony joined the U.S. Government
+                    in pressuring the other members of the IPC to abrogate the terms of the Red Line
+                    Agreement. Although the French Government and Gulbenkian protested, both had
+                    withdrawn their objections by November 1948, in exchange for a greater share of
+                    the output of the IPC, whose boundaries were now redrawn to exclude Saudi
+                    Arabia, Yemen, Bahrain, Egypt, Israel, and the western-half of Jordan.</p>
+            </div>
+            <div type="section" xml:id="great-depression">
+                <head>The Great Depression and U.S. Foreign Policy</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>The Great Depression of the 1930s was a global event that derived in part from
+                    events in the United States and U.S. financial policies. As it lingered through
+                    the decade, it influenced U.S. foreign policies in such a way that the United
+                    States Government became even more isolationist.</p>
+                <figure>
+                    <graphic url="depression-img.jpg" height="234px" width="180px"/>
+                    <head>Dorothea Lange’s Migrant Mother</head>
+                </figure>
+                <p>The origins of the Great Depression were complicated and have been much debated
+                    among scholars. The initial factor was the First World War, which upset
+                    international balances of power and caused a dramatic shock to the global
+                    financial system. The gold standard, which had long served as the basis for
+                    national currencies and their exchange rates, had to be temporarily suspended in
+                    order to recover from the costs of the Great War, but the United States,
+                    European nations, and Japan put forth great effort to reestablish it by the end
+                    of the decade. However, this introduced inflexibility into domestic and
+                    international financial markets, which meant that they were less able to deal
+                    with additional shocks when they came in the late 1920s and early 1930s. The
+                    U.S. stock market crash of 1929, an economic downturn in Germany, and financial
+                    difficulties in France and Great Britain all coincided to cause a global
+                    financial crisis. Dedication to the gold standard in each of these nations and
+                    Japan, which only managed to return to it in 1930, only made the problem worse
+                    and hastened the slide into what is now known as the Great Depression.</p>
+                <p>
+                    <hi rend="strong">The International Depression</hi>
+                </p>
+                <p>The key factor in turning national economic difficulties into worldwide
+                    Depression seems to have been a lack of international coordination as most
+                    governments and financial institutions turned inwards. Great Britain, which had
+                    long underwritten the global financial system and had led the return to the gold
+                    standard, was unable to play its former role and became the first to drop off
+                    the standard in 1931. The United States, preoccupied with its own economic
+                    difficulties, did not step in to replace Great Britain as the creditor of last
+                    resort and dropped off the gold standard in 1933. At the London Economic
+                    Conference in 1933, leaders of the world’s main economies met to resolve the
+                    economic crisis, but failed to reach any major collective agreements. As a
+                    result, the Depression dragged on through the rest of the 1930s.</p>
+                <p>
+                    <hi rend="strong">Isolationism</hi>
+                </p>
+                <p>The Depression caused the United States to retreat further into its <ref
+                        target="/milestones/1937-1945/american-isolationism">post-World War I
+                        isolationism</ref>. A series of international incidents occurred during the
+                    1930s—the Japanese seizure of northeast China in 1931, the Italian invasion of
+                    Ethiopia in 1935, and German expansionism in Central and Eastern Europe—but the
+                    United States did not take any major action in response or opposition. When
+                    these and other incidents occurred, the United States Government issued
+                    statements of disapproval but took limited action beyond that. On a more
+                    positive note, isolationism manifested in Latin America in the form of the Good
+                    Neighbor Policy of Presidents <persName>Herbert Hoover</persName> and
+                        <persName>Franklin Roosevelt</persName>, under which the United States
+                    reduced its military presence in the region and improved relations between
+                    itself and its neighbors to the south. Presidents Hoover and Roosevelt were to
+                    an extent constrained by public opinion, which demanded that primary attention
+                    be given to domestic problems. The Hoover and Roosevelt Administrations
+                    concentrated upon rebuilding the U.S. economy and dealing with widespread
+                    unemployment and social dislocation at home and as a result international
+                    affairs took a back seat.</p>
+                <figure>
+                    <graphic url="hoover-herbert.jpg" height="286px" width="225px"/>
+                    <head>President Herbert Hoover</head>
+                </figure>
+                <p>
+                    <hi rend="strong">Rise of Facism</hi>
+                </p>
+                <p>As the United States turned inwards to deal with the lingering effects of the
+                    Depression, militaristic regimes came to power in Germany, Italy, and Japan
+                    promising economic relief and national expansion. While they achieved some
+                    measure of success on the economic front, these regimes began to push their
+                    territorial ambitions and received minimal opposition from the rest of the
+                    world. The lack of a strong U.S. response to <ref
+                        target="/milestones/1937-1945/pearl-harbor">Japan’s invasion of China in
+                        1937</ref> and Germany’s annexation of Czechoslovakia in 1938 encouraged the
+                    Japanese and German governments to enlarge their military campaigns. At the
+                    time, most U.S. leaders believed their decision to avoid a more active role was
+                    justified because of the domestic context, but some began to realize that U.S.
+                    inaction allowed the conflict to grow. After the fall of France in June 1940,
+                    the United States increasingly committed itself to the fight against fascism.
+                    Ironically, it was World War II, which had arisen in part out of the Great
+                    Depression, that finally pulled the United States out of its decade-long
+                    economic crisis.</p>
+                <p>The Great Depression caused the United States Government to pull back from major
+                    international involvement during the 1930s, but in the long run it contributed
+                    to the emergence of the United States as a world leader thereafter. The
+                    perception that the turn inwards had in some part contributed to perpetuating
+                    the horrors of World War II caused U.S. foreign policy makers to play a major
+                    role in world affairs after the war in order to avert similar disasters.</p>
+            </div>
+            <div type="section" xml:id="protectionism">
+                <head>Protectionism in the Interwar Period</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>In the decade after the end of the First World War, the United States continued
+                    to embrace the high tariffs that had characterized its trade policy since the
+                    Civil War. These were enacted, in part, to appease domestic constituencies, but
+                    ultimately they served to hinder international economic cooperation and trade in
+                    the late 1920s and early 1930s.</p>
+                <figure>
+                    <graphic url="underwood.jpg" height="245px" width="180px"/>
+                    <head>Congressman Oscar W. Underwood</head>
+                </figure>
+                <p>
+                    <hi rend="strong">U.S. Tarrifs Through the 1920s</hi>
+                </p>
+                <p>High tariffs were a means not only of protecting infant industries, but of
+                    generating revenue for the federal government. They were also a mainstay of the
+                    Republican Party, which dominated the Washington political scene after the Civil
+                    War. After the Democrats, who supported freer trade, captured Congress and the
+                    White House in the elections of 1910 and 1912, the stage was set for a change in
+                    tariff policy. With the 1913 Underwood-Simmons Tariff, the United States broke
+                    with its tradition of protectionism, enacting legislation that lowered tariffs
+                    (and also instituted an income tax). The reversion of Congress to Republican
+                    control during the First World War and the 1920 election of Republican
+                        <persName>Warren Harding</persName> to the presidency signaled an end to the
+                    experiment with lower tariffs. To provide protection for American farmers, whose
+                    wartime markets in Europe were disappearing with the recovery of European
+                    agricultural production, as well as U.S. industries that had been stimulated by
+                    the war, Congress passed the temporary Emergency Tariff Act in 1921, followed a
+                    year later by the Fordney-McCumber Tariff Act of 1922. The Fordney-McCumber
+                    Tariff Act raised tariffs above the level set in 1913; it also authorized the
+                    president to raise or lower a given tariff rate by 50% in order to even out
+                    foreign and domestic production costs. One unintended consequence of the
+                    Fordney-McCumber tariff was that it made it more difficult for European nations
+                    to export to the United States and so earn dollars to service their war
+                    debts.</p>
+                <figure>
+                    <graphic url="fordney.jpg" height="301px" width="225px"/>
+                    <head>Congressman Joseph W. Fordney</head>
+                </figure>
+                <p>
+                    <hi rend="strong">The Smoot-Hawley Tariff Act</hi>
+                </p>
+                <p>Despite the Fordney-McCumber tariff, the plight of the American farmer continued.
+                    The wartime expansion of non-European agricultural production had led, with the
+                    recovery of European producers, to overproduction during the 1920s. This in turn
+                    had led to declining farm prices during the second half of the decade. During
+                    the 1928 election campaign, Republican presidential candidate Herbert Hoover
+                    pledged to help the beleaguered farmer by, among other things, raising tariff
+                    levels on agricultural products. But once the tariff schedule revision process
+                    got started, it proved impossible to stop. Calls for increased protection
+                    flooded in from industrial sector special interest groups and soon a bill meant
+                    to provide relief for farmers became a means to raise tariffs in all sectors of
+                    the economy. When the dust had settled, Congress had produced a piece of
+                    legislation, the Tariff Act of 1930, more commonly known as the Smoot-Hawley
+                    tariff, that entrenched the protectionism of the Fordney-McCumber tariff.</p>
+                <p>Scholars disagree over the extent of protection actually afforded by the
+                    Smoot-Hawley tariff; they also differ over the issue of whether the tariff
+                    provoked a wave of foreign retaliation that plunged the world deeper into the
+                    Great Depression. What is certain, however, is that Smoot-Hawley did nothing to
+                    foster cooperation among nations in either the economic or political realm
+                    during a perilous era in international relations. It quickly became a symbol of
+                    the “beggar-thy-neighbor” policies of the 1930s. Such policies, which were
+                    adopted by many countries during this time, contributed to a drastic contraction
+                    of international trade. For example, U.S. imports from Europe declined from a
+                    1929 high of $1,334 million to just $390 million in 1932, while U.S. exports to
+                    Europe fell from $2,341 million in 1929 to $784 million in 1932. Overall, world
+                    trade declined by some 66% between 1929 and 1934.</p>
+                <p>Smoot-Hawley marked the end of the line for high tariffs in 20th century American
+                    trade policy. Thereafter, beginning with the 1934 Reciprocal Trade Agreements
+                    Act, the United States generally sought trade liberalization through bilateral
+                    or multilateral tariff reductions. To this day, the phrase “Smoot-Hawley”
+                    remains a watchword for the perils of protectionism.</p>
+            </div>
+            <div type="section" xml:id="london-naval-conf">
+                <head>The London Naval Conference, <date when="1930">1930</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>The London Naval Conference of 1930 was the third in a series of five meetings,
+                    formed with the purpose of placing limits on the naval capacity of the world’s
+                    largest naval powers. The purpose of the meetings was to promote disarmament in
+                    the wake of the devastation of the First World War; they began with the
+                    Washington Conference of 1921–22 and concluded with the London Conference of
+                    1935. After an unsuccessful meeting in Geneva in 1927, Great Britain, the United
+                    States, Japan, France, and Italy gathered in London in 1930 to make a new
+                    attempt at revising and extending the terms of the Five Power Treaty of
+                    1922.</p>
+                <p>In 1927, Great Britain and the United States could not agree on naval cruiser
+                    limits; however, representatives of the two governments continued to work on a
+                    compromise measure. By 1930 both sides were anxious to reach a deal to avoid an
+                    all out arms race and, importantly, forced their naval officers to take a back
+                    seat to their diplomats in the negotiations.</p>
+                <p>
+                    <hi rend="strong">Tonnage Restrictions</hi>
+                </p>
+                <p>The restrictions on tonnage on Great Britain, the United States, and Japan
+                    relative to one another were an important issue for discussion. The Washington
+                    conference established a ratio of 5:5:3 for capital ships—for every five capital
+                    ships the Americans and British had, the Japanese were allowed to have three. As
+                    in 1927, Japan insisted that the ratio for auxiliary vessels be increased to
+                    10:10:7, rather than maintaining the 5:5:3 ratio. If the United States was to
+                    have 18 heavy cruisers, the latter ratio placed the Japanese limit at 10
+                    cruisers; however, at the time of the conference, Japan had built or was
+                    building 12 new ships. The United States was the power most opposed to granting
+                    the higher ratio, although it ultimately conceded the point; the official terms
+                    of the treaty granted the 10:7 ratio on light cruisers and destroyers and
+                    maintained the 10:6 ratio on heavy cruisers, but with a compromise under which
+                    the United States delayed its shipbuilding program to give Japan a grace period
+                    with a 10:7 ratio in heavy cruisers as well.</p>
+                <p>The other key issue of the 1930 conference was the maximum tonnage for light
+                    cruisers. The United States was adamantly opposed to any maximum lower than
+                    10,000 tons, because given the nature of its international commitments—in
+                    particular, its involvement in the Philippines and East Asia and the limited
+                    number of refueling stations available in the Pacific—lighter cruisers would not
+                    be of much use. Although it compromised on the Japanese ratio and the heavy
+                    cruisers, the United States refused to yield on this issue, in spite of the fact
+                    that the other powers were far more willing to accept the British maximum of
+                    7,000 tons. In the end, the U.S. position prevailed.</p>
+                <p>The final treaty limited tonnage of auxiliary ships, as well as the size and gun
+                    power of submarines and destroyers. In all but “offensive” ship categories, it
+                    granted the Japanese their long-sought 10:10:7 ratio. The treaty also set
+                    maximum tonnage for cruisers at 339,000 tons for Great Britain, 323,500 tons for
+                    the United States, and 208,850 tons for Japan. The maximum numbers of heavy
+                    cruisers were set at 18 for America, 15 for Great Britain, and 12 for Japan. The
+                    Treaty upheld and extended the provision in the 1922 treaty that prohibited the
+                    powers from building new capital ships for 5 years. The provisions in both the
+                    Five-Power Treaty of 1922 and the 1930 treaty were set to expire in 1936.</p>
+                <p>
+                    <hi rend="strong">U.S. Shipbuilding After the Conference</hi>
+                </p>
+                <p>Although it was described as an “arms limitation conference,” in actuality, the
+                    London Naval Treaty set limits above the current capacity of some of the powers
+                    involved. The U.S. Senate approved the treaty in July of 1930 over the
+                    objections of key naval officers concerned that the naval limitations would
+                    inhibit the American ability to defend its control of the Philippine islands.
+                    Then the United States actually embarked on a shipbuilding program to make up
+                    the difference between its existing cruiser tonnage and what it was allotted
+                    under the treaty. That building ultimately helped to alleviate some unemployment
+                    caused by the Great Depression.</p>
+                <p>In 1935, the powers met for a second London Naval Conference to renegotiate the
+                    Washington and London treaties before their expiration the following year. The
+                    Japanese walked out of that conference, but Great Britain, France, and the
+                    United States signed an agreement declaring a six-year holiday on building large
+                    light cruisers in the 8,000 to 10,000 ton range. That final decision marked the
+                    end to the decade-long controversy over cruisers.</p>
+            </div>
+            <div type="section" xml:id="mukden-incident">
+                <head>The Mukden Incident of <date when="1931">1931</date> and the Stimson
+                    Doctrine</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>In 1931, a dispute near the Chinese city of Mukden (Shenyang) precipitated events
+                    that led to the Japanese conquest of Manchuria. In response, U.S. Secretary of
+                    State <persName>Henry Stimson</persName> issued what would become known as the
+                    Stimson Doctrine, stating that the United States would not recognize any
+                    agreements between the Japanese and Chinese that limited free commercial
+                    intercourse in the region.</p>
+                <figure>
+                    <graphic url="stimson-henry.jpg" height="319px" width="225px"/>
+                    <head>Secretary of State Henry Stimson</head>
+                </figure>
+                <p>In the 1920s and 1930s, the United States had a number of interests in the Far
+                    East. The United States engaged in trade and investment in China. American
+                    missionaries representing many denominations worked within the region. The
+                    United States also claimed Pacific territories, including the Philippines, Guam,
+                    and Hawaii. The United States defended its interests in the region through a
+                    three-pronged Far Eastern policy: it included the principle of the Open Door for
+                    guaranteeing equal access to commercial opportunities in China, a belief in the
+                    importance of maintaining the territorial integrity of China, and a commitment
+                    to cooperation with other powers with interests in the region.</p>
+                <p>
+                    <hi rend="strong">Japanese Invasion of China</hi>
+                </p>
+                <p>In the 1930s, events transpired that challenged all of these policies. On
+                    September 18, 1931, an explosion destroyed a section of railway track near the
+                    city of Mukden. The Japanese, who owned the railway, blamed Chinese nationalists
+                    for the incident and used the opportunity to retaliate and invade Manchuria.
+                    However, others speculated that the bomb may have been planted by mid-level
+                    officers in the Japanese army to provide a pretext for the subsequent military
+                    action. Within a few short months, the Japanese army had overrun the region,
+                    having encountered next to no resistance from an untrained Chinese army, and it
+                    went about consolidating its control on the resource-rich area. The Japanese
+                    declared the area to be the new autonomous state of Manchukuo, though the new
+                    nation was in fact under the control of the local Japanese army.</p>
+                <figure>
+                    <graphic url="mukden.jpg" height="200px" width="250px"/>
+                    <head>Japanese Soldiers during the Mukden Incident</head>
+                </figure>
+                <p>The United States and other western powers were at a loss on how to respond to
+                    the rapidly developing crisis. Even as the Japanese moved far from the original
+                    site of the “attack” at Mukden to bomb the city of Jinzhou (Chinchow), there was
+                    little sense that U.S. interests in the area were anywhere near profound enough
+                    to make military intervention necessary or desirable. Given the 1930s worldwide
+                    depression, there was little support for economic sanctions to punish the
+                    Japanese. Instead, the United States sat in on League of Nations council
+                    meetings for the first time to try to convince the League to enforce the <ref
+                        target="/milestones/1921-1936/kellogg">Kellogg-Briand Pact</ref>, which both
+                    Japan and China had signed. Appeals based on the pact, however, proved
+                    ineffective.</p>
+                <p>
+                    <hi rend="strong">The Stimson Doctrine</hi>
+                </p>
+                <p>Therefore Secretary Stimson issued the Stimson Doctrine in early 1932. This
+                    Doctrine stated that the United States would not recognize any treaty or
+                    agreement between Japan and China that violated U.S. rights or agreements to
+                    which the United States subscribed.</p>
+                <p>This doctrine of non-recognition proved incredibly ineffectual in the face of
+                    on-going Japanese aggression and expansion. Japan had been expanding its
+                    influence in Manchuria for years, and now it formally controlled the territory.
+                    Moreover, after its successful conquest of Manchuria, the Japanese attacked the
+                    city of Shanghai in 1932. As Shanghai was home to the largest international
+                    settlements in China, the sudden invasion threatened foreign concessions as
+                    well. Stimson responded to this development by declaring that as a result of
+                    Japanese violation of the <ref target="/milestones/1921-1936/naval-conference"
+                        >Nine Power Treaty</ref>, the United States would no longer consider itself
+                    bound by the naval limitations agreements. This meant a potential new naval arms
+                    race in the Pacific that would inevitably draw in the Japanese, but it did not
+                    change the situation in Manchuria.</p>
+                <p>
+                    <hi rend="strong">Lytton Report</hi>
+                </p>
+                <p>While the United States sought its own solution, it also sent an unofficial
+                    delegate along with the League of Nations group investigating the incident. The
+                    resulting report, written by the Lytton Commission, divided blame for the
+                    conflict in Manchuria equally between Chinese nationalism and Japanese
+                    militarism. Still, the report stated that it would not recognize the new state
+                    of Manchukuo on the grounds that its establishment violated the territorial
+                    integrity of China, and therefore the Nine-Power Treaty to which many of the
+                    prominent league members subscribed. When the Lytton Report was ratified by the
+                    League in 1933, the Japanese delegation walked out and never returned to the
+                    League Council. The Chinese and Japanese signed a truce, but that agreement left
+                    the Japanese firmly in control of Manchuria.</p>
+                <p>The Manchurian Crisis of 1931–33 demonstrated the futility of the 1920s-era
+                    agreements on peace, nonaggression and disarmament in the face of a power
+                    determined to march forward. Responses like the Stimson Doctrine of
+                    non-recognition similarly had little effect. In the years following the crisis,
+                    changing alliances, economic necessities and altered policies would result in an
+                    all-out Sino-Japanese War.</p>
+            </div>
+            <div type="section" xml:id="good-neighbor">
+                <head>Good Neighbor Policy, <date when="1933">1933</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>President <persName>Franklin Delano Roosevelt</persName> took office determined
+                    to improve relations with the nations of Central and South America. Under his
+                    leadership the United States emphasized cooperation and trade rather than
+                    military force to maintain stability in the hemisphere. In his inaugural address
+                    on March 4, 1933, Roosevelt stated: “In the field of world policy I would
+                    dedicate this nation to the policy of the good neighbor—the neighbor who
+                    resolutely respects himself and, because he does so, respects the rights of
+                    others.”</p>
+                <figure>
+                    <graphic url="fdr.jpg" height="265px" width="225px"/>
+                    <head>President Franklin D. Roosevelt</head>
+                </figure>
+                <p>Roosevelt’s Secretary of State, <ref
+                        target="/departmenthistory/people/hull-cordell">Cordell Hull</ref>,
+                    participated in the Montevideo Conference of December 1933, where he backed a
+                    declaration favored by most nations of the Western Hemisphere: “No state has the
+                    right to intervene in the internal or external affairs of another”. In December
+                    Roosevelt stated, “The definite policy of the United States from now on is one
+                    opposed to armed intervention.” In 1934 at Roosevelt’s direction the 1903 treaty
+                    with Cuba (based on the <ref target="/milestones/1899-1913/platt">Platt
+                        Amendment</ref>) that gave the United States the right to intervene to
+                    preserve internal stability or independence was abrogated. Although domestic
+                    economic problems and World War II diverted attention from the Western
+                    Hemisphere, Roosevelt’s Good Neighbor policy represented an attempt to distance
+                    the United States from earlier interventionist policies, such as the <ref
+                        target="/milestones/1899-1913/roosevelt-and-monroe-doctrine">Roosevelt
+                        Corollary</ref> and military interventions in the region during the 1910s
+                    and 1920s. </p>
+            </div>
+            <div type="section" xml:id="ussr">
+                <head>Recognition of the Soviet Union, <date when="1933">1933</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>On November 16, 1933, President <persName>Franklin Roosevelt</persName> ended
+                    almost 16 years of American non-recognition of the Soviet Union following a
+                    series of negotiations in Washington, D.C. with the Soviet Commissar for Foreign
+                    Affairs, <persName>Maxim Litvinov</persName>.</p>
+                <figure>
+                    <graphic url="litvinov.jpg" height="229px" width="140px"/>
+                    <head>Maxim Litvinov</head>
+                </figure>
+                <p>On December 6, 1917, the U.S. Government broke off diplomatic relations with
+                    Russia, shortly after the Bolshevik Party seized power from the Tsarist regime
+                    after the “October Revolution.” President Woodrow Wilson decided to withhold
+                    recognition at that time because the new Bolshevik government had refused to
+                    honor prior debts to the United States incurred by the Tsarist government,
+                    ignored pre-existing treaty agreements with other nations, and seized American
+                    property in Russia following the October Revolution. The Bolsheviks had also
+                    concluded a separate peace with Germany at Brest-Litovsk in March 1918, ending
+                    Russian involvement in World War I. Despite extensive commercial links between
+                    the United States and the Soviet Union throughout the 1920s, Wilson’s successors
+                    upheld his policy of not recognizing the Soviet Union.</p>
+                <p>
+                    <hi rend="strong">Roosevelt Pushes for Recognition</hi>
+                </p>
+                <p>Almost immediately upon taking office, however, President Roosevelt moved to
+                    establish formal diplomatic relations between the United States and the Soviet
+                    Union. His reasons for doing so were complex, but the decision was based on
+                    several primary factors. Roosevelt hoped that recognition of the Soviet Union
+                    would serve U.S. strategic interests by limiting Japanese expansionism in Asia,
+                    and he believed that full diplomatic recognition would serve American commercial
+                    interests in the Soviet Union, a matter of some concern to an Administration
+                    grappling with the effects of the Great Depression. Finally, the United States
+                    was the only major power that continued to withhold official diplomatic
+                    recognition from the Soviet Union.</p>
+                <p>President Roosevelt decided to approach the Soviets in October 1933 through two
+                    personal intermediaries: <ref
+                        target="/departmenthistory/people/morgenthau-henry">Henry Morgenthau</ref>
+                    (then head of the Farm Credit Administration and Acting Secretary of the
+                    Treasury) and <ref target="/departmenthistory/people/bullitt-william-christian"
+                        >William C. Bullitt</ref> (a former diplomat who, as a Special Assistant to
+                    the Secretary of State, was informally serving as one of Roosevelt’s chief
+                    foreign policy advisers). The two approached Boris Shvirsky, the Soviet Union’s
+                    unofficial representative in Washington, with an unsigned letter from Roosevelt
+                    to the Soviet Union’s official head of state, Chairman of the Central Executive
+                    Committee, Mikhail Kalinin. The letter intimated that the U.S. Government would
+                    be willing to negotiate the terms for recognizing the Soviet Union, and
+                    requested that Kalinin dispatch an emissary to Washington. In response,
+                    Commissar for Foreign Affairs Litvinov journeyed to Washington in November 1933
+                    in order to begin talks.</p>
+                <figure>
+                    <graphic url="henry-morg.jpg" height="250px" width="225px"/>
+                    <head>Henry Morgenthau</head>
+                </figure>
+                <p>
+                    <hi rend="strong">Roosevelt-Livitnov Conversations</hi>
+                </p>
+                <p>Initially, the talks made little headway due to several outstanding issues: the
+                    unpaid debt owed by the Soviet Union to the United States, the restriction of
+                    religious freedoms and legal rights of U.S. citizens living in the Soviet Union,
+                    and Soviet involvement in Communist subversion and propaganda within the United
+                    States. Following a series of one-on-one negotiations known as the
+                    “Roosevelt-Litvinov Conversations,” however, Litvinov and the President worked
+                    out a “gentleman’s agreement” on <date when="1933-11-15">November 15,
+                        1933</date>, that overcame the major obstacles blocking recognition.</p>
+                <p>According to the terms of the Roosevelt-Litvinov agreements, the Soviets pledged
+                    to participate in future talks to settle their outstanding financial debt to the
+                    United States. Four days earlier, after another private meeting with Litvinov,
+                    Roosevelt also managed to secure guarantees that the Soviet Government would
+                    refrain from interfering in American domestic affairs (i.e. aiding the American
+                    Communist Party), and would grant certain religious and legal rights for U.S.
+                    citizens living in the Soviet Union. Following the conclusion of these
+                    agreements, President Roosevelt appointed <persName>William C.
+                        Bullitt</persName> as the first U.S. Ambassador to the Soviet Union.</p>
+                <p>
+                    <hi rend="strong">Violence in the USSR</hi>
+                </p>
+                <p>Unfortunately, the cooperative spirit embodied in the Roosevelt-Litvinov
+                    agreements proved to be short-lived. Shortly after his arrival in Moscow in
+                    December 1933, Bullitt became disillusioned with the Soviets as an agreement on
+                    the issue of debt repayment failed to materialize. Moreover, evidence emerged
+                    that the Soviet Government had violated its pledge not to interfere in American
+                    domestic affairs. Finally, the killing of the Leningrad Communist Party boss,
+                    Sergey Kirov, launched the first of the “Great Purges” that led to the death or
+                    imprisonment of millions of Soviet citizens as the Stalinist regime liquidated
+                    any potential critics of the government. The wide scope and public nature of the
+                    purges horrified both American diplomatic personnel stationed in the Soviet
+                    Union, and the world at large.</p>
+                <p>
+                    <hi rend="strong">Molotov-Ribbentrop Pact</hi>
+                </p>
+                <p>In the hope of improving relations, President Roosevelt dispatched businessman
+                        <ref target="/departmenthistory/people/davies-joseph-edward">Joseph E.
+                        Davies</ref> to Moscow as Bullitt’s replacement in 1936. While Davies
+                    managed to reestablish amicable relations with the Soviet leadership, his
+                    dismissive attitude concerning the purges alienated other American diplomats.
+                    Moreover, Davies faced unprecedented new challenges as a result of the worsening
+                    political situation in Europe. U.S.-Soviet relations reached their nadir in
+                    August 1939, when the Soviets signed the Molotov-Ribbentrop Pact with Nazi
+                    Germany after the British and French rejected Soviet offers to establish a
+                    military alliance against Germany. Not until the German invasion of Soviet Union
+                    began in June 1941 would the United States and the Soviet Union once again find
+                    a way to make common cause on any meaningful issue. </p>
+            </div>
+            <div type="section" xml:id="export-import-bank">
+                <head>New Deal Trade Policy: The Export-Import Bank &amp; the Reciprocal Trade
+                    Agreements Act, <date when="1934">1934</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>When President <persName>Franklin Delano Roosevelt</persName> took office in
+                        <date when="1933-04">March 1933</date>, he immediately focused his attention
+                    on the domestic economic situation created by the Great Depression. Believing
+                    that recovery would come from measures taken at home rather than abroad, he
+                    secured Congressional passage of a series of far-reaching domestic economic
+                    reforms that would come to be known as the first New Deal. His doubts about the
+                    ability of foreign economic policy to contribute to domestic recovery were
+                    reflected in his approach to the London Economic Conference. In <date
+                        when="1933-06">June 1933</date>, representatives from 66 countries gathered
+                    in London to try to find a way out of the Depression through cooperation in
+                    areas such as the reduction of trade barriers and the stabilization of exchange
+                    rates. Countries that remained on the gold standard, such as
+                        <placeName>France</placeName>, sought to convince countries that had left
+                    the gold standard, particularly the <placeName>United Kingdom</placeName> (in
+                        <date when="1931-09">September 1931</date>) and the United States (in April
+                    1933), to agree to stabilize the par values of their currencies. The chances for
+                    success were already slim when, on July 3, Roosevelt rejected such an agreement
+                    as “a purely artificial and temporary experiment,” asserting that a “sound
+                    internal economic situation” was more important to a country’s prosperity than
+                    the external value of its currency. The conference ended less than a month later
+                    with little to show for its efforts.</p>
+                <p>
+                    <hi rend="strong">Creation of Export-Import Bank</hi>
+                </p>
+                <p>In 1934, the Roosevelt Administration undertook two initiatives that signaled a
+                    desire to reengage economically with the rest of the world. The first was the
+                    creation of the Export-Import Bank. In <date when="1934-02">February
+                    1934</date>, Roosevelt established the bank as an institution designed to
+                    finance U.S. trade with the newly-recognized Soviet Union. He created a second
+                    Export-Import Bank the following month, this one intended to finance trade with
+                    Cuba; in July 1934, the second bank’s field of operations was expanded to
+                    include all countries save the Soviet Union. In 1935, the two banks were
+                    combined and Congress passed legislation granting the newly unified bank more
+                    powers and more capital. In the years before the start of the Second World War,
+                    while it did extend credits to countries outside the Western Hemisphere such as
+                    Italy and China, the Export-Import Bank concentrated its efforts in Latin
+                    America, where it proved an important component of the Good Neighbor policy.</p>
+                <p>The second major foreign economic policy initiative of 1934 was the
+                        <orgName>Reciprocal Trade Agreements Act (RTAA)</orgName>. In March 1934,
+                    proclaiming “that a full and permanent domestic recovery depends in part upon a
+                    revived and strengthened international trade,” Roosevelt asked Congress for
+                    authority to negotiate trade agreements based upon reciprocal tariff reductions
+                    with other countries. Signed into law on <date when="1934-06-12">June 12,
+                        1934</date>, the RTAA represented a fundamental shift in U.S. trade policy.
+                    The Constitution gives Congress the right to regulate foreign commerce and
+                    establish tariff rates. Under the RTAA, Congress granted the president the right
+                    – on a temporary basis, subject to renewal after three years – to decrease or
+                    increase U.S. tariffs by up to 50% of the levels set by the 1930 Smoot-Hawley
+                    tariff in exchange for tariff concessions by other countries. Such tariff
+                    reductions would be brought into force through executive agreements, rather than
+                    treaties requiring Senate approval. U.S. tariff cuts negotiated under the RTAA
+                    would also be extended to all third countries to which the United States had
+                    accorded most favored nation status.</p>
+                <p>
+                    <hi rend="strong">Reciprocal Trade Agreement Act</hi>
+                </p>
+                <p>Between 1934 and 1939, the <persName>Roosevelt</persName> Administration
+                    concluded trade agreements with 19 countries under the Reciprocal Trade
+                    Agreements Act: Belgium, Brazil, Canada, Colombia, Costa Rica, Cuba,
+                    Czechoslovakia, Ecuador, El Salvador, Finland, France, Guatemala, Haiti,
+                    Honduras, the Netherlands, Nicaragua, Sweden, Switzerland, and the United
+                    Kingdom. After 1945, the tariff negotiating procedure established under the RTAA
+                    program provided the model for that of the General Agreement on Tariffs and
+                    Trade (GATT), the agreement signed by 23 countries in 1947 that has provided the
+                    framework for multilateral trade liberalization in the post-WWII era.</p>
+            </div>
+            <div type="section" xml:id="neutrality-acts">
+                <head>The Neutrality Acts, <date when="1930">1930s</date>
+                </head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>In the 1930s, the United States Government enacted a series of laws designed to
+                    prevent the United States from being embroiled in a foreign war by clearly
+                    stating the terms of U.S. neutrality. Although many Americans had rallied to
+                    join President <persName>Woodrow Wilson</persName>’s crusade to make the world
+                    “safe for democracy” in 1917, by the 1930s critics argued that U.S. involvement
+                    in the First World War had been driven by bankers and munitions traders with
+                    business interests in Europe. These findings fueled a growing <ref
+                        target="/milestones/1937-1945/american-isolationism">“isolationist”</ref>
+                    movement that argued the United States should steer clear of future wars and
+                    remain neutral by avoiding financial deals with countries at war.</p>
+                <figure>
+                    <graphic url="wilson-woodrow.jpg" height="274px" width="225px"/>
+                    <head>President Woodrow Wilson</head>
+                </figure>
+                <p>
+                    <hi rend="strong">First Neutrality Act</hi>
+                </p>
+                <p>By the mid-1930s, events in Europe and Asia indicated that a new world war might
+                    soon erupt and the U.S. Congress took action to enforce U.S. neutrality. On
+                    August 31, 1935, Congress passed the first Neutrality Act prohibiting the export
+                    of “arms, ammunition, and implements of war” from the United States to foreign
+                    nations at war and requiring arms manufacturers in the United States to apply
+                    for an export license. American citizens traveling in war zones were also
+                    advised that they did so at their own risk. President <persName>Franklin D.
+                        Roosevelt</persName> originally opposed the legislation, but relented in the
+                    face of strong Congressional and public opinion. On February 29, 1936, Congress
+                    renewed the Act until May of 1937 and prohibited Americans from extending any
+                    loans to belligerent nations.</p>
+                <figure>
+                    <graphic url="fdr.jpg" height="265px" width="225px"/>
+                    <head>President Franklin D. Roosevelt</head>
+                </figure>
+                <p>
+                    <hi rend="strong">Neutrality Act of 1937</hi>
+                </p>
+                <p>The outbreak of the Spanish Civil War in 1936 and the rising tide of fascism in
+                    Europe increased support for extending and expanding the Neutrality Act of 1937.
+                    Under this law, U.S.citizens were forbidden from traveling on belligerent ships,
+                    and American merchant ships were prevented from transporting arms to
+                    belligerents even if those arms were produced outside of the United States. The
+                    Act gave the President the authority to bar all belligerent ships from U.S.
+                    waters, and to extend the export embargo to any additional “articles or
+                    materials.” Finally, civil wars would also fall under the terms of the Act.</p>
+                <figure>
+                    <graphic url="spanishcivilwar.jpg" height="211px" width="300px"/>
+                    <head>Photograph from the Spanish Civil War</head>
+                </figure>
+                <p>The Neutrality Act of 1937 did contain one important concession to Roosevelt:
+                    belligerent nations were allowed, at the discretion of the President, to acquire
+                    any items except arms from the United States, so long as they immediately paid
+                    for such items and carried them on non-American ships—the so-called
+                    “cash-and-carry” provision. Since vital raw materials such as oil were not
+                    considered “implements of war,” the “cash-and-carry” clause would be quite
+                    valuable to whatever nation could make use of it. Roosevelt had engineered its
+                    inclusion as a deliberate way to assist Great Britain and France in any war
+                    against the Axis Powers, since he realized that they were the only countries
+                    that had both the hard currency and ships to make use of “cash-and-carry.”
+                    Unlike the rest of the Act, which was permanent, this provision was set to
+                    expire after two years.</p>
+                <p>
+                    <hi rend="strong">Neutrality Act of 1939</hi>
+                </p>
+                <p>Following Germany’s occupation of Czechoslovakia in March of 1939, Roosevelt
+                    suffered a humiliating defeat when Congress rebuffed his attempt to renew
+                    “cash-and-carry” and expand it to include arms sales. President Roosevelt
+                    persisted and as war spread in Europe, his chances of expanding “cash-and-carry”
+                    increased. After a fierce debate in Congress, in November of 1939, a final
+                    Neutrality Act passed. This Act lifted the arms embargo and put all trade with
+                    belligerent nations under the terms of “cash-and-carry.” The ban on loans
+                    remained in effect, and American ships were barred from transporting goods to
+                    belligerent ports.</p>
+                <p>In October of 1941, after the United States had committed itself to aiding the
+                    Allies through <ref target="/milestones/1937-1945/lend-lease">Lend-Lease</ref>,
+                    Roosevelt gradually sought to repeal certain portions of the Act. On October 17,
+                    1941, the House of Representatives revoked section VI, which forbade the arming
+                    of U.S. merchant ships, by a wide margin. Following a series of deadly U-boat
+                    attacks against U.S. Navy and merchant ships, the Senate passed another bill in
+                    November that also repealed legislation banning American ships from entering
+                    belligerent ports or “combat zones.”</p>
+                <p>Overall, the Neutrality Acts represented a compromise whereby the United States
+                    Government accommodated the isolationist sentiment of the American public, but
+                    still retained some ability to interact with the world. In the end, the terms of
+                    the Neutrality Acts became irrelevant once the United States joined the Allies
+                    in the fight against Nazi Germany and Japan in December 1941.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1784–1800</title>
+                <title type="short">1784–1800</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1784" to="1800">1784–1800</date>: The Diplomacy of the Early
+                    Republic</head>
+                <p>Following the end of the American Revolution, the <placeName>United
+                        States</placeName> struggled to define its foreign policy, to determine how
+                    to implement it, and to maintain necessary commercial ties with Europe without
+                    becoming embroiled in European conflicts and politics. Differences over foreign
+                    policy became a basis for the founding of political parties in the new nation as
+                    the debate pitted the Federalists, led by the Secretary of the Treasury
+                        <persName>Alexander Hamilton</persName>, against the Jeffersonians,
+                    represented by Secretary of State <persName>Thomas Jefferson</persName>. </p>
+                <figure>
+                    <graphic url="alexanderhamilton.jpg" height="280px" width="225px"/>
+                    <head>Alexander Hamilton</head>
+                </figure>
+                <p>The Federalists supported the development of a strong international commerce and,
+                    with it, the creation of a navy capable of protecting U.S. merchant vessels. The
+                    Jeffersonians favored expansion across the vast continent that the new republic
+                    occupied. </p>
+                <p>The Federalists and Jeffersonians also disagreed over U.S. policy toward
+                    political events in Europe. After the outbreak of the French Revolution in 1789,
+                    the Federalists distrusted France and encouraged closer commercial ties to
+                    England, while the Jeffersonians preferred to support the new French
+                    Republic.</p>
+                <p>Conflict in Europe between France, Britain, and Spain in the late 1790s, resulted
+                    in President <persName>George Washington</persName> declaring American
+                    neutrality. The Jay Treaty with Britain (1794) and the Pinckney Treaty with
+                    Spain (1795) aimed at preserving this neutrality. In his Farewell Address,
+                    Washington promoted a vision of American diplomacy that involved no “entangling
+                    alliances” with European powers. </p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="loans">
+                <head>U.S. Debt and Foreign Loans, <date from="1775" to="1795">1775–1795</date>
+                </head>
+                <p>During the American Revolution, a cash-strapped Continental Congress accepted
+                    loans from France. Paying off these and other debts incurred during the
+                    Revolution proved one of the major challenges of the post-independence period.
+                    The new U.S. Government attempted to pay off these debts in a timely manner, but
+                    the debts were at times a source of diplomatic tension.</p>
+                <figure>
+                    <graphic url="contcongress.jpg" height="252px" width="350px"/>
+                    <head>The Continental Congress</head>
+                </figure>
+                <p>In order to pay for its significant expenditures during the Revolution, Congress
+                    had two options: print more money or obtain loans to meet the budget deficit. In
+                    practice it did both, but relied more on the printing of money, which led to
+                    hyperinflation. At that time, Congress lacked the authority to levy taxes, and
+                    to do so would have risked alienating an American public that had gone to war
+                    with the British over the issue of unjust taxation.</p>
+                <p>The French Government began to secretly ship war materiel to the American
+                    revolutionaries in late 1775. This was accomplished by establishing dummy
+                    corporations to receive French funds and military supplies. It was unclear
+                    whether this aid was a loan or a gift, and disputes over the status of this
+                    early assistance caused strong disagreement between American diplomats in
+                    Europe. <persName>Arthur Lee</persName>, one of the American commissioners in
+                    France, accused another, <persName>Silas Deane</persName>, of financial
+                    misdealings, while the third member of the commission, <persName>Benjamin
+                        Franklin</persName>, remained aloof. Lee eventually succeeded in convincing
+                    Congress to recall Deane. The early French aid would later resurface as one of
+                    the disputes behind the <ref target="/milestones/1784-1800/xyz">1797 XYZ
+                        Affair</ref> that led to the Quasi-War with France.</p>
+                <p>During the Revolution, the French Government also provided the Americans with
+                    loans, eventually totaling over two million dollars, most of which were
+                    negotiated by Benjamin Franklin. <persName>John Adams</persName> also secured a
+                    loan from Dutch bankers in 1782. After fighting between the Americans and the
+                    British ended in 1783, the new U.S. Government established under the Articles of
+                    Confederation needed to pay off its debt, but lacked sufficient tax authority to
+                    secure any revenue. The government struggled to pay off the loans, stopping
+                    payments of interest to France in 1785 and defaulting on further installments
+                    that were due in 1787. The United States also owed money to the Spanish
+                    Government and private Dutch investors, but focused on paying off the Dutch
+                    because Amsterdam remained the most likely source of future loans, which the
+                    United States successfully obtained in 1787 and 1788, despite its precarious
+                    financial state.</p>
+                <p>Under the U.S. Constitution of <date when="1798">1789,</date> the new federal
+                    government enjoyed increased authority to manage U.S. finances and to raise
+                    revenues through taxation. Responsibility for managing debts fell to Secretary
+                    of the Treasury Alexander Hamilton. Hamilton placed U.S. finances on firmer
+                    ground, allowing for the U.S. Government to negotiate new loans at lower
+                    interest rates. In addition, the United States began to make regular payments on
+                    in its French debts starting in 1790, and also provided an emergency advance to
+                    assist the French in addressing the 1791 slave revolt that began the <ref
+                        target="/milestones/1784-1800/haitian-rev">Haitian Revolution</ref>.</p>
+                <p>Although the federal government was able to resume debt payments, total federal
+                    expenditures exceeded revenues during many years in the 1790s. Hamilton
+                    therefore sought additional loans on Dutch capital markets, although the
+                    improved U.S. financial situation made these loans easier to obtain. These
+                    private loans from Dutch bankers also helped pay off loans owed to the Spanish
+                    Government, back pay owed to foreign officers, and U.S. diplomatic expenses in
+                    Europe.</p>
+                <p>In 1795, the United States was finally able to settle its debts with the French
+                    Government with the help of <persName>James Swan</persName>, an American banker
+                    who privately assumed French debts at a slightly higher interest rate. Swan then
+                    resold these debts at a profit on domestic U.S. markets. The United States no
+                    longer owed money to foreign governments, although it continued to owe money to
+                    private investors both in the United States and in Europe.</p>
+                <p>Although U.S. finances had been shaky under the Articles of Confederation, the
+                    United States was able to place itself on a sound financial footing during the
+                    1790s. This enabled it to preempt diplomatic embarrassment and dependence on
+                    foreign powers during that period, and also improved U.S. credit on European
+                    capital markets, which enabled the U.S. Government to obtain low-interest loans
+                    for the Louisiana Purchase in 1803.</p>
+            </div>
+            <div type="section" xml:id="convention-and-ratification">
+                <head>Constitutional Convention and Ratification, <date from="1787" to="1789"
+                        >1787–1789</date>
+                </head>
+                <p>The Constitutional Convention in <placeName>Philadelphia</placeName> met between
+                    May and September of <date when="1798-05">1787</date> to address the problems of
+                    the weak central government that existed under the Articles of Confederation.
+                    The United States Constitution that emerged from the convention established a
+                    federal government with more specific powers, including those related to
+                    conducting relations with foreign governments. Under the reformed federal
+                    system, many of the responsibilities for foreign affairs fell under the
+                    authority of an executive branch, although important powers, such as treaty
+                    ratification, remained the responsibility of the legislative branch. After the
+                    necessary number of state ratifications, the Constitution came into effect in
+                    1789 and has served as the basis of the United States Government ever since.</p>
+                <figure>
+                    <graphic url="constitution.jpg" height="266px" width="220px"/>
+                    <head>The U.S. Constitution</head>
+                </figure>
+                <p>Under the Articles of Confederation, the federal government faced many challenges
+                    in conducting foreign policy, largely due to its inability to pass or enforce
+                    laws that individual states found counter to their interests. The 1783 Treaty of
+                    Paris, which ended the American War of Independence, stipulated that debts owed
+                    by Americans to British subjects were to be honored, and also stipulated that
+                    former British loyalists could bring forth suits in U.S. courts to recover
+                    confiscated property. These provisions were unpopular and many states blocked
+                    their enforcement. This led to British refusal to vacate military forts in U.S.
+                    territory. Additionally, after the war, British traders flooded U.S. markets
+                    with British goods, to the detriment of American importers and manufacturers.
+                    The Confederation Congress lacked the authority to regulate this trade, and
+                    intrastate trade was further hampered by states’ own attempts to impose import
+                    duties on goods from elsewhere in the United States. Lastly, the Spanish
+                    Government, which controlled New Orleans, barred American ships from navigating
+                    the Mississippi River. Southern delegates to the Confederation Congress wanted
+                    to lift this ban, while coastal merchants, especially in the northeast, were
+                    willing to make concessions in exchange for a treaty with otherwise favorable
+                    commercial terms. The large majorities necessary for ratification of such
+                    measures under the Articles of Confederation often resulted in the deadlock
+                    along sectional lines between North and South.</p>
+                <figure>
+                    <graphic url="phil-const.jpg" height="231px" width="350px"/>
+                    <head>The Constitutional Convention in Philadelphia</head>
+                </figure>
+                <p>In attempting to resolve such issues, as well as problems arising from the
+                    payment of debts from the Revolutionary War and other domestic issues, the
+                    delegates to the Constitutional Convention created a model of government that
+                    relied upon a series of checks and balances by dividing federal authority
+                    between the Legislative, the Judicial, and the Executive branches of government.
+                    The framers of the Constitution had originally imagined a weak presidency and a
+                    strong legislature divided into a House of Representatives and the Senate. Under
+                    the Articles of Confederation, considerable minor paperwork had bogged down
+                    important business enough that legislators decided to establish an executive
+                    branch to deal with routine paperwork. When writing the Constitution, the
+                    framers expected the Senate to handle important issues, particularly the
+                    ratification of treaties, while the Executive would attend to matters of lesser
+                    consequence. However, as deliberations continued, the Executive branch acquired
+                    more power to deal with some of the issues that had been a source of sectional
+                    tension under the Articles of Confederation—and so the President acquired the
+                    authority to conduct foreign relations. The two-thirds clause for ratification
+                    of treaties in the Senate, as opposed to a simple majority, allowed the South a
+                    greater voice in these matters and assuaged concerns about the attempts to
+                    abandon navigation of the Mississippi.</p>
+                <p>The Constitution does not stipulate existence of departments within the executive
+                    branch, but the need for such departments was recognized immediately. Congress
+                    passed legislation creating the Department of Foreign Affairs in its first
+                    session in 1789, and in the same year changed the name to the Department of
+                    State after it added several additional domestic duties to the Department.</p>
+                <p>After the ratification of the Constitution in 1789, the machinery of state had
+                    been designed, but not yet tested and put to use. The provisions for management
+                    of foreign affairs would be put to the test in 1794, when the Senate had the
+                    opportunity to accept or reject the <ref
+                        target="/milestones/1784-1800/jay-treaty">controversial treaty with Great
+                        Britain negotiated by John Jay</ref>.</p>
+            </div>
+            <div type="section" xml:id="french-rev">
+                <head>The United States and the French Revolution, <date when="1798"
+                        >1789–1799</date>
+                </head>
+                <p>The French Revolution lasted from 1789 until 1799. The Revolution precipitated a
+                    series of European wars, forcing the United States to articulate a clear policy
+                    of neutrality in order to avoid being embroiled in these European conflicts. The
+                    French Revolution also influenced U.S. politics, as pro- and anti- Revolutionary
+                    factions sought to influence American domestic and foreign policy.</p>
+                <figure>
+                    <graphic url="french-rev.jpg" height="242px" width="180px"/>
+                    <head>The French Declaration of Rights</head>
+                </figure>
+                <p>When the first rumors of political change in France reached American shores in
+                    1789, the U.S. public was largely enthusiastic. Americans hoped for democratic
+                    reforms that would solidify the existing Franco-American alliance and transform
+                    France into a republican ally against aristocratic and monarchical Britain.
+                    However, with revolutionary change also came political instability, violence,
+                    and calls for radical social change in France that frightened many Americans.
+                    American political debate over the nature of the French Revolution exacerbated
+                    pre-existing political divisions and resulted in the alignment of the political
+                    elite along pro-French and pro-British lines. Secretary of State
+                        <persName>Thomas Jefferson</persName> became the leader of the pro-French
+                    Democratic-Republican Party that celebrated the republican ideals of the French
+                    Revolution. Secretary of the Treasury Alexander Hamilton led the Federalist
+                    Party, which viewed the Revolution with skepticism and sought to preserve
+                    existing commercial ties with Great Britain. With the two most powerful members
+                    of his cabinet locked in opposition, President <persName>George
+                        Washington</persName> tried to strike a balance between the two.</p>
+                <p>From 1790 to 1794, the French Revolution became increasingly radical. After
+                    French <persName>King Louis XVI</persName> was tried and executed on January 21,
+                    1793, war between France and monarchal nations Great Britain and Spain was
+                    inevitable. These two powers joined Austria and other European nations in the
+                    war against Revolutionary France that had already started in 1791. The United
+                    States remained neutral, as both Federalists and Democratic-Republicans saw that
+                    war would lead to economic disaster and the possibility of invasion. This policy
+                    was made difficult by heavy-handed British and French actions. The British
+                    harassed neutral American merchant ships, while the French Government dispatched
+                    a controversial Minister to the United States, Edmond-Charles Genêt, whose
+                    violations of the American neutrality policy embroiled the two countries in the
+                        <ref target="/milestones/1784-1800/citizen-genet">Citizen Genêt Affair</ref>
+                    until his recall in 1794.</p>
+                <figure>
+                    <graphic url="bastille.jpg" height="262px" width="350px"/>
+                    <head>The Storming of the Bastille</head>
+                </figure>
+                <p>In 1794, the French Revolution entered its most violent phase, the Terror. Under
+                    foreign invasion, the French Government declared a state of emergency, and
+                    many foreigners residing in France were arrested, including American
+                    revolutionary pamphleteer Thomas Paine, owing to his British birth. Although
+                    U.S. Minister to France Gouverneur Morris was unable to obtain Paine’s release,
+                    Morris was able to intercede successfully on behalf of many other Americans imprisoned
+                    during the Terror, including the American Consuls at Dunkirk, Rouen, and Le
+                    Havre. Once the Terror ended in late July of 1794, the arrests ended, and Paine,
+                    who had been scheduled to be executed, was released.</p>
+                <p>Although the French Revolution had ended its radical phase, Federalists in the
+                    United States remained wary of revolutionary ideology infiltrating the United
+                    States. Many French citizens, refugees from the French and Haitian revolutions,
+                    had settled in American cities and remained politically active, setting up
+                    newspapers and agitating for their political causes. A French spy, Victor
+                    Collot, traveled through the United States in 1796, noting the
+                    weaknesses in its western border. When a breakdown in diplomatic negotiations
+                    resulted in the <ref target="/milestones/1784-1800/xyz">Quasi-War</ref> with France, the Federalist-controlled Congress passed
+                    a series of laws known as the Alien and Sedition Acts, intended to curb
+                    political dissent and limit the political participation of immigrants by easing
+                    deportation and lengthening the time required for citizenship. A number of
+                    political radicals were arrested for sedition, including Congressman Matthew
+                    Lyon and newspaper editors James Thompson Callendar and William Duane. Many
+                    refugees, sensing American hostility, chose to return to France and Haiti since the
+                    political situation had temporarily calmed in both places.</p>
+                <p>The Alien and Sedition Acts, originally intended to prevent a growth in
+                    pro-French sentiment, actually backfired for the Federalists. Taken aback by
+                    such extreme measures, swing voters in the presidential election of 1800 instead
+                    backed the pro-French Thomas Jefferson and his Democratic-Republican Party,
+                    instead of the Federalist John Adams, who was running for re-election as
+                    President. Adams had also alienated the anti-Revolutionary wing of his party
+                    by seeking peace with France, whose revolution had already been brought to a
+                    close by General Napoleon Bonaparte.</p>
+                <p>Despite Federalist warnings that electing Jefferson would bring revolution to the
+                    United States, Jefferson instead chose to distance himself
+                    from political radicals and win over political moderates. The revolution in
+                    France was over, and while many Americans voters sympathized with the revolution
+                    in the abstract, they did not want the revolution’s most radical changes
+                    put into effect in the United States.</p>
+            </div>
+            <div type="section" xml:id="haitian-rev">
+                <head>The United States and the Haitian Revolution, <date when="1791"
+                        >1791–1804</date>
+                </head>
+                <p>The Haitian Revolution created the second independent country in the Americas
+                    after the United States became independent in 1783. U.S. political leaders, many
+                    of them slaveowners, reacted to the emergence of Haiti as a state borne out of a
+                    slave revolt with ambivalence, at times providing aid to put down the revolt,
+                    and, later in the revolution, providing support to Toussaint L’Ouverture’s
+                    forces. Due to these shifts in policy and domestic concerns, the United States
+                    would not officially recognize Haitian independence until 1862.</p>
+                <figure>
+                    <graphic url="haitian-revolution.jpg" height="350px" width="522px"/>
+                    <head>Toussaint L'Ouverture holds a printed copy of the Haitian Constitution of
+                        1801. (Library of Congress Prints and Photographs Division)</head>
+                </figure>
+                <p>Prior to its independence, Haiti was a French colony known as St. Domingue. St.
+                    Domingue’s slave-based sugar and coffee industries had been fast-growing and
+                    successful, and by the 1760s it had become the most profitable colony in the
+                    Americas. With the economic growth, however, came increasing exploitation of the
+                    African slaves who made up the overwhelming majority of the population. Prior to
+                    and after U.S. independence, American merchants enjoyed a healthy trade with St.
+                    Domingue.</p>
+                <p>The French Revolution had a great impact on the colony. St. Domingue’s white
+                    minority split into Royalist and Revolutionary factions, while the mixed-race
+                    population campaigned for civil rights. Sensing an opportunity, the slaves of
+                    northern St. Domingue organized and planned a massive rebellion which began on
+                    August 22, 1791.</p>
+                <p>When news of the slave revolt broke out, American leaders rushed to provide
+                    support for the whites of St. Domingue. However, the situation became more
+                    complex when civil commissioners sent to St. Domingue by the French
+                    revolutionary government convinced one of the slave revolt leaders, Toussaint
+                    L’Ouverture, that the new French Government was committed to ending slavery.
+                    What followed over the next decade was a complex and multi-sided civil war in
+                    which Spanish and British forces also intervened.</p>
+                <p>The situation in St. Domingue put the Democratic-Republican party and its leader,
+                        <persName>Thomas Jefferson</persName>, in somewhat of a political dilemma.
+                    Jefferson believed strongly in the French Revolution and the ideals it promoted,
+                    but as a Virginia slaveholder popular among other Virginia slaveholders,
+                    Jefferson also feared the specter of slave revolt. When faced with the question
+                    of what the United States should do about the French colony of St. Domingue,
+                    Jefferson favored offering limited aid to suppress the revolt, but also
+                    suggested that the slaveowners should aim for a compromise similar to that
+                    Jamaican slaveholders made with communities of escaped slaves in 1739. Despite
+                    their numerous differences on other issues, Secretary of the Treasury and leader
+                    of the rival Federalist Party Alexander Hamilton largely agreed with Jefferson
+                    regarding Haiti policy.</p>
+                <p>The Haitian revolution came to North American shores in the form of a refugee
+                    crisis. In 1793, competing factions battled for control of the then-capital of
+                    St. Domingue, Cap-Français (now Cap-Haïtien.) The fighting and ensuing fire
+                    destroyed much of the capital, and refugees piled into ships anchored in the
+                    harbor. The French navy deposited the refugees in Norfolk, Virginia. Many
+                    refugees also settled in Baltimore, Philadelphia, and New York. These refugees
+                    were predominantly white, though many had brought their slaves with them. The
+                    refugees became involved in émigré politics, hoping to influence U.S. foreign
+                    policy. Anxieties about their actions, along with those of European radicals
+                    also residing in the United States, led to the passage of the Alien and Sedition
+                    Acts. The growing xenophobia, along with temporarily improved political
+                    stability in France and St. Domingue, convinced many of the refugees to return
+                    home.</p>
+                <p>The beginning of the Federalist administration of President <persName>John
+                        Adams</persName> signaled a change in policy. Adams was resolutely
+                    anti-slavery and felt no need to aid white forces in St. Domingue. He was also
+                    concerned that L’Ouverture would choose to pursue a policy of state-supported
+                    piracy like that of the Barbary States. Lastly, St. Domingue’s trade had
+                    partially rebounded, and Adams wished to preserve trade links with the colony.
+                    Consequently, Adams decided to provide aid to L’Ouverture against his
+                    British-supported rivals. This situation was complicated by the Quasi-War with
+                    France—L’Ouverture continued to insist that St. Domingue was a French colony
+                    even as he pursued an independent foreign policy.</p>
+                <p>Under President Thomas Jefferson’s presidency, the United States cut off aid to
+                    L’Ouverture and instead pursued a policy to isolate Haiti, fearing that the
+                    Haitian revolution would spread to the United States. These concerns were in
+                    fact unfounded, as the fledgling Haitian state was more concerned with its own
+                    survival than with exporting revolution. Nevertheless, Jefferson grew even more
+                    hostile after L’Ouverture’s successor, Jean-Jacques Dessalines, ordered the
+                    execution of whites remaining after the Napoleonic attempts to reconquer St.
+                    Domingue and reimpose slavery (French defeat led to the Louisiana Purchase.)
+                    Jefferson refused to recognize Haitian independence, a policy to which U.S.
+                    Federalists also acquiesced. Although France recognized Haitian independence in
+                    1825, Haitians would have to wait until 1862 for the United States to recognize
+                    Haiti’s status as a sovereign, independent nation.</p>
+            </div>
+            <div type="section" xml:id="citizen-genet">
+                <head>The Citizen Genêt Affair, <date when="1793">1793–1794</date>
+                </head>
+                <p>
+                    <persName>Edmond Charles Genêt</persName> served as French minister to the
+                    United States from 1793 to 1794. His activities in that capacity embroiled the
+                    United States and France in a diplomatic crisis, as the United States Government
+                    attempted to remain neutral in the conflict between Great Britain and
+                    Revolutionary France. The controversy was ultimately resolved by Genêt’s recall
+                    from his position. As a result of the Citizen Genêt affair, the United States
+                    established a set of procedures governing neutrality.</p>
+                <figure>
+                    <graphic url="charles_genet copy.jpg" height="216px" width="180px"/>
+                    <head>Edmond Charles Genêt</head>
+                </figure>
+                <p>American foreign policy in the 1790s was dominated by the events surrounding the
+                    French Revolution. Following the overthrow of the monarchy in 1792, the
+                    revolutionary French Government clashed with the monarchies of Spain and Great
+                    Britain. French policymakers needed the United States to help defend France’s
+                    colonies in the Caribbean – either as a neutral supplier or as a military ally,
+                    and so they dispatched Edmond Charles Genêt, an experienced diplomat, as
+                    minister to the United States. The French assigned Genêt several additional
+                    duties: to obtain advance payments on debts that the U.S. owed to France, to
+                    negotiate a commercial treaty between the United States and France, and to
+                    implement portions of the 1778 Franco-American treaty which allowed attacks on
+                    British merchant shipping using ships based in American ports. Genêt’s attempt
+                    to carry out his instructions would bring him into direct conflict with the U.S.
+                    Government.</p>
+                <p>The French Revolution had already reinforced political differences within
+                    President George Washington’s Cabinet. The Democratic-Republicans, led by
+                    Secretary of State Thomas Jefferson, sympathized with the French
+                    revolutionaries. The Federalists, led by Secretary of the Treasury
+                        <persName>Alexander Hamilton,</persName> believed that ties with Great
+                    Britain were more important. President Washington attempted to steer a neutral
+                    course between these two opposing views. He believed that joining Great Britain
+                    or France in war could subject the comparatively weak United States to invasion
+                    by foreign armies and have disastrous economic consequences. President
+                    Washington issued a proclamation of neutrality on April 22, 1793.</p>
+                <figure>
+                    <graphic url="tjefferson.jpg" height="316px" width="225px"/>
+                    <head>Thomas Jefferson</head>
+                </figure>
+                <p>Genêt arrived in Charleston, South Carolina on April 8, 1793—calling himself
+                    “Citizen Genêt” to emphasize his pro-revolutionary stance. Genêt immediately
+                    began to issue privateering commissions upon his arrival in Charleston, with the
+                    consent of South Carolina governor William Moultrie. These commissions
+                    authorized the bearers, regardless of their country of origin, to seize British
+                    merchant ships and their cargo for personal profit, with the approval and
+                    protection of the French Government.</p>
+                <p>When Genêt arrived in the U.S. capital of Philadelphia in May to present his
+                    credentials, Secretary of State Thomas Jefferson informed him that the United
+                    States Cabinet considered the outfitting of French privateers in American ports
+                    to be a violation of the U.S. policy of neutrality. Genêt’s mission ran into
+                    further difficulties when the U.S. Government expressed no interest in a new
+                    commercial treaty, as it already enjoyed favorable trading privileges in French
+                    ports. The U.S. Cabinet also refused to make advance payments on U.S. debts to
+                    the French government.</p>
+                <p>Genêt ignored American warnings and allowed the outfitting of another French
+                    privateer, the Little Democrat. Defying numerous warnings from U.S. officials to
+                    detain the ship in port, Genêt continued to ready the ship to sail. Genêt also
+                    threatened to take his case to the American people, bypassing official
+                    government opposition. Genêt failed to realize that Washington and his
+                    neutrality policy were politically popular, and that his pro-British enemies
+                    would depict such an attempt as foreign meddling in American domestic
+                    affairs.</p>
+                <p>Washington’s Cabinet met to consider a response to Genêt’s defiant actions. All
+                    members agreed to request Genêt’s recall, but were divided as to how to go about
+                    doing so. Before the Cabinet reached a decision, Genêt allowed the Little
+                    Democrat to sail and begin attacking British shipping. This direct violation of
+                    neutrality forced the U.S. Government to take more prompt action and request
+                    that the French government recall Genêt. However, Secretary of State Jefferson
+                    stopped short of expelling Genet from the United States, as Hamilton had
+                    wished.</p>
+                <p>By the time Jefferson’s request for recall reached France, power had shifted from
+                    the more moderate Girondins, who had originally sent Genêt on his mission, to
+                    the radical Jacobins. French policy began to emphasize friendlier relations with
+                    neutral countries who could provide crucially needed food supplies. French
+                    officials were already dissatisfied with Genêt’s failure to fulfill his
+                    diplomatic mission, and the Jacobins suspected him of continued loyalty to the
+                    Girondins. The French government recalled Genêt, and demanded that the U.S. hand
+                    him over to the commissioners sent to replace him. President Washington and
+                    Attorney General Edmund Randolph, aware that Genêt’s return to France would
+                    almost certainly result in his execution, allowed Genêt to remain in the United
+                    States. U.S. and French diplomatic goals favored friendly neutrality, and the
+                    Genêt affair came to an end. Genêt himself continued to reside in the United
+                    States until his death in 1834.</p>
+                <p>The Genêt affair forced the United States to formulate a consistent policy on the
+                    issue of neutrality. Washington’s Cabinet signed a set of rules regarding
+                    policies of neutrality on August 3, 1793, and these rules were formalized when
+                    Congress passed a neutrality bill on June 4, 1794. This legislation formed the
+                    basis for neutrality policy throughout the nineteenth century.</p>
+            </div>
+            <div type="section" xml:id="jay-treaty">
+                <head>John Jay’s Treaty, <date when="1794">1794–95</date>
+                </head>
+                <p>On November 19, 1794 representatives of the United States and Great Britain
+                    signed Jay’s Treaty, which sought to settle outstanding issues between the two
+                    countries that had been left unresolved since American independence. The treaty
+                    proved unpopular with the American public but did accomplish the goal of
+                    maintaining peace between the two nations and preserving U.S. neutrality.</p>
+                <figure>
+                    <graphic url="johnjay.jpg" height="320px" width="250px"/>
+                    <head>John Jay</head>
+                </figure>
+                <p>Tensions between the United States and Britain remained high after the
+                    Revolutionary War as a result of three key issues. British exports flooded U.S.
+                    markets, while American exports were blocked by British trade restrictions and
+                    tariffs. The British occupation of northern forts that the British Government
+                    had agreed to vacate in the Treaty of Paris (1783) as well as recurrent Native
+                    American attacks in these areas also frustrated Americans. Finally, Britain’s
+                    impressments of American sailors and seizure of naval and military supplies
+                    bound to enemy ports on neutral ships brought the two nations to the brink of
+                    war in the late 1700s.</p>
+                <p>The French Revolution led to war between Britain and France in 1793. Divisions
+                    emerged in the United States between those who supported the French, including
+                    Secretary of State <persName>Thomas Jefferson,</persName> and those who
+                    supported the British, including Secretary of the Treasury Alexander Hamilton.
+                    Fearing the repercussions of a war with Britain, President <persName>George
+                        Washington</persName> sided with Hamilton and sent pro-British Chief Justice
+                        <persName>John Jay</persName> to negotiate with the British Government. Jay
+                    looked to Hamilton for specific instructions for the treaty. Hamilton
+                    recommended an approach that would both stabilize relations with Great Britain
+                    and guarantee increased trade between the United States and Great Britain.</p>
+                <p>Jay’s only significant bargaining chip in the negotiations was the threat that
+                    the United States would join the Danish and the Swedish governments in defending
+                    their neutral status and resisting British seizure of their goods by force of
+                    arms. In an attempt to guarantee good relations with Britain, Hamilton
+                    independently informed the British leadership that the United States had no
+                    intention of joining in this neutral armament. Hamilton’s actions left Jay with
+                    little leverage to force the British to comply with U.S. demands.</p>
+                <p>The resulting treaty addressed few U.S. interests, and ultimately granted Britain
+                    additional rights. The only concessions Jay obtained was a surrender of the
+                    northwestern posts (already agreed to in 1783) and a commercial treaty with
+                    Great Britain that granted the United States “most favored nation” status, but
+                    seriously restricted U.S. commercial access to the British West Indies. All
+                    other outstanding issues, including the Canadian-Maine boundary, compensation
+                    for pre-revolutionary debts, and British seizures of American ships, were to be
+                    resolved by arbitration. Jay even conceded that the British could seize U.S.
+                    goods bound for France if they paid for them and could confiscate without
+                    payment French goods on American ships.</p>
+                <p>Jay’s Treaty was immensely unpopular with the American public, but it squeaked
+                    through the Senate on a 20 to 10 vote on June 24, 1795. President Washington
+                    implemented the treaty in the face of popular disapproval, realizing that it was
+                    the price of peace with Great Britain and that it gave the United States
+                    valuable time to consolidate and rearm in the event of future conflict.</p>
+            </div>
+            <div type="section" xml:id="pickney-treaty">
+                <head>Treaty of San Lorenzo/ Pinckney’s Treaty, <date when="1795">1795</date>
+                </head>
+                <p>Spanish and U.S. negotiators concluded the Treaty of San Lorenzo, also known as
+                    Pinckney’s Treaty, on October 27, 1795. The treaty was an important diplomatic
+                    success for the United States. It resolved territorial disputes between the two
+                    countries and granted American ships the right to free navigation of the
+                    Mississippi River as well as duty-free transport through the port of New
+                    Orleans, then under Spanish control.</p>
+                <figure>
+                    <graphic url="tpinckney.jpg" height="270px" width="225px"/>
+                    <head>Thomas Pinckney</head>
+                </figure>
+                <p>Prior to the treaty, the western and southern borders of the United States had
+                    been a source of tension between Spain and the United States. The U.S. border
+                    extended to the Mississippi River, but its southern stretch remained in Spanish
+                    territory, and Spanish officials, reluctant to encourage U.S. trade and
+                    settlement in a strategic frontier area, kept the Mississippi River closed to
+                    American shipping. Moreover, both Spain and the United States claimed portions
+                    of the present-day states of Alabama and Mississippi, and earlier negotiations
+                    to resolve the territorial disputes had broken off inconclusively. The Spanish
+                    government maintained several forts in the disputed territories, and could also
+                    count on indigenous resistance to U.S. attempts to survey or encroach upon
+                    Native American lands. U.S. citizens from the southern states and frontier areas
+                    found Spanish policies restrictive, and wanted the U.S. Government to
+                    renegotiate its positions.</p>
+                <p>Prior to 1789, Spanish policy had focused on keeping American trade and
+                    settlement in frontier areas to a minimum, and so neither Spanish colonial
+                    officials nor policymakers in Madrid were interested in granting the concessions
+                    that U.S. negotiators had attempted to obtain earlier. However, Spanish
+                    interests changed during the wars of the French Revolution. Spain joined the
+                    other European monarchies in war against France in 1793, but by 1794 Spanish
+                    forces experienced defeats in the Caribbean and Europe. Spanish King Charles IV,
+                    uninterested in managing political affairs, had earlier handed political and
+                    diplomatic responsibilities to his prime minister, Manuel de Godoy. Godoy sought
+                    to extract Spain from its alliance with its traditional enemy Great Britain, and
+                    to restore peace with France. Godoy’s policy was not without risks, as
+                    antagonizing the British would put Spanish colonies in the Americas at risk.</p>
+                <p>While Spanish diplomats sought to shift Spanish alliances, U.S. diplomat John Jay
+                    arrived in London to negotiate a treaty with Great Britain. Spanish officials
+                    feared that Jay’s negotiations would result in an Anglo-American alliance and an
+                    invasion of Spanish possessions in North America. Sensing the need for
+                    rapprochement, Godoy sent a request to the U.S. Government for a representative
+                    empowered to negotiate a new treaty. President <persName>George
+                        Washington</persName> selected South Carolinian <persName>Thomas
+                        Pinckney,</persName> who had been serving as United States minister to Great
+                    Britain.</p>
+                <figure>
+                    <graphic url="charlesiv.jpg" height="354px" width="250px"/>
+                    <head>Charles IV of Spain</head>
+                </figure>
+                <p>Pinckney arrived in Spain in June of 1795, and negotiations proceeded swiftly.
+                    Spain’s political and military position had weakened under its defeats and war
+                    expenses, while population growth in Kentucky and Tennessee, combined with a
+                    shortage of European ships to sustain trade with Louisiana, made Spanish
+                    officials amenable to a change in restrictive Spanish trade policies. Godoy
+                    offered to accept the 31st parallel as the U.S.-Florida border as well as the
+                    right to free navigation of the Mississippi, which Americans west of the
+                    Appalachians supported enthusiastically. In return, Godoy requested that the
+                    United States commit to an alliance with Spain.</p>
+                <p>Pinckney rejected the alliance, and after further consultation Godoy provided the
+                    same offer without the necessity of the alliance. Nevertheless, negotiations
+                    came to an impasse as the Spanish continued to insist on their right to require
+                    duties for goods passing through Spanish-held New Orleans. Pinckney threatened
+                    to leave without signing a treaty unless the Spanish dropped duties on American
+                    trade passing through New Orleans. The next day, Godoy agreed to Pinckney’s
+                    demands, and the two negotiators signed the treaty on October 27, 1795. The
+                    final treaty also voided Spanish guarantees of military support that colonial
+                    officials had made to Native Americans in the disputed regions, greatly
+                    weakening those communities’ ability to resist encroachment upon their
+                    lands.</p>
+                <p>The Treaty of San Lorenzo enabled and encouraged American settlers to continue
+                    westward expansion, and made frontier areas more attractive and lucrative.
+                    Consequently, it was popular with the American public, especially in the West
+                    and South. Since Thomas Pinckney was associated with the Federalist Party, the
+                    treaty served to bolster the Federalists outside of their New England stronghold
+                    and give the party a stronger base in areas where it had traditionally been
+                    weak. Diplomatically, the treaty marked a reverse in Spanish policies that
+                    attempted to maintain a strong buffer region in North America, while placing the
+                    United States in a stronger position in relation to European powers compared to
+                    the U.S. concessions made in Jay’s Treaty.</p>
+            </div>
+            <div type="section" xml:id="washington-farewell">
+                <head>Washington’s Farewell Address, <date when="1796">1796</date>
+                </head>
+                <p>To announce his decision not to seek a third term as President, <persName>George
+                        Washington</persName> presented his Farewell Address in a newspaper article
+                    September 17, 1796.</p>
+                <figure>
+                    <graphic url="gwashington.jpg" height="211px" width="180px"/>
+                    <head>George Washington</head>
+                </figure>
+                <p>Frustrated by French meddling in U.S. politics, Washington warned the nation to
+                    avoid permanent alliances with foreign nations and to rely instead on temporary
+                    alliances for emergencies. Washington’s efforts to protect the fragile young
+                    republic by steering a neutral course between England and France during the
+                    French Revolutionary Wars was made extremely difficult by the intense rhetoric
+                    flowing from the pro-English Federalists, led by Alexander Hamilton, and the
+                    pro-French, personified by Thomas Jefferson. In his farewell address, Washington
+                    exhorted Americans to set aside their violent likes and dislikes of foreign
+                    nations, lest they be controlled by their passions: “The nation which indulges
+                    toward another an habitual hatred or an habitual fondness is in some degree a
+                    slave.” Washington’s remarks have served as an inspiration for American
+                    isolationism, and his advice against joining a permanent alliance was heeded for
+                    more than a century and a half. </p>
+            </div>
+            <div type="section" xml:id="xyz">
+                <head>The XYZ Affair and the Quasi-War with France, <date when="1798"
+                        >1798–1800</date>
+                </head>
+                <p>The XYZ Affair was a diplomatic incident between French and United States
+                    diplomats that resulted in a limited, undeclared war known as the Quasi-War.
+                    U.S. and French negotiators restored peace with the Convention of 1800, also
+                    known as the Treaty of Mortefontaine.</p>
+                <figure>
+                    <graphic url="egerry.jpg" height="266px" width="225px"/>
+                    <head>Elbridge Gerry</head>
+                </figure>
+                <p>In the late 1700s, the final French Revolutionary government, the Directory, was
+                    experiencing problems financing its European wars. Many leaders were also angry
+                    that the United States had concluded the Jay Treaty with Great Britain in 1794.
+                    Consequently, in 1796 French leaders decided to issue an order allowing for the
+                    seizure of American merchant ships, carefully timed to catch as many as possible
+                    by surprise. President John Adams dispatched three U.S. envoys to restore
+                    harmony between the United States and <persName>France—Elbridge
+                    Gerry</persName>, <ref
+                        target="/departmenthistory/people/pinckney-charles-cotesworth">Charles
+                        Cotesworth Pinckney</ref>, and <ref
+                        target="/departmenthistory/people/pinckney-charles-cotesworth">John
+                        Marshall.</ref>
+                </p>
+                <figure>
+                    <graphic url="jmarshall.jpg" height="303px" width="225px"/>
+                    <head>John Marshall</head>
+                </figure>
+                <p>These commissioners, like others of the Adams administration, viewed France as a
+                    center of decadence and intrigue and the rampant intrigue and factions of the
+                    Directory made it difficult for the Americans to accomplish their mission. Upon
+                    arriving in France, Gerry, Pinckney and Marshall found that they were unable to
+                    formally meet with the Foreign Minister, the <persName>Marquis de
+                        Talleyrand</persName>. The U.S. envoys were instead approached by several
+                    intermediaries, Nicholas Hubbard (later W,) Jean Hottinguer (X), Pierre Bellamy
+                    (Y), and Lucien Hauteval (Z.) Also involved with these negotiations was the
+                    playwright Pierre Beaumarchais, who had been involved in funneling French aid to
+                    the United States during the American Revolution. These French intermediaries
+                    stated that Talleyrand would be willing to meet with the Americans and come to
+                    an agreement if several conditions were to be satisfied. The French demanded
+                    that the United States provide France with a low-interest loan, assume and pay
+                    American merchant claims against the French, and lastly pay a substantial bribe
+                    to Talleyrand. The U.S. envoys were shocked, and also skeptical that any
+                    concessions would bring about substantial changes in French policy.</p>
+                <figure>
+                    <graphic url="talleyrand.jpg" height="264px" width="225px"/>
+                    <head>Marquis de Talleyrand</head>
+                </figure>
+                <p>Talleyrand’s strategy was mainly one of delay. He intended to end attacks on U.S.
+                    merchant shipping, but wanted first to increase his personal wealth, strengthen
+                    his political position within the Directory government, and ensure that he would
+                    deal only with Elbridge Gerry, the American commissioner who seemed most
+                    friendly to French interests. Talleyrand’s intermediaries were also interested
+                    in preserving peace with the United States as many of them had investments in
+                    U.S. businesses. However, as French military victories in Europe increased
+                    French power, the French changed the loan terms and threatened an invasion of
+                    the United States if the U.S. envoys did not capitulate. When the U.S. envoys
+                    proved unwilling to accede to French demands, Talleyrand eventually met with
+                    them formally, and dropped most of his requirements, but did not agree to end
+                    the seizures of American ships. Pinckney and Marshall made preparations to leave
+                    France, while Gerry intended to stay in the hopes of averting a war.</p>
+                <p>In the meantime, the envoys’ dispatches reached the United States. President
+                    Adams prepared for war, and pro-war Federalists pushed Congress to support him.
+                    Leaders of the Democratic-Republican party were suspicious of Adams’ motives and
+                    demanded that he publicly release the diplomatic correspondence describing the
+                    negotiations in France. Adams, knowing its contents, obliged them and released
+                    the correspondence, but replaced the names of the French intermediaries with the
+                    letters W, X, Y, and Z.</p>
+                <p>Thereafter Adams continued preparations for war, but did not venture to openly
+                    declare war. Talleyrand, realizing his blunder, attempted to restore relations,
+                    and Congress approved a commission to negotiate an agreement with the French
+                    government. In the meantime, the U.S. Navy began to fight the French in the
+                    Caribbean, while offering support to Toussaint L’Ouverture in Haiti. In 1799,
+                    Congress also passed the Logan Act in response to the visit of a pacifist
+                    Quaker, George Logan, who conducted negotiations with Talleyrand as a private
+                    citizen and returned to the United States announcing Talleyrand’s peaceful
+                    intentions. The Logan Act criminalized unauthorized diplomatic negotiations.</p>
+                <p>In the meantime peace negotiations proceeded in France. Napoleon had come to
+                    power, and was seeking to re-obtain Louisiana from Spain. Consequently,
+                    Talleyrand, who remained as Foreign Minister, wanted to prevent further
+                    hostility with the United States. For their part, the British had delighted in
+                    the anti-French uproar in the United States and moved to assist the Americans
+                    against a common foe, revolutionary France. However, President Adams ultimately
+                    wanted to avoid a major war, confident that had France wanted war it would have
+                    responded to American attacks on French ships. Talleyrand feared that limited
+                    hostilities with the United States might escalate into a full-scale war and let
+                    it be known that he would accept a new American diplomatic representative. Adams
+                    nominated a new representative to France despite public and Federalist
+                    disappointment that there would be no war, but conceded to Federalist demands
+                    and expanded the single nomination into a commission of three.</p>
+                <p>The negotiators chose to annul the 1778 Treaty of Alliance, and instead
+                    negotiated a new agreement based on the 1776 Model Treaty—this resulted in the
+                    Convention of 1800. Since the new agreement made no provisions for compensation
+                    for the seizure of U.S. merchant ships, the Senate did not ratify a finalized
+                    version of the treaty until December 18, 1801. The Convention of 1800 terminated
+                    the only formal treaty of alliance of the United States. It would be nearly a
+                    century and a half before the United States entered into another formal
+                    alliance.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

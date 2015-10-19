@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1801–1829</title>
+                <title type="short">1801–1829</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1801" to="1829">1801–1829</date>: Securing the Republic</head>
+                <p>In the early part of the 1800s, the <placeName>United States</placeName>
+                    developed more confidence as an independent nation.</p>
+                <figure>
+                    <graphic url="1800.jpg" height="200px" width="200px"/>
+                    <head>The United States in 1800</head>
+                </figure>
+                <p>Opportunities to expand westward strengthened the notion that the United States
+                    should continue its quest to occupy more territory of the vast North American
+                    continent. The European powers did little to stop the young nation from
+                    extending its borders as they were embroiled in the ongoing <ref
+                        target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref> in
+                    Europe. Indeed, the economic pressure of these European conflicts compelled the
+                    French and the Spanish to sell the Louisiana and Florida territories to the U.S.
+                    Government, more than doubling the size of the United States. During this
+                    period, the U.S. also built an economy based on trade and commerce, and premised
+                    on the same neutrality as outlined by the founders in the Early Republic. The
+                    United States even went to war with Britain in 1812, when British actions
+                    threatened American neutrality and trading rights. Finally, the United States
+                    used the newfound independence of the Latin American states from their former
+                    colonial ruler of Spain to establish the idea of an American sphere of influence
+                    in the Western Hemisphere and to announce to the European powers the end of the
+                    era of colonization in the Americas. </p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="barbary-wars">
+                <head>Barbary Wars, <date from="1801" to="1805">1801–1805</date> and <date
+                        from="1815" to="1816">1815–1816</date>
+                </head>
+                <p>The Barbary States were a collection of North African states, many of which
+                    practiced state-supported piracy in order to exact tribute from weaker Atlantic
+                    powers. Morocco was an independent kingdom, Algiers, Tunis, and Tripoli owed a
+                    loose allegiance to the Ottoman Empire. The United States fought two separate
+                    wars with <placeName>Tripoli</placeName> (1801–1805) and
+                        <placeName>Algiers</placeName> (1815–1816), although at other times it
+                    preferred to pay tribute to obtain the release of captives held in the Barbary
+                    States.</p>
+                <figure>
+                    <graphic url="barbarywars.jpg" height="200px" width="200px"/>
+                    <head>The Barbary Wars</head>
+                </figure>
+                <p>The practice of state-supported piracy and ransoming of captives was not wholly
+                    unusual for its time. Many European states commissioned privateers to attack
+                    each others’ shipping and also participated in the transatlantic slave trade.
+                    The two major European powers, Great Britain and France, found it expedient to
+                    encourage the Barbary States’ policy and pay tribute to them, as it allowed
+                    their merchant shipping an increased share of the Mediterranean trade, and
+                    Barbary leaders chose not to challenge the superior British or French
+                    navies.</p>
+                <p>Prior to independence, American colonists had enjoyed the protection of the
+                    British Navy. However, once the United States declared independence, British
+                    diplomats were quick to inform the Barbary States that U.S. ships were open to
+                    attack. In 1785, <persName>Dey Muhammad</persName> of
+                        <placeName>Algiers</placeName> declared war on the United States and
+                    captured several American ships. The financially troubled Confederation
+                    Government of the United States was unable to raise a navy or the tribute that
+                    would protect U.S. ships.</p>
+                <p>In contrast to the dispute with <placeName>Algiers, U.S. negotiations with
+                    </placeName>Morocco went well. Moroccan Sultan <persName>Sidi
+                        Muhammad</persName> had seized a U.S. merchant ship in 1784 after the United
+                    States had ignored diplomatic overtures. However, Muhammad ultimately followed a
+                    policy of peaceful trade, and the United States successfully concluded a treaty
+                    with Morocco in 1786. However, Congress was still unable to raise enough funds
+                    to satisfy the Dey of Algiers.</p>
+                <p>In an attempt to address the challenge posed by the Dey of Algiers, <ref
+                        target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson,</ref>
+                    then U.S. Minister to France, attempted to build a coalition of weaker naval
+                    powers to defeat Algiers, but was unsuccessful. However, the Kingdom of Portugal
+                    was also at war with Algiers, and blocked Algerian ships from sailing past the
+                    Straits of Gibraltar. As a result, U.S. merchant ships in the Atlantic Ocean
+                    remained safe for a time and temporarily relieved the U.S. Government from the
+                    challenges posed by the Barbary States.</p>
+                <p>In 1793 a brief Portuguese-Algerian truce exposed American merchant ships to
+                    capture, forcing the United States, which had thus far only managed to conclude
+                    a treaty with Morocco, to engage in negotiations with the other Barbary States.
+                    In 1795, The U.S. Government dispatched diplomats <ref
+                        target="/departmenthistory/people/barlow-joel">Joel Barlow</ref>, Joseph
+                    Donaldson, and Richard O’Brien to North Africa and successfully concluded
+                    treaties with the states of Algiers, Tunis, and Tripoli. Under the terms of
+                    these treaties, the United States agreed to pay tribute to these states. The
+                    treaty with Algiers freed 83 American sailors.</p>
+                <p>The adoption of the Constitution in 1789 gave the U.S. Government the power to
+                    levy taxes and to raise and maintain armed forces, powers which had been lacking
+                    under the Articles of Confederation. In 1794, in response to Algerian seizures
+                    of American ships, Congress authorized construction of the first 6 ships of the
+                    U.S. Navy. In 1801, the Pasha of Tripoli, Yusuf Qaramanli, citing late payments
+                    of tribute, demanded additional tribute and declared war on the United States.
+                    The United States successfully defeated Qaramanli’s forces with a combined naval
+                    and land assault by the United States Marine Corps. The U.S. treaty with Tripoli
+                    concluded in 1805 included a ransom for American prisoners in Tripoli, but no
+                    provisions for tribute.</p>
+                <p>In 1812, the new Dey of Algiers, <persName>Hajji Ali,</persName> rejected the
+                    American tribute negotiated in the 1795 treaty as insufficient and declared war
+                    on the United States. Algerian corsairs captured an American ship several weeks
+                    later. In accordance with an agreement between the Dey and British diplomats,
+                    the Algerian declaration was timed to coincide with the start of the War of 1812
+                    between Britain and the United States. The war with Britain prevented the U.S.
+                    Government from either confronting Algerian forces or ransoming U.S. captives in
+                    Algiers. Once the Treaty of Ghent ended war with Britain, President James
+                    Madison requested that Congress declare war on
+                    Algiers, with Congress authorizing the use of force on March 3, 1815. The U.S. Navy, greatly increased in size
+                    after the War of 1812, was able send an entire squadron, led by Commodore
+                    Stephen Decatur, to the Mediterranean.</p>
+                <p>When the U.S. naval expedition arrived in <placeName>Algiers</placeName>, a new
+                    ruler, <persName>Dey Omar,</persName> was in power. Omar wished to restore order
+                    after several years of political instability and was acutely aware that he could
+                    no longer count on British support against the Americans. Decatur had already
+                    defeated two Algerian warships and captured hundreds of prisoners of war, and
+                    was in a favorable position for negotiation. Dey Omar reluctantly accepted the
+                    treaty proposed by Decatur that called for an exchange of U.S. and Algerian
+                    prisoners and an end to the practices of tribute and ransom. Having defeated the
+                    most powerful of the Barbary States, Decatur sailed to Tunis and Tripoli and
+                    obtained similar treaties. In Tripoli, Decatur also secured from Pasha Qaramanli
+                    the release of all European captives. The U.S. Senate ratified Decatur’s
+                    Algerian treaty on December 5, 1815. Dey Omar repudiated the treaty, but another
+                    U.S. squadron arrived after a combined Anglo-Dutch bombardment of Algiers, and
+                    U.S. commissioner William Shaler dictated terms of a new treaty which contained
+                    essentially the same provisions as the old one. Shaler concluded his
+                    negotiations on December 23, 1815, but the Senate, owing to an accidental
+                    oversight, did not ratify the treaty until February 11, 1822.</p>
+                <p>The Barbary States, although they did not capture any more U.S. ships, began to
+                    resume raids in the Mediterranean, and despite punitive British bombardments did
+                    not end their practices until the French conquest of Algeria in 1830.</p>
+            </div>
+            <div type="section" xml:id="napoleonic-wars">
+                <head>Napoleonic Wars and the United States, <date from="1803" to="1815"
+                        >1803–1815</date>
+                </head>
+                <p>The Napoleonic Wars continued the Wars of the French Revolution. Great Britain
+                    and France fought for European supremacy, and treated weaker powers
+                    heavy-handedly. The United States attempted to remain neutral during the
+                    Napoleonic period, but eventually became embroiled in the European conflicts,
+                    leading to the <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>
+                    against Great Britain.</p>
+                <figure>
+                    <graphic url="napoleanicwars.jpg" height="200px" width="200px"/>
+                    <head>The Napoleonic Wars</head>
+                </figure>
+                <p>
+                    <persName>Napoleon Bonaparte</persName> seized power in 1799 after overthrowing
+                    the French revolutionary government. During this time, U.S. and French
+                    negotiators were concluding negotiations to end the Quasi-War with France. In
+                    1802, Napoleon ended ten years of warfare with Great Britain under the Peace of
+                    Amiens. He used this opportunity to attempt to crush the Haitian Revolution, but
+                    the army he sent met with defeat. Napoleon had also re-obtained the North
+                    American province of Louisiana from Spain in 1800. However, the loss of Haiti
+                    made Louisiana strategically undesirable, and with war again on the horizon with
+                    Great Britain, Napoleon was willing to agree to the <ref
+                        target="/milestones/1801-1829/louisiana-purchase">Louisiana Purchase</ref>
+                    in 1803.</p>
+                <p>As expected, Britain declared war on France in 1803, and would remain at war for
+                    over a decade. During this period of war, Napoleon and British leaders
+                    concentrated on European affairs, but the conflict spilled over into the
+                    Atlantic. From 1803 to 1806, the United States succeeded in remaining neutral,
+                    but suffered from impressment, British seizure of British-born naturalized U.S.
+                    citizens into the British navy. President <ref
+                        target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson</ref>
+                    sent <ref target="/departmenthistory/people/pinkney-william">William
+                        Pinkney</ref> and <ref target="/departmenthistory/people/monroe-james">James
+                        Monroe</ref> to negotiate a treaty that would halt the impressment of
+                    American sailors, but when the signed treaty came back without any British
+                    concessions on the impressment issue, Jefferson did not pass it on to the Senate
+                    for ratification.</p>
+                <figure>
+                    <graphic url="napoleon.jpg" height="412px" width="250px"/>
+                    <head>Napoleon Bonarparte</head>
+                </figure>
+                <p>In 1806, Napoleon issued the Berlin Decree, which forbade trade with Britain, and
+                    the British Government responded the next year with Orders in Council, which
+                    instituted a blockade of French-controlled Europe, and authorized the British
+                    navy to seize ships violating the blockade. Napoleon responded with further
+                    trade restrictions in the Milan Decree of 1807.</p>
+                <p>U.S. relations with Great Britain became increasingly rocky during this period.
+                    On June 22, 1807, the H.M.S. <hi rend="italic">Leopard</hi> bombarded and
+                    forcibly boarded the U.S.S. <hi rend="italic"/>Chesapeake off Norfolk, Virginia
+                    in search of British navy deserters. President Jefferson responded with an
+                    embargo on all foreign trade in an effort to weaken the British economy. The
+                    embargo was extremely unpopular in New England, where the economy was heavily
+                    dependent on trade with Britain. Moreover, the British economy was not strongly
+                    affected by the embargo, which proved difficult to enforce. In early 1809, in
+                    one of his final acts as president, Jefferson replaced the embargo with the
+                    Non-Intercourse Act, which allowed trade with other nations except Britain and
+                    France. This act also proved virtually impossible to enforce.</p>
+                <figure>
+                    <graphic url="jamesmadison.jpg" height="200px" width="200px"/>
+                    <head>James Madison</head>
+                </figure>
+                <p>Jefferson’s successor, President <persName>James Madison</persName>, confronted a
+                    dilemma—to continue with the ineffective Non-Intercourse Act was effectively to
+                    submit to British terms of trade since the British navy controlled the Atlantic.
+                    Madison was assisted by the passage in 1810 of Nathaniel Macon’s Bill No. 2,
+                    which offered Britain and France the option of ceasing their seizure of U.S.
+                    merchant ships in return for U.S. participation in their trade bloc. Napoleon
+                    was the first to offer concessions, which Madison publicly accepted at face
+                    value despite his private skepticism. In doing so, Madison pushed the United
+                    States closer to war with Britain.</p>
+                <p>During this period, Madison also had to address a problem created by Secretary of
+                    State, <ref target="/departmenthistory/people/smith-robert">Robert Smith</ref>,
+                    who had personally stated to the British minister his pro-British sympathies.
+                    When Madison confronted Smith and offered him a graceful departure as U.S.
+                    Minister to Russia, Smith appeared to accept his offer, and then leaked cabinet
+                    papers as part of a smear campaign against President Madison. U.S. diplomat Joel
+                    Barlow published a reply and swung public opinion against Smith, who resigned on
+                    April 1, 1811.</p>
+                <p>Relations with Great Britain continued to deteriorate. A U.S. Navy ship mistook a
+                    much smaller British ship, the HMS <hi rend="italic">Little Belt</hi>, for a
+                    British Navy ship that had impressed American sailors and fired upon it.
+                    Consequently, Thomas Foster, British Minister to the United States, stated that
+                    Britain would not offer any compensation for the 1807 <hi rend="italic"
+                        >Chesapeake</hi> incident. Foster also informed Madison that the British
+                    Government would not revoke the Orders in Council. By the spring of 1812,
+                    Madison had decided upon war with Great Britain—although he also considered
+                    declaring war on France as well. Congress passed a declaration of war on June
+                    17, which Madison signed the next day. The war continued into 1815, although
+                    diplomats signed the Treaty of Ghent on December 23, 1814.</p>
+                <p>The Napoleonic Wars marked a period of U.S. weakness in the face of British
+                    power. However, in the postwar period, British policies began to soften, leading
+                    to the Rush-Bagot agreement and the Convention of 1818.</p>
+            </div>
+            <div type="section" xml:id="louisiana-purchase">
+                <head>Louisiana Purchase, <date when="1803">1803</date>
+                </head>
+                <p>The Louisiana Purchase encompassed 530,000,000 acres of territory in North
+                    America that the <placeName>United States</placeName> purchased from
+                        <placeName>France</placeName> in 1803 for $15 million.</p>
+                <figure>
+                    <graphic url="purchase.jpg" height="200px" width="200px"/>
+                    <head>The Louisiana Purchase</head>
+                </figure>
+                <p>As the United States spread across the Appalachians, the Mississippi River became
+                    an increasingly important conduit for the produce of America’s West (which at
+                    that time referred to the land between the Appalachians and the Mississippi).
+                    Since 1762, <placeName>Spain</placeName> had owned the territory of Louisiana,
+                    which included 828,000 square miles. The territory made up all or part of
+                    fifteen modern U.S. states between the Mississippi River and the Rocky
+                    Mountains. The <ref target="/milestones/1784-1800/pickney-treaty">Pinckney
+                        treaty of 1795</ref> had resolved friction between Spain and the United States over the
+                    right to navigate the Mississippi and the right for Americans to transfer their
+                    goods to ocean-going vessels at New Orleans. With the
+                    Pinckney treaty in place and the weak Spanish empire in control of Louisiana,
+                    American statesmen felt comfortable that the United States’ westward expansion
+                    would not be restricted in the future.</p>
+                <p>This situation was threatened by <persName>Napoleon Bonaparte</persName>’s plans
+                    to revive the French empire in the New World. He planned to recapture the
+                    valuable sugar colony of St. Domingue from a slave rebellion, and then use
+                    Louisiana as the granary for his empire. France acquired Louisiana from Spain in
+                    1800 and took possession in 1802, sending a large French army to St. Domingue
+                    and preparing to send another to New Orleans. Westerners became very
+                    apprehensive about having the more-powerful French in control of New Orleans:
+                    President <ref target="/departmenthistory/people/jefferson-thomas">Thomas
+                        Jefferson noted</ref>, <quote>“There is on the globe one single spot, the
+                        possessor of which is our natural and habitual enemy. It is New
+                        Orleans.”</quote>
+                </p>
+                <figure>
+                    <graphic url="monroe.jpg" height="200px" width="200px"/>
+                    <head>James Monroe</head>
+                </figure>
+                <p>In addition to making military preparations for a conflict in the Mississippi
+                    Valley, Jefferson sent <persName>James Monroe</persName> to join
+                        <persName>Robert Livingston</persName> in France to try to purchase New
+                    Orleans and West Florida for as much as $10 million. Failing that, they were to
+                    attempt to create a military alliance with England. Meanwhile, the French army
+                    in St. Domingue was being decimated by yellow fever, and war between France and
+                    England still threatened. Napoleon decided to give up his plans for Louisiana,
+                    and offered a surprised Monroe and Livingston the entire territory of Louisiana
+                    for $15 million. Although this far exceeded their instructions from President Jefferson, they agreed. </p>
+                <p>When news of the sale reached the United States, the West was elated. President
+                        <persName>Jefferson,</persName> however, was in a quandary. He had always
+                    advocated strict adherence to the letter of the Constitution, yet there was no
+                    provision empowering him to purchase territory. Given the public support for the
+                    purchase and the obvious value of Louisiana to the future growth of the United
+                    States, however, Jefferson decided to ignore the legalistic interpretation of
+                    the Constitution and forgo the passage of a Constitutional amendment to validate
+                    the purchase. This decision contributed to the principle of implied powers of
+                    the federal government.</p>
+            </div>
+            <div type="section" xml:id="war-of-1812">
+                <head>War of <date from="1812" to="1815">1812–1815</date>
+                </head>
+                <p>As an important neutral trading nation, the United States became ensnarled in the
+                    European conflict that pitted Napoleonic France against Great Britain and her
+                    continental allies.</p>
+                <figure>
+                    <graphic url="warof1812.jpg" height="200px" width="200px"/>
+                    <head>War of 1812</head>
+                </figure>
+                <p>In 1806 France prohibited all neutral trade with Great Britain and in 1807 Great
+                    Britain banned trade between France, her allies, and the Americas. Congress
+                    passed an embargo act in 1807 in retaliation, prohibiting U.S. vessels from
+                    trading with European nations, and later the Non-Intercourse Acts, aimed solely
+                    at France and Britain. The embargo and non-intercourse act proved ineffective
+                    and in 1810 the United States reopened trade with France and Great Britain
+                    provided they ceased their blockades against neutral trading. Great Britain
+                    continued to stop American merchant ships to search for Royal Navy deserters, to
+                    impress American seamen on the high seas into the Royal Navy, and to enforce its
+                    blockade of neutral commerce. Madison made the issue of impressment from ships
+                    under the American flag a matter of national sovereignty—even after the British
+                    agreed to end the practice—and asked Congress for a declaration of War on Great
+                    Britain on <date when="1812-06-01">June 1, 1812.</date> Many who supported the
+                    call to arms saw British and Spanish territory in North America as potential
+                    prizes to be won by battle or negotiations after a successful war.</p>
+                <p>Pro-British Federalists in Washington were outraged by what they considered
+                    Republican favoritism toward France. The leading Republican, <persName>Thomas
+                        Jefferson</persName> responded, that <quote>“the English being equally
+                        tyrannical at sea as he [Napoleon] is on land, and that tyranny bearing on
+                        us in every point of either honor or interest, I say ‘down with
+                        England.’”</quote> The United States declared the war on Britain. After
+                    Napoleon’s disastrous Russian campaign of 1812, the British concentrated on the
+                    American continent, enacting a crippling blockading of the east coast, attacking
+                    Washington and burning the White House and other Government buildings, and
+                    acquiring territory in Maine and the Great Lakes region. American forces,
+                    however, won important naval and military victories at sea, on Lake Champlain,
+                    and at Baltimore and Detroit. Canadians defeated an American invasion of Lower
+                    Canada. By 1814 neither side could claim a clear victory and both war weary
+                    combatants looked to a peaceful settlement.</p>
+                <p>Under the mediation of the Czar of Russia, Great Britain and the United States
+                    came together in the summer of 1814 to negotiate the terms of peace. On
+                    Christmas Eve British and American negotiators signed the Treaty of Ghent,
+                    restoring the political boundaries on the North American continent to the status
+                    quo ante bellum, establishing a boundary commission to resolve further
+                    territorial disputes, and creating peace with Indian nations on the frontier. As
+                    the Ghent negotiations suggested, the real causes of the war of 1812, were not
+                    merely commerce and neutral rights, but also western expansion, relations with
+                    American Indians, and territorial control of North America.</p>
+            </div>
+            <div type="section" xml:id="rush-bagot">
+                <head>Rush-Bagot Pact, <date when="1817">1817</date> and Convention of <date
+                        when="1818">1818</date>
+                </head>
+                <p>The Rush-Bagot Pact was an agreement between the United States and Great Britain
+                    to eliminate their fleets from the Great Lakes, excepting small patrol vessels.
+                    The Convention of 1818 set the boundary between the Missouri Territory in the
+                    United States and British North America (later Canada) at the forty-ninth
+                    parallel. Both agreements reflected the easing of diplomatic tensions that had
+                    led to the War of 1812 and marked the beginning of Anglo-American
+                    cooperation.</p>
+                <figure>
+                    <graphic url="greatlakes.jpg" height="200px" width="200px"/>
+                    <head>Map of the Great Lakes</head>
+                </figure>
+                <p>U.S. political leaders had long expressed interest in disarming the Great Lakes
+                    and had proposed such a measure during negotiations that led to the 1794 Jay
+                    Treaty, but British officials had rejected this proposal. During the War of
+                    1812, both Great Britain and the United States had built fleets of ships on
+                    lakes Erie and Ontario, and fought many battles in the region. Near the end of
+                    the war, U.S. forces had achieved dominance over the Lakes. After the war, both
+                    powers were wary of one another’s military strength and a postwar shipbuilding
+                    race ensued. However, both countries also wished to reduce their military
+                    expenditures. Unfortunately, the Treaty of Ghent, which ended the war, contained
+                    no disarmament provisions. However, it did establish commissions to resolve
+                    contested areas along the border (as determined by the 1783 Treaty of Paris)
+                    between the United States and British North America.</p>
+                <p>Although tensions between Great Britain and the United States remained high along
+                    the Great Lakes, overall relations improved. Postwar trade rebounded, and
+                    British political leaders increasingly viewed the United States as a valuable
+                    trading partner, while also realizing that British North America would be
+                    expensive and difficult to defend should another war break out. When U.S.
+                    Minister to Great Britain, <persName>John Quincy Adams</persName>, proposed
+                    disarmament on January 25, 1816, British Foreign Secretary Viscount Castlereagh
+                    responded favorably. The British Government had already dispatched
+                        <persName>Charles Bagot</persName> as Minister to the United States with the
+                    intention of improving relations between the two countries.</p>
+                <p>Bagot met with Secretary of State <persName>James Monroe</persName> informally,
+                    and finally reached an agreement with his successor, Acting Secretary
+                        <persName>Richard Rush.</persName> The agreement limited military navigation
+                    on the Great Lakes to one to two vessels per country on each lake. The U.S.
+                    Senate ratified the agreement on April 28, 1818. The British Government
+                    considered a diplomatic exchange of letters between Rush and Bagot sufficient to
+                    make the agreement effective.</p>
+                <figure>
+                    <graphic url="richardrush.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State Richard Rush</head>
+                </figure>
+                <p>In addition to the issue of military navigation of the Great Lakes, the British
+                    Government was also open to negotiations regarding a number of other points of
+                    contention that had not been resolved by the Treaty of Ghent. Several
+                    commissions met to settle border disputes along the U.S. border with British
+                    North America. One of these commissions awarded several islands off the coasts
+                    of Maine to New Brunswick. However, negotiators deadlocked over other parts of
+                    the northern borders of Maine and New Hampshire. That issue would not be
+                    resolved until the <ref target="/milestones/1830-1860/webster-treaty">1842
+                        Webster-Ashburton Treaty</ref>, which also resolved the border between
+                    Canada and northeastern Minnesota.</p>
+                <p>Several other separate committees determined other stretches of border that
+                    negotiators at the <ref target="/milestones/1776-1783/treaty">1783 Treaty of
+                        Paris</ref> had drawn with faulty maps. The commissions divided the St.
+                    Lawrence and other rivers connecting the Great Lakes to allow both countries
+                    navigable channels, and handed Wolfe Island near Kingston, Ontario to the
+                    British and Grosse Île near Detroit to the United States. British and U.S.
+                    negotiators also agreed to make present-day Angle Inlet, Minnesota the end point
+                    of the 1783 border and to allow the Convention of 1818, concluded by Rush and
+                    Albert Gallatin, to determine the border to the west of that point.</p>
+                <p>While these commissions debated border issues, Rush and Gallatin concluded the
+                    Anglo-American Convention of 1818 that, among other things, confirmed permanent
+                    U.S. rights to fish off Newfoundland and Labrador. The Convention also made
+                    provisions for Russian mediation over the issue of escaped slaves in British
+                    hands (U.S. slaveowners were eventually provided monetary compensation) and also
+                    determined that the border from Angle Inlet would run south to the forty-ninth
+                    parallel, and then due west to the Rocky Mountains. The Oregon Country would
+                    remain open to both countries for ten years.</p>
+                <p>Although the agreements did not completely settle border disputes and trade
+                    arrangements, the Rush-Bagot agreement and the Convention of 1818 marked an
+                    important turning point in Anglo-American and American-Canadian relations.</p>
+            </div>
+            <div type="section" xml:id="florida">
+                <head>Acquisition of Florida: Treaty of Adams-Onis <date when="1819">(1819)</date>
+                    and Transcontinental Treaty <date when="1821">(1821)</date>
+                </head>
+                <p>The colonies of East Florida and West Florida remained loyal to the British
+                    during the war for American independence, but by the <ref
+                        target="/milestones/1776-1783/treaty">Treaty of Paris</ref> in 1783 they
+                    returned to Spanish control. After 1783, Americans immigrants moved into West
+                    Florida.</p>
+                <figure>
+                    <graphic url="eastwestflorida.jpg" height="200px" width="200px"/>
+                    <head>East and West Florida</head>
+                </figure>
+                <p>In 1810, these American settlers in West Florida rebelled, declaring independence
+                    from Spain. President <ref target="/departmenthistory/people/madison-james"
+                        >James Madison</ref> and Congress used the incident to claim the region,
+                    knowing full well that the Spanish government was seriously weakened by
+                    Napoleon’s invasion of Spain. The United States asserted that the portion of
+                    West Florida from the Mississippi to the Perdido rivers was part of the <ref
+                        target="/milestones/1801-1829/louisiana-purchase">Louisiana Purchase of
+                        1803</ref>. Negotiations over Florida began in earnest with the mission of
+                    Don Luis de Onís to Washington in 1815 to meet Secretary of State
+                        <persName>James Monroe.</persName> The issue was not resolved until Monroe
+                    was president and <ref target="/departmenthistory/people/adams-john-quincy">John
+                        Quincy Adams</ref> his Secretary of State. Although U.S. Spanish relations
+                    were strained over suspicions of American support for the independence struggles
+                    of Spanish-American colonies, the situation became critical when General Andrew
+                    Jackson seized the Spanish forts at Pensacola and St. Marks in his 1818
+                    authorized raid against Seminoles and escaped slaves who were viewed as a
+                    threat to Georgia. Jackson executed two British citizens on charges of inciting
+                    the Indians and runaways. Monroe’s government seriously considered denouncing
+                    Jackson’s actions, but Adams defended the Jackson citing the necessity to
+                    restrain the Indians and escaped slaves since the Spanish failed to do so. Adams
+                    also sensed that Jackson’s Seminole campaign was popular with Americans and it
+                    strengthened his diplomatic hand with Spain.</p>
+                <figure>
+                    <graphic url="johnquincyadams.jpg" height="200px" width="200px"/>
+                    <head>John Quincy Adams</head>
+                </figure>
+                <p>Adams used the Jackson’s military action to present Spain with a demand to either
+                    control the inhabitants of East Florida or cede it to the United States.
+                    Minister Onís and Secretary Adams reached an agreement whereby Spain ceded East
+                    Florida to the United States and renounced all claim to West Florida. Spain
+                    received no compensation, but the United States agreed to assume liability for
+                    $5 million in damage done by American citizens who rebelled against Spain. Under
+                    the Onís-Adams Treaty of 1819 (also called the Transcontinental Treaty and
+                    ratified in 1821) the United States and Spain defined the western limits of the
+                    Louisiana Purchase and Spain surrendered its claims to the Pacific Northwest. In
+                    return, the United States recognized Spanish sovereignty over Texas. </p>
+            </div>
+            <div type="section" xml:id="monroe">
+                <head>Monroe Doctrine, <date when="1823">1823</date>
+                </head>
+                <p>In his December 2, 1823, address to Congress, President <ref
+                        target="/departmenthistory/people/monroe-james">James Monroe</ref>
+                    articulated United States’ policy on the new political order developing in the
+                    rest of the Americas and the role of Europe in the Western Hemisphere.</p>
+                <figure>
+                    <graphic url="jmonroe.jpg" height="200px" width="200px"/>
+                    <head>President James Monroe</head>
+                </figure>
+                <p>The statement, known as the Monroe Doctrine, was little noted by the Great Powers
+                    of Europe, but eventually became a longstanding tenet of U.S. foreign policy.
+                    Monroe and his Secretary of State <ref
+                        target="/departmenthistory/people/adams-john-quincy">John Quincy Adams</ref>
+                    drew upon a foundation of American diplomatic ideals such as disentanglement
+                    from European affairs and defense of neutral rights as expressed in Washington’s
+                    Farewell Address and Madison’s stated rationale for waging the <ref
+                        target="/milestones/1801-1829/war-of-1812">War of 1812</ref>. The three main
+                    concepts of the doctrine—separate spheres of influence for the Americas and
+                    Europe, non-colonization, and non-intervention—were designed to signify a clear
+                    break between the New World and the autocratic realm of Europe. Monroe’s
+                    administration forewarned the imperial European powers against interfering in
+                    the affairs of the newly independent Latin American states or potential United
+                    States territories. While Americans generally objected to European colonies in
+                    the New World, they also desired to increase United States influence and trading
+                    ties throughout the region to their south. European mercantilism posed the
+                    greatest obstacle to economic expansion. In particular, Americans feared that
+                    Spain and France might reassert colonialism over the Latin American peoples who
+                    had just overthrown European rule. Signs that Russia was expanding its presence
+                    southward from Alaska toward the Oregon Territory were also disconcerting.</p>
+                <p>For their part, the British also had a strong interest in ensuring the demise of
+                    Spanish colonialism, with all the trade restrictions mercantilism imposed.
+                    Earlier in 1823 British Foreign Minister George Canning suggested to Americans
+                    that two nations issue a joint declaration to deter any other power from
+                    intervening in Central and South America. Secretary of State <ref
+                        target="/departmenthistory/people/adams-john-quincy">John Quincy
+                    Adams</ref>, however, vigorously opposed cooperation with Great Britain,
+                    contending that a statement of bilateral nature could limit United States
+                    expansion in the future. He also argued that the British were not committed to
+                    recognizing the Latin American republics and must have had imperial motivations
+                    themselves.</p>
+                <figure>
+                    <graphic url="canning.jpg" height="200px" width="200px"/>
+                    <head>British Foreign Minister George Canning</head>
+                </figure>
+                <p>The bilateral statement proposed by the British thereby became a unilateral
+                    declaration by the United States. As Monroe stated: <quote>“The American
+                        continents … are henceforth not to be considered as subjects for future
+                        colonization by any European powers.”</quote> Monroe outlined two separate
+                    spheres of influence: the Americas and Europe. The independent lands of the
+                    Western Hemisphere would be solely the United States’ domain. In exchange, the
+                    United States pledged to avoid involvement in the political affairs of Europe,
+                    such as the ongoing Greek struggle for independence from the Ottoman Empire, and
+                    not to interfere in the existing European colonies already in the Americas.</p>
+                <p>By the mid-1800s, Monroe’s declaration, combined with ideas of Manifest Destiny,
+                    provided precedent and support for U.S. expansion on the American continent. In
+                    the late 1800s, U.S. economic and military power enabled it to enforce the
+                    Monroe Doctrine. The doctrine’s greatest extension came with <ref
+                        target="/milestones/1899-1913/roosevelt-and-monroe-doctrine">Theodore
+                        Roosevelt’s Corollary</ref>, which inverted the original meaning of the
+                    doctrine and came to justify unilateral U.S. intervention in Latin America.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

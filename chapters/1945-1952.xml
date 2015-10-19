@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1945–1952</title>
+                <title type="short">1945–1952</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc> 
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31" target="#berlin-airlift"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1945" to="1952">1945–1952</date>: The Early Cold War</head>
+                <p>The United States emerged from World War II as one of the foremost economic,
+                    political, and military powers in the world. Wartime production pulled the
+                    economy out of depression and propelled it to great profits. In the interest of
+                    avoiding another global war, for the first time the United States began to use
+                    economic assistance as a strategic element of its foreign policy and offered
+                    significant assistance to countries in Europe and Asia struggling to rebuild
+                    their shattered economies.</p>
+                <figure>
+                    <graphic url="churchill-speach.jpg" height="200px" width="200px"/>
+                    <head>British Prime Minister Winston Churchill and President Harry Truman at the famous
+                        “Iron Curtain” Speech</head>
+                </figure>
+                <p>In contrast to American unwillingness to politically or militarily entangle
+                    itself in the League of Nations, the United States became one of the first
+                    members of the international organization designed to promote international
+                    security, commerce, and law, the United Nations. The United States also took an
+                    active interest in the fate of the colonies the European powers were having
+                    difficulty maintaining. In addition to these challenges, the United States faced
+                    increasing resistance from the Soviet Union which had rescinded on a number of
+                    wartime promises. As the Soviets demonstrated a keen interest in dominating
+                    Eastern Europe, the United States took the lead in forming a Western alliance to
+                    counterbalance the communist superpower to contain the spread of communism. At
+                    the same time, the United States restructured its military and intelligence
+                    forces, both of which would have a significant influence in U.S. Cold War
+                    policy.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="atomic">
+                <head>Atomic Diplomacy</head>
+                <p>Atomic diplomacy refers to attempts to use the threat of nuclear warfare to
+                    achieve diplomatic goals. After the first successful test of the atomic bomb in
+                        <date when="1945">1945</date>, U.S. officials immediately considered the
+                    potential non-military benefits that could be derived from the American nuclear
+                    monopoly. In the years that followed, there were several occasions in which
+                    government officials used or considered atomic diplomacy.</p>
+                <figure>
+                    <graphic url="a-bomb.jpg" height="200px" width="200px"/>
+                    <head>Atomic bombing of Nagasaki on August 9, 1945</head>
+                </figure>
+                <p>During the Second World War, the United States, Britain, Germany and the U.S.S.R.
+                    were all engaged in scientific research to develop the atomic bomb. By mid-1945,
+                    however, only the United States had succeeded, and it used two atomic weapons on
+                    the cities of Hiroshima and Nagasaki to bring a rapid and conclusive end to the
+                    war with Japan. U.S. officials did not debate at length whether to use the
+                    atomic bomb against Japan, but argued that it was a means to a faster end to the
+                    Pacific conflict that would ensure fewer conventional war casualties. They did,
+                    however, consider the role that the bomb’s impressive power could play in
+                    postwar U.S. relations with the Soviet Union.</p>
+                <p> While presiding over the U.S. development of nuclear weapons, President
+                        <persName>Franklin Roosevelt</persName> made the decision not to inform the
+                    Soviet Union of the technological developments. After Roosevelt’s death,
+                    President <persName>Harry Truman</persName> had to decide whether to continue
+                    this policy of guarding nuclear information. Ultimately, Truman mentioned the
+                    existence of a particularly destructive bomb to Soviet Premier Joseph Stalin at
+                    the Allied meeting at Postdam, but he did not provide specifics about the weapon
+                    or its uses. By mid-1945, it was clear the Soviet Union would enter into the war
+                    in the Pacific and thereby be in a position to influence the postwar balance of
+                    power in the region. U.S. officials recognized there was little chance of
+                    preventing this, although they preferred a U.S.-led occupation of Japan rather
+                    than a co-occupation as had been arranged for Germany. Some U.S. policymakers
+                    hoped that the U.S. monopoly on nuclear technology and the demonstration of its
+                    destructive power in Japan might influence the Soviets to make concessions,
+                    either in Asia or in Europe. Truman did not threaten Stalin with the bomb,
+                    recognizing instead that its existence alone would limit Soviet options and be
+                    considered a threat to Soviet security.</p>
+                <figure>
+                    <graphic url="potsdam.jpg" width="200px" height="200px"/>
+                    <head>The Potsdam Conference</head>
+                </figure>
+                <p>Scholars debate the extent to which Truman’s mention of the bomb at <ref target="/milestones/1937-1945/potsdam-conf">Potsdam</ref> and his use of the
+                    weapon in Japan represent atomic diplomacy. In 1965, historian Gar Alperovitz
+                    published a book which argued that the use of nuclear weapons on the Japanese
+                    cities of Hiroshima and Nagasaki was intended to gain a stronger position for
+                    postwar diplomatic bargaining with the Soviet Union, as the weapons themselves
+                    were not needed to force the Japanese surrender. Other scholars disagree, and
+                    suggest that Truman thought the bomb necessary to achieve the unconditional
+                    surrender of recalcitrant Japanese military leaders determined to fight to the
+                    death. Even if Truman did not intend to use the implied threat of the weapon to
+                    gain the upper hand over Stalin, the fact of the U.S. atomic monopoly following
+                    the successful atomic test at Alamogordo, New Mexico in July of 1945 seemed to
+                    have bolstered his confidence at subsequent meetings, making him more determined
+                    to obtain compromises from the Soviet government. Even so, if U.S. officials
+                    hoped that the threat of the bomb would soften Soviet resistance to American
+                    proposals for free elections in Eastern Europe or reduced Soviet control over
+                    the Balkans, they were disappointed, as the security issues raised by the dawn
+                    of the atomic age likely made the Soviet Union even more anxious to protect its
+                    borders with a controlled buffer zone.</p>
+                <p>In the years that immediately followed the Second World War, the U.S. confidence
+                    in its nuclear monopoly had ramifications for its diplomatic agenda. The fact of
+                    the bomb was useful in ensuring that Western Europe would rely on the United
+                    States to guarantee its security rather than seeking an outside accommodation
+                    with the Soviet Union, because even if the United States did not station large
+                    numbers of troops on the continent, it could protect the region by placing it
+                    under the American “nuclear umbrella” of areas that the United States professed
+                    to be willing to use the bomb to defend. The U.S. insistence on hegemony in the
+                    occupation and rehabilitation of Japan stemmed in part from the confidence of
+                    being the sole nuclear power and in part from what that nuclear power had
+                    gained: Japan’s total surrender to U.S. forces. Though it inspired greater
+                    confidence in the immediate postwar years, the U.S. nuclear monopoly was not of
+                    long duration; the Soviet Union successfully exploded its first atomic bomb in
+                    1949, the United Kingdom in 1952, France in 1960 and the People’s Republic of
+                    China in 1964.</p>
+                <figure>
+                    <graphic url="b-29.jpg" height="200px" width="200px"/>
+                    <head>B-29 Bomber</head>
+                </figure>
+                <p>In the first two decades of the Cold War, there were a number of occasions during
+                    which a form of atomic diplomacy was employed by either side of the conflict.
+                    During the Berlin Blockade of <date from="1948" to="1949">1948–49</date>,
+                    President Truman transferred several B-29 bombers capable of delivering nuclear
+                    bombs to the region to signal to the Soviet Union that the United States was
+                    both capable of implementing a nuclear attack and willing to execute it if it
+                    became necessary. During the Korean War, President Truman once again deployed
+                    the B-29s to signal U.S. resolve. In 1953, President <persName>Dwight D.
+                        Eisenhower</persName> considered, but ultimately rejected the idea of using
+                    nuclear coercion to further negotiations on the cease fire agreement that ended
+                    the <ref target="/milestones/1945-1952/korean-war">war in Korea</ref>. In an
+                    about face, in 1962, the Soviet deployment of nuclear missiles to Cuba in order
+                    to try to force U.S. concessions on Europe became another example of atomic
+                    diplomacy.</p>
+                <p>By the time the United States was attempting to disengage from the war in
+                    Vietnam, however, the idea of atomic diplomacy had lost credibility. By the
+                    mid-1960s, the United States and the Soviet Union had achieved approximate
+                    parity, and their security was based on the principle of mutually assured
+                    destruction. Because neither could make the first strike without the threat of a
+                    counterstrike, the benefits of using nuclear weapons in a conflict—even in a
+                    proxy war—were greatly diminished. So although President Nixon briefly
+                    considered using the threat of the bomb to help bring about an end to the war in
+                    Vietnam, he realized that that there remained the threat that the Soviet Union
+                    would retaliate against the United States on behalf of North Vietnam and that
+                    both international and domestic public opinion would never accept the use of the
+                    bomb.</p>
+                <p>In spite of the many threats made over the course of the Cold War, atomic weapons
+                    were not used in any conflict after the Second World War. Although the existence
+                    of nuclear weapons could continue to act as a deterrent, their diplomatic
+                    utility had its limits.</p>
+            </div>
+            <div type="section" xml:id="nuremberg">
+                <head>The Nuremberg Trial and the Tokyo War Crimes Trials (1945–1948) </head>
+                <p>Following World War II, the victorious Allied governments established the first
+                    international criminal tribunals to prosecute high-level political officials and
+                    military authorities for war crimes and other wartime atrocities. The four major
+                    Allied powers—France, the Soviet Union, the United Kingdom, and the United
+                    States—set up the International Military Tribunal (IMT) in Nuremberg, Germany,
+                    to prosecute and punish “the major war criminals of the European Axis.” The IMT
+                    presided over a combined trial of senior Nazi political and military leaders, as
+                    well as several Nazi organizations. The lesser-known International Military
+                    Tribunal for the Far East (IMTFE) was created in Tokyo, Japan, pursuant to a
+                    1946 proclamation by U.S. Army General Douglas MacArthur, Supreme Commander for
+                    the Allied Powers in occupied Japan. The IMTFE presided over a series of trials
+                    of senior Japanese political and military leaders pursuant to its authority “to
+                    try and punish Far Eastern war criminals.”</p>
+                <figure>
+                    <graphic url=""/>
+                    <head>Needs caption</head>
+                </figure>
+                <p>The origins, composition, and jurisdiction of the Nuremberg and Tokyo tribunals
+                    differed in several important respects beyond their geographical differences and
+                    personalities. Plans to prosecute German political and military leaders were
+                    announced in the 1942 St. James Declaration. In the declaration, the United
+                    States joined Australia, Canada, China, India, New Zealand, the Union of South
+                    Africa, the Soviet Union, and nine exiled governments of German-occupied
+                    countries to condemn Germany’s “policy of aggression.” The Declaration stated
+                    that these governments “placed among their principal war aims the punishment,
+                    through the channel of organized justice, of those guilty of or responsible for
+                    these crimes, whether they have ordered them, perpetrated them or participated
+                    in them.”</p>
+                <p>In August 1945, the four major Allied powers therefore signed the 1945 London
+                    Agreement, which established the IMT. The following additional countries
+                    subsequently “adhered” to the agreement to show their support: Australia,
+                    Belgium, Czechoslovakia, Denmark, Ethiopia, Greece, Haiti, Honduras, India,
+                    Luxembourg, the Netherlands, New Zealand, Norway, Panama, Paraguay, Poland,
+                    Uruguay, and Yugoslavia.</p>
+                <p>The Charter of the International Military Tribunal (or Nuremberg Charter) was
+                    annexed to the 1945 London Agreement and outlined the tribunal’s constitution,
+                    functions, and jurisdiction. The Nuremberg tribunal consisted of one judge from
+                    each of the Allied powers, which each also supplied a prosecution team. The
+                    Nuremberg Charter also provided that the IMT had the authority to try and punish
+                    persons who “committed any of the following crimes:”</p>
+                <list type="simple">
+                    <item>(a) Crimes Against Peace: namely, planning, preparation, initiation or
+                        waging of a war of aggression, or a war in violation of international
+                        treaties, agreements or assurances, or participation in a Common Plan or
+                        Conspiracy for the accomplishment of any of the foregoing;</item>
+                    <item>(b) War Crimes: namely, violations of the laws or customs of war. Such
+                        violations shall include, but not be limited to, murder, ill-treatment or
+                        deportation to slave labor or for any other purpose of civilian population
+                        of or in occupied territory, murder or ill-treatment of prisoners of war or
+                        persons on the seas, killing of hostages, plunder of public or private
+                        property, wanton destruction of cities, towns, or villages, or devastation
+                        not justified by military necessity;</item>
+                    <item>(c) Crimes Against Humanity: namely, murder, extermination, enslavement,
+                        deportation, and other inhumane acts committed against any civilian
+                        population, before or during the war, or persecutions on political, racial,
+                        or religious grounds in execution of or in connection with any crime within
+                        the jurisdiction of the Tribunal, whether or not in violation of domestic
+                        law of the country where perpetrated.</item>
+                </list>
+                <p>The IMT prosecutors indicted twenty-two senior German political and military
+                    leaders, including Hermann Goering, Rudolph Hess, Joachim von Ribbentrop, Alfred
+                    Rosenberg, and Albert Speer. Nazi leader Adolf Hitler was not indicted because
+                    he had committed suicide in April 1945, in the final days before Germany’s
+                    surrender. Seven Nazi organizations also were indicted. The prosecutors sought
+                    to have the tribunal declare that these organizations were “criminal
+                    organizations” in order to facilitate the later prosecution of their members by
+                    other tribunals or courts.</p>
+                <p>The Nuremberg Trial lasted from November 1945 to October 1946. The tribunal found
+                    nineteen individual defendants guilty and sentenced them to punishments that
+                    ranged from death by hanging to fifteen years’ imprisonment. Three defendants
+                    were found not guilty, one committed suicide prior to trial, and one did not
+                    stand trial due to physical or mental illness. The Nuremberg Tribunal also
+                    concluded that three of the seven indicted Nazi organizations were “criminal
+                    organizations” under the terms of the Charter: the Leadership Corps of the Nazi
+                    party; the elite “SS” unit, which carried out the forced transfer, enslavement,
+                    and extermination of millions of persons in concentration camps; and the Nazi
+                    security police and the Nazi secret police, commonly known as the ‘SD’ and
+                    ‘Gestapo,’ respectively, which had instituted slave labor programs and deported
+                    Jews, political opponents, and other civilians to concentration camps.</p>
+                <p>Unlike the IMT, the IMTFE was not created by an international agreement, but it
+                    nonetheless emerged from international agreements to try Japanese war criminals.
+                    In July 1945, China, the United Kingdom, and the United States signed the
+                    Potsdam Declaration, in which they demanded Japan’s “unconditional surrender”
+                    and stated that “stern justice shall be meted out to all war criminals.” At the
+                    time that the Potsdam Declaration was signed, the war in Europe had ended but
+                    the war with Japan was continuing. The Soviet Union did not sign the declaration
+                    because it did not declare war on Japan until weeks later, on the same day that
+                    the United States dropped the second atomic bomb at Nagasaki. Japan surrendered
+                    six days later, on August 14, 1945.</p>
+                <p>At the subsequent Moscow Conference, held in December 1945, the Soviet Union, the
+                    United Kingdom, and the United States (with concurrence from China) agreed to a
+                    basic structure for the occupation of Japan. General MacArthur, as Supreme
+                    Commander of the Allied Powers, was granted authority to “issue all orders for
+                    the implementation of the Terms of Surrender, the occupation and control of
+                    Japan, and all directives supplementary thereto.”</p>
+                <p>In January 1946, acting pursuant to this authority, General MacArthur issued a
+                    special proclamation that established the IMTFE. The Charter for the
+                    International Military Tribunal for the Far East was annexed to the
+                    proclamation. Like the Nuremberg Charter, it laid out the composition,
+                    jurisdiction, and functions of the tribunal.</p>
+                <p>The Charter provided for MacArthur to appoint judges to the IMTFE from the
+                    countries that had signed Japan’s instrument of surrender: Australia, Canada,
+                    China, France, India, the Netherlands, Philippines, the Soviet Union, the United
+                    Kingdom, and the United States. Each of these countries also had a prosecution
+                    team.</p>
+                <p> As with the IMT, the IMTFE had jurisdiction to try individuals for Crimes
+                    Against Peace, War Crimes, and Crimes Against Humanity, and the definitions were
+                    nearly verbatim to those contained in the Nuremberg Charter. The IMTFE
+                    nonetheless had jurisdiction over crimes that occurred over a greater period of
+                    time, from the 1931 Japanese invasion of Manchuria to Japan’s 1945
+                    surrender.</p>
+                <p>The IMTFE presided over the prosecution of nine senior Japanese political leaders
+                    and eighteen military leaders. A Japanese scholar also was indicted, but charges
+                    against him were dropped during the trial because he was declared unfit due to
+                    mental illness. Japanese Emperor Hirohito and other members of the imperial
+                    family were not indicted. In fact, the Allied powers permitted Hirohito to
+                    retain his position on the throne, albeit with diminished status.</p>
+                <p>The Tokyo War Crimes Trials took place from May 1946 to November 1948. The IMTFE
+                    found all remaining defendants guilty and sentenced them to punishments ranging
+                    from death to seven years’ imprisonment; two defendants died during the
+                    trial.</p>
+                <p>After the Nuremberg and Tokyo War Crimes trials, additional trials were held to
+                    try “minor” war criminals. These subsequent trials, however, were not held by
+                    international tribunals but instead by domestic courts or by tribunals operated
+                    by a single Allied power, such as military commissions. In Germany, for example,
+                    each of the Allied powers held trials for alleged war criminals found within
+                    their respective zones of occupation. The United States held twelve such trials
+                    from 1945 to 1949, each of which combined defendants who were accused of similar
+                    acts or had participated in related events. These trials also were held in
+                    Nuremberg and thus became known informally as the “subsequent Nuremberg trials.”
+                    In Japan, several additional trials were held in cities outside Tokyo.</p>
+                <p>The Nuremberg and Tokyo tribunals contributed significantly to the development of
+                    international criminal law, then in its infancy. For several decades, these
+                    tribunals stood as the only examples of international war crimes tribunals, but
+                    they ultimately served as models for a new series of international criminal
+                    tribunals that were established beginning in the 1990s. In addition, the
+                    Nuremberg Charter’s reference to “crimes against peace,” “war crimes,” and
+                    “crimes against humanity” represented the first time these terms were used and
+                    defined in an adopted international instrument. These terms and definitions were
+                    adopted nearly verbatim in the Charter of the IMTFE, but have been replicated
+                    and expanded in a succession of international legal instruments since that
+                    time.</p>
+            </div>
+            <div type="section" xml:id="japan-reconstruction">
+                <head>Occupation and Reconstruction of Japan, <date from="1945" to="1952">1945–52</date>
+                </head>
+                <p>After the defeat of <placeName>Japan</placeName> in World War II, the United
+                    States led the Allies in the occupation and rehabilitation of the Japanese
+                    state. Between 1945 and 1952, the U.S. occupying forces, led by General Douglas
+                    A. MacArthur, enacted widespread military, political, economic, and social
+                    reforms.</p>
+                <figure>
+                    <graphic url="japan.jpg" height="200px" width="200px"/>
+                    <head>Allied Occupation in Japan after WWII</head>
+                </figure>
+                <p>The groundwork for the Allied occupation of a defeated Japan was laid during the
+                    war. In a <ref target="/milestones/1937-1945/war-time-conferences">series of
+                        wartime conferences</ref>, the leaders of the Allied powers of Great
+                    Britain, the Soviet Union, the Republic of China, and the United States
+                    discussed how to disarm Japan, deal with its colonies (especially Korea and
+                    Taiwan), stabilize the Japanese economy, and prevent the remilitarization of the
+                    state in the future. In the <ref target="/milestones/1937-1945/potsdam-conf">Potsdam Declaration</ref>, they called for Japan’s unconditional surrender;
+                    by August of 1945, that objective had been achieved.</p>
+                <p>In September, 1945, General <persName>Douglas MacArthur</persName> took charge of
+                    the Supreme Command of Allied Powers (SCAP) and began the work of rebuilding
+                    Japan. Although Great Britain, the Soviet Union, and the Republic of China had
+                    an advisory role as part of an “Allied Council,” MacArthur had the final
+                    authority to make all decisions. The occupation of Japan can be divided into
+                    three phases: the initial effort to punish and reform Japan, the work to revive
+                    the Japanese economy, and the conclusion of a formal peace treaty and
+                    alliance.</p>
+                <p>The first phase, roughly from the end of the war in 1945 through 1947, involved
+                    the most fundamental changes for the Japanese Government and society. The Allies
+                    punished Japan for its past militarism and expansion by convening war crimes
+                    trials in Tokyo. At the same time, SCAP dismantled the Japanese army and banned
+                    former military officers from taking roles of political leadership in the new
+                    government. In the economic field, SCAP introduced land reform, designed to
+                    benefit the majority tenant farmers and reduce the power of rich landowners,
+                    many of whom had advocated for war and supported Japanese expansionism in the
+                    1930s. MacArthur also tried to break up the large Japanese business
+                    conglomerates, or zaibatsu, as part of the effort to transform the economy into
+                    a free market capitalist system. In 1947, Allied advisors essentially dictated a
+                    new constitution to Japan’s leaders. Some of the most profound changes in the
+                    document included downgrading the emperor’s status to that of a figurehead
+                    without political control and placing more power in the parliamentary system,
+                    promoting greater rights and privileges for women, and renouncing the right to
+                    wage war, which involved eliminating all non-defensive armed forces.</p>
+                <figure>
+                    <graphic url="macarthur-hirohito.jpg" height="200px" width="200px"/>
+                    <head>General MacArthur and Japanese Emperor Hirohito</head>
+                </figure>
+                <p>By late 1947 and early 1948, the emergence of an economic crisis in Japan
+                    alongside concerns about the spread of communism sparked a reconsideration of
+                    occupation policies. This period is sometimes called the “reverse course.” In
+                    this stage of the occupation, which lasted until 1950, the economic
+                    rehabilitation of Japan took center stage. SCAP became concerned that a weak
+                    Japanese economy would increase the influence of the domestic communist
+                    movement, and with a communist victory in China’s civil war increasingly likely,
+                    the future of East Asia appeared to be at stake. Occupation policies to address
+                    the weakening economy ranged from tax reforms to measures aimed at controlling
+                    inflation. However the most serious problem was the shortage of raw materials
+                    required to feed Japanese industries and markets for finished goods. The
+                    outbreak of the Korean War in 1950 provided SCAP with just the opportunity it
+                    needed to address this problem, prompting some occupation officials to suggest
+                    that, <ref target="/milestones/1945-1952/korean-war">“Korea came along and saved
+                        us.”</ref> After the UN entered the Korean War, Japan became the principal
+                    supply depot for UN forces. The conflict also placed Japan firmly within the
+                    confines of the U.S. defense perimeter in Asia, assuring the Japanese leadership
+                    that whatever the state of its military, no real threat would be made against
+                    Japanese soil.</p>
+                <p>In the third phase of the occupation, beginning in 1950, SCAP deemed the
+                    political and economic future of Japan firmly established and set about securing
+                    a formal peace treaty to end both the war and the occupation. The U.S.
+                    perception of international threats had changed so profoundly in the years
+                    between 1945 and 1950 that the idea of a re-armed and militant Japan no longer
+                    alarmed U.S. officials; instead, the real threat appeared to be the creep of
+                    communism, particularly in Asia. The final agreement allowed the United States
+                    to maintain its bases in Okinawa and elsewhere in Japan, and the U.S. Government
+                    promised Japan a bilateral security pact. In September of 1951, fifty-two
+                    nations met in San Francisco to discuss the treaty, and ultimately, forty-nine
+                    of them signed it. Notable holdouts included the USSR, Poland and
+                    Czechoslovakia, all of which objected to the promise to support the Republic of
+                    China and not do business with the People’s Republic of China that was forced on
+                    Japan by U.S. politicians.</p>
+            </div>
+            <div type="section" xml:id="baruch-plans">
+                <head>The Acheson-Lilienthal &amp; Baruch Plans, <date when="1946">1946</date>
+                </head>
+                <p>On June 14, 1946, before a session of the United Nations Atomic Energy Commission
+                    (UNAEC), U.S. representative <ref target="/departmenthistory/people/baruch-herman-benjamin">Bernard
+                        Baruch</ref>, presented a proposal for the creation of an international
+                    Atomic Development Authority. The presentation of the Baruch Plan marked the
+                    culmination of an effort to establish international oversight of the use of
+                    atomic energy in the hopes of avoiding unchecked proliferation of nuclear power
+                    in the post World War II period.</p>
+                <figure>
+                    <graphic url="churchill-baruch.jpg" height="200px" width="200px"/>
+                    <head> Winston Churchill and Bernard Baruch talk in car in front of Baruch’s
+                        home, 14 April 1961</head>
+                </figure>
+                <p>The immediate origins of this effort can be traced to the Conference of Foreign
+                    Ministers held in Moscow between December 16 and 26, 1945. There representatives
+                    from the United States, Great Britain, and the Soviet Union created a United
+                    Nations commission to advise on the destruction of all existing atomic weapons
+                    and to work toward using atomic energy for peaceful purposes. The resulting
+                    body, the UNAEC, was created on January 24, 1946, with six permanent members
+                    (the United States, Britain, France, the Soviet Union, China, and Canada) and
+                    six rotating members.</p>
+                <p>That same month, U.S. Secretary of State <persName>James Byrnes</persName>
+                    created a special advisory committee, whose members included Under-Secretary of
+                    State <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean
+                        Acheson</ref> and the Chairman of the Tennessee Valley Authority David
+                    Lilienthal, to compose a report that the U.S. Government would present to the
+                    UNAEC. The committee presented their report to Secretary Byrnes in March.</p>
+                <p>The so-called Acheson-Lilienthal report, written in large part by the committee’s
+                    chief scientific consult, Robert Oppenheimer, called for the creation of the
+                    Atomic Development Authority to oversee the mining and use of fissile materials,
+                    the operation of all nuclear facilities that could produce weaponry, and the
+                    right to dispense licenses to those countries wishing to pursue peaceful nuclear
+                    research. The plan relied on Soviet-American cooperation, since its authors
+                    recognized that the Soviet Union was unlikely to cede its veto power in the
+                    United Nations Security Council over any matter. Moreover, it made no mention of
+                    when the United States should destroy its nuclear arsenal, though it did
+                    acknowledge that doing so was a necessity.</p>
+                <figure>
+                    <graphic url="sh-acheson-dean.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State Dean Acheson</head>
+                </figure>
+                <p>The day before the United States submitted the Acheson-Lilienthal report to the
+                    United Nations, President Truman appointed Bernard Baruch as the American
+                    delegate to the UNAEC. Truman considered Baruch to be a capable negotiator who
+                    would vigorously defend the interests of the United States. Given the cooling
+                    relationship between the Soviet Union and the United States, President Truman
+                    did not want to accept any international agreement that might force the United
+                    States to abolish its nuclear weapons program without assurances that the Soviet
+                    Union would be unable to produce its own atomic bomb.</p>
+                <p>Baruch presented a slightly different plan to the UNEAC. Under the Baruch Plan
+                    the Atomic Development Authority would oversee the development and use of atomic
+                    energy, manage any nuclear installation with the ability to produce nuclear
+                    weapons, and inspect any nuclear facility conducting research for peaceful
+                    purposes. The plan also prohibited the illegal possession of an atomic bomb, the
+                    seizure of facilities administered by the Atomic Development Authority, and
+                    punished violators who interfered with inspections. The Atomic Development
+                    Authority would answer only to the Security Council, which was charged with
+                    punishing those nations that violated the terms of the plan by imposing
+                    sanctions. Most importantly, the Baruch Plan would have stripped all members of
+                    the United Nations Security Council of their veto power concerning the issue of
+                    United Nations sanctions against nations that engaged in prohibited activities.
+                    Once the plan was fully implemented, the United States was to begin the process
+                    of destroying its nuclear arsenal.</p>
+                <p>The Soviets strongly opposed any plan that allowed the United States to retain
+                    its nuclear monopoly, not to mention international inspections of Soviet
+                    domestic nuclear facilities. The Soviets also rejected the idea of surrendering
+                    their Security Council veto over any issue as they argued that the council was
+                    already stacked in favor the United States.</p>
+                <p>By September 17, Baruch confessed to President Truman that he feared there was no
+                    possibility of reaching an agreement before the end of the year, at which point
+                    there would be a rotation of the non-permanent members of the UNAEC.
+                    Nevertheless, Baruch worried that delaying a vote until after the rotation of
+                    the members would destroy any chance of passing a resolution to create an Atomic
+                    Development Authority. As such, Baruch pushed for a formal vote before the end
+                    of the year in the hopes that, even if it did not pass, it would demonstrate the
+                    unreasonableness of the Soviet Union’s objections to a proposal that would spare
+                    the world a nuclear arms race. The vote was held on December 30, with 10 of the
+                    UNAEC’s 12 members in favor, while the other two members (the Soviet Union and
+                    Poland) abstained. The vote required unanimity to pass. As such, the Polish and
+                    Soviet abstentions thwarted the adoption of the Baruch Plan.</p>
+            </div>
+            <div type="section" xml:id="truman-doctrine">
+                <head>The Truman Doctrine, <date when="1947">1947</date>
+                </head>
+                <p>With the Truman Doctrine, President <persName>Harry S. Truman</persName>
+                    established that the United States would provide political, military and
+                    economic assistance to all democratic nations under threat from external or
+                    internal authoritarian forces. The Truman Doctrine effectively reoriented U.S.
+                    foreign policy, away from its usual stance of withdrawal from regional conflicts
+                    not directly involving the United States, to one of possible intervention in far
+                    away conflicts.</p>
+                <figure>
+                    <graphic url="truman-harry.jpg" height="200px" width="200px"/>
+                    <head>President Harry Truman</head>
+                </figure>
+                <p>The Truman Doctrine arose from a speech delivered by President Truman before a
+                    joint session of Congress on <date when="1947-03-12">March 12, 1947</date>. The
+                    immediate cause for the speech was a recent announcement by the British
+                    Government that, as of March 31, it would no longer provide military and
+                    economic assistance to the Greek Government in its civil war against the Greek
+                    Communist Party. Truman asked Congress to support the Greek Government against
+                    the Communists. He also asked Congress to provide assistance for Turkey, since
+                    that nation, too, had previously been dependent on British aid.</p>
+                <p>At the time, the U.S. Government believed that the Soviet Union supported the
+                    Greek Communist war effort and worried that if the Communists prevailed in the
+                    Greek civil war, the Soviets would ultimately influence Greek policy. In fact,
+                    Soviet leader <persName>Joseph Stalin</persName> had deliberately refrained from
+                    providing any support to the Greek Communists and had forced Yugoslav Prime
+                    Minister <persName>Josip Tito</persName> to follow suit, much to the detriment
+                    of Soviet-Yugoslav relations. However, a number of other foreign policy problems
+                    also influenced President Truman’s decision to actively aid Greece and Turkey.
+                    In 1946, four setbacks, in particular, had served to effectively torpedo any
+                    chance of achieving a durable post-war rapprochement with the Soviet Union: the
+                    Soviets’ failure to withdraw their troops from northern Iran in early 1946 (as
+                    per the terms of the <ref target="/milestones/1937-1945/tehran-conf">Tehran
+                        Declaration of 1943</ref>); Soviet attempts to pressure the Iranian
+                    Government into granting them oil concessions while supposedly fomenting
+                    irredentism by Azerbaijani separatists in northern Iran; Soviet efforts to force
+                    the Turkish Government into granting them base and transit rights through the
+                    Turkish Straits; and, the Soviet Government’s rejection of the Baruch plan for
+                    international control over nuclear energy and weapons in June 1946.</p>
+                <p>In light of the deteriorating relationship with the Soviet Union and the
+                    appearance of Soviet meddling in Greek and Turkish affairs, the withdrawal of
+                    British assistance to Greece provided the necessary catalyst for the Truman
+                    Administration to reorient American foreign policy. Accordingly, in his speech,
+                    President Truman requested that Congress provide $400,000,000 worth of aid to
+                    both the Greek and Turkish Governments and support the dispatch of American
+                    civilian and military personnel and equipment to the region.</p>
+                <p>Truman justified his request on two grounds. He argued that a Communist victory
+                    in the Greek Civil War would endanger the political stability of Turkey, which
+                    would undermine the political stability of the Middle East. This could not be
+                    allowed in light of the region’s immense strategic importance to U.S. national
+                    security. Truman also argued that the United States was compelled to assist
+                    “free peoples” in their struggles against “totalitarian regimes,” because the
+                    spread of authoritarianism would “undermine the foundations of international
+                    peace and hence the security of the United States.” In the words of the Truman
+                    Doctrine, it became “the policy of the United States to support free peoples who
+                    are resisting attempted subjugation by armed minorities or by outside
+                    pressures.”</p>
+                <p>Truman argued that the United States could no longer stand by and allow the
+                    forcible expansion of Soviet totalitarianism into free, independent nations,
+                    because American national security now depended upon more than just the physical
+                    security of American territory. Rather, in a sharp break with its traditional
+                    avoidance of extensive foreign commitments beyond the Western Hemisphere during
+                    peacetime, the Truman Doctrine committed the United States to actively offering
+                    assistance to preserve the political integrity of democratic nations when such
+                    an offer was deemed to be in the best interest of the United States.</p>
+            </div>
+            <div type="section" xml:id="national-security-act">
+                <head>National Security Act of <date when="1947">1947</date>
+                </head>
+                <p>The National Security Act of 1947 mandated a major reorganization of the foreign
+                    policy and military establishments of the U.S. Government. The act created many
+                    of the institutions that Presidents found useful when formulating and
+                    implementing foreign policy, including the National Security Council (NSC).</p>
+                <figure>
+                    <graphic url="sh-nsa-act.jpg" height="200px" width="200px"/>
+                    <head>President signing the National Security Act into Law</head>
+                </figure>
+                <p>The Council itself included the President, Vice President, Secretary of State,
+                    Secretary of Defense, and other members (such as the Director of the Central
+                    Intelligence Agency), who met at the White House to discuss both long-term
+                    problems and more immediate national security crises. A small NSC staff was
+                    hired to coordinate foreign policy materials from other agencies for the
+                    President. Beginning in 1953 the President’s Assistant for National Security
+                    Affairs directed this staff. Each President has accorded the NSC with different
+                    degrees of importance and has given the NSC staff varying levels of autonomy and
+                    influence over other agencies such as the Departments of State and Defense.
+                    President Dwight D. Eisenhower, for example, used the NSC meetings to make key
+                    foreign policy decisions, while <persName>John F. Kennedy</persName> and
+                        <persName>Lyndon B. Johnson</persName> preferred to work more informally
+                    through trusted associates. Under President Richard M. Nixon, the NSC staff,
+                    then headed by <persName>Henry A. Kissinger</persName>, was transformed from a
+                    coordinating body into an organization that actively engaged in negotiations
+                    with foreign leaders and implementing the President’s decisions. The NSC
+                    meetings themselves, however, were infrequent and merely confirmed decisions
+                    already agreed upon by Nixon and Kissinger.</p>
+                <p>The act also established the Central Intelligence Agency (CIA), which grew out of
+                    World War II era Office of Strategic Services and small post-war intelligence
+                    organizations. The CIA served as the primary civilian intelligence-gathering
+                    organization in the government. Later, the Defense Intelligence Agency became
+                    the main military intelligence body. The 1947 law also caused far-reaching
+                    changes in the military establishment. The War Department and Navy Department
+                    merged into a single Department of Defense under the Secretary of Defense, who
+                    also directed the newly created Department of the Air Force. However, each of
+                    the three branches maintained their own service secretaries. In 1949 the act was
+                    amended to give the Secretary of Defense more power over the individual services
+                    and their secretaries.</p>
+            </div>
+            <div type="section" xml:id="kennan">
+                <head>Kennan and Containment, <date when="1947">1947</date>
+                </head>
+                <p>
+                    <ref target="/departmenthistory/people/kennan-george-frost">George F.
+                        Kennan</ref>, a career Foreign Service Officer, formulated the policy of
+                    “containment,” the basic United States strategy for fighting the cold war
+                    (1947–1989) with the Soviet Union.</p>
+                <!--<figure>
+                    <graphic url="mkennan.jpg" height="200px" width="200px"/>
+                    <head>Artistic rendering of Secretary of State George F. Kennan</head>
+                </figure>-->
+                <p>Kennan’s ideas, which became the basis of the Truman administration’s foreign
+                    policy, first came to public attention in 1947 in the form of an anonymous
+                    contribution to the journal <hi rend="italic">Foreign Affairs</hi>, the
+                    so-called “X-Article.” “The main element of any United States policy toward the
+                    Soviet Union,” Kennan wrote, “must be that of a long-term, patient but firm and
+                    vigilant containment of Russian expansive tendencies.” To that end, he called
+                    for countering “Soviet pressure against the free institutions of the Western
+                    world” through the “adroit and vigilant application of counter-force at a series
+                    of constantly shifting geographical and political points, corresponding to the
+                    shifts and maneuvers of Soviet policy.” Such a policy, Kennan predicted, would
+                    “promote tendencies which must eventually find their outlet in either the
+                    break-up or the gradual mellowing of Soviet power.”</p>
+                <p>Kennan’s policy was controversial from the very beginning. Columnist
+                        <persName>Walter Lippmann</persName> attacked the X-Article for failing to
+                    differentiate between vital and peripheral interests. The United States,
+                    Kennan’s article implied, should face down the Soviet Union and its Communist
+                    allies whenever and wherever they posed a risk of gaining influence. In fact,
+                    Kennan advocated defending above all else the world’s major centers of
+                    industrial power against Soviet expansion: Western Europe, Japan, and the United
+                    States. Others criticized Kennan’s policy for being too defensive. Most notably,
+                        <ref target="/departmenthistory/people/dulles-john-foster">John Foster
+                        Dulles</ref> declared during the 1952 election campaign that the United
+                    States’ policy should not be containment, but the “rollback” of Soviet power and
+                    the eventual “liberation” of Eastern Europe. Even within the Truman
+                    administration there was a rift over containment between Kennan and <ref target="/departmenthistory/people/nitze-paul-henry">Paul Nitze</ref>,
+                    Kennan’s successor as director of the Policy Planning Staff. Nitze, who saw the
+                    Soviet threat primarily in military terms, interpreted Kennan’s call for “the
+                    adroit and vigilant application of counter-force” to mean the use of military
+                    power. In contrast, Kennan, who considered the Soviet threat to be primarily
+                    political, advocated above all else economic assistance (e.g., the Marshall
+                    Plan) and “psychological warfare” (overt propaganda and covert operations) to
+                    counter the spread of Soviet influence. In 1950, Nitze’s conception of
+                    containment won out over Kennan’s. NSC 68, a policy document prepared by the
+                    National Security Council and signed by Truman, called for a drastic expansion
+                    of the U.S. military budget. The paper also expanded containment’s scope beyond
+                    the defense of major centers of industrial power to encompass the entire world.
+                    “In the context of the present polarization of power,” it read, “a defeat of
+                    free institutions anywhere is a defeat everywhere.”</p>
+                <p>Despite all the criticisms and the various policy defeats that Kennan suffered in
+                    the early 1950’s, containment in the more general sense of blocking the
+                    expansion of Soviet influence remained the basic strategy of the United States
+                    throughout the cold war. On the one hand, the United States did not withdraw
+                    into isolationism; on the other, it did not move to “roll back” Soviet power, as
+                    John Foster Dulles briefly advocated. It is possible to say that each succeeding
+                    administration after Truman’s, until the collapse of communism in 1989, adopted
+                    a variation of Kennan’s containment policy and made it their own.</p>
+            </div>
+            <div type="section" xml:id="marshall-plan">
+                <head>Marshall Plan, <date when="1948">1948</date>
+                </head>
+                <p>In the immediate post-World War II period, Europe remained ravaged by war and
+                    thus susceptible to exploitation by an internal and external Communist threat.
+                    In a June 5, 1947, speech to the graduating class at Harvard University,
+                    Secretary of State <ref target="/departmenthistory/people/marshall-george-catlett">George C.
+                        Marshall</ref> issued a call for a comprehensive program to rebuild Europe.
+                    Fanned by the fear of Communist expansion and the rapid deterioration of
+                    European economies in the winter of 1946–1947, Congress passed the Economic
+                    Cooperation Act in March 1948 and approved funding that would eventually rise to
+                    over $12 billion for the rebuilding of Western Europe.</p>
+                <figure>
+                    <graphic url="marshall-plan.jpg" height="200px" width="200px"/>
+                    <head>First page of the Marshall Plan</head>
+                </figure>
+                <p>The Marshall Plan generated a resurgence of European industrialization and
+                    brought extensive investment into the region. It was also a stimulant to the
+                    U.S. economy by establishing markets for American goods. Although the
+                    participation of the Soviet Union and East European nations was an initial
+                    possibility, Soviet concern over potential U.S. economic domination of its
+                    Eastern European satellites and Stalin’s unwillingness to open up his secret
+                    society to westerners doomed the idea. Furthermore, it is unlikely that the U.S.
+                    Congress would have been willing to fund the plan as generously as it did if aid
+                    also went to Soviet Bloc Communist nations.</p>
+                <p>Thus the Marshall Plan was applied solely to <placeName>Western
+                        Europe</placeName>, precluding any measure of Soviet Bloc cooperation.
+                    Increasingly, the economic revival of Western Europe, especially West Germany,
+                    was viewed suspiciously in Moscow. Economic historians have debated the precise
+                    impact of the Marshall Plan on Western Europe, but these differing opinions do
+                    not detract from the fact that the Marshall Plan has been recognized as a great
+                    humanitarian effort. Secretary of State Marshall became the only general ever to
+                    receive a Nobel Prize for peace. The Marshall Plan also institutionalized and
+                    legitimized the concept of U.S. foreign aid programs, which have become a
+                    integral part of U.S. foreign policy.</p>
+            </div>
+            <div type="section" xml:id="berlin-airlift" ana="truman-harry-s marshall-george-catlett germany russia collective-security foreign-aid north-atlantic-treaty-organization alliances quarantine-blockade">
+                <head>The Berlin Airlift, 1948–1949</head>
+                <p>At the end of the Second World War, U.S., British, and Soviet military forces
+                    divided and occupied Germany. Also divided into occupation zones, Berlin was
+                    located far inside Soviet-controlled eastern Germany. The United States, United
+                    Kingdom, and France controlled western portions of the city, while Soviet troops
+                    controlled the eastern sector. As the wartime alliance between the Western
+                    Allies and the Soviet Union ended and friendly relations turned hostile, the
+                    question of whether the western occupation zones in Berlin would remain under
+                    Western Allied control or whether the city would be absorbed into
+                    Soviet-controlled eastern Germany led to the first Berlin crisis of the Cold
+                    War. The crisis started on June 24, 1948, when Soviet forces blockaded rail,
+                    road, and water access to Allied-controlled areas of Berlin. The United States
+                    and United Kingdom responded by airlifting food and fuel to Berlin from Allied
+                    airbases in western Germany. The crisis ended on May 12, 1949, when Soviet
+                    forces lifted the blockade on land access to western Berlin.</p>
+                <figure>
+                    <graphic url="berlin-airlift.jpg" height="450px" width="360px"/>
+                    <head>U.S. Navy and Air Force aircrafts unload at Tempelhof Airport during the
+                        Berlin Airlift. (U.S. Air Force)</head>
+                </figure>
+                <p>The crisis was a result of competing occupation policies and rising tensions
+                    between Western powers and the Soviet Union. After the end of the Second World
+                    War, the future of postwar Germany was plagued by the divisions within and
+                    between Allied powers. The only decision of significance that emerged from
+                    wartime planning was the agreement of zones of occupation. Even after the end of
+                    hostilities, the problem of what to do about Germany was not successfully
+                    addressed at the July 1945 Potsdam Conference. Not only was there a lack of
+                    consistency in the political leadership and policymaking among the British and
+                    the Americans, occupation policy on the ground also confronted unforeseen
+                    challenges. Two and a half million Berliners, spread between four zones of
+                    occupation, faced profound privations: Allied bombing had reduced the city to
+                    rubble, shelter and warmth were scarce, the black market dominated the city’s
+                    economic life, and starvation loomed. While mired in such conditions, Berlin
+                    emerged as a forward salient in the Western struggle against the Soviet
+                    Union.</p>
+                <p>The year 1947 saw major shifts in occupation policy in Germany. On January 1, the
+                    United States and United Kingdom unified their respective zones and formed <hi rend="italic">Bizonia</hi>, which caused tensions between East and West to
+                    escalate. In March, the breakdown of the Moscow Conference of Foreign Ministers
+                    and the enunciation of the Truman Doctrine served to harden the lines of an
+                    increasingly bipolar international order. In June, Secretary of State George
+                    Marshall announced the European Recovery Program. The purpose of the Marshall
+                    Plan—as the program came to be called—was not only to support economic recovery
+                    in Western Europe, but also to create a bulwark against Communism by drawing
+                    participating states into the United States’ economic orbit.</p>
+                <p>In early 1948, the United States, United Kingdom, and France secretly began to
+                    plan the creation of a new German state made up of the Western Allies’
+                    occupation zones. In March, when the Soviets discovered these designs, they
+                    withdrew from the Allied Control Council, which had met regularly since the end
+                    of the war in order to coordinate occupation policy between zones. In June,
+                    without informing the Soviets, U.S. and British policymakers introduced the new
+                    Deutschmark to Bizonia and West Berlin. The purpose of the currency reform was
+                    to wrest economic control of the city from the Soviets, enable the introduction
+                    of Marshall Plan aid, and curb the city’s black market. Soviet authorities
+                    responded with similar moves in their zone. Besides issuing their own currency,
+                    the Ostmark, the Soviets blocked all major road, rail, and canal links to West
+                    Berlin, thus starving it of electricity, as well as a steady supply of essential
+                    food and coal</p>
+                <p>The United States and United Kingdom had few immediate options if hostilities
+                    broke out. Because of the draw down in U.S. and British combat forces since the
+                    end of the Second World War, the Red Army stationed in and around Berlin dwarfed
+                    the Western Allied military presence. On June 13, 1948, the administrator of
+                    U.S.-occupied Germany <persName>General Lucius Clay</persName> reported to
+                    Washington that “There is no practicability in maintaining our position in
+                    Berlin and it must not be evaluated on that basis.... We are convinced that our
+                    remaining in Berlin is essential to our prestige in Germany and in Europe.
+                    Whether for good or bad, it has become a symbol of the American intent.” The
+                    Truman administration agreed. Based upon written agreements with the Soviet
+                    Union in 1945, the only connections to Berlin left to the Western Allies were
+                    air corridors from West Germany used to supply Berlin by air. The administration
+                    calculated that if the Soviets opposed the airlift with force, it would be an
+                    act of aggression against an unarmed humanitarian mission and the violation of
+                    an explicit agreement. Thus, the onus of igniting a conflict between the former
+                    allies would be on the aggressor. </p>
+                <p>The United States launched “Operation Vittles” on June 26, with the United
+                    Kingdom following suit two days later with “Operation Plainfare.” Despite the
+                    desire for a peaceful resolution to the standoff, the United States also sent to
+                    the United Kingdom B-29 bombers, which were capable of carrying nuclear weapons.
+                    The beginning of the airlift proved difficult and Western diplomats asked the
+                    Soviets to seek a diplomatic solution to the impasse. The Soviets offered to
+                    drop the blockade if the Western Allies withdrew the Deutschmark from West
+                    Berlin. </p>
+                <p>Even though the Allies rebuffed the Soviet offer, West Berlin’s position remained
+                    precarious, and the standoff had political consequences on the ground. In
+                    September 1948, the Socialist Unity Party of Germany (SED), the German Communist
+                    Party of the Soviet zone of occupation, marched on the Berlin City Council and
+                    forced it to adjourn. Fearing that the Western Allies might halt the airlift and
+                    cede West Berlin to the Soviets, 300,000 West Berliners gathered at the
+                    Reichstag to show their opposition to Soviet domination. The turnout convinced
+                    the West to keep the airlift and the Deutschmark.</p>
+                <p>In time, the airlift became ever more efficient and the number of aircraft
+                    increased. At the height of the campaign, one plane landed every 45 seconds at
+                    Tempelhof Airport. By spring 1949, the Berlin Airlift proved successful. The
+                    Western Allies showed that they could sustain the operation indefinitely. At the
+                    same time, the Allied counter-blockade on eastern Germany was causing severe
+                    shortages, which, Moscow feared, might lead to political upheaval.</p>
+                <p>On May 11, 1949, Moscow lifted the blockade of West Berlin. The Berlin Crisis of
+                    1948–1949 solidified the division of Europe. Shortly before the end of the
+                    blockade, the Western Allies created the North Atlantic Treaty Organization
+                    (NATO). Two weeks after the end of the blockade, the state of West Germany was
+                    established, soon followed by the creation of East Germany. The incident
+                    solidified the demarcation between East and West in Europe; it was one of the
+                    few places on earth that U.S. and Soviet armed forces stood face-to-face. It
+                    also transformed Berlin, once equated with Prussian militarism and Nazism, into
+                    a symbol of democracy and freedom in the fight against Communism.</p>
+            </div>
+            <div type="section" xml:id="creation-israel">
+                <head>Creation of Israel, <date when="1948">1948</date>
+                </head>
+                <p>On May 14, 1948, <persName>David Ben-Gurion</persName>, the head of the Jewish
+                    Agency, proclaimed the establishment of the State of Israel. U.S. President
+                        <persName>Harry S. Truman</persName> recognized the new nation on the same
+                    day.</p>
+                <figure>
+                    <graphic url="truman-israel.jpg" height="200px" width="200px"/>
+                    <head>Eliahu Elath presenting ark to President Truman</head>
+                </figure>
+                <p> Although the United States supported the Balfour Declaration of 1917, which
+                    favored the establishment of a Jewish national home in Palestine, President
+                        <persName>Franklin D. Roosevelt</persName> had assured the Arabs in 1945
+                    that the United States would not intervene without consulting both the Jews and
+                    the Arabs in that region. The British, who held a colonial mandate for Palestine
+                    until May 1948, opposed both the creation of a Jewish state and an Arab state in
+                    Palestine as well as unlimited immigration of Jewish refugees to the region.
+                    Great Britain wanted to preserve good relations with the Arabs to protect its
+                    vital political and economic interests in Palestine.</p>
+                <p>Soon after President Truman took office, he appointed several experts to study
+                    the Palestinian issue. In the summer of 1946, Truman established a special
+                    cabinet committee under the chairmanship of Dr. <ref target="/departmenthistory/people/grady-henry-francis">Henry F. Grady</ref>,
+                    an Assistant Secretary of State, who entered into negotiations with a parallel
+                    British committee to discuss the future of Palestine. In May 1946, Truman
+                    announced his approval of a recommendation to admit 100,000 displaced persons
+                    into Palestine and in October publicly declared his support for the creation of
+                    a Jewish state. Throughout 1947, the United Nations Special Commission on
+                    Palestine examined the Palestinian question and recommended the partition of
+                    Palestine into a Jewish and an Arab state. On November 29, 1947 the United
+                    Nations adopted Resolution 181 (also known as the Partition Resolution) that
+                    would divide Great Britain’s former Palestinian mandate into Jewish and Arab
+                    states in May 1948 when the British mandate was scheduled to end. Under the
+                    resolution, the area of religious significance surrounding Jerusalem would
+                    remain a corpus separatum under international control administered by the United
+                    Nations.</p>
+                <p>Although the United States backed Resolution 181, the U.S. Department of State
+                    recommended the creation of a United Nations trusteeship with limits on Jewish
+                    immigration and a division of Palestine into separate Jewish and Arab provinces
+                    but not states. The State Department, concerned about the possibility of an
+                    increasing Soviet role in the Arab world and the potential for restriction by
+                    Arab oil producing nations of oil supplies to the United States, advised against
+                    U.S. intervention on behalf of the Jews. Later, as the date for British
+                    departure from Palestine drew near, the Department of State grew concerned about
+                    the possibility of an all-out war in Palestine as Arab states threatened to
+                    attack almost as soon as the UN passed the partition resolution.</p>
+                <p>Despite growing conflict between Palestinian Arabs and Palestinian Jews and
+                    despite the Department of State’s endorsement of a trusteeship, Truman
+                    ultimately decided to recognize the state Israel.</p>
+            </div>
+            <div type="section" xml:id="arab-israeli-war">
+                <head>The Arab-Israeli War of <date when="1948">1948</date>
+                </head>
+                <p>The Arab-Israeli War of 1948 broke out when five Arab nations invaded territory
+                    in the former Palestinian mandate immediately following the announcement of the
+                    independence of the state of Israel on May 14, 1948. In 1947, and again on May
+                    14, 1948, the United States had offered de facto recognition of the Israeli
+                    Provisional Government, but during the war, the United States maintained an arms
+                    embargo against all belligerents.</p>
+                <figure>
+                    <graphic url="arab-israel-war.jpg" height="200px" width="200px"/>
+                    <head>Raising the Flag signified the Conclusion of the Conflict</head>
+                </figure>
+                <p>On November 29, 1947, the United Nations General Assembly adopted Resolution 181
+                    (also known as the <ref target="/milestones/1945-1952/creation-israel">Partition
+                        Resolution</ref>) that would divide Great Britain’s former Palestinian
+                    mandate into Jewish and Arab states in May 1948. Under the resolution, the area
+                    of religious significance surrounding Jerusalem would remain under international
+                    control administered by the United Nations. The Palestinian Arabs refused to
+                    recognize this arrangement, which they regarded as favorable to the Jews and
+                    unfair to the Arab population that would remain in Jewish territory under the
+                    partition. The United States sought a middle way by supporting the United
+                    Nations resolution, but also encouraging negotiations between Arabs and Jews in
+                    the Middle East.</p>
+                <p>The United Nations resolution sparked conflict between Jewish and Arab groups
+                    within Palestine. Fighting began with attacks by irregular bands of Palestinian
+                    Arabs attached to local units of the Arab Liberation Army composed of volunteers
+                    from Palestine and neighboring Arab countries. These groups launched their
+                    attacks against Jewish cities, settlements, and armed forces. The Jewish forces
+                    were composed of the Haganah, the underground militia of the Jewish community in
+                    Palestine, and two small irregular groups, the Irgun, and LEHI. The goal of the
+                    Arabs was initially to block the Partition Resolution and to prevent the
+                    establishment of the Jewish state. The Jews, on the other hand, hoped to gain
+                    control over the territory allotted to them under the Partition Plan.</p>
+                <p>After Israel declared its independence on May 14, 1948, the fighting intensified
+                    with other Arab forces joining the Palestinian Arabs in attacking territory in
+                    the former Palestinian mandate. On the eve of May 14, the Arabs launched an air
+                    attack on Tel Aviv, which the Israelis resisted. This action was followed by the
+                    invasion of the former Palestinian mandate by Arab armies from Lebanon, Syria,
+                    Iraq, and Egypt. Saudi Arabia sent a formation that fought under the Egyptian
+                    command. British trained forces from Transjordan eventually intervened in the
+                    conflict, but only in areas that had been designated as part of the Arab state
+                    under the United Nations Partition Plan and the corpus separatum of Jerusalem.
+                    After tense early fighting, Israeli forces, now under joint command, were able
+                    to gain the offensive.</p>
+                <p>Though the United Nations brokered two cease-fires during the conflict, fighting
+                    continued into 1949. Israel and the Arab states did not reach any formal
+                    armistice agreements until February. Under separate agreements between Israel
+                    and the neighboring states of Egypt, Lebanon, Transjordan, and Syria, these
+                    bordering nations agreed to formal armistice lines. Israel gained some territory
+                    formerly granted to Palestinian Arabs under the United Nations resolution in
+                    1947. Egypt and Jordan retained control over the Gaza Strip and the West Bank
+                    respectively. These armistice lines held until <ref target="/milestones/1961-1968/arab-israeli-war-1967">1967</ref>. The United
+                    States did not become directly involved with the armistice negotiations, but
+                    hoped that instability in the Middle East would not interfere with the
+                    international balance of power between the Soviet Union and the United States.
+                    </p>
+            </div>
+            <div type="section" xml:id="nato">
+                <head>North Atlantic Treaty Organization (NATO), <date when="1949">1949</date>
+                </head>
+                <p>The North Atlantic Treaty Organization was created in 1949 by the United States,
+                    Canada, and several Western European nations to provide collective security
+                    against the Soviet Union.</p>
+                <figure>
+                    <graphic url="natosigning.jpg" height="200px" width="200px"/>
+                    <head>Signing of the NATO Treaty</head>
+                </figure>
+                <p>NATO was the first peacetime military alliance the United States entered into
+                    outside of the Western Hemisphere. After the destruction of the Second World
+                    War, the nations of Europe struggled to rebuild their economies and ensure their
+                    security. The former required a massive influx of aid to help the war-torn
+                    landscapes re-establish industries and produce food, and the latter required
+                    assurances against a resurgent Germany or incursions from the Soviet Union. The
+                    United States viewed an economically strong, rearmed, and integrated Europe as
+                    vital to the prevention of communist expansion across the continent. As a
+                    result, Secretary of State George Marshall proposed a program of large-scale
+                    economic aid to Europe. The resulting European Recovery Program, or <ref target="/milestones/1945-1952/marshall-plan">Marshall Plan</ref>, not only
+                    facilitated European economic integration but promoted the idea of shared
+                    interests and cooperation between the United States and Europe. Soviet refusal
+                    either to participate in the Marshall Plan or to allow its satellite states in
+                    Eastern Europe to accept the economic assistance helped to reinforce the growing
+                    division between east and west in Europe.</p>
+                <p>In 1947–1948, a series of events caused the nations of Western Europe to become
+                    concerned about their physical and political security and the United States to
+                    become more closely involved with European affairs. The ongoing civil war in
+                    Greece, along with tensions in Turkey, led President Harry S. Truman to <ref target="/milestones/1945-1952/marshall-plan">assert that the United States
+                        would provide economic and military aid to both countries, as well as to any
+                        other nation struggling against an attempt at subjugation</ref>. A
+                    Soviet-sponsored coup in Czechoslovakia resulted in a communist government
+                    coming to power on the borders of Germany. Attention also focused on elections
+                    in Italy as the communist party had made significant gains among Italian voters.
+                    Furthermore, events in Germany also caused concern. The occupation and governance
+                    of Germany after the war had long been disputed, and in mid-1948, Soviet premier
+                    Joseph Stalin chose to test Western resolve by implementing a blockade against
+                    West Berlin, which was then under joint U.S., British, and French control but
+                    surrounded by Soviet-controlled East Germany. This Berlin Crisis brought the
+                    United States and the Soviet Union to the brink of conflict, although a massive
+                    airlift to resupply the city for the duration of the blockade helped to prevent
+                    an outright confrontation. These events caused U.S. officials to grow
+                    increasingly wary of the possibility that the countries of Western Europe might
+                    deal with their security concerns by negotiating with the Soviets. To counter
+                    this possible turn of events, the Truman Administration considered the
+                    possibility of forming a European-American alliance that would commit the United
+                    States to bolstering the security of Western Europe.</p>
+                <figure>
+                    <graphic url="brusselstreaty.jpg" width="200px" height="200px"/>
+                    <head>Signing of the Brussels Treaty</head>
+                </figure>
+                <p>The Western European countries were willing to consider a collective security
+                    solution. In response to increasing tensions and security concerns,
+                    representatives of several countries of Western Europe gathered together to
+                    create a military alliance. Great Britain, France, Belgium, the Netherlands and
+                    Luxembourg signed the Brussels Treaty in March, 1948. Their treaty provided
+                    collective defense; if any one of these nations was attacked, the others were
+                    bound to help defend it. At the same time, the Truman Administration instituted
+                    a peacetime draft, increased military spending, and called upon the historically
+                    isolationist Republican Congress to consider a military alliance with Europe. In
+                    May of 1948, Republican Senator <persName>Arthur H. Vandenburg</persName>
+                    proposed a resolution suggesting that the President seek a security treaty with
+                    Western Europe that would adhere to the United Nations charter but exist outside
+                    of the Security Council where the Soviet Union held veto power. The Vandenburg
+                    Resolution passed, and negotiations began for the North Atlantic Treaty.</p>
+                <p>In spite of general agreement on the concept behind the treaty, it took several
+                    months to work out the exact terms. The U.S. Congress had embraced the pursuit
+                    of the international alliance, but it remained concerned about the wording of
+                    the treaty. The nations of Western Europe wanted assurances that the United
+                    States would intervene automatically in the event of an attack, but under the
+                    U.S. Constitution the power to declare war rested with Congress. Negotiations
+                    worked toward finding language that would reassure the European states but not
+                    obligate the United States to act in a way that violated its own laws.
+                    Additionally, European contributions to collective security would require
+                    large-scale military assistance from the United States to help rebuild Western
+                    Europe’s defense capabilities. While the European nations argued for individual
+                    grants and aid, the United States wanted to make aid conditional on regional
+                    coordination. A third issue was the question of scope. The Brussels Treaty
+                    signatories preferred that membership in the alliance be restricted to the
+                    members of that treaty plus the United States. The U.S. negotiators felt there
+                    was more to be gained from enlarging the new treaty to include the countries of
+                    the North Atlantic, including Canada, Iceland, Denmark, Norway, Ireland, and
+                    Portugal. Together, these countries held territory that formed a bridge between
+                    the opposite shores of the Atlantic Ocean, which would facilitate military
+                    action if it became necessary.</p>
+                <figure>
+                    <graphic url="mdaa.jpg" width="200px" height="200px"/>
+                    <head>President Truman inspecting a tank produced under the Mutual Defense
+                        Assistance Program</head>
+                </figure>
+                <p>The result of these extensive negotiations was the signing of the North Atlantic
+                    Treaty in 1949. In this agreement, the United States, Canada, Belgium, Denmark,
+                    France, Iceland, Italy, Luxemburg, the Netherlands, Norway, Portugal, and the
+                    United Kingdom agreed to consider attack against one an attack against all,
+                    along with consultations about threats and defense matters. This collective
+                    defense arrangement only formally applied to attacks against the signatories
+                    that occurred in Europe or North America; it did not include conflicts in
+                    colonial territories. After the treaty was signed, a number of the signatories
+                    made requests to the United States for military aid. Later in 1949, President
+                    Truman proposed a military assistance program, and the Mutual Defense Assistance
+                    Program passed the U.S. Congress in October, appropriating some $1.4 billion
+                    dollars for the purpose of building Western European defenses.</p>
+                <p>Soon after the creation of the North Atlantic Treaty Organization, the outbreak
+                    of the <ref target="/milestones/1945-1952/korean-war">Korean War</ref> led the
+                    members to move quickly to integrate and coordinate their defense forces through
+                    a centralized headquarters. The North Korean attack on South Korea was widely
+                    viewed at the time to be an example of communist aggression directed by Moscow,
+                    so the United States bolstered its troop commitments to Europe to provide
+                    assurances against Soviet aggression on the European continent. In 1952, the
+                    members agreed to admit Greece and Turkey to NATO and added the Federal Republic
+                    of Germany in 1955. West German entry led the Soviet Union to retaliate with its
+                    own regional alliance, which took the form of the <ref target="/milestones/1953-1960/warsaw-treaty">Warsaw Treaty
+                        Organization</ref> and included the Soviet satellite states of Eastern
+                    Europe as members.</p>
+                <p>The collective defense arrangements in NATO served to place the whole of Western
+                    Europe under the American “nuclear umbrella.” In the 1950s, one of the first
+                    military doctrines of NATO emerged in the form of “massive retaliation,” or the
+                    idea that if any member was attacked, the United States would respond with a
+                    large-scale nuclear attack. The threat of this form of response was meant to
+                    serve as a deterrent against Soviet aggression on the continent. Although formed
+                    in response to the exigencies of the developing Cold War, NATO has lasted beyond
+                    the end of that conflict, with membership even expanding to include some former
+                    Soviet states. It remains the largest peacetime military alliance in the
+                    world.</p>
+            </div>
+            <div type="section" xml:id="chinese-rev">
+                <head>The Chinese Revolution of <date when="1949">1949</date>
+                </head>
+                <p>On October 1, 1949, Chinese Communist leader <persName>Mao Zedong</persName>
+                    declared the creation of the People’s Republic of China (PRC). The announcement
+                    ended the costly full-scale civil war between the Chinese Communist Party (CCP)
+                    and the Nationalist Party, or Kuomintang (KMT), which broke out immediately
+                    following World War II and had been preceded by on and off conflict between the
+                    two sides since the 1920’s. The creation of the PRC also completed the long
+                    process of governmental upheaval in China begun by the <ref target="/milestones/1899-1913/chinese-rev">Chinese Revolution of 1911</ref>.
+                    The “fall” of mainland China to communism in 1949 led the United States to
+                    suspend diplomatic ties with the PRC for decades.</p>
+                <figure>
+                    <graphic url="communists-beijing.jpg" height="200px" width="200px"/>
+                    <head>Communists entering Beijing in 1949.</head>
+                </figure>
+                <p>The Chinese Communist Party, founded in 1921 in <placeName>Shanghai</placeName>,
+                    originally existed as a study group working within the confines of the First
+                    United Front with the Nationalist Party. Chinese Communists joined with the
+                    Nationalist Army in the Northern Expedition of 1926–27 to rid the nation of the
+                    warlords that prevented the formation of a strong central government. This
+                    collaboration lasted until the “White Terror” of 1927, when the Nationalists
+                    turned on the Communists, killing them or purging them from the party.</p>
+                <p>After the <ref target="/milestones/1921-1936/mukden-incident">Japanese invaded
+                        Manchuria in 1931</ref>, the Government of the Republic of China (ROC) faced
+                    the triple threat of Japanese invasion, Communist uprising, and warlord
+                    insurrections. Frustrated by the focus of the Nationalist leader Chiang Kai-shek
+                    on internal threats instead of the Japanese assault, a group of generals
+                    abducted Chiang in 1937 and forced him to reconsider cooperation with the
+                    Communist army. As with the first effort at cooperation between the Nationalist
+                    government and the CCP, this Second United Front was short-lived. The
+                    Nationalists expended needed resources on containing the Communists, rather than
+                    focusing entirely on Japan, while the Communists worked to strengthen their
+                    influence in rural society.</p>
+                <p>During World War II, popular support for the Communists increased. U.S. officials
+                    in China reported a dictatorial suppression of dissent in Nationalist-controlled
+                    areas. These undemocratic polices combined with wartime corruption made the
+                    Republic of China Government vulnerable to the Communist threat. The CCP, for
+                    its part, experienced success in its early efforts at land reform and was lauded
+                    by peasants for its unflagging efforts to fight against the Japanese
+                    invaders.</p>
+                <figure>
+                    <graphic url="chiang-kai-shek.jpg" width="200px" height="200px"/>
+                    <head>Chiang Kai-shek</head>
+                </figure>
+                <p>Japanese surrender set the stage for the resurgence of civil war in China. Though
+                    only nominally democratic, the Nationalist Government of Chiang Kai-shek
+                    continued to receive U.S. support both as its former war ally and as the sole
+                    option for preventing Communist control of China. U.S. forces flew tens of
+                    thousands of Nationalist Chinese troops into Japanese-controlled territory and
+                    allowed them to accept the Japanese surrender. The Soviet Union, meanwhile,
+                    occupied Manchuria and only pulled out when Chinese Communist forces were in
+                    place to claim that territory.</p>
+                <p>In 1945, the leaders of the Nationalist and Communist parties, Chiang Kai-shek
+                    and Mao Zedong, met for a series of talks on the formation of a post-war
+                    government. Both agreed on the importance of democracy, a unified military, and
+                    equality for all Chinese political parties. The truce was tenuous, however, and,
+                    in spite of repeated efforts by U.S. General <persName>George
+                        Marshall</persName> to broker an agreement, by 1946 the two sides were
+                    fighting an all-out civil war. Years of mistrust between the two sides thwarted
+                    efforts to form a coalition government.</p>
+                <p>As the civil war gained strength from 1947 to 1949, eventual Communist victory
+                    seemed more and more likely. Although the Communists did not hold any major
+                    cities after World War II, they had strong grassroots support, superior military
+                    organization and morale, and large stocks of weapons seized from Japanese
+                    supplies in Manchuria. Years of corruption and mismanagement had eroded popular
+                    support for the Nationalist Government. Early in 1947, the ROC Government was
+                    already looking to the island province of Taiwan, off the coast of Fujian
+                    Province, as a potential point of retreat. Although officials in the Truman
+                    Administration were not convinced of the strategic importance to the United
+                    States of maintaining relations with Nationalist China, no one in the U.S.
+                    Government wanted to be charged with facilitating the “loss” of China to
+                    communism. Military and financial aid to the floundering Nationalists continued,
+                    though not at the level that Chiang Kai-shek would have liked. In October of
+                    1949, after a string of military victories, Mao Zedong proclaimed the
+                    establishment of the PRC; Chiang and his forces fled to Taiwan to regroup and
+                    plan for their efforts to retake the mainland.</p>
+                <p>The ability of the PRC and the United States to find common ground in the wake of
+                    the establishment of the new Chinese state was hampered by both domestic
+                    politics and global tensions. In August of 1949, the Truman administration
+                    published the “China White Paper,” which explained past U.S. policy toward China
+                    based upon the principle that only Chinese forces could determine the outcome of
+                    their civil war. Unfortunately for Truman, this step failed to protect his
+                    administration from charges of having “lost” China. The unfinished nature of the
+                    revolution, leaving a broken and exiled but still vocal Nationalist Government
+                    and army on Taiwan, only heightened the sense among U.S. anti-communists that
+                    the outcome of the struggle could be reversed. The outbreak of the Korean War,
+                    which pitted the PRC and the United States on opposite sides of an international
+                    conflict, ended any opportunity for accommodation between the PRC and the United
+                    States. Truman’s desire to prevent the Korean conflict from spreading south led
+                    to the U.S. policy of protecting the Chiang Kai-shek government on Taiwan.</p>
+                <p>For more than twenty years after the Chinese revolution of 1949, there were few
+                    contacts, limited trade and no diplomatic ties between the two countries. <ref target="/milestones/1969-1976">Until the 1970s</ref>, the United States
+                    continued to recognize the Republic of China, located on Taiwan, as China’s true
+                    government and supported that government’s holding the Chinese seat in the
+                    United Nations.</p>
+            </div>
+            <div type="section" xml:id="NSC68">
+                <head>NSC-68, <date when="1950">1950</date>
+                </head>
+                <p>National Security Council Paper NSC-68 (entitled “United States Objectives and
+                    Programs for National Security” and frequently referred to as NSC-68) was a
+                    Top-Secret report completed by the U.S. Department of State’s Policy Planning
+                    Staff on April 7, 1950. The 58-page memorandum is among the most influential
+                    documents composed by the U.S. Government during the Cold War, and was not
+                    declassified until 1975. Its authors argued that one of the most pressing
+                    threats confronting the United States was the “hostile design” of the Soviet
+                    Union. The authors concluded that the Soviet threat would soon be greatly
+                    augmented by the addition of more weapons, including nuclear weapons, to the
+                    Soviet arsenal. They argued that the best course of action was to respond in
+                    kind with a massive build-up of the U.S. military and its weaponry.</p>
+                <figure>
+                    <graphic url="truman-nsc.jpg" height="200px" width="200px"/>
+                    <head>President Truman meeting with the NSC Staff</head>
+                </figure>
+                <p>Reeling from the recent victory of Communist forces in the Chinese Civil War and
+                    the successful detonation of an atomic weapon by the Soviet Union, Secretary of
+                    State <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean
+                        Acheson</ref> asked the Policy Planning Staff, led by <ref target="/departmenthistory/people/nitze-paul-henry">Paul Nitze</ref>, to
+                    undertake a comprehensive review of U.S. national security strategy. Building
+                    upon the conclusions of an earlier National Security Council paper (NSC-20/4),
+                    the authors of NSC-68 based their conclusions on the theory that the decline of
+                    the Western European powers and Japan following World War II had left the United
+                    States and the Soviet Union as the two dominant powers. Nitze’s group argued
+                    that the Soviet Union was “animated by a new fanatic faith” antithetical to that
+                    of the United States, and was driven “to impose its absolute authority over the
+                    rest of the world.” Furthermore, they concluded that “violent and non-violent”
+                    conflict between the United States and the Soviet Union had become
+                    “endemic.”</p>
+                <p>NSC-68 outlined a variety of possible courses of action, including a return to
+                    isolationism; war; continued diplomatic efforts to negotiate with the Soviets;
+                    or “the rapid building up of the political, economic, and military strength of
+                    the free world.” This last approach would allow the United States to attain
+                    sufficient strength to deter Soviet aggression. In the event that an armed
+                    conflict with the Communist bloc did arise, the United States could then
+                    successfully defend its territory and overseas interests.</p>
+                <p>The authors of NSC-68 rejected a renewal of U.S. isolationism, fearing that this
+                    would lead to the Soviet domination of Eurasia, and leave the United States
+                    marooned on the Western Hemisphere, cut off from the allies and resources it
+                    needed to fend off further Soviet encroachments. The report also ruled out a
+                    preventive strike against the Soviet Union, because its authors reckoned that
+                    such action would not destroy the Soviet military’s offensive capacities, and
+                    would instead invite retaliatory strikes that would devastate Western Europe.
+                    Moreover, U.S. experts did not believe that American public opinion would
+                    support measures that might lead to a protracted war. NSC-68 did not rule out
+                    the prospect of negotiating with the Soviet Union when it suited the objectives
+                    of the United States and its allies; however, the report’s authors argued that
+                    such an approach would only succeed if the United States could create “political
+                    and economic conditions in the free world” sufficient to deter the Soviet Union
+                    from pursuing a military solution to the Cold War rivalry.</p>
+                <p>NSC-68 concluded that the only plausible way to deter the Soviet Union was for
+                    President Harry Truman to support a massive build-up of both conventional and
+                    nuclear arms. More specifically, such a program should seek to protect the
+                    United States and its allies from Soviet land and air attacks, maintain lines of
+                    communications, and enhance the technical superiority of the United States
+                    through “an accelerated exploitation of [its] scientific potential.” In order to
+                    fund the substantial increase in military spending this conclusion demanded, the
+                    report suggested that the Government increase taxes and reduce other
+                    expenditures.</p>
+                <p>Initially, a number of U.S. officials strongly opposed NSC-68’s recommendations.
+                    Critics such as Secretary of Defense Louis Johnson, and senior diplomats such as
+                    Soviet experts and former ambassadors to the Soviet Union <ref target="/departmenthistory/people/kennan-george-frost">George Kennan</ref>
+                    and <ref target="/departmenthistory/people/bohlen-charles-eustis">Charles
+                        Bohlen</ref>, argued that the United States already had a substantial
+                    military advantage over the Soviet Union. Kennan, in particular, disagreed with
+                    Nitze’s assertion that the Soviet Union was bent on achieving domination through
+                    force of arms, and argued that the United States could contain the Soviet Union
+                    through political and economic measures, rather than purely military ones.
+                    However, the invasion of South Korea by Soviet and Chinese-backed North Korean
+                    forces in June 1950, and continuing charges by Congressional critics that the
+                    Administration was soft on Communism, quickly settled matters in favor of the
+                    report’s recommendations. NSC 68’s recommendations thereby became policy, and
+                    the United States Government began a massive military build-up. While NSC-68 did
+                    not make any specific recommendations regarding the proposed increase in defense
+                    expenditures, the Truman Administration almost tripled defense spending as a
+                    percentage of the gross domestic product between 1950 and 1953 (from 5 to 14.2
+                    percent).</p>
+            </div>
+            <div type="section" xml:id="asia-and-africa">
+                <head>Decolonization of Asia and Africa, <date from="1945" to="1960">1945–1960</date>
+                </head>
+                <p>Between 1945 and 1960, three dozen new states in <placeName>Asia</placeName> and
+                        <placeName>Africa</placeName> achieved autonomy or outright independence
+                    from their European colonial rulers.</p>
+                <figure>
+                    <graphic url="macmillan.jpg" height="200px" width="200px"/>
+                    <head>Harold MacMillan, British Prime Minister, helped begin
+                        decolonization</head>
+                </figure>
+                <p>There was no one process of decolonization. In some areas, it was peaceful, and
+                    orderly. In many others, independence was achieved only after a protracted
+                    revolution. A few newly independent countries acquired stable governments almost
+                    immediately; others were ruled by dictators or military juntas for decades, or
+                    endured long civil wars. Some European governments welcomed a new relationship
+                    with their former colonies; others contested decolonization militarily. The
+                    process of decolonization coincided with the new Cold War between the Soviet
+                    Union and the United States, and with the early development of the new United
+                    Nations. Decolonization was often affected by superpower competition, and had a
+                    definite impact on the evolution of that competition. It also significantly
+                    changed the pattern of international relations in a more general sense.</p>
+                <p>The creation of so many new countries, some of which occupied strategic
+                    locations, others of which possessed significant natural resources, and most of
+                    which were desperately poor, altered the composition of the United Nations and
+                    political complexity of every region of the globe. In the mid to late 19th
+                    century, the European powers colonized much of Africa and Southeast Asia. During
+                    the decades of imperialism, the industrializing powers of Europe viewed the
+                    African and Asian continents as reservoirs of raw materials, labor, and
+                    territory for future settlement. In most cases, however, significant development
+                    and European settlement in these colonies was sporadic. However, the colonies
+                    were exploited, sometimes brutally, for natural and labor resources, and
+                    sometimes even for military conscripts. In addition, the introduction of
+                    colonial rule drew arbitrary natural boundaries where none had existed before,
+                    dividing ethnic and linguistic groups and natural features, and laying the
+                    foundation for the creation of numerous states lacking geographic, linguistic,
+                    ethnic, or political affinity.</p>
+                <p>During World War II Japan, itself a significant imperial power, drove the
+                    European powers out of Asia. After the Japanese surrender in 1945, local
+                    nationalist movements in the former Asian colonies campaigned for independence
+                    rather than a return to European colonial rule. In many cases, as in Indonesia
+                    and French Indochina, these nationalists had been guerrillas fighting the
+                    Japanese after European surrenders, or were former members of colonial military
+                    establishments. These independence movements often appealed to the United States
+                    Government for support.</p>
+                <p>While the United States generally supported the concept of national
+                    self-determination, it also had strong ties to its European allies, who had
+                    imperial claims on their former colonies. The Cold War only served to complicate
+                    the U.S. position, as U.S. support for decolonization was offset by American
+                    concern over communist expansion and Soviet strategic ambitions in Europe.
+                    Several of the NATO allies asserted that their colonial possessions provided
+                    them with economic and military strength that would otherwise be lost to the
+                    alliance. Nearly all of the United States’ European allies believed that after
+                    their recovery from World War II their colonies would finally provide the
+                    combination of raw materials and protected markets for finished goods that would
+                    cement the colonies to Europe. Whether or not this was the case, the alternative
+                    of allowing the colonies to slip away, perhaps into the United States’ economic
+                    sphere or that of another power, was unappealing to every European government
+                    interested in postwar stability. Although the U.S. Government did not force the
+                    issue, it encouraged the European imperial powers to negotiate an early
+                    withdrawal from their overseas colonies. The United States granted independence
+                    to the Philippines in 1946.</p>
+                <p>However, as the Cold War competition with the Soviet Union came to dominate U.S.
+                    foreign policy concerns in the late 1940s and 1950s, the Truman and Eisenhower
+                    Administrations grew increasingly concerned that as the European powers lost
+                    their colonies or granted them independence, Soviet-supported communist parties
+                    might achieve power in the new states. This might serve to shift the
+                    international balance of power in favor of the Soviet Union and remove access to
+                    economic resources from U.S. allies. Events such as the Indonesian struggle for
+                    independence from the Netherlands (1945–50), the Vietnamese war against France
+                    (1945–54), and the nationalist and professed socialist takeovers of Egypt (1952)
+                    and Iran (1951) served to reinforce such fears, even if new governments did not
+                    directly link themselves to the Soviet Union. Thus, the United States used aid
+                    packages, technical assistance and sometimes even military intervention to
+                    encourage newly independent nations in the Third World to adopt governments that
+                    aligned with the West. The Soviet Union deployed similar tactics in an effort to
+                    encourage new nations to join the communist bloc, and attempted to convince
+                    newly decolonized countries that communism was an intrinsically non-imperialist
+                    economic and political ideology. Many of the new nations resisted the pressure
+                    to be drawn into the Cold War, joined in the “nonaligned movement,” which formed
+                    after the Bandung conference of 1955, and focused on internal development.</p>
+                <p>The newly independent nations that emerged in the 1950s and the 1960s became an
+                    important factor in changing the balance of power within the United Nations. In
+                    1946, there were 35 member states in the United Nations; as the newly
+                    independent nations of the “third world” joined the organization, by 1970
+                    membership had swelled to 127. These new member states had a few characteristics
+                    in common; they were non-white, with developing economies, facing internal
+                    problems that were the result of their colonial past, which sometimes put them
+                    at odds with European countries and made them suspicious of European-style
+                    governmental structures, political ideas, and economic institutions. These
+                    countries also became vocal advocates of continuing decolonization, with the
+                    result that the UN Assembly was often ahead of the Security Council on issues of
+                    self-governance and decolonization. The new nations pushed the UN toward
+                    accepting resolutions for independence for colonial states and creating a
+                    special committee on colonialism, demonstrating that even though some nations
+                    continued to struggle for independence, in the eyes of the international
+                    community, the colonial era was ending.</p>
+            </div>
+            <div type="section" xml:id="korean-war-2">
+                <head>The Korean War, <date when="1950">1950–1953</date>
+                </head>
+                <p>The Korean War began as a civil war between <placeName>North and South
+                        Korea</placeName>, but the conflict soon became international when, under
+                    U.S. leadership, the United Nations joined to support <placeName>South
+                        Korea</placeName> and the <placeName>People’s Republic of China
+                        (PRC)</placeName> entered to aid <placeName>North Korea</placeName>. The war
+                    left Korea divided and brought the Cold War to Asia.</p>
+                <figure>
+                    <graphic url="korea1.jpg" height="200px" width="200px"/>
+                    <head>General MacArthur during the Korean War</head>
+                </figure>
+                <p>Despite its long national history and unique cultural and linguistic identity,
+                    Korea suffered from frequent interference by its neighbors. China treated the
+                    Kingdom of Korea as a tributary state for centuries and fought
+                        <placeName>Japan</placeName> for influence on the Korean Peninsula in
+                    1894–95. In 1904–05, the Russo-Japanese War was also fought largely on Korean
+                    territory. After the Japanese victory in that conflict, Japan consolidated its
+                    growing influence in Korea and in 1910, formally annexed it as a colony. Japan
+                    ruled Korea from 1910 until the end of World War II.</p>
+                <p>During World War II, the Allies discussed the future of Korea in the postwar
+                    period. The United States, <placeName>Great Britain</placeName>, and the
+                    Republic of China had met at <placeName>Cairo</placeName> in <date when="1943">1943</date>, where they agreed that after its defeat, Japan would be
+                    stripped of all of its colonies, including Korea. As the war drew to a close in
+                    August of 1945, two U.S. army colonels (one of whom, <persName>Dean
+                        Rusk</persName>, would later become Secretary of State) proposed that the
+                        <placeName>Soviet Union</placeName> take responsibility for accepting the
+                    surrender of Japanese troops in the part of the Korean peninsula north of the
+                    38th parallel, whereas U.S. troops would receive the surrender south of that
+                    line. This decision resulted in the division and separation of many villages
+                    along the 38th parallel and families with ties across that line.</p>
+                <figure>
+                    <graphic url="rhee.jpg" width="200px" height="200px"/>
+                    <head>Syngman Rhee</head>
+                </figure>
+                <p>The postwar planners had intended that the division between North and South Korea
+                    would be a temporary administrative solution. After the war, the United Nations
+                    agreed to oversee elections in the North and South in 1947 in the hopes that it
+                    would lead to the reunification of Korea under a democratically elected
+                    government. However, the Soviet Union blocked the elections in its section and
+                    instead, supported <persName>Kim Il Sung</persName> as leader of the
+                        <placeName>Democratic People’s Republic of Korea (DPRK)</placeName>. In the
+                    South, the United States supported <persName>Syngman Rhee</persName> as the
+                    elected leader of the newly founded <placeName>Republic of Korea
+                        (ROK)</placeName>. Both Kim and Rhee were nationalists dedicated to the idea
+                    of reunification, although each ruled with a different ideological vision. In
+                    1949, under a UN agreement, both the Soviet Union and the United States withdrew
+                    their military forces from Korea, but both left large numbers of advisors on the
+                    peninsula. The two sides were to continue negotiations over elections to reunify
+                    the country, and although the United States preferred that the resulting
+                    government not be communist, in 1949 it was still not prepared to commit
+                    militarily to preventing that outcome.</p>
+                <figure>
+                    <graphic url="kimilsung.jpg" height="200px" width="200px"/>
+                    <head>Kim Il Sung</head>
+                </figure>
+                <p>Both sides periodically instigated skirmishes across the 38th parallel, but the
+                    war formally began when the DPRK crossed the demarcation line and attacked the
+                    ROK on June 25, 1950. Both Korean governments had been adamant about reunifying
+                    the peninsula, and the Soviet-supported DPRK saw an opportunity to do so with a
+                    swift strike. The DPRK army quickly pushed into South Korea, and by September,
+                    it had engulfed almost the entire peninsula and had forced the ROK army into a
+                    small area around Pusan. Upon hearing news of the attack, the United States
+                    immediately called for a meeting of the <orgName>United Nations Security
+                        Council</orgName>, which the Soviet Union was then boycotting over the issue
+                    of Chinese representation. With the Soviets absent, the Security Council was
+                    able to pass a resolution condemning the actions of the DPRK and demanding that
+                    the Northern armies withdraw from the South. The United States viewed the attack
+                    on the South as evidence that communism would actively challenge the free world
+                    and revised its security perimeter to include maintaining a non-communist South
+                    Korea. The UN sent forces composed of troops from 15 nations to the peninsula to
+                    stop the communist advance.</p>
+                <p>The UN entry into the conflict led to a swift internationalization of what had
+                    been an internal struggle. Though the United States dedicated the greatest
+                    number of troops, soldiers from Australia, Belgium, Canada, Colombia, Ethiopia,
+                    France, Greece, Luxembourg, the Netherlands, New Zealand, the Philippines, South
+                    Africa, Thailand, Turkey and the United Kingdom also sent troops. U.S. officials
+                    emphasized that this joint military action was imperative to prevent the
+                    conflict from spreading outside Korea.</p>
+                <p>The <persName>Truman</persName> Administration remained concerned that recent
+                    communist successes in Korea would encourage the People’s Republic of China
+                    (PRC) to take action. After the communist forces triumphed on the Chinese
+                    mainland, China’s Nationalist Government had retreated to the island of Taiwan,
+                    and the threat had persisted that the PRC might cross the strait to consolidate
+                    its power over all of China. President Harry Truman had proclaimed in early 1950
+                    that he would not defend the Nationalists from a Communist attack, but after the
+                    outbreak of hostilities in Korea he moved the U.S. Seventh Fleet into the
+                        <placeName>Taiwan Strait</placeName> to discourage the spread of military
+                    conflict in the region. The PRC considered this U.S. action as interference in
+                    China’s internal affairs.</p>
+                <p>In September of 1950, UN forces led by U.S. General <persName>Douglas A.
+                        MacArthur</persName> managed to regain lost ground in South Korea and push
+                    north, forcing a reaction from the Chinese. After landing at
+                        <placeName>Incheon</placeName>, near <placeName>Seoul</placeName>,
+                    MacArthur’s troops quickly moved to cut off the advancing DPRK army from its
+                    North Korean supply lines. By the end of the month, UN forces were approaching
+                    the 38th parallel, had liberated Seoul, and had restored the status quo that
+                    existed before the war. The new question was whether to take this newfound
+                    success a step further and attempt to liberate the North from the rule of the
+                    DPRK. The leadership of the U.S. and UN forces believed that an attempt to
+                    “rollback” the communist forces and unite the country under non-communist rule
+                    was well within the parameters of the mission. Chinese leaders had warned the
+                    international community that they would intervene in the conflict if UN forces
+                    pushed north of the 38th parallel, but MacArthur and other members of the UN
+                    command did not believe that either the PRC or Soviet Union would attempt to
+                    halt UN forces. With authorization from Washington, UN forces pressed north, and
+                    by October 1950 had nearly reached the Yalu River, which marks the border
+                    between China and North Korea. Chinese officials viewed the UN forces
+                    approaching the Chinese border as a genuine threat to its security, and late in
+                    1950 they sent Chinese forces into North Korea. The U.S. and UN had also grossly
+                    underestimated the size, strength, and determination of the Chinese forces. As a
+                    result, MacArthur’s troops were quickly forced to retreat behind the 38th
+                    parallel.</p>
+                <figure>
+                    <graphic url="matthewridgeway.jpg" width="200px" height="200px"/>
+                    <head>General Matthew Ridgeway</head>
+                </figure>
+                <p>In early 1951, the territory around Seoul and central Korea changed hands several
+                    times as the UN and Communist forces advanced and retreated. MacArthur insisted
+                    on the extension of the conflict into China, and on April 11, 1951, he was
+                    removed from his command on the charge of insubordination and replaced by
+                    General Matthew Ridgeway. By July 1951, the conflict had reached a stalemate,
+                    with the two sides fighting limited engagements, but with neither side in a
+                    position to force the other’s surrender. Both the United States and China had,
+                    at this point, achieved the short-term goal of maintaining the demarcation line
+                    at the 38th parallel, while the North and South Koreans had failed in the larger
+                    goal of uniting the country under their preferred political systems.
+                    Representatives of all the parties began to discuss peace.</p>
+                <p>For the next two years, small-scale skirmishes continued to break out, while the
+                    various representatives argued over the peace terms. After agreeing on the
+                    demarcation line and the settlement of airfields, the main issue blocking
+                    progress in the talks was the repatriation of prisoners of war. On July 27,
+                    1953, the DPRK, PRC and UN signed an armistice (the ROK abstained) agreeing to a
+                    new border near the 38th parallel as the demarcation line between North and
+                    South Korea. Both sides would maintain and patrol a demilitarized zone (DMZ)
+                    surrounding that boundary line. The armistice also established a commission of
+                    neutral nations to oversee the voluntary repatriation of POWs. According to the
+                    agreement, each side would have to repatriate willing POWs within sixty days and
+                    send unwilling repatriates to the commission to oversee their departure to their
+                    preferred destinations. Under the supervision of the commission, some 14,227
+                    Chinese and 7,582 North Koreas opted against repatriation; the Chinese were sent
+                    to Taiwan rather than the Chinese mainland. A handful of U.S. and British POWs
+                    in North Korea opted against repatriation as well, choosing instead to live in
+                    Communist China or North Korea.</p>
+                <p>The armistice was only a ceasefire agreement, not a formal peace treaty ending
+                    the war. A final peace treaty was supposed to be on the agenda at the Geneva
+                    Conference of 1954, but by the time that conference began, the French colonial
+                    war in Indochina took precedence. Ultimately, the United States and the ROK
+                    signed a mutual defense treaty, and U.S. troops became a part of the DMZ patrols
+                    on a semi-permanent basis.</p>
+                <p>The Korean War had long-lasting consequences for the entire region. Though it
+                    failed to unify the country, the United States achieved its larger goals,
+                    including preserving and promoting NATO interests and defending Japan. The war
+                    also resulted in a divided Korea and complicated any possibility for
+                    accommodation between the United States and China. The Korean War served to
+                    encourage the U.S. Cold War policies of containment and militarization, setting
+                    the stage for the further enlargement of the U.S. defense perimeter in Asia.
+                    These Cold War policies would eventually lead the United States to regional
+                    actions that included its attempts at preventing the fall of Vietnam to
+                    communism. </p>
+            </div>
+            <div type="section" xml:id="anzus">
+                <head>The Australia, New Zealand and United States Security Treaty (ANZUS Treaty),
+                        <date when="1951">1951</date>
+                </head>
+                <p>The <placeName>Australia</placeName>, <placeName>New Zealand</placeName> and
+                        <placeName>United States</placeName> Security Treaty, or ANZUS Treaty, was
+                    an agreement signed in 1951 to protect the security of the
+                        <placeName>Pacific</placeName>. Although the agreement has not been formally
+                    abrogated, the United States and New Zealand no longer maintain the security
+                    relationship between their countries.</p>
+                <figure>
+                    <graphic url="acheson-anzus.jpg" height="200px" width="200px"/>
+                    <head>Secretary of State Dean Acheson speaking at an ANZUS Conference</head>
+                </figure>
+                <p>At the onset of the Second World War, both Australia and New Zealand were members
+                    of the British Empire, so when Britain entered the conflict they did as well.
+                    During the course of the war, these two geographically isolated nations faced
+                    the threat of direct attack for the first time in their histories as modern
+                    states. As the Japanese expanded south into the Pacific Ocean, mainland
+                    Australia and especially the city of Darwin suffered frequent Japanese air raids
+                    in 1942 and 1943. After the sudden fall of the strategically important British
+                    colony of Singapore to the Japanese on February 15, 1942, the Antipodean nations
+                    expressed concern that the British Government was too focused on the war in
+                    Europe to protect its colonies properly and they began for the first time to
+                    look to the United States to help ensure their security. </p>
+                <p>As the other Allied powers turned their attention to the reconstruction of
+                    postwar Europe and Japan in the post World War II era, the governments of
+                    Australia and New Zealand remained concerned about the possibility of future
+                    Japanese expansionism and grew apprehensive about the rise of communism,
+                    particularly in East Asia. Even before the war ended, Australia and New Zealand
+                    signed an agreement stating that they had common goals and would work together
+                    in the international arena; at the time, the agreement was for both nations the
+                    first treaty negotiated independently, and it reflected the concern that the
+                    major powers of the United States and the United Kingdom may not take Australian
+                    and New Zealander issues into account in their postwar planning. The signing of
+                    the North Atlantic Treaty in 1949, in which the United Kingdom, Canada, and the
+                    United States alongside the Western European powers committed to a mutual
+                    defense arrangement, further prompted the geographically distant countries of
+                    Australia and New Zealand to seek their own security guarantee and means of
+                    integration in the international system in the postwar order. </p>
+                <p>Australia initially considered the idea of a regional pact in the Pacific in the
+                    1930s, and in 1946, at a meeting of the Commonwealth Prime Ministers, it
+                    suggested that the major powers of the British Commonwealth form a regional
+                    defense system. If such an organization were created, the members could then
+                    invite the United States and other countries with strong interests in the
+                    Pacific to join. At that time, however, the United States was not yet prepared
+                    to commit itself to formal security arrangements in the Pacific. During the late
+                    1940s, the United States was heavily engaged in the rebuilding of Japan, but the
+                    United States did not extend its defense interests far beyond Japanese territory
+                    before the Korean War. In response to Australian suggestions for a regional
+                    coalition, U.S. Secretary of State <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean Acheson</ref>
+                    stated that formal treaties with the South Pacific nations were unnecessary, as
+                    any real attack on Australia or New Zealand would elicit a U.S. response even
+                    without formal treaties in place to guarantee it. Moreover, the situations in
+                    the Atlantic and the Pacific were quite different, so there was no question of
+                    simply creating a “Pacific Treaty Organization” to parallel NATO. The Pacific
+                    Ocean was much larger, and the nations that bordered it were far more culturally
+                    and linguistically diverse than the nations of the North Atlantic. Other
+                    considerations led the United States to hesitate to commit to a regional
+                    organization in the Pacific as well. A number of the countries in Southeast Asia
+                    were still under colonial rule, or in the process of developing as independent
+                    states, and therefore neither they nor their colonial governments were in a
+                    position to make regional security commitments. At this time, the United States
+                    was also faced with the critical situation in Europe, including the occupation
+                    and support of West Germany and West Berlin and facing what it saw as the Soviet
+                    threat on that continent. There were fewer immediate economic or political
+                    threats to force equal attention to the security of the Southwest Pacific. </p>
+                <p>Several developments in Asia between 1949 and 1951 helped to change U.S.
+                    perceptions about the utility of a formal security arrangement. The communist
+                    victory in the Chinese Revolution in 1949 seemed to confirm fears that communism
+                    was spreading in East Asia as well as in Europe. In 1950s, the outbreak of the
+                    Korean War led Australia and New Zealand to commit troops through the United
+                    Nations and alongside the NATO allies, demonstrating both their concern over the
+                    threat of communism and their commitment to doing their part to help contain it
+                    in the region. Most importantly, the U.S. decision to end the occupation of
+                    Japan and seek a peace treaty was met with great suspicion and disapproval from
+                    officials in the South Pacific, and that made the United States more willing to
+                    develop a security treaty to gain Antipodean support for the final peace
+                    agreement. In April of 1951, U.S. President <persName>Harry Truman</persName>
+                    announced that negotiations on a tripartite security treaty between the United
+                    States, Australia and New Zealand would occur concurrently with the negotiations
+                    for a final peace treaty with Japan. Both treaties were concluded in mid-1951,
+                    and the ANZUS Treaty was ratified by the United States and entered into force in
+                    1952. </p>
+                <p>Although Britain also maintained an obligation to help defend Australian and New
+                    Zealander security as the leader of the Commonwealth, it was not invited to join
+                    the agreement. There were several reasons for the omission. One important
+                    concern was that extending the invitation to Britain would have required the
+                    signatories to open the opportunity to other European powers with colonial
+                    interests in the region. Another was the fact that British forces were already
+                    engaged in Europe and the Middle East, not to mention committed to the rest of
+                    the Commonwealth, making their actual intervention in the South Pacific in the
+                    event of a security crisis unlikely. Britain was also dealing with internal
+                    instability in its Asian colonies, including Malaya and Hong Kong, and that made
+                    the United States reluctant to sign an agreement that might obligate it to step
+                    in to resolve British colonial concerns. In any case, the British were already
+                    committed to U.S. security via NATO and to Australia and New Zealand via the
+                    Commonwealth, so its participation in a Pacific security arrangement with the
+                    United States, Australia, and New Zealand would have been somewhat redundant.
+                    All parties assumed that if the ANZUS Treaty was eventually extended to include
+                    other powers, however, the United Kingdom would be among the first to join. </p>
+                <p>Although ANZUS was never expanded, the 1954 creation of the Southeast Asian
+                    Treaty Organization (SEATO) included all of the ANZUS powers, as well as
+                    Britain, France, and several other Asian powers, eliminating the impetus to
+                    change the foundation of the ANZUS Treaty. Over the course of the decades that
+                    followed the signing of the ANZUS Treaty, the members met annually to discuss
+                    their shared interests and concerns. These concerns increasingly focused on the
+                    spread of communism rather than the potential for Japanese militarization. Both
+                    Australia and New Zealand sent forces to support the U.S. effort in Vietnam,
+                    though without formally invoking the treaty. </p>
+                <p>In 1984, the ANZUS Treaty began to unravel when New Zealand declared its country
+                    a nuclear-free zone and refused to allow U.S. nuclear-powered submarines to
+                    visit its ports. Two years later, U.S. Secretary of State George P. Shultz and
+                    Australian Foreign Minister Bill Hayden concluded a series of bilateral talks by
+                    confirming that their countries would continue to honor their obligations to one
+                    another under the ANZUS Treaty, in spite of the fact that the trilateral aspects
+                    of the Treaty had been halted. On September 17, 1986, the United States
+                    suspended its treaty obligations toward New Zealand. </p>
+            </div>
+            <div type="section" xml:id="immigration-act">
+                <head>The Immigration and Nationality Act of <date when="1952">1952</date> (The
+                    McCarran-Walter Act)</head>
+                <p>The Immigration and Nationality Act of 1952 upheld the national origins quota
+                    system established by the Immigration Act of 1924, reinforcing this
+                    controversial system of immigrant selection.</p>
+                <figure>
+                    <graphic url="mccarran-pat.jpg" height="200px" width="200px"/>
+                    <head>Patrick McCarran</head>
+                </figure>
+                <p>It also ended Asian exclusion from immigrating to the United States and
+                    introduced a system of preferences based on skill sets and family reunification.
+                    Situated in the early years of the Cold War, the debate over the revision of
+                    U.S. immigration law demonstrated a division between those interested in the
+                    relationship between immigration and foreign policy, and those linking
+                    immigration to concerns over national security. The former group, led by
+                    individuals like Democrat Congressman from New York <persName>Emanuel
+                        Cellar</persName>, favored the liberalization of immigration laws. Cellar
+                    expressed concerns that the restrictive quota system heavily favored immigration
+                    from Northern and Western Europe and therefore created resentment against the
+                    United States in other parts of the world. He felt the law created the sense
+                    that Americans thought people from Eastern Europe as less desirable and people
+                    from Asia inferior to those of European descent. The latter group, led by
+                    Republican Senator from Nevada <persName>Pat McCarran</persName> and Democrat
+                    Congressman from Pennsylvania <persName>Francis Walter</persName>, expressed
+                    concerns that the United States could face communist infiltration through
+                    immigration and that unassimilated aliens could threaten the foundations of
+                    American life. To these individuals, limited and selective immigration was the
+                    best way to ensure the preservation of national security and national interests. </p>
+                <p>Remarkably, economic factors were relatively unimportant in the debate over the
+                    new immigration provisions. Although past arguments in favor of restrictionism
+                    focused on the needs of the American economy and labor force, in 1952, the Cold
+                    War seemed to take precedent in the discussion. Notably, the American Federation
+                    of Labor and the Congress of Industrial Organizations took opposite sides in the
+                    debate, demonstrating that there was not one, clear pro-labor position. </p>
+                <p>At the basis of the Act was the continuation and codification of the National
+                    Origins Quota System. It revised the <ref target="/milestones/1921-1936/immigration-act">1924 system</ref> to allow
+                    for national quotas at a rate of one-sixth of one percent of each nationality’s
+                    population in the United States in 1920. As a result, 85 percent of the 154,277
+                    visas available annually were allotted to individuals of northern and western
+                    European lineage. The Act continued the practice of not including countries in
+                    the Western Hemisphere in the quota system, though it did introduce new length
+                    of residency requirements to qualify for quota-free entry. </p>
+                <p>The 1952 Act created symbolic opportunities for Asian immigration, though in
+                    reality it continued to discriminate against them. The law repealed the last of
+                    the existing measures to exclude Asian immigration, allotted each Asian nation a
+                    minimum quota of 100 visas each year, and eliminated laws preventing Asians from
+                    becoming naturalized American citizens. Breaking down the “Asiatic Barred Zone”
+                    was a step toward improving U.S. relations with Asian nations. At the same time,
+                    however, the new law only allotted new Asian quotas based on race, instead of
+                    nationality. An individual with one or more Asian parent, born anywhere in the
+                    world and possessing the citizenship of any nation, would be counted under the
+                    national quota of the Asian nation of his or her ethnicity or against a generic
+                    quota for the “Asian Pacific Triangle.” Low quota numbers and a uniquely racial
+                    construction for how to apply them ensured that total Asian immigration after
+                    1952 would remain very limited. </p>
+                <p>There were other positive changes to the implementation of immigration policy in
+                    the 1952 Act. One was the creation of a system of preferences which served to
+                    help American consuls abroad prioritize visa applicants in countries with
+                    heavily oversubscribed quotas. Under the preference system, individuals with
+                    special skills or families already resident in the United States received
+                    precedence, a policy still in use today. Moreover, the Act gave non-quota status
+                    to alien husbands of American citizens (wives had been entering outside of the
+                    quota system for several years by 1952) and created a labor certification
+                    system, designed to prevent new immigrants from becoming unwanted competition
+                    for American laborers. </p>
+                <p>President <persName>Truman</persName> was concerned about the decisions to
+                    maintain the national origins quota system and to establish racially constructed
+                    quotas for Asian nations. He thought the new law was discriminatory, and he
+                    vetoed it, but the law had enough support in Congress to pass over his veto.
+                </p>
+            </div>
+            <div type="section" xml:id="korean-war">
+                <head>Korean War and Japan’s Recovery</head>
+                <p>As the Cold War came to dominate U.S. foreign policy, America extended security
+                    commitments to two nations in Northeast Asia—the Republic of Korea and Japan.
+                    The Department of State under Secretary <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean Acheson</ref>
+                    forged a series of agreements to build a permanent American presence in the
+                    region and support these two nations, creating alliances that have lasted to
+                    today. </p>
+                <figure>
+                    <graphic url="korean-war.jpg" height="200px" width="200px"/>
+                    <head>The 25th Infantry Division prepares to go to Korean War from Japan</head>
+                </figure>
+                <p>After Japan’s unconditional surrender to the Allied Powers in August 1945, the
+                    United States military occupied the defeated nation and began a series of
+                    far-reaching reforms designed to build a peaceful and democratic Japan by
+                    reducing the power of the military and breaking up the largest Japanese business
+                    conglomerates. However, growing concern over Communist power in East Asia,
+                    particularly the <ref target="/milestones/1945-1952/chinese-rev">success of the
+                        Chinese Communist Party</ref> in its struggle against <persName>Chiang
+                        Kai-shek’s</persName> Nationalist forces, led the United States to halt
+                    reforms in 1947 and 1948 in order to focus on the economic recovery and
+                    political rehabilitation of Japan. In this “Reverse Course,” Supreme Commander
+                    of the Allied Powers, General <persName>Douglas MacArthur</persName>, focused on
+                    strengthening, not punishing, what would become a key cold war ally. </p>
+                <p>The growing concern over Japanese security related directly to war in Korea.
+                    During World War II the United States and the Soviet Union agreed to temporarily
+                    divide Korea at the 38th parallel in order oversee the removal of Japanese
+                    forces. It soon became clear, however, that neither of the cold war antagonists
+                    would permit its Korea ally to be threatened by unification. The Soviets
+                    supported Kim Il Song in the Democratic People’s Republic of Korea in the north;
+                    the United States backed Syngman Rhee in the Republic of Korea in the south.
+                    Nevertheless the United States did not make Korea a key part of its defensive
+                    strategy for East Asia, and American forces withdrew from the south in the late
+                    1940s. Assuming that the United States did not consider South Korea of vital
+                    interest, Kim’s army attacked the South in June 1950 almost conquering the
+                    entire peninsula. The U.S. military returned, leading a United
+                    Nations-authorized force to push the North’s army back above the 38th parallel
+                    and beyond. After the People’s Republic of China entered the war in late 1950,
+                    the Department of State worked to isolate Peking and maintain the unity of the
+                    U.S.-led coalition. Only in 1953 did the two sides reach an uneasy truce, thus
+                    crystallizing the division between North and South that exists today. In 1953
+                    the United States and South Korea signed a mutual security treaty designed to
+                    protect this new nation from its neighbor to the north.</p>
+                <p>U.S. efforts to save South Korea from Communist invasion accelerated Department
+                    of State attempts to restore Japan to a respected international position, and
+                    make that country a prosperous ally of the United States. Negotiated primarily
+                    by <ref target="/departmenthistory/people/dulles-john-foster">John Foster
+                        Dulles</ref> in 1950 and 1951, the Treaty of San Francisco ended the state
+                    of war between Japan and 47 of the Allies (most nations allied with the Soviet
+                    Union refused to sign), concluded the American Occupation, and excused the
+                    Japanese from reparations for the war. Acheson signed the San Francisco Treaty
+                    on September 8, 1951, the same day he and Japanese Prime Minister
+                        <persName>Yoshida Shigeru</persName> signed the United States-Japanese
+                    Security Treaty. The treaty allowed the United States to station troops in
+                    Japan, and made the Japanese islands into an important facet of America’s global
+                    containment structure. To American leaders, Japan has transformed from World War
+                    II enemy to vital ally, and Korea went from a peripheral region to a key battle
+                    ground in the Cold War. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

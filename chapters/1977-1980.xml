@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1977–1980</title>
+                <title type="short">1977–1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31"
+                    target="#foreword #horn-of-africa #central-america-carter #human-rights #us-western-europe #non-proliferation #china-policy #camp-david #panama-canal #soviet-invasion-afghanistan"
+                />
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword"
+                ana="johnson-lyndon-b nixon-richard carter-jimmy reagan-ronald bush-george-h-w kissinger-henry-a vance-cyrus-roberts muskie-edmund-sixtus china russia egypt iran israel afghanistan panama arms-control-and-disarmament human-rights">
+                <head>1977–1981: The Presidency of Jimmy Carter</head>
+                <p>President <persName>Jimmy Carter</persName> took office in January 1977 as a
+                    Washington outsider, pledging to restore a sense a morality to both domestic and
+                    foreign policy following the traumas of the Vietnam War and Watergate. Morality,
+                    he believed, existed as the best foundation for exerting U.S. power and
+                    influence. Carter envisioned that his foreign policy, “derived from a longer
+                    view of global change,” would move the United States away from operating within
+                    a bipolar or tripolar context to one taking into account an increasingly
+                    complicated and interdependent world. </p>
+                <figure>
+                    <graphic url="carter-admin.jpg" height="450px" width="303px"/>
+                    <head>Carter and Brzezinski, April 19, 1977. (Jimmy Carter Library)</head>
+                </figure>
+                <p>Although the former Governor of Georgia had limited foreign policy experience,
+                    Carter had engaged in international trade issues and had been invited to join
+                    the Trilateral Commission, a consortium of business executives, government
+                    officials, and academics from North America, Japan, and Europe. These activities
+                    broadened his understanding of global issues and brought him into contact with
+                    individuals who had spent much of their careers in Washington, including
+                        <persName>Zbigniew Brzezinski</persName> and <persName>Cyrus
+                        Vance</persName>, both of whom had served in various capacities during the
+                    Lyndon B. Johnson administration. Carter relied on Brzezinski and Vance to
+                    advise him during the 1976 presidential campaign and offered them the positions
+                    of National Security Adviser and Secretary of State, respectively, after he won
+                    election in November 1976. Carter’s foreign policy team also included former
+                    Senator Walter F. Mondale (DFL-Minnesota), whom Carter would select as his vice
+                    presidential running mate and former California Institute of Technology
+                    President Harold Brown, whom Carter would nominate for Secretary of Defense.
+                    These principals, later including Secretary of State <persName>Edmund
+                        Muskie</persName>, established a collegial working relationship,
+                    characterized by their weekly foreign policy breakfasts. Vance, Brzezinski, and
+                    Brown also met weekly for an informal V–B–B luncheon to discuss decisions that
+                    did not rise to the level of a formal interagency meeting. Although Vance and
+                    Brzezinski respected one another, they differed over the administration’s
+                    approach to certain issues, notably relations with the Soviet Union. This
+                    tension became more pronounced and visible by the midpoint of the
+                    administration.</p>
+                <p>Carter’s management of foreign policy reflected his preference for simplifying
+                    the structures established by his predecessors. In two Presidential Directives
+                    issued on January 20, 1977, Carter stated the direction of the work of the
+                    National Security Council and participating agencies and the reorganization of
+                    the National Security Council. PD/NSC–1 established both the Presidential Review
+                    Memorandum, designed to structure the reviews and analyses of foreign policy
+                    issues undertaken by agencies, and the Presidential Directive, the statement of
+                    presidential decisions on national security matters. PD/NSC–2 reaffirmed the
+                    functions, membership, and responsibilities of the National Security Council, as
+                    set out in the National Security Act of 1947 and also created the NSC Policy
+                    Review Committee (PRC) and the NSC Special Coordination Committee (SCC). The
+                    Policy Review Committee formulated policy for presidential decision on cases
+                    where responsibilities fell within a particular agency but had implications for
+                    other departments or agencies. Issues such as defense or international economic
+                    policy fell within the scope of the PRC; Brzezinski had the latitude to choose a
+                    particular PRC chair based on the subject matter under consideration. The
+                    Special Coordination Committee dealt with the coordination and implementation of
+                    foreign policy related to specific issues such as arms control, intelligence,
+                    and crisis management; Brzezinski chaired the SCC. Carter also retained the
+                    flexibility of appointing NSC ad hoc groups to advise him on issues
+                    “transcending” departmental boundaries. Within the National Security Council,
+                    Brzezinski trimmed the staff and reorganized it along geographical and
+                    functional “clusters,” including ones for global issues, international
+                    economics, defense coordination, intelligence coordination, and science. </p>
+                <p>During the 1976 presidential campaign, Carter articulated many of the
+                    philosophical roots of his foreign policy. His approach emphasized the
+                    maintenance of peace, the pursuit of human rights, the achievement of nuclear
+                    non-proliferation, the necessity of international cooperation, and a focus on
+                    the developing world rather than on East-West concerns. In defining this policy,
+                    Carter admitted that the United States did not alone possess the answers to the
+                    world’s problems. It should not impose unilateral solutions, although it could
+                    take the lead in advancing policies designed to create a “just and stable”
+                    international order. In doing so, the United States would maintain its strategic
+                    interests.</p>
+                <p>Carter enjoyed some early successes in pursuit of his foreign policy objectives.
+                    He devoted energy and skill in negotiating and concluding, in 1977 and 1978, two
+                    agreements with Panama over the Panama Canal that allowed for joint operations
+                    and Panamanian sole control of the Canal by 1999, permanent neutrality and the
+                    U.S. right to defend the Canal. Carter also mediated framework discussions
+                    between Israeli Prime Minister Menachem Begin and Egyptian President Anwar Sadat
+                    in September 1978, resulting in a formal peace agreement between Egypt and
+                    Israel in 1979. Carter elevated and institutionalized human rights as a
+                    component of foreign-policy decision making and brought increased attention to
+                    global human rights abuses. The administration also completed the normalization
+                    of relations with China in 1979, initiated during the Nixon administration. In
+                    pursuit of global economic cooperation, Carter promoted multilateral efforts
+                    such as an expanded and equitable trading system, food reserves, and an
+                    international health program.</p>
+                <p>Regardless of Carter’s desire to substitute world order politics for a bipolar
+                    foreign policy, he and his advisers had to engage with the Soviet leadership on
+                    a number of crucial issues. Although Carter supported détente, he rejected the
+                    Nixon-Kissinger concept of “linkage,” believing that he could speak out against
+                    human rights abuses in the Soviet Union, while negotiating arms reductions with
+                    Soviet General Secretary <persName>Leonid Brezhnev</persName>. Although Carter
+                    and Brezhnev, in 1979, signed the SALT II Treaty, which limited the total of
+                    both nations’ nuclear forces and placed other restrictions on strategic nuclear
+                    forces, the Soviet invasion of Afghanistan in December 1979 forced Carter to
+                    delay Senate consideration of the treaty. Ultimately, the Senate failed to
+                    ratify SALT II.</p>
+                <p>The Soviet invasion of Afghanistan took place a month after Iranian militants
+                    stormed the U.S. Embassy in Tehran and took Americans hostage. In addition to
+                    these crises, Carter faced a mounting series of domestic economic problems,
+                    including increases in gasoline prices, rising inflation, and rising
+                    unemployment. Carter responded to the Soviet invasion by embargoing grain sales,
+                    banning technology exports, and prohibiting U.S. participation in the upcoming
+                    1980 Moscow Summer Olympics. He also used his January 1980 State of the Union
+                    address to issue a warning that if outside forces interfered in the Persian
+                    Gulf, the United States would respond, reserving the right to use military
+                    force. This harder stance could not overcome public disillusionment with the
+                    Carter administration, made worse by the administration’s inability to secure
+                    the release of the hostages. Republican presidential candidate <persName>Ronald
+                        Reagan</persName> and his vice presidential running mate <persName>George
+                        H.W. Bush</persName> capitalized upon this dissatisfaction and, in November
+                    1980, defeated Carter and Mondale.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="horn-of-africa"
+                ana="carter-jimmy vance-cyrus-roberts ethiopia somalia russia afghanistan cuba">
+                <head>“Buried in the Sands of the Ogaden”: The Horn of Africa and SALT II,
+                    1977–1979</head>
+                <p>In the summer of 1977, Somalia, a poverty -stricken country in the Horn of
+                    Africa, invaded its equally poor neighbor, Ethiopia, in hopes of conquering the
+                    Ogaden Desert region, which was populated by ethnic Somalis. What began as a
+                    local conflict in a far-flung region of the world grew into a Cold War hotspot
+                    as the United States and the Soviet Union took sides.</p>
+                <figure>
+                    <graphic url="ogaden.jpg" height="450px" width="433px"/>
+                    <head>Map of the Ogaden region. (Central Intelligence Agency)</head>
+                </figure>
+                <p>The United States had supported the long-ruling Emperor Haile Selassie in
+                    Ethiopia. The Emperor enjoyed great status as an international statesman, but
+                    ultimately failed to deliver basic services to his impoverished people. Several
+                    famines in the 1960s and early 1970s finally brought about a revolution in 1973
+                    that upended the formerly feudal societal structure. The revolution was
+                    originally led by urbanites such as laborers, students, and taxi drivers, but
+                    soon a group of mid-level army officers filled the leadership void and
+                    eventually arrested and deposed Haile Selassie in September 1974. The
+                    ideological direction of the revolution was not clear at first, and the United
+                    States attempted to maintain relations with the new leadership. However, after
+                    Mengistu Haile Miriam had his rivals killed and became the dominant leader of
+                    Ethiopia, the revolution took a communist turn, and he reached out to the Soviet
+                    Union to replace U.S. military aid. The Soviet Union agreed to fund its new ally
+                    and hoped that Ethiopia and Somalia could form a communist federation.</p>
+                <p>In Somalia, Mohammed Siad Barre had seized power in a coup in 1969 and had
+                    declared Somalia a socialist republic. The Soviet Union and Somalia had then
+                    signed a Treaty of Friendship and Cooperation in 1974. However, Siad Barre had
+                    designs on the Ogaden region of Ethiopia and resented the growing closeness
+                    between Ethiopia and the Soviet Union. In response, the Somali dictator reached
+                    out to the United States in hopes of securing military aid and eventually
+                    expelled the Soviets from the country. The Soviets chose to support Addis Ababa,
+                    keeping the bigger prize in the zero sum game of the Cold War. The United States
+                    was actively considering aid to Mogadishu when Somalia invaded Ethiopia,
+                    completing the total flip in the alliances.</p>
+                <p>Siad Barre wanted to take advantage of Ethiopia’s fragmented society when he
+                    invaded. The leadership in Addis Ababa faced a long-running rebellion in Eritrea
+                    as well as insurgency by the ethnic Somalis in the Ogaden and Mengistu was still
+                    focused on consolidating his own power. Somalia, therefore, had the upper hand
+                    in the early phase of the war and advanced toward the major Ethiopian cities in
+                    the region. However, the Soviet Union began a massive airlift that autumn of
+                    Soviet military advisors and supplies, and also Cuban troops to aid the
+                    beleaguered Marxist regime, turning the tide of the war.</p>
+                <p>The United States was alarmed at such a large scale Soviet and Cuban intervention
+                    in Africa. Since this occurred on the heels of the communist countries’
+                    involvement in Angola, the administration of President Jimmy Carter feared that
+                    a pattern was emerging. The conflict in the Horn and the Soviet intervention
+                    also occurred in an era of détente between the United States and the Soviet
+                    Union. Détente was a series of agreements between the two superpowers that were
+                    meant to reduce tensions. For Moscow, détente represented a chance to be
+                    recognized as an equal power to Washington. Washington, on the other hand, saw
+                    détente as a way to draw the Soviet Union further into the international system
+                    and exercise some influence over Soviet behavior in the Third World. The United
+                    States, therefore, used the Horn of Africa conflict as a test case for its
+                    understanding of détente.</p>
+                <p>The members of the Carter administration’s National Security Council (NSC)
+                    disagreed on an appropriate response to the Soviet intervention and they divided
+                    into two main camps. In particular, Carter’s National Security Advisor, Zbigniew
+                    Brzezinski, argued that the United States needed a bold response and that the
+                    administration could not let the Soviets get away with intervention in the Horn
+                    or else they would become emboldened elsewhere in Africa. Another faction of the
+                    NSC, led by Secretary of State Cyrus Vance, argued that the Soviets were just
+                    taking advantage of an opportunity and a hard stance against the Soviets
+                    vis-à-vis their Africa policy would jeopardize progress on more important
+                    bilateral relations.</p>
+                <p>While Vance won the initial arguments and the United States refrained from
+                    sending a carrier task force to the region as Brzezinski proposed, members of
+                    the administration continued to raise their concerns with their Soviet
+                    counterparts. Brzezinski and later Carter himself began to speculate publicly
+                    that the Soviet behavior in the Horn of Africa was undermining Congressional
+                    willingness to ratify a new agreement on the Strategic Arms Limitation Talks
+                    (SALT), the lynchpin of détente. Vance, on the other hand, feared that
+                    Brzezinski’s rhetoric was what was causing members of Congress to link the two
+                    issues. The Soviets could not understand why the United States attached such
+                    importance to their intervention in the Horn and made no attempt to come to an
+                    understanding on the issue.</p>
+                <p>The Horn of Africa crisis turned out to be the first in a series of disagreements
+                    between the superpowers over the Third World that occurred during the Carter
+                    years. Events on the Horn were followed by problems in Zaire, Yemen, Cuba and
+                    finally, the Soviet invasion of Afghanistan in December 1979. After the
+                    invasion, President Carter withdrew the SALT II treaty from Congressional
+                    consideration, leading Brzezinski to claim that “SALT lies buried in the sands
+                    of the Ogaden.”</p>
+            </div>
+            <div type="section" xml:id="central-america-carter"
+                ana="carter-jimmy vance-cyrus-roberts costa-rica el-salvador nicaragua human-rights organization-of-american-states diplomatic-recognition">
+                <head>Central America, 1977–1980</head>
+                <p>The Carter administration’s preferred policy toward Latin America—stressing human
+                    rights and non-interventionism—was severely tested by events in Central America.
+                    In July 1979 the revolutionary Sandinista movement prevailed over Nicaraguan
+                    President Anastasio Somoza who had been a close U.S. ally. Facing the possible
+                    threat of a Marxist tide sweeping through the region, the Carter White House
+                    undertook multiple initiatives to moderate the revolution in Nicaragua.</p>
+                <figure>
+                    <graphic url="carter-central-america.jpg" height="350px" width="519px"/>
+                    <head>A statue of Anastasio Somoza is pulled from its base by Sandinista
+                        guerrillas on July 10, 1979. (AP Photo)</head>
+                </figure>
+                <p>In a series of speeches in 1977 President Jimmy Carter outlined his vision of a
+                    foreign policy based on protecting human rights, pledged to end the tradition of
+                    U.S. interventionism in Latin America, and offered to support the development of
+                    democracy through multilateral cooperation. Widespread poverty, a growing reform
+                    movement, and a corrupt and violent military dictatorship made Nicaragua a clear
+                    focus for Carter’s new approach. Somoza controlled Nicaragua’s politics,
+                    military, and much of its economy. Following his brother Luis Somoza’s direct
+                    and indirect rule of the country from 1956 to 1966, Somoza re-established a
+                    military dictatorship in the mold of his father Anastasio Somoza García’s
+                    two-decades of control from 1936 to 1956. Public outcry over Somoza’s abuses
+                    exploded after a devastating earthquake hit the capital city of Managua in 1972
+                    and Somoza’s businesses, political cronies, and military subordinates embezzled
+                    most of the international relief donations.</p>
+                <p>The geo-politics of the Cold War transformed Carter’s policies toward Nicaragua
+                    from what might have been straightforward support for democratic reform to a
+                    torturous balancing act. While the middle-class, the business community, and the
+                    local Catholic leadership became increasingly critical of Somoza in the
+                    mid-1970s, a committed group of revolutionaries had already been fighting for
+                    decades to overthrow him. Inspired by the 1959 Cuban revolution and advised by
+                    the new Cuban leader Fidel Castro, Nicaraguan revolutionaries joined efforts to
+                    found the Sandinista National Liberation Front (FSLN). The name honored Augusto
+                    Sandino, who had fought against the U.S. Marines in the 1920s and opposed the
+                    creation of the Nicaraguan National Guard. In fact the Guard, headed by Somoza’s
+                    father, executed Sandino despite a surrender agreement in 1934. The Sandinista
+                    guerrillas had limited influence, but the growing public opposition to the
+                    Somoza regime in the later 1970s presented the opportunity for a breakthrough.
+                    Carter criticized Somoza’s abuses but carefully avoided any encouragement of the
+                    FSLN because of its Cuban ties and the Marxist orientation of its leaders. The
+                    assassination of Pedro Joaquín Chamorro, the publisher of the opposition
+                    newspaper <hi rend="italic">La Prensa</hi>, in January 1978 served as a catalyst
+                    for civil war. Though Somoza’s role in the crime was unproven, major
+                    demonstrations erupted. In August 1978, Sandinista guerrillas captured the
+                    National Palace and exchanged several hundred hostages for the release of
+                    prisoners, money, and safe passage out of country. The moderate opposition
+                    organized a general strike and in September 1978 the Sandinistas launched a
+                    series of coordinated attacks in major cities.</p>
+                <p>Carter sought solutions that would cool the boiling forces of revolution in
+                    Nicaragua and establish a path to democratic transition. The 17th Meeting of
+                    Consultation of Ministers of Foreign Affairs of the Organization of American
+                    States (OAS) agreed to a U.S. proposal for a political mediation in Nicaragua.
+                    Somoza and the moderate opposition accepted the mediation proposal and an
+                    International Commission of Friendly Cooperation and Conciliation, comprised of
+                    representatives of the Dominican Republic, Guatemala, and the United States,
+                    arrived in October 1978. William G. Bowdler, the U.S. representative, was
+                    ultimately unable to convince Somoza to join with the moderates in a transition
+                    to free elections. Carter next opted to explore the possibility of a plebiscite
+                    on Somoza’s rule. In January 1979, Somoza rejected the idea of international
+                    supervision of a plebiscite vote and the mediation effort ended. That February,
+                    Carter terminated military assistance to the National Guard and asked that other
+                    countries cease assistance to the Sandinistas.</p>
+                <p>Events in Nicaragua soon outpaced Carter’s efforts to shape them. The Sandinista
+                    leadership joined with selected representatives from the moderate opposition to
+                    form a Provisional Government (PG), established in Costa Rica on June 16. On
+                    June 21, Secretary of State Cyrus Vance called for the replacement of Somoza
+                    with a broadly based transition government of national reconciliation, the
+                    negotiation of a cease-fire, humanitarian aid, and an OAS peacekeeping force.
+                    Two days later the OAS passed a resolution calling for the replacement of the
+                    Somoza regime. In Managua, Ambassador Lawrence Pezzullo pushed for an elaborate
+                    plan under which Somoza would resign and the Nicaraguan Congress would elect an
+                    interim successor. The successor would appoint a new head of the National Guard,
+                    call for a cease-fire, negotiate the gradual merger of the National Guard with
+                    FSLN forces, and finally transfer power to the PG within 72 hours. Following the
+                    script, Pezzullo informed Somoza on July 12 that his departure would minimize
+                    bloodshed and help to salvage the National Guard. Somoza departed for the United
+                    States on July 17. The Nicaraguan Congress then elected Francisco Urcuyo.
+                    Pezzullo’s plan collapsed when Urcuyo announced his intention to remain in power
+                    until the end of Somoza’s presidential term in 1981 and obstructed the
+                    cease-fire negotiations. On July 18 Pezzullo departed, the National Guard
+                    evaporated, and the PG declared itself the legitimate government of Nicaragua.
+                    Sandinista forces entered Managua on July 19 and oversaw the installment of the
+                    PG, renamed the Government of National Reconstruction (GNR), the next day. </p>
+                <p>Still aiming for influence, President Carter met with members of the GNR in the
+                    White House in September 1979 and encouraged moderation and respect for
+                    democratic values and human rights. That November, Carter asked Congress for $80
+                    million in new supplemental aid funds ($75 million for Nicaragua and $5 million
+                    for other Central American states), in addition to the $50 to $70 million of
+                    fiscal year 1980 funds that he requested be reprogrammed for Nicaragua. A heated
+                    and lengthy congressional debate ended in May 1980 with an act authorizing $80
+                    million in assistance to Central America for fiscal year 1980. The act required
+                    reports every six months from the Secretary of State on the status of human
+                    rights in Nicaragua and stipulated that the aid would be terminated if foreign
+                    forces in Nicaragua threatened the security of the United States or any of its
+                    Latin American allies.</p>
+                <p>The Nicaraguan revolution threatened to worsen an already unstable and violent
+                    situation in neighboring El Salvador. Autocratic military governments had
+                    prevailed in disputed elections in 1972 and 1977, and by 1979 the President,
+                    retired General Carlos Humberto Romero, had increased the repression against the
+                    leftist opposition. Convinced that Romero’s rejection of reform strengthened the
+                    prospects for revolution and the destruction of their institution, as had
+                    transpired in Nicaragua, a group of young military officers overthrew Romero in
+                    October 1979. The group established a five-man civilian military junta that was
+                    committed to reform and free elections but faced a violent landscape with
+                    frequent attacks by both left and right wing terror groups. The United States
+                    recognized the new government and provided security assistance and advisers, but
+                    the junta collapsed in January 1980 when the civilian members resigned after the
+                    junta failed to stem violence by the military and right wing groups. The
+                    Christian Democrats, the major reformist political party led by Jose Napoleon
+                    Duarte, joined with the military in a new junta government. By March 1980, with
+                    Duarte assuming a leadership role, the new junta undertook wide-ranging agrarian
+                    and financial reform and received increased U.S. security and economic
+                    assistance. Yet, the violence spiked with the murder of the archbishop of San
+                    Salvador, Oscar Romero, who had lamented the abuses of the military and
+                    criticized U.S. military aid to El Salvador. In December 1980, the abduction and
+                    murder of four U.S. churchwomen in El Salvador convinced President Carter to
+                    suspended assistance to the country. A Presidential mission sent by Carter to
+                    investigate the crime found complicity of the Salvadoran security forces either
+                    in the crime or in evading the investigation. In January 1981 guerrillas of the
+                    leftist Farabundo Martí National Liberation Front (FMLN), named to honor the
+                    executed communist leader of the 1932 peasant uprising, launched a major
+                    offensive. The United States responded by providing military aid to the junta,
+                    citing progress in the investigation of the murders of the churchwomen and
+                    concern about external support for the guerrillas.</p>
+            </div>
+            <div type="section" xml:id="human-rights"
+                ana="ford-gerald carter-jimmy vance-cyrus-roberts foreign-aid human-rights">
+                <head>Carter and Human Rights, 1977–1981</head>
+                <p>
+                    <persName>Jimmy Carter</persName> campaigned for the presidency in 1976
+                    promising substantial changes in the conduct of U.S. foreign policy. He intended
+                    to infuse a new morality in American diplomacy, one grounded in the pursuit of
+                    human rights.Carter made this cause explicit in his January 20, 1977, inaugural
+                    address: “Because we are free, we can never be indifferent to the fate of
+                    freedom elsewhere. Our moral sense dictates a clear-cut preference for those
+                    societies which share with us an abiding respect for individual human rights.”
+                    The Carter administration thus articulated, devised, and implemented a human
+                    rights strategy that would serve as the cornerstone of Carter’s foreign
+                    policy.</p>
+                <figure>
+                    <graphic url="human-rights.jpg" height="450px" width="298px"/>
+                    <head>Carter address delivered before the U.N. General Assembly, October 4,
+                        1977. (Jimmy Carter Library)</head>
+                </figure>
+                <p>Criticism of human rights abuses in other nations served as an early indication
+                    that Carter’s inaugural address marked an ideological shift in U.S. foreign
+                    policy. During the early weeks of the administration, officials spoke out
+                    against harassment and human rights violations in Czechoslovakia, the Soviet
+                    Union, and Uganda.When asked at a January 31, 1977, press conference if the
+                    administration would continue to address specific human rights issues or exert
+                    quiet diplomatic pressure, Secretary of State <persName>Cyrus Vance</persName>
+                    explained that the United States “will speak frankly about injustice, both at
+                    home and abroad,” while avoiding strident and polemical language. Vance
+                    cautioned, though, that the administration would not “comment on each and every
+                    issue” but would comment “when we see a threat to human rights” and when it was
+                    “constructive to do so.” The administration also linked human rights concerns
+                    directly to the conduct of foreign policy, including support for a bill halting
+                    importation of Rhodesian chrome and the reduction of foreign aid to other
+                    nations that did not display sufficient respect for human rights.</p>
+                <p>Carter further defined these efforts in a series of public addresses delivered in
+                    early 1977. These speeches also afforded Carter the opportunity to explain why
+                    and how his administration promoted human rights. Speaking before the United
+                    Nations General Assembly on March 17, 1977, the President asserted that the
+                    United States had a “historical birthright” to be associated with human rights.
+                    While the United States had not always lived up to this ideal, Carter identified
+                    several steps to rectify U.S. shortcomings “quickly and openly,” including the
+                    liberalization of travel policies and the signing and ratification of
+                    international human rights covenants. In his May 22, 1977, commencement address,
+                    delivered at Notre Dame University, Carter drew a distinction between his policy
+                    and the policies of his predecessors, noting that they had pursued the “flawed
+                    and erroneous principles and tactics of our adversaries.” As a result, the
+                    United States had moved away from its core values. The interdependent world of
+                    the 1970s required a “new American foreign policy” grounded in cardinal
+                    principles, including the “commitment to human rights as a fundamental tenet of
+                    our foreign policy.” The Notre Dame address served as a comprehensive statement
+                    and justification of Carter’s human rights policy.</p>
+                <p>Vance refined the policy in an April 30, 1977, address at the University of
+                    Georgia Law School. He promoted adherence to three human rights categories—the
+                    right to be free from government violation of the integrity of the person; the
+                    right to fulfill vital needs such as food, shelter, and education; and civil and
+                    political rights. Vance explained flexibility characterized implementation of
+                    policy, depending on the details of particular cases. The United States had to
+                    accept limits in pursuing human rights; a rigid approach to imposing U.S. values
+                    on other nations would not allow the United States to achieve its objectives in
+                    this area.</p>
+                <p>These public declarations coincided with and guided the administration’s effort
+                    to translate Carter’s commitment into a broader strategy. In May 1977, the
+                    administration issued Presidential Review Memorandum/NSC 28, which directed a
+                    review of U.S. human rights policy in order to define policy objectives,
+                    evaluate actions designed to improve rights, review national security
+                    considerations, and propose implementing actions. The completed PRM/NSC 28
+                    study’s recommendations formed the basis for Presidential Directive 30, issued
+                    in February 1978. Noting that a major objective of U.S. foreign policy should be
+                    the observance of global human rights, Presidential Directive 30 outlined
+                    specific guidelines for U.S. human rights policy and indicated the types of
+                    rights the United States would protect. The United States would use “the full
+                    range of diplomatic tools,” including public statements, consultations with
+                    allies, and cooperation with non-governmental actors and international
+                    organizations. The directive linked economic and military assistance to the
+                    human rights records of the recipients; countries with good or improving records
+                    would receive favorable consideration, while those nations with poor or
+                    deteriorating records would not. Presidential Directive 30 thus formally defined
+                    U.S. policy on human rights.</p>
+                <p>Implementing the administration’s human rights strategy required the Department
+                    of State to modify existing institutional structures. Legislation enacted during
+                    the Gerald R. Ford administration created the position of Coordinator for Human
+                    Rights and Humanitarian Affairs, located within the Deputy Secretary of State’s
+                    office. The Office of Human Rights and Humanitarian Affairs also included a
+                    Deputy Coordinator for Human Rights and Humanitarian Affairs and coordinators
+                    for Refugee and Migration Affairs and POW/MIA Affairs.Carter selected Patricia
+                    Murphy Derian, a civil rights activist, to serve as Coordinator, upon the
+                    retirement of Coordinator James Wilson. By the end of 1977, the Department of
+                    State established the Bureau of Human Rights and Humanitarian Affairs and
+                    elevated Derian to Assistant Secretary for Human Rights and Humanitarian
+                    Affairs. Foreign Service officers with regional and topical expertise staffed
+                    the Bureau, which, over time, added additional offices for country reports,
+                    asylum, and refugee and migration affairs. Managing the human rights country
+                    reports process existed as one of the main responsibilities of the Bureau of
+                    Human Rights and Humanitarian Affairs. These reports on the status of human
+                    rights practices were initially limited to countries receiving security and
+                    economic assistance but later extended to apply to all countries. The Department
+                    of State released the annual reports to the public, and Derian testified before
+                    Congress concerning the administration’s views of the human rights record of
+                    particular countries.</p>
+                <p>Managing human rights policy also required the administration to establish new
+                    coordinating and evaluation mechanisms. To ensure that all bureaus engaged on
+                    human rights issues, Vance tasked Deputy Secretary of State Warren Christopher
+                    with creating a Human Rights Coordinating Group (HRCG), consisting of Department
+                    of State officials at the deputy assistant secretary level, to serve as an
+                    “internal mechanism” for decision-making. Recognizing that the United States
+                    could not examine economic and security assistance decisions in a vacuum,
+                    Assistant to the President for National Security Affairs <persName>Zbigniew
+                        Brzezinski</persName> directed Vance and Secretary of the Treasury
+                        <persName>W. Michael Blumenthal</persName> to establish a group—the
+                    Interagency Working Group on Human Rights and Foreign Assistance—to evaluate, on
+                    a case-by-case basis, bilateral and multilateral aid decisions as they related
+                    to human rights and to provide guidance to ensure a unified government position
+                    on aid decisions. Brzezinski had also established within the National Security
+                    Council (NSC) a Global Issues Cluster responsible for overseeing issues such as
+                    human rights and arms control.</p>
+                <p>The Carter administration raised greater awareness of human rights concerns by
+                    connecting human rights to the execution of U.S. foreign policy. During 1977 and
+                    1978 the administration articulated the policy in various public statements,
+                    devised guidelines for its application, strengthened existing structures for
+                    managing human rights, and created new institutional arrangements for applying
+                    human rights considerations to economic and military aid. These efforts
+                    continued to influence the administration’s pursuit of human rights, even as the
+                    foreign policy crises of 1979 and 1980 required more of Carter’s attention.</p>
+            </div>
+            <div type="section" xml:id="us-western-europe"
+                ana="carter-jimmy belgium france germany italy luxembourg malta netherlands portugal spain united-kingdom iran afghanistan arms-control-and-disarmament human-rights north-atlantic-treaty-organization united-nations terrorism">
+                <head>Political and Security Relations between the United States and Western Europe,
+                    1977–1981 </head>
+                <p>Relations between the United States and Western Europe were mixed during the
+                    presidency of Jimmy Carter. Western European capitals greeted the November 1976
+                    election of President Carter with optimism, but tensions soon developed between
+                    Washington and Western Europe over how to best manage relations with the Soviet
+                    Union. Opposition on the part of the European public to European political
+                    leadership’s approach on how to deal with this issue also complicated matters.
+                    Nevertheless, changes in the political landscape of Western Europe provided
+                    opportunities for improved cooperation and understanding between the United
+                    States and Europe. Washington learned to live with Eurocommunism, nurtured
+                    closer ties to new democracies in southern Europe, and worked more closely with
+                    its European partners on counterterrorism measures. Despite these positive
+                    developments, conflicting ideas over how to address the 1979 U.S. hostage crisis
+                    in Tehran and the Soviet intervention in Afghanistan negatively impacted the
+                    U.S.-Western Europe partnership. When Carter left the White House in 1981, U.S.
+                    relations with Western Europe remained close yet strained.</p>
+                <figure>
+                    <graphic url="western-europe.jpg" height="450px" width="302px"/>
+                    <head>Jimmy Carter and leaders of Western Europe Helmut Schmidt, Valery Giscard
+                        d’Estaing, and James Callaghan pose while meeting in Guadeloupe, January
+                        1979. (Jimmy Carter Library)</head>
+                </figure>
+                <p>Many European government officials and members of the public supported the policy
+                    of détente undertaken by the administrations of Presidents Richard M. Nixon and
+                    Gerald R. Ford as a pragmatic approach to reducing the Soviet threat. The Carter
+                    administration’s renewed attention to human rights violations in the Soviet
+                    Union and Eastern Europe, along with its opposition to Soviet interventions in
+                    the Third World, triggered anxieties in countries such as West Germany that
+                    détente might be undermined.</p>
+                <p>Regional security issues played a major role in the U.S.-Western Europe
+                    relationship during this period. Despite arms control agreements such as
+                    Strategic Arms Limitation Talks (SALT) I, the Soviet Union continued to expand
+                    its conventional forces; in 1977, the Soviet Union began to deploy new
+                    intermediate-range ballistic missiles (IRBMs) in Eastern Europe. Many Western
+                    Europeans looked to the United States to lead efforts to respond to the
+                    continued Soviet military build-up.</p>
+                <p>Starting in the summer of 1977, the subject of enhanced radiation weapons (ERWs)
+                    created new tensions between Washington and Western European nations. Often
+                    referred to as neutron bombs, ERWs were designed to cause a greater share of
+                    casualties from radiation rather than explosive force. In June 1977, when the
+                    U.S. press reported that the United States would develop ERWs, public reaction
+                    was largely negative, particularly in Europe. Some decried the neutron bomb as
+                    the “perfect” capitalist weapon that would limit damage to buildings but could
+                    expose civilians to greater danger. Many European political leaders supported
+                    deployment of the neutron bombs and invested intense effort to convince their
+                    citizens of the weapon’s necessity. However, in April 1978 President Carter
+                    decided to defer production of ERWs. Carter’s decision frustrated European
+                    leaders who had spent political capital to support the deployment of a weapons
+                    system that would not be produced.</p>
+                <p>While the United States negotiated bilaterally with the Soviet Union on the SALT
+                    II agreement, the North Atlantic Treaty Organization (NATO) countries sought to
+                    counter the IRBM threat to Western Europe. In December 1979, NATO approved a
+                    “dual-track” response: deploying Pershing II and cruise missiles while
+                    simultaneously seeking to negotiate reductions in theatre nuclear forces with
+                    the Soviet Union. The planned missile deployment was a contentious issue in some
+                    capitals. European public opinion trends showed resistance to the stationing of
+                    new missiles on Western European soil motivated by concerns that it would make
+                    Western Europe more vulnerable to Soviet attacks. Despite public resistance,
+                    West Germany and Italy approved deployment of the missiles on their territories
+                    without conditions. Other governments, such as Belgium and the Netherlands,
+                    hesitated or initially resisted the move, which put pressure on their bilateral
+                    relationships with Washington.</p>
+                <p>The changing political landscape in Western Europe also had a significant impact
+                    on U.S.-Western European relations during this time. In the 1970s, communist
+                    parties in Western Europe, particularly in Italy, became more independent from
+                    policy set in Moscow. Communist groups throughout the region worked more closely
+                    within their national systems, and in some cases even entered into ruling
+                    coalition governments. This movement, known as Eurocommunism, altered how
+                    Washington and its overseas representatives worked with European policymakers.
+                    Previously U.S. policy limited the United States to working only with anti- or
+                    non-communist groups and politicians. In response to the trend toward
+                    Eurocommunism, the Carter administration decided that U.S. diplomats should
+                    engage with a broader cross-section of politicians, opinion makers, and the
+                    public.</p>
+                <p>In southern Europe, fears about the rise of communism were also put to rest.
+                    During the Ford administration, the Carnation Revolution (1974) and the death of
+                    Spanish Head of State General Francisco Franco (1975) that ended authoritarian
+                    regimes in Portugal and Spain respectively, provoked anxiety in Washington about
+                    a possible communist takeover of the Iberian Peninsula. By the Carter years it
+                    became clear that both Spain and Portugal were peacefully transitioning to
+                    democracy. Frequent visits by high-level U.S. officials helped reaffirm
+                    Washington’s solidarity with these countries and support for the fledgling
+                    democracies in Lisbon and Madrid. Renegotiations of U.S. rights to use military
+                    bases in Spain and Portugal further underlined the strengthened relationship
+                    between Iberia and the United States. Likewise, by late 1978, the Italian
+                    Communist Party’s efforts to participate in government had been frustrated and
+                    the party suffered electoral losses, thus reducing concerns about communist
+                    influence in Italy.</p>
+                <p>The European political scene was also affected by a sharp uptick in domestic
+                    terrorism in Western Europe. Leftist and separatist terrorist groups, such as
+                    the Baader Meinhof Group (West Germany), Red Brigades (Italy), and <hi
+                        rend="italic">Euzkadi ta Azkatasuna</hi>(ETA; Spain) operated throughout the
+                    region. While their targets were most often European soldiers, officials, and
+                    business leaders, by the late 1970s, these groups also threatened U.S.
+                    diplomats, and U.S. representatives in the region were forced to tighten
+                    security. In response, the United States and its Western European partners began
+                    to coordinate their efforts to limit terrorism. European authorities and their
+                    U.S. counterparts worked together more closely to combat terrorism on European
+                    soil.</p>
+                <p>Despite these areas of increased cooperation between Western European nations and
+                    the United States, the events of late 1979 cast a pall over the transatlantic
+                    relationship. Differences emerged over how to best handle relations with Iran
+                    after Iranian militants stormed the U.S. Embassy in Tehran and took over 60 U.S.
+                    diplomats hostage. U.S. and European leaders disagreed over the appropriate
+                    response to the hostage crisis, including economic and diplomatic sanctions.
+                    Similar tensions emerged over how to confront Moscow after the Soviet Union’s
+                    December 1979 intervention in Afghanistan. Carter reacted with a series of
+                    measures designed to pressure the Soviets to withdraw, but the Europeans did not
+                    agree with all aspects of his decisions. The invasion of Afghanistan led to an
+                    escalation of tensions between the Soviet Union and the United States and
+                    ultimately drew Carter’s attention away from Europe. The re-intensification of
+                    the Cold War chagrined many in Western Europe, who advocated a <hi rend="italic"
+                        >rapprochement</hi>between Washington and Moscow as a means to reduce the
+                    security threat posed to their region.</p>
+            </div>
+            <div type="section" xml:id="north-south-dialogue"
+                ana="foreign-economic-policy foreign-aid carter-jimmy ">
+                <head>The North-South Dialogue and Economic Diplomacy</head>
+                <p>The North-South Dialogue refers to the process through which the developing and
+                    newly independent nations of the “third world,” predominantly in Asia, Africa,
+                    and Latin America, engaged the industrialized countries of North America and
+                    Western Europe in negotiations over changes to the international economic system
+                    during the 1970s.</p>
+                <figure>
+                    <graphic url="unctad.jpg" height="450px" width="298px"/>
+                    <head>World Bank President Robert McNamara gives his address at the Fifth
+                        Session of the United Nations Conference on Trade and Development on
+                        Thursday, May 10, 1979 in Manila.(AP Photo) </head>
+                </figure>
+                <p>After World War II, many nations of <placeName>Latin America</placeName> became
+                    increasingly frustrated with U.S. trade and tariff policies. At the same time,
+                    nationalist movements in <placeName>Asia</placeName> and
+                        <placeName>Africa</placeName> helped lead to widespread decolonization.
+                    Membership in the United Nations had risen from 51 countries in 1945 to 100 in
+                    1960 and 150 by 1979. The sudden influx of new countries changed the balance of
+                    power in the General Assembly and made possible the establishment of the United
+                    Nations Conference on Trade and Development, or UNCTAD, in 1964. UNCTAD created
+                    a forum through which the “southern” or “third world” nations could propose
+                    economic policies, engaging industrial democracies of the “north.” The term
+                    “North-South Dialogue” was used to distinguish this dynamic from the East-West
+                    conflict of the Cold War, and to stress the point that development issues were
+                    just as pressing as the ideological conflict between communists and
+                    capitalists.</p>
+                <p>Several factors increased the willingness of the industrialized nations to
+                    negotiate. One was the rising power of oil-producing countries in the Arab
+                    world, and another was the U.S. loss in the war in
+                        <placeName>Vietnam</placeName>, which demonstrated to both the world and the
+                    industrialized North that not even wealth and power were enough to guarantee
+                    military victory. Both of these issues drew Western attention toward the global
+                    balance of economic power. Additionally, the dialogue began in a period of
+                    relaxed East-West tensions, which meant that the industrialized world could give
+                    more attention to issues like development. The Newly Industrializing Economies,
+                    meanwhile, believed the entrenched international economic system benefited
+                    developed countries at the expense of the developing world. They hoped to
+                    facilitate a reorganization of the international economic system to rectify this
+                    imbalance.</p>
+                <p>The North-South Dialogue addressed issues pertaining to trade and tariffs,
+                    international finance, foreign aid, and the governance of multinational
+                    companies and institutions. During the era of détente in the 1970s, when
+                    East-West tensions were more relaxed, there was a willingness among
+                    industrialized nations to cooperate. Even as détente began to falter in the
+                    mid-1970s, the parties to the North-South Dialogue continued their
+                    discussions.</p>
+                <p>U.S. policies and relations with the other Northern powers inevitably served to
+                    help or hinder progress in the dialogue. For example, changes in trade policies
+                    between the United States and Western Europe could serve to distract these
+                    countries from their negotiations with the industrializing countries or cause
+                    them to extend new levels of control over their interactions within their
+                    respective spheres of influence in the developing world. Late in the 1970s, the
+                    increasing conflicts between the United States and the Soviet Union finally
+                    served to sour the prospects for continuing North-South discussions, as the
+                    industrialized nations renewed their focus and redirected their resources to the
+                    Cold War and paid less attention to development issues. By September of 1980,
+                    the discussions in the United Nations that had characterized this dialogue had
+                    lost their momentum. Although some dialogue on these issues continued, it
+                    remained a series of discussions on economic issues and never presented the
+                    workable solution that its proponents had hoped it would.</p>
+                <p>There are many ways to interpret the high point of the North-South Dialogue in
+                    the 1970s. Some economists have reviewed the southern proposals for broad
+                    changes in world economic policy and concluded that they were either
+                    fundamentally unworkable or designed to benefit only certain segments of the
+                    Third World; others counter that the proposals were necessarily extreme in order
+                    to establish a firm position from which to open negotiations with the
+                    industrialized North. Either way, the exact implementation of the proposals
+                    presented through UNCTAD was always unlikely, because they centered on the
+                    Southern ideal and would have required the economically-powerful North to
+                    concede every point. The North-South Dialogue can also be viewed as a political
+                    struggle between the world’s “haves” and “have-nots.” In this view, the
+                    discussions became a vehicle through which the South could unite and assert
+                    power within the United Nations and other international organizations to counter
+                    the ability of the North to dictate the course of world affairs.</p>
+            </div>
+            <div type="section" xml:id="non-proliferation"
+                ana="nixon-richard ford-gerald carter-jimmy russia arms-control-and-disarmament politico-military-issues">
+                <head>Counter-Proliferation During the Carter Administration</head>
+                <p>During his run for the presidency in 1976, former Governor Jimmy Carter made the
+                    non-proliferation of nuclear, chemical, biological, and conventional arms a key
+                    part of his foreign policy platform.Carter, in a departure from former
+                    Presidents Richard Nixon and Gerald Ford, also tried to link his arms control
+                    ideas to his emphasis on human rights. After his January 1977 inauguration,
+                    Carter immediately began to pursue his counter-proliferation objectives. He also
+                    announced that he would link arms control to the human rights records of U.S.
+                    allies, in particular in Latin America.</p>
+                <figure>
+                    <graphic url="carter-nonproliferation.jpg" height="450px" width="295px"/>
+                    <head>Carter, Vance, and Brzezinski in the Oval Office. (Jimmy Carter
+                        Library)</head>
+                </figure>
+                <p>Carter focused on five areas: anti-satellite (ASAT) space systems; chemical and
+                    biological weapons (CBW); a comprehensive nuclear testing ban (CTB), even if
+                    such tests were used for “peaceful” purposes; the ratification of the Treaty of
+                    Tlatelolco by Latin American nations; and the global reduction of conventional
+                    arms sales/transfers. The Carter administration’s main negotiating partner in
+                    the first three areas was the Soviet Union. Carter’s negotiating partners in the
+                    last two areas were the Federal Republic of Germany (FRG), the Soviet Union, and
+                    the Latin American allies.</p>
+                <p>It became quickly apparent that the two superpowers fundamentally diverged on two
+                    key points. First was the issue of verification, which also hampered the
+                    Strategic Arms Limitation Talks (SALT) negotiations that were occurring
+                    simultaneously. Like Nixon and Ford, Carter wanted each side to have the ability
+                    to perform on-site inspections (OSIs) and employ National Technical Means (NTM)
+                    such as photo reconnaissance flights to verify compliance with agreements. The
+                    Soviets, however, rejected both means of verification in the ASAT, CTB, and CBW
+                    negotiations.</p>
+                <p>The second area of disagreement involved definitions of weapons systems. The
+                    Soviets demanded that the space shuttle, currently being developed by the United
+                    States, be subject to an ASAT treaty. Carter, however, categorically rejected
+                    this demand. The ASAT negotiations ended after the Soviet Union invaded
+                    Afghanistan in December 1979.</p>
+                <p>Chemical weapons negotiations bogged down over whether pesticides and other
+                    defoliants would be subjected to an arms control agreement, and the Soviet Union
+                    and the United States could not agree whether or not binary chemical weapons
+                    (those weapons requiring a chemical reaction to activate the toxin) would be
+                    included in a potential treaty. These roadblocks had also been a problem during
+                    the Nixon and Ford years.</p>
+                <p>Biological weapons did not become an issue until the spring of 1980, when the
+                    United States learned that an outbreak of pulmonary anthrax had killed hundreds,
+                    possibly thousands, in Sverdlovsk, the site of a suspected Soviet biological
+                    weapons factory. The factory had ostensibly been closed after former President
+                    Nixon and Soviet General Secretary Leonid Brezhnev signed the 1972 Biological
+                    Weapons Convention that banned the use and production of biological weapons.
+                    This apparent violation of the Convention, coming shortly after the Soviet
+                    invasion of Afghanistan and Carter’s decision to boycott the Moscow Summer
+                    Olympics, further poisoned U.S.-Soviet relations, and the CBW talks
+                    languished.</p>
+                <p>The CTB discussions were the most intense and long-lasting arms control
+                    discussions of the Carter years. These negotiations also bogged down over
+                    whether Peaceful Nuclear Explosions (PNEs) should be included in an agreement.
+                    Carter wanted a comprehensive ban, but the Soviets wanted the ability to perform
+                    PNEs, especially to divert the course of a river in Siberia to the desert areas
+                    of Central Asia. Like the ASAT and CBW negotiations, the CTB talks were
+                    threatened after the Soviet invasion of Afghanistan and the Sverdlovsk
+                    incident.When the United States began detecting signs in the summer of 1980 that
+                    the Soviets had resumed high-yield testing that violated the 1976 Threshold Test
+                    Ban Treaty, Carter abandoned the negotiations.</p>
+                <p>Talks over nuclear non-proliferation in Latin America also began as soon as
+                    Carter took office. Carter had publicly criticized the 1975 sale of a nuclear
+                    reactor by the Federal Republic of Germany to Brazil because he worried that the
+                    Brazilians would be able to produce weapons-grade uranium. If Brazil developed
+                    nuclear weapons it would violate the 1968 Treaty of Ttlatelolco, which had
+                    created a Latin American nuclear-free zone. Brazil had signed and ratified the
+                    Treaty, but reserved the right not to be bound by all the Treaty's provisions.
+                    Only three days into his presidency, Carter learned from the U.S. Department of
+                    State that Brazilian-American and German-American relations would be severely
+                    jeopardized if he continued to criticize the sale. Meanwhile, Argentina,
+                    Brazil’s principal regional rival, refused to ratify the Treaty and began the
+                    process of purchasing a nuclear reactor of its own. The Carter administration
+                    asked the Mexican Government, which had provided the impetus for the signing of
+                    the Treaty, to convince Brazil, Argentina, as well as Cuba, to sign and/or
+                    ratify the Treaty without conditions. Washington’s and Mexico City’s efforts
+                    failed, and when Carter left office in 1981 the status quo remained.</p>
+                <p>As noted above, Carter wanted to link his arms control initiatives to human
+                    rights, particularly in the area of conventional arms sales. However, Carter
+                    found that his human rights rhetoric collided with U.S. security interests. If
+                    the United States wished to counterbalance Soviet power, then it could not
+                    easily stop selling or transferring conventional arms to its Latin American (and
+                    Asian) allies even if their commitment to human rights was suspect. Meanwhile,
+                    the Soviet Union increased its arms sales, especially to the developing world.
+                    Ultimately, Carter’s National Security Advisor, Zbigniew Brzezinski,
+                    successfully convinced Carter that the rise of Cuban and Soviet activity in
+                    Central and South America and instability in East Asia meant that the United
+                    States must support its anti-communist allies with conventional weapons, despite
+                    their human rights records. By the time Carter left office, U.S. conventional
+                    arms sales had actually increased.</p>
+            </div>
+            <div type="section" xml:id="china-policy"
+                ana="carter-jimmy vance-cyrus-roberts muskie-edmund-sixtus east-asia-and-pacific china taiwan">
+                <head>China Policy</head>
+                <p>During Jimmy Carter’s presidency, the most dramatic moment in Sino-American
+                    relations occurred on December 15, 1978, when, following months of secret
+                    negotiations, the United States and the People’s Republic of China (PRC)
+                    announced that they would recognize one another and establish official
+                    diplomatic relations. As part of the agreement, the United States recognized the
+                    Government of the People’s Republic of China as the sole legal government of
+                    China, and declared it would withdraw diplomatic recognition from Taiwan (also
+                    known as the Republic of China [ROC]).</p>
+                <figure>
+                    <graphic url="prc-normalization.jpg" height="450px" width="307px"/>
+                    <head>Jimmy Carter, Richard Nixon, and Deng Xiaoping during the state dinner for
+                        the Vice Premier of China, January 29, 1979. (Jimmy Carter Library)</head>
+                </figure>
+                <p>Prior to 1979, the United States and the People’s Republic of China had never
+                    established formal diplomatic relations. In 1949, Chinese Communist Party forces
+                    defeated the Government of the Republic of China in the Chinese Civil War and
+                    founded the People’s Republic of China, eliminating ROC authority from mainland
+                    China. Nonetheless, for the next thirty years, the U.S. Government continued to
+                    recognize the Republic of China on Taiwan as the sole legal government over all
+                    of China. During that period, the U.S. and PRC Governments had only intermittent
+                    contact through forums such as the Sino-U.S. Ambassadorial talks in Warsaw,
+                    which began in 1955.</p>
+                <p>A new era began with a rapprochement during Richard Nixon’s presidency. Nixon and
+                    his aide, Henry Kissinger, found ready partners in Mao Zedong, the Chairman of
+                    the Chinese Communist Party, and Zhou Enlai, the Chinese Premier, who also
+                    wanted to improve Sino-U.S. relations. Their efforts resulted in the Shanghai
+                    Communiqué, which laid the basis for future cooperation between the two
+                    countries even while acknowledging continuing disagreements on the subject of
+                    Taiwan. As part of this rapprochement, the two countries opened liaison offices
+                    in one another’s capitals in 1973, a time when Taiwan still had an Embassy in
+                    Washington. The liaison offices, which in many ways operated as de facto
+                    embassies, represented a significant concession by the People’s Republic of
+                    China, which opposed the acceptance of “two Chinas” because that implied both
+                    were legitimate governments. The U.S. Government placated the People’s Republic
+                    of China, and helped set the stage for normalization, by gradually removing
+                    military personnel from Taiwan and scaling back its official contact with the
+                    ROC Government.</p>
+                <p>When Carter took office in January 1977, a significant improvement in relations
+                    between Communist China and the United States seemed far from inevitable.
+                    Presidents before Nixon had failed to make significant progress in improving
+                    relations with the People’s Republic of China. President Nixon’s attempt to
+                    normalize relations with China during his second term had been frustrated by the
+                    Watergate scandal. The collapse of South Vietnam and the opposition of
+                    conservative Republicans created an inhospitable environment for pursuing
+                    normalization during Gerald Ford’s presidency; any policy shift that could be
+                    depicted as appeasing a longstanding communist enemy and abandoning a loyal,
+                    anti-communist ally generated significant political resistance.</p>
+                <p>Officials within the Carter administration debated how to normalize relations
+                    with China without damaging relations with the Soviet Union, China’s great rival
+                    within the international Communist movement. Nevertheless, Carter and his top
+                    aides agreed that the opportunity to normalize relations with China might be
+                    fleeting and should not be squandered.In the spring of 1978, Carter decided to
+                    proceed with normalization. A handful of top U.S. officials agreed upon
+                    instructions, which the President approved, that were sent to the U.S.
+                    negotiator Leonard Woodcock, the head of the U.S. Liaison Office in Beijing. By
+                    the terms of the agreement the two sides reached, the United States acknowledged
+                    “the Chinese position that there is but one China and Taiwan is part of China.”
+                    The United States declared its intention to abrogate the Mutual Defense Treaty
+                    between the United States and the Republic of China, originally signed in
+                    December 1954. Simultaneously, however, the United States declared in the Joint
+                    Communiqué that it would “maintain cultural, commercial, and other unofficial
+                    relations with the people of Taiwan.” In Carter’s address to the nation on
+                    December 15, 1978, he announced that in accordance with “the Shanghai
+                    communiqué, issued on President Nixon’s historic visit, we will continue to have
+                    an interest in the peaceful resolution of the Taiwan issue.” The Joint
+                    Communiqué stated that the United States would begin official diplomatic
+                    relations with the People’s Republic of China on January 1, 1979, and that the
+                    two countries would open Embassies on March 1.</p>
+                <p>The exchange of accredited ambassadors and the operation of Embassies enabled
+                    both parties to negotiate diplomatic disputes and pursue mutual interests. A
+                    number of disagreements arose that required management by both countries. During
+                    Chinese Vice-Premier Deng Xiaoping’s goodwill visit to the United States in
+                    January 1979, he informed Carter of the People’s Republic of China’s intention
+                    to attack Vietnam in response to that country’s invasion of Cambodia. Carter
+                    unsuccessfully attempted to dissuade Deng from pursuing this military action.
+                    Another point of contention was the legal framework that Congress erected to
+                    enable the people of the United States and Taiwan to continue economic and
+                    cultural relations following the U.S. decision to break diplomatic relations.
+                    PRC leaders repeatedly expressed displeasure with the Taiwan Relations Act
+                    (TRA), which became law on April 10, 1979. The TRA was influenced by
+                    Congressional supporters of Taiwan and stated that it is the policy of the
+                    United States “to provide Taiwan with arms of a defensive character; and to
+                    maintain the capacity of the United States to resist any resort to force or
+                    other forms of coercion that would jeopardize the security, or the social or
+                    economic system, of the people on Taiwan.” In his signing statement, Carter
+                    declared that he would use the discretion granted to him by Congress to
+                    interpret the TRA “in a manner consistent with our interest in the well-being of
+                    the people on Taiwan and with the understandings we reached on the normalization
+                    of relations with the People’s Republic of China.” In addition to disagreement
+                    over the TRA, U.S.–PRC relations following normalization were impaired by
+                    arguments over longstanding financial claims, economic disputes, and the PRC
+                    view that the United States was too conciliatory toward the Soviet Union.</p>
+                <p>Despite such difficulties, U.S.–PRC relations generally improved as the two
+                    countries made progress on economic and security issues. Deng’s 1979 trip was
+                    extremely successful as he charismatically wooed Congress, the media, and the
+                    American people. Journalists depicted the Chinese leader as personable, famously
+                    photographing him at a rodeo wearing a ten-gallon hat. On January 31, the United
+                    States and People’s Republic of China concluded agreements on various topics
+                    including consular relations, academic exchanges, and cooperation in the fields
+                    of space technology, high-energy physics, and science and technology policy. The
+                    1979 Soviet invasion of Afghanistan increased Sino-American military
+                    cooperation, despite the objections of Secretary of Defense Harold Brown and
+                    Secretary of State Cyrus Vance. The United States and People’s Republic of China
+                    also coordinated their other responses to the Soviet incursion, such as the
+                    boycott of the Olympic Games in Moscow. The normalization of relations provided
+                    both sides with the essential diplomatic mechanisms necessary to manage
+                    difficulties and promote common objectives.</p>
+            </div>
+            <div type="section" subtype="removed-pending-rewrite" xml:id="trilateral-diplomacy"
+                ana="carter-jimmy japan">
+                <head>Trilateral Diplomacy: the United States, Western Europe and Japan</head>
+            </div>
+            <div type="section" xml:id="camp-david"
+                ana="carter-jimmy vance-cyrus-roberts egypt israel peace">
+                <head>Camp David Accords and the Arab-Israeli Peace Process</head>
+                <p>The Camp David Accords, signed by President Jimmy Carter, Egyptian President
+                    Anwar Sadat, and Israeli Prime Minister Menachem Begin in September 1978,
+                    established a framework for a historic peace treaty concluded between Israel and
+                    Egypt in March 1979. President Carter and the U.S. Government played leading
+                    roles in creating the opportunity for this agreement to occur. From the start of
+                    his administration, Carter and his Secretary of State, Cyrus Vance, pursued
+                    intensive negotiations with Arab and Israeli leaders, hoping to reconvene the
+                    Geneva Conference, which had been established in December 1973 to seek an end to
+                    the Arab-Israeli dispute.</p>
+                <figure>
+                    <graphic url="camp-david.jpg" height="450px" width="304px"/>
+                    <head>President Jimmy Carter with Egyptian President Anwar Sadat and Israeli
+                        Prime Minister Menachem Begin at Camp David, Maryland in September 1978.
+                        (Jimmy Carter Library)</head>
+                </figure>
+                <p>As Carter and Vance met with individual leaders from Arab countries and Israel
+                    during the spring of 1977, negotiations for a return to Geneva appeared to gain
+                    some momentum. On May 17, 1977, an Israeli election upset stunned the Carter
+                    administration as the moderate Israeli Labor Party lost for the first time in
+                    Israel’s history. Menachem Begin, the leader of the conservative Likud Party and
+                    the new Israeli Prime Minister, appeared intractable on the issue of exchanging
+                    land for peace. His party’s commitment to “greater Israel” left Carter with an
+                    even more challenging situation during the summer of 1977.</p>
+                <p>In addition to the new reality of a Likud government in Israel, long-standing
+                    rivalries among Arab leaders also played a role in blocking substantive progress
+                    in negotiations for a Geneva conference. By early November, Egyptian President
+                    Sadat found himself frustrated by the lack of movement and made a dramatic move,
+                    announcing on November 9 that he would be willing to go to Jerusalem. This move
+                    stunned the world. Sadat would attempt to break the deadlock and to engage the
+                    Israelis directly for a Middle East settlement, eschewing any talk of returning
+                    to the Geneva Conference. Sadat’s visit led to direct talks between Egypt and
+                    Israel that December, but these talks did not generate substantive progress. By
+                    January 1978, the United States returned to a more prominent negotiation
+                    role.</p>
+                <p>During the spring and early summer of 1978, the United States attempted to find
+                    common ground with regard to Israeli withdrawal from the Sinai, West Bank, and
+                    Gaza. Egypt insisted on an Israeli withdrawal to June 4, 1967 borders in
+                    exchange for security arrangements and minor border modifications. Israel
+                    rejected Egypt’s insistence on withdrawal, especially from the West Bank and
+                    Gaza. It argued instead for some form of Palestinian autonomy during a five-year
+                    interim period followed by the possibility of sovereignty after the interim
+                    period expired. The impasse over the West Bank and Gaza led Carter to intercede
+                    directly in an attempt to resolve the deadlock.</p>
+                <p>By July 30, as Sadat expressed disappointment over the progress of negotiations
+                    and a desire to cut direct contacts off with the Israelis, Carter decided to
+                    call for a summit meeting. This meeting would bring Sadat, Begin, and Carter
+                    together at the presidential retreat in Maryland at Camp David. On August 8, the
+                    White House spokesman formally announced the meeting, which both Begin and Sadat
+                    agreed to attend in September.</p>
+                <p>The Camp David Summit, held from September 5–17, 1978, was a pivotal moment both
+                    in the history of the Arab-Israeli dispute and U.S. diplomacy. Rarely had a U.S.
+                    President devoted as much sustained attention to a single foreign policy issue
+                    as Carter did over the summit’s two-week duration. Carter’s ambitious goals for
+                    the talks included breaking the negotiating deadlock and hammering out a
+                    detailed Egyptian-Israeli peace agreement. To this end, U.S. Middle East experts
+                    produced a draft treaty text, which served as the basis for the negotiations and
+                    would be revised numerous times during the Summit. The talks proved extremely
+                    challenging, especially when the trilateral format became impossible to sustain.
+                    Instead, Carter and Vance met with the Egyptian and Israeli delegations
+                    individually over the course of the next twelve days.</p>
+                <p>The talks ranged over a number of issues, including the future of Israeli
+                    settlements and airbases in the Sinai Peninsula, but it was Gaza and the West
+                    Bank that continued to pose the most difficulty. Specifically, the delegations
+                    were divided over the applicability of United Nations Security Council
+                    Resolution 242 to a long-term agreement in the territories, as well as the
+                    status of Israel’s settlements during projected negotiations on Palestinian
+                    autonomy that would follow a peace treaty. In the end, while the Summit did not
+                    produce a formal peace agreement, it successfully produced the <hi rend="italic"
+                        >basis</hi> for an Egyptian-Israeli peace, in the form of two “Framework”
+                    documents, which laid out the principles of a bilateral peace agreement as well
+                    as a formula for Palestinian self-government in Gaza and the West Bank.</p>
+                <p>While the conclusion of the Camp David Accords represented significant progress,
+                    the process of translating the Framework documents into a formal peace treaty
+                    proved daunting. As with the Summit, Carter’s hopes for rapid progress were
+                    high, and the President hoped that a treaty text would be concluded in a matter
+                    of days. However, the controversy that developed between the Carter
+                    administration and the Begin government over the duration of an agreed freeze in
+                    the construction of Israeli settlements was quickly followed by the
+                    administration’s failure to win support from Jordan or Saudi Arabia for the
+                    Accords. Beginning in October, a series of talks in Washington broke down as a
+                    result of Israeli concerns over the timing of their withdrawal and Egyptian
+                    reservations regarding the impact of a peace treaty on its obligations to other
+                    Arab states. Other regional developments, especially the Iranian Revolution,
+                    distracted U.S. policymakers and raised Israeli concerns about its oil supply,
+                    resulting in an impasse during the winter of 1978–1979. After Begin’s visit to
+                    the White House in early March failed to break the stalemate, Carter traveled to
+                    Israel on March 10. Having previously secured Sadat’s consent to negotiate on
+                    behalf of Egypt, the President engaged in three days of intensive talks with the
+                    Israelis. As a result of a series of compromises, notably a U.S. guarantee of
+                    Israel’s oil supply, omitting references to a “special role” for Egypt in Gaza,
+                    and Israeli agreement to make a number of unilateral gestures to the
+                    Palestinians, the U.S. and Israeli delegations agreed to a treaty text on March
+                    13. Sadat quickly assented to the agreement and the Egyptian-Israeli Peace
+                    Treaty was formally signed on March 26.</p>
+                <p>Although a landmark event, the successful conclusion of the Egyptian-Israeli
+                    Treaty represented the high-water mark for the Peace Process during the Carter
+                    Presidency. After March 1979, the issue would not receive the same level of U.S.
+                    attention due to the competing demands of crises, especially those in Iran and
+                    Afghanistan, as well as Carter’s desire to reduce his personal involvement in
+                    the next round of negotiations devoted to Palestinian autonomy. For those talks,
+                    Carter appointed a “special negotiator” to represent the United States; former
+                    Special Trade Representative Robert Strauss served in this role briefly before
+                    being replaced in the fall of 1979 by Sol Linowitz, who had previously helped
+                    negotiate the Panama Canal treaty. The talks failed to produce much as
+                    Palestinian representatives refused to participate, and the gap between Egyptian
+                    and Israeli positions on Palestinian self-government, not to mention their
+                    respective stances on Israeli settlements in Gaza and the West Bank and the
+                    legal status of East Jerusalem, proved unbridgeable.</p>
+            </div>
+            <div type="section" xml:id="panama-canal"
+                ana="nixon-richard ford-gerald carter-jimmy reagan-ronald kissinger-henry-a vance-cyrus-roberts panama">
+                <head>The Panama Canal and the Torrijos-Carter Treaties</head>
+                <p>One of President Jimmy Carter’s greatest accomplishments was negotiating the
+                    Torrijos-Carter Treaties, which were ratified by the U.S. Senate in 1978. These
+                    treaties gave the nation of Panama eventual control of the Panama Canal.</p>
+                <figure>
+                    <graphic url="panama-canal.jpg" height="450px" width="309px"/>
+                    <head>Jimmy Carter and Omar Torrijos at the September 7th signing ceremony.
+                        (Jimmy Carter Library)</head>
+                </figure>
+                <p>The United States acquired the rights to build and operate the Panama Canal
+                    during the first years of the 20th century. The Hay-Herrán Treaty, negotiated
+                    with the nation of Colombia in 1903, allowed the United States rights to the
+                    land surrounding the planned canal. The Colombian Senate refused to ratify the
+                    treaty, but Panama was in the process of seceding from Colombia. President
+                    Theodore Roosevelt therefore supported the cause of Panamanian independence with
+                    the Canal in mind. His support paid off, and on November 18, 1903, the United
+                    States signed the Hay-Bunau-Varilla Treaty, establishing permanent U.S. rights
+                    to a Panama Canal Zone that stretched across the isthmus. Phillippe-Jean
+                    Bunau-Varilla, the Panamanian representative, entered the negotiations without
+                    formal consent from the Panamanian government, and had not lived in Panama for
+                    seventeen years. The Canal opened in 1914, but many Panamanians questioned the
+                    validity of the treaty.</p>
+                <p>As the 20th century progressed, tensions between the United States and Panama
+                    over U.S. control of the Canal grew. In 1964, a riot between U.S. residents and
+                    Panamanians, sparked over the right to fly the Panamanian flag in the Canal
+                    Zone, led to a brief interruption of diplomatic relations between the two
+                    countries. Within months, ties were re-established and both sides recognized the
+                    importance of negotiating a new agreement concerning the Canal. In 1967, the
+                    United States and Panama reached agreement on three treaties regarding the
+                    status of the Canal, however, Panamanian president Marco Robles was defeated by
+                    Arnulfo Arias Madrid in the 1968 Panamanian elections. Eleven days into Arias’s
+                    term, a coup led by Colonel Omar Torrijos deposed Arias and established a new
+                    government. Because of the political uncertainty, the negotiations suffered a
+                    major setback.</p>
+                <p>Torrijos, like his predecessors, wished to reach an agreement with the United
+                    States. U.S. officials wanted a treaty as well. Secretary of State Henry
+                    Kissinger set forth his reasoning in a meeting with President Ford in 1975: “If
+                    these [Canal] negotiations fail, we will be beaten to death in every
+                    international forum and there will be riots all over Latin America.” In 1973,
+                    the Nixon administration appointed Ellsworth Bunker, a seasoned U.S. diplomat,
+                    to lead the U.S. delegation. Bunker focused on ensuring perpetual U.S. use of
+                    the Panama Canal, rather than perpetual U.S. control of the Panama Canal Zone.
+                    Between the years of 1973 and 1976, Bunker and his team were able to conclude a
+                    series of draft agreements with the government of Panama that formed the
+                    foundation of the eventual Torrijos-Carter Treaties.</p>
+                <p>The 1976 presidential elections proved to be a perilous time for the
+                    negotiations. While President Ford supported a Canal treaty, his primary
+                    opponent, Ronald Reagan, did not. The Democratic nominee for president, Jimmy
+                    Carter, also seemed to oppose a treaty. In an October debate with Ford, Carter
+                    vowed that he would not surrender “practical control of the Panama Canal Zone
+                    any time in the foreseeable future.”</p>
+                <p>In the weeks after his electoral victory, President-elect Carter’s views on the
+                    Canal began to change. One of his closest advisors, Sol Linowitz, supported a
+                    treaty, as did Secretary of State-designate Cyrus Vance. The two men were able
+                    to convince Carter of the importance of a new treaty, and when he took office,
+                    Carter made concluding negotiations with Panama a priority and named Linowitz
+                    co-negotiator with Bunker.</p>
+                <p>Despite the fact that both Carter and Torrijos were eager to conclude a treaty,
+                    many obstacles remained. A treaty must be ratified by the Senate with at least a
+                    two-thirds majority in order to take effect. Many Senators were opposed to
+                    giving Panama control over the Canal Zone. Most notable of these critics was
+                    Strom Thurmond (R–SC). Thurmond, who was born twelve years before the Canal was
+                    built, had a different perspective than the Carter administration. “The loss of
+                    this canal would contribute to the encirclement of the United States,” he stated
+                    in a 1978 debate. Thurmond and other conservatives also distrusted Torrijos,
+                    whom they considered to be pro-communist. Because of the strong opposition in
+                    the Senate, Carter’s consultations with Congress amounted to a second set of
+                    treaty negotiations.</p>
+                <p>The Carter administration formulated a strategy to conclude debate over the Canal
+                    and to gain Senate ratification. Carter officials worked on selling the treaty
+                    to the public, holding hundreds of forums where policymakers explained the
+                    administration’s rationale for completing a treaty. Torrijos hosted U.S.
+                    Senators in Panama, where he stressed that he was neither an enemy of the United
+                    States nor a communist. Actor John Wayne, both a conservative and a friend of
+                    Torrijos, also endorsed the negotiations. The negotiators decided that their
+                    best chance for ratification was to submit two treaties to the U.S. Senate. The
+                    first, called <hi rend="italic">The Treaty Concerning the Permanent Neutrality
+                        and Operation of the Panama Canal, </hi>or the <hi rend="italic">Neutrality
+                        Treaty, </hi>stated that the United States could use its military to defend
+                    the Panama Canal against any threat to its neutrality, thus allowing perpetual
+                    U.S. usage of the Canal. The second, called The<hi rend="italic"> Panama Canal
+                        Treaty, </hi>stated that the Panama Canal Zone would cease to exist on
+                    October 1, 1979, and the Canal itself would be turned over to the Panamanians on
+                    December 31, 1999. These two treaties were signed on September 7, 1977.</p>
+                <p>It took more than six months before the Senate voted. Many Senators who opposed
+                    the treaties tried to add amendments that would make it harder for other
+                    Senators to vote in favor of them. In the end, the Carter administration
+                    succeeded—but just barely. The Senate ratified the <hi rend="italic">Neutrality
+                        Treaty </hi>on March 16, 1978 by a vote of 68 to 32. On April 18, they
+                    ratified <hi rend="italic">The Panama Canal Treaty</hi> by an identical margin.
+                    The Carter administration revisited many of these issues with Congress when it
+                    negotiated the implementation legislation for the Torrijos-Carter Treaties.
+                    Carter signed the implementation legislation into law on September 27, 1979.</p>
+                <p>The Torrijos-Carter Treaties allowed the United States to defend itself from
+                    charges of imperialism made by Soviet-aligned states. While the treaties
+                    represented a great moment of cooperation between the United States and Panama,
+                    relations between the two countries grew contentious after the death of Torrijos
+                    in 1981. In December of 1989, President George H.W. Bush ordered an invasion of
+                    Panama to remove Panamanian leader Manuel Noreiga from power. By 1999, however,
+                    relations had grown more peaceful and the Canal was turned over to the
+                    Panamanians who have administered it ever since.</p>
+            </div>
+            <div type="section" xml:id="soviet-invasion-afghanistan"
+                ana="carter-jimmy russia afghanistan pakistan economic-sanctions foreign-aid covert-actions diplomatic-recognition">
+                <head>The Soviet Invasion of Afghanistan and the U.S. Response, 1978–1980</head>
+                <p>At the end of December 1979, the Soviet Union sent thousands of troops into
+                        <placeName>Afghanistan</placeName> and immediately assumed complete military
+                    and political control of <placeName>Kabul</placeName> and large portions of the
+                    country. This event began a brutal, decade-long attempt by Moscow to subdue the
+                    Afghan civil war and maintain a friendly and socialist government on its border.
+                    It was a watershed event of the Cold War, marking the only time the Soviet Union
+                    invaded a country outside the Eastern Bloc—a strategic decision met by nearly
+                    worldwide condemnation. While the massive, lightning-fast military maneuvers and
+                    brazenness of Soviet political objectives constituted an “invasion” of
+                    Afghanistan, the word “intervention” more accurately describes these events as
+                    the culmination of growing Soviet domination going back to 1973. Undoubtedly,
+                    leaders in the Kremlin had hoped that a rapid and complete military takeover
+                    would secure Afghanistan’s place as an exemplar of the Brezhnev Doctrine, which
+                    held that once a country became socialist Moscow would never permit it to return
+                    to the capitalist camp. The United States and its European allies, guided by
+                    their own doctrine of containment, sharply criticized the Soviet move into
+                    Afghanistan and devised numerous measures to compel Moscow to withdraw.</p>
+                <figure>
+                    <graphic url="afghanistan.jpg" height="450px" width="263px"/>
+                    <head>Soviet combat vehicles move through Afghanistan. (Department of
+                        Defense)</head>
+                </figure>
+                <p>In the summer of 1973, <persName>Mohammed Daoud</persName>, the former Afghan
+                    Prime Minister, launched a successful coup against King Zahir. Although Daoud
+                    himself was more nationalist than socialist, his coup was dependent on
+                    pro-Soviet military and political factions. Since 1955 Moscow had provided
+                    military training and materiel to Afghanistan; by 1973, a third of active troops
+                    had trained on Soviet soil. Additionally, Daoud enjoyed the support of the
+                    People’s Democratic Party of Afghanistan (PDPA), founded in 1965 upon Marxist
+                    ideology and allegiance to Moscow. In 1967 the PDPA split into two factions: the
+                    Parchamists, led by <persName>Babrak Karmal</persName> (who supported Daoud),
+                    and the “Khalqis” led by Noor Taraki. For the next five years, Daoud attempted
+                    the impossible task of governing Afganistan’s Islamic tribal regions, while also
+                    struggling to reconcile the PDPA split. But the more radical Khalq faction never
+                    fully recognized Daoud’s leadership, while Karmal viewed the coup largely as a
+                    means to consolidate his own power. In response, Daoud hoped to mitigate both of
+                    these threats by steering Afghanistan away from Soviet influence and improving
+                    U.S. relations, while decreasing the influence of radical elements in the
+                    government and military.</p>
+                <p>Daoud’s middle course ended in disaster. On April 28, 1978, soldiers aligned with
+                    Taraki’s “Khalq” faction assaulted the presidential palace, where troops
+                    executed Daoud and his family. In the following days Taraki became the Prime
+                    Minister, and, in an attempt to end the PDPA’s divisions, Karmal became Deputy
+                    Prime Minister. In Washington, this Communist revolution was met with alarm. The
+                    Carter administration recognized that Taraki would undo Daoud’s attempt to steer
+                    Afghanistan away from Moscow, and it debated whether to cut ties with
+                    Afghanistan or recognize Taraki in the hopes that Soviet influence could be
+                    contained. Although the President’s Assistant for National Security Affairs
+                    Zbigniew Brzezinski advocated the former course, Carter supported the Department
+                    of State’s advocacy of recognition. Shortly after the revolution, Washington
+                    recognized the new government and soon named Adolph Dubs its Ambassador to
+                    Afghanistan. Until his kidnapping and death at the hands of Afghan Shia
+                    dissidents in February 1979, Dubs strongly pursued good relations with the
+                    Taraki regime in the hopes that U.S. support would keep Soviet influence at
+                    bay.</p>
+                <p>Once again, the tumult of internal Afghan politics complicated both U.S. and
+                    Soviet jockeying. In the summer of 1979, <persName>Hafizullah Amin</persName>, a
+                    longtime ally of Taraki who became Deputy Prime Minister following the April
+                    Revolution, received word that Babrak Karmal (Daoud’s early supporter) was
+                    leading a Parcham plot to overthrow the Taraki regime. Amin took the opportunity
+                    to purge and execute many Parchamists and consolidate his own power.
+                    Complicating matters further, this internal strife damaged the Kabul
+                    Government’s major national program, namely, to bring the Communist revolution
+                    to the Islamic tribal areas beyond Kabul. By the winter of 1978, this program
+                    was met by armed revolt throughout the country. In response, Amin and Taraki
+                    traveled to Moscow to sign a friendship treaty which included a provision that
+                    would allow direct Soviet military assistance should the Islamic insurgency
+                    threaten the regime. This insurrection intensified over the next year and it
+                    became increasingly obvious to the Soviets that Taraki could not prevent all-out
+                    civil war and the prospect of a hostile Islamic government taking control. By
+                    mid-1979 Moscow was searching to replace Taraki and Amin, and dispatched combat
+                    troops to Bagram Air Base outside of Kabul. This move prompted the Carter
+                    administration to begin supplying non-lethal aid to Afghan <hi rend="italic"
+                        >mujahedeen</hi>, or Islamic insurgents. In August, a high-ranking Soviet
+                    military delegation arrived in Kabul to assess the situation. U.S. officials
+                    interpreted this mission as one last Soviet attempt to shore up the Taraki
+                    regime, and also an opportunity to devise a military takeover. Regarding the
+                    latter, most analysts in Washington believed that such a move remained possible
+                    but unlikely.</p>
+                <p>But this calculus was bound to change. Amin sensed the Soviet mission was
+                    designed to strengthen Taraki at his expense. In response, forces loyal to Amin
+                    executed Taraki in October—a move that infuriated Moscow, which began amassing
+                    combat units along its border. At this juncture Washington was still unsure how
+                    to interpret the Soviet maneuvers: was the Soviet Union planning a full takeover
+                    or did it remain committed to preserving the April Revolution? Analysts remained
+                    skeptical that Moscow would occupy the country given the political and economic
+                    costs. By the winter of 1979, faced with mutinies and an uncertain leadership,
+                    the Afghan Army was unable to provide basic security to the government against
+                    the onslaught of Islamic fighters nearing Kabul. By that point the Soviets were
+                    sending in motorized divisions and Special Forces. Washington demanded an
+                    explanation, which the Soviets ignored. Finally, on Christmas Eve, the invasion
+                    began. Soviet troops killed Amin and installed Babrak Karmal as the Soviet’s
+                    puppet head of government.</p>
+                <p>Although the Carter administration had closely watched this buildup from the
+                    outset, its reaction following the invasion revealed that, until the end, it
+                    clung to the hope that the Soviets would not invade, based on the unjustified
+                    assumption that Moscow would conclude that the costs of invasion were too high.
+                    In response, Carter wrote a sharply-worded letter to Brezhnev denouncing Soviet
+                    aggression, and during his State of the Union address he announced his own
+                    doctrine vowing to protect Middle Eastern oil supplies from encroaching Soviet
+                    power. The administration also enacted economic sanctions and trade embargoes
+                    against the Soviet Union, called for a boycott of the 1980 Moscow Olympics, and
+                    stepped up its aid to the Afghan insurgents. In sum, these actions were
+                    Washington’s collective attempt to make the Soviets’ “adventure” in Afghanistan
+                    as painful and brief as possible. Instead, it took ten years of grinding
+                    insurgency before Moscow finally withdrew, at the cost of millions of lives and
+                    billions of dollars. In their wake, the Soviets left a shattered country in
+                    which the Taliban, an Islamic fundamentalist group, seized control, later
+                    providing <persName>Osama bin Laden</persName> with a training base from which
+                    to launch terrorist operations worldwide.</p>
+            </div>
+            <!-- <div><div type="section" xml:id="olympic"
+                ana="russia carter-jimmy north-atlantic-treaty-organization afghanistan">
+                <head>The Olympic Boycott, <date when="1980">1980</date>
+                </head>
+                <p>In 1980, the United States led a boycott of the Summer Olympic Games in
+                        <placeName>Moscow</placeName> to protest the late 1979 Soviet invasion of
+                    Afghanistan. In total, 65 nations refused to participate in the games, whereas
+                    80 countries sent athletes to compete.</p>
+                <figure>
+                    <graphic url="olympic-boycott.jpg" height="450px" width="312px"/>
+                    <head>President Jimmy Carter greets Robert J. Kane, Chairman of the U.S.
+                        Olympic committee in Washington. Carter praised the Committee's stand on the Moscow
+                        Olympics. (AP Photo/Mark Wilson)</head>
+                </figure>
+                <p>When the <placeName>Soviet Union</placeName> invaded
+                        <placeName>Afghanistan</placeName> on December 27, 1979, the international
+                    community broadly condemned the action. Advisors to Soviet leader Leonid
+                    Brezhnev claimed that the intervention would be quick and uncontested and
+                    suggested that U.S. President Jimmy Carter was too engrossed in the ongoing
+                    hostage crisis in Iran to respond to the situation in Kabul. In reality, the
+                    Soviet intervention in Afghanistan led to an extended conflict in Central Asia,
+                    and Carter reacted with a series of measures designed to place pressure on the
+                    Soviets to withdraw. These measures included the threat of a grain embargo, the
+                    withdrawal of the SALT II agreement from Senate consideration, and a possible
+                    boycott of the 1980 Summer Olympics, scheduled to be hosted by Moscow. </p>
+                <p>In early 1980, the movement toward either boycotting the games altogether or
+                    moving them out of the Soviet Union gained momentum. Calls for boycotts of
+                    Olympic events were not uncommon; just four years prior, most of the nations of
+                    Sub-Saharan Africa boycotted the Summer Games in Montreal to protest the
+                    attendance of New Zealand after the latter sent its rugby team to play against
+                    the team from apartheid South Africa. In 1956, several Western European
+                    governments boycotted the games in Melbourne over the Soviet invasion of Hungary
+                    that year. Although the Olympic ideal was to place sport above politics, in
+                    reality there were often political goals and messages promoted through the
+                    games. </p>
+                <p>Western governments first considered the idea of boycotting the Moscow Olympics
+                    in response to the situation in Afghanistan at the December 20, 1979 meeting of
+                    NATO representatives, although at that time, not many of the governments were
+                    interested in the proposal. The idea gained popularity, however, when Russian
+                    dissident <persName>Andrei Sakharov</persName> called for a boycott in early
+                    January. On January 14, 1980, the Carter Administration joined Sakharov by
+                    setting a deadline by which the Soviet Union must pull out of Afghanistan or
+                    face consequences including an international boycott of the games. When the
+                    deadline passed a month later without any change to the situation in Central
+                    Asia, Carter pushed U.S. allies to pull their Olympic teams from the upcoming
+                    games. </p>
+                <p>International support for the boycott varied. Great Britain and Australia were
+                    the strongest allies to join the United States in calling for the boycott,
+                    although in the end both countries ended up sending athletes to the games. To
+                    try to build support for the boycott in Africa, Carter sent American boxer
+                    Mohammad Ali on a goodwill tour through the continent to persuade African
+                    governments to join. The trip backfired, however, when Ali himself was talked
+                    out of his support of the boycott during the course of his meetings. In the end,
+                    the closest U.S. allies to join the movement against the Moscow games were
+                    Canada, West Germany and Israel. Most of the Islamic nations also joined the
+                    boycott, although Afghanistan itself sent eleven athletes to compete. Other
+                    nations refusing to send teams to Moscow included Chile, Haiti, Honduras,
+                    Paraguay, South Korea, and the People’s Republic of China. Some nations that did
+                    not attend the games in Moscow did so for reasons other than the boycott, such
+                    as financial constraints. </p>
+                <p>Within the United States, there was public support for the boycott. The U.S.
+                    House of Representatives passed a nonbinding resolution approving the decision
+                    to stay away from Moscow with a vote of 386 in favor and 12 opposed; the U.S.
+                    Senate passed a similar measure with a vote of 88 to 4. Technically, the
+                    decision of whether or not to send athletes to the Olympic Games does not
+                    actually rest with either the President or the Congress, however; it is the
+                    United States Olympic Committee (USOC) that makes the final determination in
+                    such a situation. In the face of such broad support, however, the USOC expressed
+                    its willingness to respect the decision of the U.S. Government with regard to
+                    the games. While some nations chose to express their displeasure with Soviet
+                    military actions by not sending formal teams to compete, but also not preventing
+                    individual athletes from attending and competing under the Olympic flag,
+                    athletes in the United States were warned that travel to Moscow for the games
+                    would result in them being stripped of their passports. In protest, a group of
+                    25 American athletes sued the U.S. Government over the boycott seeking
+                    permission to compete, but they lost their case. </p>
+                <p>In organizing the boycott and rallying support behind it, the Carter
+                    administration had wanted to express the extent of international displeasure
+                    with the invasion of Afghanistan, and to pressure the Soviets to pull their
+                    armies out of the conflict. In actuality, the Soviet-Afghan War continued and
+                    did not end until 1989, and the Soviets reacted to the boycott by retaliating
+                    and leading a communist-bloc boycott of the 1984 Summer Olympic Games held in
+                    Los Angeles. These Olympic boycotts were just one manifestation of the cooling
+                    relations between the United States and the Soviet Union in the early 1980s.</p>
+            </div></div>-->
+        </body>
+    </text>
+</TEI>

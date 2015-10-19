@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1993–2000</title>
+                <title type="short">1993–2000</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31"
+                    target="#evolution-of-nato #somalia #bosnia #clinton-yeltsin #two-koreas #haiti"
+                />
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword" ana="clinton-william-j">
+                <head>
+                    <date from="1993" to="2000">1993–2000</date>: The Presidency of William J.
+                    Clinton</head>
+                <p/>
+                <figure>
+                    <graphic url="clinton-admin.jpg" height="450px" width="301px"/>
+                    <head>President Bill Clinton during his second State of the Union address on
+                        Tuesday, Jan. 24, 1995. (AP Photo/J. Scott Applewhite)</head>
+                </figure>
+                <p/>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="evolution-of-nato"
+                ana="bush-george-h-w clinton-william-j russia north-atlantic-treaty-organization">
+                <head>The Evolution of NATO, 1988–2001</head>
+                <p>The North Atlantic Treaty Organization (NATO) was born at the outset of the Cold
+                    War, designed to meet three complementary objectives: deter Soviet expansionism,
+                    prevent the revival of nationalist militarism in Europe through a strong North
+                    American presence on the continent, and encourage European political
+                    integration. Its core function lay in the collective defense of Central and
+                    Western Europe against a Soviet attack. The end of the Cold War and the
+                    disintegration of the Soviet Union forced the organization and its member states
+                    to adapt to a new security environment. This evolution has played out over a
+                    protracted series of decisions addressing a series of complex and interrelated
+                    issues: the Alliance’s mission in the post-Cold War setting, and the related
+                    questions of its force structure, command structure, and decision making
+                    processes; NATO’s composition; and its role in the complex system of
+                    interlocking European institutions.</p>
+                <figure>
+                    <graphic url="nato.jpg" height="450px" width="299px"/>
+                    <head>U.S. Army forces cross the Sava River during their deployment into
+                        Bosnia-Herzegovina as part of Operation Joint Endeavor, 31 December 1995.
+                        (Department of Defense/Senior Airman Edward Littlejohn)</head>
+                </figure>
+                <p>This process began in the late 1980s, as Soviet leader Mikhail Gorbachev
+                    instituted a sweeping series of reforms in the Soviet Union. Gorbachev
+                    considered it imperative to reduce the proportion of the Soviet economy devoted
+                    to defense spending. That objective quickly manifested itself in a new openness
+                    toward arms control, and eventually led to a dramatic reduction of Soviet forces
+                    in Eastern Europe and abandonment of the Brezhnev Doctrine. The subsequent
+                    collapse of the Warsaw Pact and the reunification of Germany ended the threat of
+                    Soviet-led invasion that had been the centerpiece of NATO’s defense posture
+                    since its foundation.</p>
+                <p>Wary of Soviet intentions and aware of the possibility of a reversal of these
+                    reforms, policymakers in the West responded cautiously to Gorbachev and his
+                    calls for a “common European home.” NATO’s first formal response to the changes
+                    in the security environment came in July 1990, with the “London Declaration on a
+                    Transformed North Atlantic Alliance.” Acknowledging the changes in the Soviet
+                    Union, NATO’s heads of state agreed on changes to force structure and nuclear
+                    posture, directed the Alliance to prepare a new strategic concept and an
+                    accompanying defense strategy, and emphasized the importance of the Conference
+                    on Security and Cooperation in Europe (CSCE)’s role in the emerging European
+                    security architecture. The London Declaration closed, “Today, our Alliance
+                    begins a major transformation. Working with all the countries of Europe, we are
+                    determined to create enduring peace on this continent.”</p>
+                <p>Alliance leaders meeting at the Rome Summit in November 1991 approved a new
+                    Strategic Concept outlining NATO’s purpose and missions in the new Europe. The
+                    “Rome Declaration on Peace and Cooperation” emphasized the importance of NATO’s
+                    traditional collective defense mission, calling for “smaller and more flexible”
+                    forces. The Concept outlined NATO’s purpose in providing a “stable security
+                    environment in Europe,” a decision that committed the Alliance to sustaining the
+                    stability within NATO and areas on its periphery. The Strategic Concept
+                    projected NATO’s place in the emerging strategic architecture in Europe, with
+                    the maturation of the European Union, an expanded role for the CSCE, and
+                    construction of the North Atlantic Cooperation Council as a consultative
+                    mechanism for NATO and its former adversaries. The Rome Declaration “welcomed
+                    the development of a European security and defence role, reflected in the
+                    further strengthening of the European pillar within the Alliance.”</p>
+                <p>This program for transformation and new capacity was tested immediately. NATO
+                    faced instability on its doorstep with the disintegration of Yugoslavia. The
+                    conflict in Bosnia-Herzegovina placed severe stress on the Alliance, as its
+                    members struggled to reach a common perspective and an effective response to
+                    this complex and vicious war. The Alliance committed forces toward limiting the
+                    war, enforcing the arms embargo in Operation Sharp Guard and the no-fly zone
+                    through Operation Deny Flight. The Alliance’s involvement increased gradually
+                    until September 1995, when NATO air attacks against Bosnian Serb forces in
+                    Operation Deliberate Force were among the key factors in enabling the peace
+                    talks at Dayton that yielded a negotiated settlement to the war. NATO forces
+                    then executed the postwar peacekeeping and stabilization mission in Operation
+                    Joint Endeavor.</p>
+                <p>The Brussels Summit in January 1994 continued the progressive elaboration of the
+                    Alliance’s role in the new Europe, strongly supporting the maturation of the
+                    European Security and Defence Identity and confirming the willingness of NATO to
+                    “make collective assets of the Alliance available in operations of the Western
+                    European Union.” The Brussels Declaration called for the adaptation of the
+                    Alliance’s command and control structures to provide for Combined Joint Task
+                    Forces, as a flexible “means to facilitate contingency operations, including
+                    operations with participating nations outside the Alliance.” Most significantly,
+                    the Brussels Summit addressed the issue of enlargement—reconfirming that the
+                    Alliance remained open to NATO expansion, and establishing the Partnership for
+                    Peace (PfP) to strengthen practical working relations between the Alliance and
+                    participating nations from across the CSCE. The Partnership, expected to “play
+                    an important role in the evolutionary process of the expansion of NATO,” began
+                    operations that same year.</p>
+                <p>NATO enlargement was widely debated through the mid-1990s, as policymakers and
+                    analysts explored its implications, costs, and likely results. NATO conducted a
+                    study of enlargement and established general criteria for new members in
+                    September 1995. In December 1996, the Alliance announced its decision to invite
+                    new members the following July in a summit to be held in Madrid. The major
+                    concern was the effect of enlargement on Russia, with fear that an expansion of
+                    NATO to the east would threaten its fragile democracy and any prospects of
+                    future cooperation between Russia and the Western democracies. President Bill
+                    Clinton addressed that issue with Russia’s President Boris Yeltsin in a March
+                    1997 summit conducted in Helsinki. There the leaders agreed to disagree on
+                    NATO’s enlargement, but pledged stronger consultation and, where possible, joint
+                    decision making in security issues between NATO and Russia. Two months later
+                    Yeltsin signed the “Founding Act on Mutual Relations, Cooperation, and Security
+                    between NATO and the Russian Federation,” which established the NATO-Russia
+                    Permanent Joint Council. With Russia’s concerns somewhat mollified, NATO invited
+                    the Czech Republic, Poland, and Hungary to join the Alliance, projecting an
+                    accession date in 1999.</p>
+                <p>Much work remained, both within the Alliance and across the broader landscape of
+                    European security, but this first decade of post-Cold War adaptation established
+                    the broad scope of adaptation for NATO. The Alliance had begun its internal
+                    transformation, accepted and executed its new missions, recast its relationship
+                    with its former adversaries, and begun its enlargement. In doing so, NATO
+                    confirmed its utility in the new security environment and its capacity for
+                    further change as considered necessary by its member states.</p>
+            </div>
+            <div type="section" xml:id="somalia"
+                ana="bush-george-h-w clinton-william-j christopher-warren-minor somalia united-nations military-intervention-presence-and-withdrawal">
+                <head>Somalia, 1992–1993</head>
+                <p>The United States has long had to face the challenge of determining to what
+                    degree it wants to participate in global peacekeeping efforts and whether or not
+                    U.S. lives should be put at risk for peacekeeping. Events in Somalia between
+                    1992 and 1994 threw that debate into sharp relief.</p>
+                <figure>
+                    <graphic url="somalia.jpg" height="450px" width="300px"/>
+                    <head>A Marine sentry prepares to close the gate to the Joint Task Force Somalia
+                        headquarters during the multinational relief effort Operation Restore Hope.
+                        (Department of Defense/Joe Gawlowicz)</head>
+                </figure>
+                <p>Somalia achieved its independence in 1960 with the union of Somalia, which had
+                    been under Italian administration as a United Nations trust territory, and
+                    Somaliland, which had been a British protectorate. The United States immediately
+                    established diplomatic relations with the new country. In 1969, the Somali army
+                    launched a coup which brought <persName>Mohamed Siad Barre</persName> to power.
+                    Barre adopted socialism and became allied with the Soviet Union. The United
+                    States was thus wary of Somalia in the period immediately after the coup.</p>
+                <p>Barre’s government became increasingly radical in foreign affairs, and in 1977
+                    launched a war against Ethiopia in hopes of claiming their territory. Ethiopia
+                    received help from the Soviet Union during the war, and so Somalia began to
+                    accept assistance from the United States, giving a new level of stability to the
+                    U.S.-Somalia relationship. </p>
+                <p>Barre’s dictatorship favored members of his own clan. In the 1980s, Somalis in
+                    less favored clans began to chafe under the government’s rule. Barre’s
+                    ruthlessness could not suppress the opposition, which in 1990 began to unify
+                    against him. After joining forces, the combined group of rebels drove Barre from
+                    Mogadishu in January 1991. No central government reemerged to take the place of
+                    the overthrown government, and the United States closed its embassy that same
+                    year, although the two countries never broke off diplomatic relations. The
+                    country descended into chaos, and a humanitarian crisis of staggering
+                    proportions began to unfold.</p>
+                <p>The United Nations attempted to address the crisis with United Nations Operation
+                    in Somalia (UNOSOM) to provide humanitarian assistance, created by the United
+                    Nations Security Council via Resolution 751 in April 1992. The United States
+                    sent food aid via Operation Provide Comfort starting in August 1992. Intense
+                    fighting between the warlords impeded the delivery of aid to those who needed it
+                    most, and so the United Nations contemplated stronger action. In December 1992,
+                    the United States began Operation Restore Hope. President <persName>George H.W.
+                        Bush</persName> authorized the dispatch of U.S. troops to Somalia to assist
+                    with famine relief as part of the larger United Nations effort. The United
+                    Nations’ United Task Force (UNITAF) operated under the authority of Chapter VII
+                    of the U.N. Charter. Chapter VII allowed for the use of force to maintain peace
+                    and did not require the consent of the states involved. UNITAF transitioned to
+                    UNOSOM II in March 1993. UNOSOM II’s efforts to protect aid deliveries were
+                    directly challenged by warlord <persName>Muhammad Farah Aideed.</persName>
+                </p>
+                <p>The most significant of these challenges came on October 3, 1993. Aideed’s forces
+                    shot down two Black Hawk helicopters in a battle which lead to the deaths of 18
+                    U.S. soldiers and hundreds of Somalis. The deaths turned the tide of public
+                    opinion in the United States. President Bill Clinton pulled U.S. troops out of
+                    combat four days later, and all U.S. troops left the country in March 1994. The
+                    United Nations withdrew from Somalia in March 1995. Fighting continued in the
+                    country.</p>
+                <p>At the same time the Somalia crisis was unfolding, President Clinton ordered the
+                    national security bureaucracy to consider how and when the United States should
+                    become involved in peacekeeping operations. The resulting document was
+                    Presidential Decision Directive 25, issued on May 3, 1994. The Directive
+                    outlined a series of factors which the national security bureaucracy must
+                    consider before involving the United States in peacekeeping: eight factors which
+                    must be weighed before deciding in favor of peacekeeping in the United Nations,
+                    and nine additional factors before becoming involved in a Chapter VII
+                    action.</p>
+                <p>Although the United Nations’ involvement in Somalia was unable to provide a
+                    solution to the country’s political crisis, the United States remained engaged
+                    in responding to the humanitarian needs of the Somali people, and continued to
+                    be a significant source of bilateral aid.</p>
+            </div>
+            <div type="section" xml:id="bosnia"
+                ana="bush-george-h-w clinton-william-j serbia bosnia-and-herzegovina">
+                <head>The War in Bosnia, 1992–1995</head>
+                <p>In 1991 and 1992, Yugoslavia disintegrated under the pressures of ethnic
+                    conflict, economic issues, and the demagoguery of Serbian President Slobodan
+                    Milosevic. The secessions of Slovenia and Croatia triggered warfare in both new
+                    nations, with the United Nations inserting a peacekeeping force, the U.N.
+                    Protective Force (UNPROFOR), in mid-1992 to stabilize the situation. The U.N.
+                    further imposed an arms embargo on the region, seeking to dry up the flow of
+                    arms to the combatants. Serbian forces executed widespread “ethnic cleansing” in
+                    occupied areas, creating horrific scenes of refugees and concentration camps
+                    that seemed unthinkable in modern Europe.</p>
+                <figure>
+                    <graphic url="balkan-wars.jpg" height="450px" width="525px"/>
+                    <head>Bosnia and Herzegovina. (Central Intelligence Agency)</head>
+                </figure>
+                <p>Bosnia’s declaration of independence from Yugoslavia in 1992 raised the violence
+                    to a new level, triggering a war that lasted over three years and exemplified
+                    the complexities of the “post-Cold War” strategic environment. The population of
+                    Bosnia-Herzegovina was comprised of three ethnic groups: Serbian, Croatian, and
+                    Muslim. Initially, Croats and Serbs expanded their territorial control at the
+                    expense of the Bosnian state, with the Serbs, supported by Serbia and the
+                    Yugoslav National Army (JNA), eventually controlling about 70% of
+                    Bosnia-Herzegovina. Shifts in territorial control were accompanied by widespread
+                    ethnic cleansing.</p>
+                <p>While the situation in Yugoslavia was a constant subject of discussion at the
+                    highest levels of the Bush Administration, President George H. W. Bush and his
+                    advisors considered the situation in the Balkans to be primarily a European
+                    issue, to be addressed by the European Union. The lack of U.S. response became
+                    an issue in the 1992 presidential campaign, as candidate Bill Clinton advocated
+                    a “lift and strike” policy—lifting the arms embargo, which was operating at the
+                    disadvantage of the Bosnian Muslims and Croats, and conducting airstrikes
+                    against Bosnian Serb forces.</p>
+                <p>Following Clinton’s electoral victory, the new administration set to work quickly
+                    with Ambassador to the United Nations Madeleine Albright to shape a more active
+                    U.N. role in the conflict. In early January 1993, during the final days of the
+                    Bush Administration, the United Nations and the European Union had agreed upon
+                    the Vance-Owen Peace Plan (VOPP) for Bosnia. A month later, the U.N. Security
+                    Council established a war crimes tribunal for the former Yugoslavia and the
+                    United States initiated night airdrops of food to the Muslim enclaves. By March
+                    the U.N. authorized enforcement of a no-fly zone in Bosnia, implemented by the
+                    United States Air Force in Operation Deny Flight, the first armed engagement of
+                    U.S. forces in the former Yugoslavia. Following the Bosnian Serbs’ rejection of
+                    VOPP, the U.N. declared the Muslim enclaves of Sarajevo, Bihac, Tusla,
+                    Srebrenica, Zepa, and Gorazde to be “safe areas.” The Security Council did not,
+                    however, provide for the defense of these areas.</p>
+                <p>On May 1 President Clinton sent Secretary of State Warren Christopher to consult
+                    with the major NATO allies and with Russia in order to gain support for the
+                    “lift and strike” strategy. This effort failed, exposing issues that would
+                    hamstring NATO’s actions in the conflict for another two years. Alliance members
+                    participating in UNPROFOR were concerned that their troops, lightly armed and
+                    widely dispersed, were likely to be taken as hostages and did not share
+                    Washington’s enthusiasm for an air campaign. Wide divergence between the
+                    alliance’s national perspectives on the conflict and very little European
+                    domestic support for armed intervention added to the Administration’s problems.
+                    NATO’s inability to reach consensus on an effective response to the atrocities
+                    called into question the future of the alliance in post-Cold War Europe.</p>
+                <p>Gridlock in the alliance was mirrored by gridlock in the U.S. interagency policy
+                    process. The Department of Defense was very reluctant to commit to a role in the
+                    Balkans, concerned as it was about a protracted occupation or guerrilla warfare.
+                    Ambassador Albright was active in promoting a western response but she had
+                    little influence on the overall administration policy. There was also little
+                    domestic support in the United States for intervention in the Balkans, though
+                    the violence, documented by cable television news, kept the issue in the public
+                    eye.</p>
+                <p>In June 1993, Serb attacks on the Srebrenica “safe area” led the U.N. Security
+                    Council to authorize the use of air power “to support UNPROFOR in the
+                    performance of its mandate.” The resolution established a “dual key” arrangement
+                    between the U.N. and NATO in control of tactical air power responding to Serbian
+                    attacks. This arrangement proved difficult for Washington, as the U.N. was
+                    extremely reluctant to authorize any effective combat action on the part of
+                    NATO.</p>
+                <p>On February 5, 1994, a mortar shell exploded in the Markala marketplace in
+                    Sarajevo, killing 69 civilians. The attack led to the declaration of a
+                    20-kilometer weapons exclusion zone around Sarajevo. A confrontation with the
+                    Bosnian Serb forces was averted through Russian mediation.</p>
+                <p>In early April, Bosnian Serb forces launched an offensive against Gorazde.
+                    Following the killing of a UNPROFOR soldier by Serbian artillery, NATO launched
+                    an air strike. In turn, Bosnian Serbs surrounded a contingent of UNPROFOR
+                    soldiers, and their commander, Ratko Mladic, threatened that none would survive
+                    if NATO repeated the air attacks. In the immediate aftermath, the United States
+                    led the formation of a Contact Group to spearhead policy toward the conflict.
+                    The group agreed on a set of principles for any peace settlement: Bosnia would
+                    remain a single state, comprised of the Muslim-Croat federation and a Serb
+                    entity, and these entities would be linked by constitutionally-agreed
+                    principles. The group further agreed to a map of Bosnia-Herzegovina where the
+                    Muslim-Croat federation controlled 51 percent of the territory and the Serbian
+                    entity controlled 49 percent. While the Bosnian Croats and Muslim groups signed
+                    a cease fire between their forces under the terms of the 1994 Washington
+                    Agreement, the Bosnian Serbs rejected the plan. The military balance also began
+                    to equalize, as Serbia cut off support to Bosnian-Serb forces while Croatia and
+                    Bosnian-Muslim forces built up via an increasingly porous arms embargo. The year
+                    closed with a four-month truce negotiated by former President Jimmy Carter.</p>
+                <p>The spring of 1995 brought renewed combat, with Muslim and Croatian forces now on
+                    the offensive in western Bosnia-Herzegovina. Without logistical support from
+                    Serbia, Bosnian Serb forces retook U.N.-secured weapons, brushing aside UNPROFOR
+                    guards. When NATO responded with air strikes, the Serbs took UNPROFOR troops
+                    hostage, using them as human shields. NATO deployed a combat-ready Rapid
+                    Reaction Force to Bosnia to reduce the vulnerability of the widely scattered
+                    UNPROFOR units.</p>
+                <p>In July, the Bosnian Serb commanders launched an offensive against the eastern
+                    enclaves of Srebrenica and Zepa; they massacred over 7,000 men in Srebrenica.
+                    The mass killing served as a tipping point to western resolve to bring a
+                    decisive end to the conflict. Convening in London on July 21, NATO agreed on the
+                    effective end of the “dual key” policy for controlling air strikes, with
+                    authority for strikes delegated to UNPROFOR and NATO commanders in the field.
+                    The alliance further agreed that any future attacks on safe areas would result
+                    in a sustained air offensive.</p>
+                <p>On August 1, Croatian and Bosnian forces launched a powerful offensive, Operation
+                    Storm, against Bosnian Serb-held territory in western Bosnia. The offensive
+                    rolled eastward, displacing many thousands of Serb refugees and steadily moving
+                    the territorial balance toward the 51/49 balance called for by the Contact
+                    Group. The new Assistant Secretary of State for Western Europe, Richard
+                    Holbrooke, had seized a major role in policy toward the Balkans, and sought to
+                    orchestrate a cease-fire and negotiated settlement. When a mortar shell exploded
+                    in the Markala marketplace in Sarajevo on August 25, NATO executed Operation
+                    Deliberate Force, an intense two-week series of attacks on Serb military
+                    positions.</p>
+                <p>The combination of the ground offensive, NATO’s air campaign, and Holbrooke’s
+                    tireless diplomacy yielded a cease-fire by the end of September. On November 1,
+                    negotiations among the three parties opened at Dayton AFB, OH. The parties
+                    reached a hard-fought agreement on November 21 and the Dayton Accords, formally
+                    the General Framework Agreement for Peace in Bosnia and Herzegovina, were signed
+                    in Paris on December 14. The NATO-led Implementation Force (IFOR) deployed into
+                    Bosnia-Herzegovina on December 20.</p>
+            </div>
+            <div type="section" xml:id="clinton-yeltsin"
+                ana="clinton-william-j russia arms-control-and-disarmament">
+                <head>Bill Clinton, Boris Yeltsin, and U.S.-Russian Relations</head>
+                <p>Upon his inauguration in January 1993, President <persName>Bill
+                        Clinton</persName> became the first president since Franklin Roosevelt who
+                    did not need a strategy for the Cold War—and the first since William Howard Taft
+                    who did not need a policy for the Soviet Union. In his inaugural address,
+                    Clinton saluted the service of his predecessor, <persName>George H.W.
+                        Bush</persName>, in the peaceful resolution of the conflict between the
+                    superpowers. He also acknowledged that, even without the Soviet Union, the world
+                    was still threatened by “ancient hatreds and new plagues.” Planning to focus on
+                    domestic affairs, Clinton intended to leave the day-to-day management of foreign
+                    policy—including dealing with the “ancient hatreds and new plagues” of the
+                    former Soviet sphere of influence—to senior members of his national security
+                    team. He also recruited <persName>Strobe Talbott</persName>, a journalist and
+                    Russian expert, to assume a portfolio for the region, first as
+                    Ambassador-at-Large and then, from February 1994, as Deputy Secretary of State.
+                    By appointing Talbott, a close friend since both had served as Rhodes scholars
+                    in the late 1960s, Clinton wanted to demonstrate his personal commitment to
+                    Russia in the emerging post-Cold War world. Such calculations were soon
+                    overtaken by events, however, as the challenges of managing relations between
+                    two former adversaries proved too much for his subordinates to handle on their
+                    own. “By the spring of his first year in office,” Talbott later recalled,
+                    “Clinton had become the U.S. government’s principal Russia hand, and so he
+                    remained for the duration of his presidency.”</p>
+                <figure>
+                    <graphic url="clinton-russia.jpg" height="400px" width="266px"/>
+                    <head>Presidents Yeltsin and Clinton, October 23, 1995, during the summit
+                        meeting at Hyde Park, New York. (William J. Clinton Presidential
+                        Library)</head>
+                </figure>
+                <p>Like many of his predecessors, Bill Clinton tended to view relations with other
+                    countries through the prism of personality. In this case, Russia was personified
+                    by its President, <persName>Boris Yeltsin</persName>. Clinton was strongly
+                    inclined not only to like Yeltsin but also to support his policies, in
+                    particular, his commitment to Russian democracy. During the seven years both
+                    were in office, “Bill and Boris” met eighteen times, nearly as often as their
+                    predecessors had met throughout the entire Cold War. For his first trip abroad,
+                    Clinton met Yeltsin in Vancouver in April 1993. At the time, and periodically
+                    throughout his term in office, Yeltsin faced growing opposition at home to his
+                    efforts to liberalize the economy and enact democratic reforms in Russia. At
+                    Vancouver, Clinton promised Yeltsin strong support in the form of financial
+                    assistance to promote various programs, including funds to stabilize the
+                    economy, to house decommissioned military officers, and to employ nuclear
+                    scientists. The U.S. Congress—including broad, bipartisan majority in the
+                    Senate—approved the program in September. Although not always able to deliver
+                    such assistance, Clinton also supported Yeltsin and his position on economic and
+                    political matters by other means. At Clinton’s behest, and at a meeting he
+                    hosted in Denver in June 1997, for instance, Russia became a member of the
+                    so-called G–8, the group of leaders representing eight of the world’s leading
+                    economies, thus ensuring that Russian interests would be considered at this
+                    important annual forum.</p>
+                <p>Clinton and Yeltsin also continued the bilateral cooperation, begun by Ronald
+                    Reagan and Mikhail Gorbachev, to manage the most tangible, and terrifying,
+                    relics of the Cold War. The control of nuclear weapons had always been one of
+                    the most difficult issues for the two superpowers to negotiate. The task in the
+                    1990s, however, was greatly complicated by the fact that Russia did not maintain
+                    control over the entire Soviet inventory; some strategic (long-range) and
+                    theater (intermediate range) nuclear weapons were also still based on the
+                    territory of at least Ukraine, Belarus, and Kazakhstan. In terms of
+                    international law, and as a matter of foreign policy, the United States urged
+                    the four former Soviet republics to assume Soviet obligations under three arms
+                    control agreements: the Nuclear Non-Proliferation Treaty (NPT) of 1968, the
+                    Intermediate-Range Nuclear Forces Treaty (INF) of 1987, and the Strategic Arms
+                    Reduction Talks Treaty of 1991 (START I). Under the Lisbon Protocol of May 1992,
+                    Russia, Ukraine, Belarus, and Kazakhstan agreed not only to abide by the NPT and
+                    START I, but also to destroy or transfer to Russia all remaining nuclear weapons
+                    at their disposal. The Clinton administration soon discovered, however, that
+                    political concerns in Kiev and Almaty—in particular, fears of political
+                    interference from Moscow—impeded further progress not only in negotiating
+                    additional but also in implementing existing agreements. Clinton and Yeltsin
+                    managed to address such concerns through a combination of security assurances
+                    and economic assistance. In November 1994, Russia, Ukraine, Belarus, and
+                    Kazakhstan finally agreed to adhere to INF; then, the following month, the four
+                    countries formally ratified START I. After nearly two years of negotiations, the
+                    United States thus succeeded in transferring Soviet treaty obligations to reduce
+                    or eliminate nuclear weapons to post-Soviet successor states, who, in turn,
+                    agreed to transfer the weapons to Russia. Under the Cooperative Threat Reduction
+                    program, established by the Nunn-Lugar Act of 1991, the United States—in an
+                    unprecedented partnership with the four countries—also became directly involved
+                    in the “dirty work” of fulfilling these commitments, providing financial
+                    assistance and technical expertise in securing and dismantling the Soviet
+                    nuclear arsenal.</p>
+                <p>Throughout the Clinton administration, U.S.-Russian relations were embroiled over
+                    how to address the challenges of European security. During the Cold War, the two
+                    sides organized on opposite sides of the Iron Curtain: in 1949, the United
+                    States and its Western European allies established the North Atlantic Treaty
+                    Organization (NATO); and in 1955, the Soviet Union and its Eastern European
+                    allies established the Warsaw Treaty Organization. When the Warsaw Pact formally
+                    disbanded in February 1991, NATO began to debate in earnest how to adapt the
+                    alliance to the realities of post-Cold War Europe, including a proposal to
+                    expand membership to include countries in the former Soviet sphere of influence.
+                    The debate became more urgent with the outbreak of war in the former Yugoslavia,
+                    in particular, Bosnia-Herzegovina in April 1992. In an effort to address
+                    concerns in Warsaw, Prague, and other capitals—without at the same time unduly
+                    raising concerns in Moscow—NATO formally agreed in January 1994 to establish the
+                    Partnership for Peace, which in effect created a pathway toward membership for
+                    nations joining the organization, without extending the security commitment of
+                    the alliance. Russia joined the Partnership in June 1994. Despite this agreement
+                    on paper, events on the ground increasingly threatened to undermine bilateral
+                    relations. Clinton objected to Russian military intervention in the autonomous
+                    region of Chechnya, including the siege of Grozny, which began in January 1995;
+                    and Yeltsin objected to U.S. military intervention in Bosnia, including NATO
+                    airstrikes in September. The Dayton Agreement, which ended the Bosnian War in
+                    December, and the Khasavyurt Accord, which ended the First Chechen War in August
+                    1996, did not resolve growing tensions between the two countries. At its meeting
+                    in Madrid, July 1997, NATO formally invited three former Soviet
+                    satellites—Poland, Hungary, and the Czech Republic—to join the alliance; and in
+                    March 1999, less than two weeks after their membership became effective, NATO
+                    began to bomb Serbia, Russia’s ally, in an effort to end its military operations
+                    in Kosovo. Yeltsin denounced but could not deflect either development. Likewise,
+                    Clinton could do little but protest five months later as Russia began a massive
+                    bombing campaign in the Second Chechen War. When Yeltsin suddenly resigned from
+                    office in December, however, Clinton praised his counterpart for helping to
+                    achieve “genuine progress” in U.S.-Russian relations. “Of course, we have also
+                    had our differences,” Clinton observed, “but the starting point for our
+                    relationship has always been how Russia and America can work together to advance
+                    our common interests.”</p>
+            </div>
+            <div type="section" xml:id="two-koreas"
+                ana="china japan north-korea south-korea russia nuclear-nonproliferation foreign-aid international-atomic-energy-agency united-nations">
+                <head>Denuclearization and the Two Koreas, 1993–2001</head>
+                <p>The end of the Cold War altered the Korean Peninsula’s diplomatic landscape. The
+                    Republic of Korea (South Korea) established diplomatic relations with the
+                    longstanding allies of the Democratic People’s Republic of Korea (North Korea):
+                    the Soviet Union, in 1990, and China, in 1992. In 1991 both Koreas were
+                    simultaneously admitted into the U.N. These developments, together with North
+                    Korea’s worsening economy and growing need for international aid, opened up the
+                    possibility of a thaw in relations, with negotiations over reunification between
+                    the two Koreas and normalization of U.S.-North Korean relations.
+                    Denuclearization, a key aim of U.S. diplomacy, was at the heart of a series of
+                    crises on the Korean Peninsula throughout the Clinton Administration. </p>
+                <figure>
+                    <graphic url="korean-crisis.jpg" height="450px" width="295px"/>
+                    <head>Madeleine Albright toasts North Korean leader Kim Jong Il at a dinner in
+                        Pyongyang. (AP Photo/Chien-min Chung, Pool)</head>
+                </figure>
+                <p>There were signs of hope in early steps toward denuclearization. In January 1992,
+                    North Korea publicly committed to signing the nuclear safeguards agreement with
+                    the U.N.’s International Atomic Energy Agency (IAEA) and to permitting
+                    inspections of its primary nuclear facility at Yongbyon. In April of the same
+                    year, the North and South signed the Joint Declaration of the Denuclearization
+                    of the Korean Peninsula, which barred the parties from developing or acquiring
+                    nuclear weapons and limited them to using nuclear energy for peaceful purposes
+                    only.</p>
+                <p>However, North Korea’s refusal throughout 1992 and 1993 to cease and disclose its
+                    nuclear activities at Yongbyon, in defiance of IAEA agreements and directives,
+                    and its threat to withdraw from the Nuclear Non-Proliferation Treaty, initiated
+                    a series of crises. With the credibility of this Treaty in question and its
+                    forthcoming renewal thrown into question, the United States threatened to call
+                    upon the U.N. Security Council to issue an ultimatum threatening North Korea
+                    with economic sanctions. Tensions subsided by June 1993, when the United States
+                    and North Korea issued a joint statement affirming the principle of respect for
+                    each other’s sovereignty and noninterference in each other’s internal
+                    affairs.</p>
+                <p>The parties returned to negotiations, but these, too, faltered as North Korea
+                    resisted IAEA inspections. By March 1994, North Korean diplomats threatened war
+                    if the United States and South Korea went to the U.N. In May North Korea
+                    withdrew from the IAEA. A last-minute private trip to North Korea by President
+                    Jimmy Carter in June 1994 averted war and led to U.S.-North Korean bilateral
+                    negotiations and the October 1994 Agreed Framework for the denuclearization of
+                    North Korea.</p>
+                <p>The Agreed Framework was a staged, multilateral agreement involving the two
+                    Koreas, the United States, and Japan. It required Pyongyang to halt its nuclear
+                    activities at Yongbyon, allow IAEA monitors in, and eventually dismantle the
+                    facility. In exchange, the United States, Japan, and South Korea would provide
+                    light water reactors, and the United States would provide interim energy
+                    supplies in the form of fuel-oil. Each stage was to build confidence that the
+                    parties were willing to continue.</p>
+                <p>In carrying out the agreement, however, numerous setbacks eroded trust among the
+                    parties. While the United States followed through on its promises to ship
+                    fuel-oil, the U.S. Congress delayed the deliveries. The 1997 IMF Crisis limited
+                    the ability of South Korea to contribute to the construction of the light water
+                    reactors, leading to delays. Meanwhile, North Korea engaged in provocative acts
+                    against South Korea and Japan, testing ballistic missiles and pursuing other
+                    weapons activities. In 1998, suspected nuclear weapons activities at Kumchang-ri
+                    brought the Agreed Framework to the brink of collapse. Once inspectors were
+                    finally allowed in, they found no evidence of nuclear activity, but mistrust
+                    remained high. The Clinton administration worked to get the Agreed Framework
+                    back on track, leading to the visit of a North Korean envoy to the United
+                    States, a joint statement of no hostile intent, and a reciprocal visit by
+                    Secretary of State Madeleine Albright to Pyongyang in October 2000.</p>
+                <p>However, despite these efforts, the nuclear issue was still unresolved. It was
+                    not long before the next crisis would arise, requiring the international
+                    community to take another approach to addressing the denuclearization issue.
+                    North Korea broke out of the 1994 agreement in the winter of 2002, resulting in
+                    the opening of the Six-Party Talks the following year, hosted by China.</p>
+            </div>
+            <div type="section" xml:id="oslo"
+                ana="clinton-william-j israel jordan syria palestine peace arab-israeli-dispute">
+                <head>The Oslo Accords and the Arab-Israeli Peace Process</head>
+                <p>On September 13, 1993, Israeli Prime Minister <persName>Yitzhak Rabin</persName>
+                    and Palestine Liberation Organization (PLO) Negotiator <persName>Mahmoud
+                        Abbas</persName> signed a Declaration of Principles on Interim
+                    Self-Government Arrangements, commonly referred to as the “Oslo Accord,” at the
+                    White House. Israel accepted the PLO as the representative of the Palestinians,
+                    and the PLO renounced terrorism and recognized Israel’s right to exist in peace.
+                    Both sides agreed that a Palestinian Authority (PA) would be established and
+                    assume governing responsibilities in the West Bank and Gaza Strip over a
+                    five-year period. Then, permanent status talks on the issues of borders,
+                    refugees, and Jerusalem would be held. While President <persName>Bill
+                        Clinton’s</persName> administration played a limited role in bringing the Oslo
+                    Accord into being, it would invest vast amounts of time and resources in order
+                    to help Israel and the Palestinians implement the agreement. By the time Clinton
+                    left office, however, the peace process had run aground, and a new round of
+                    Israeli-Palestinian violence had begun. </p>
+                <figure>
+                    <graphic url="oslo.jpg" height="400px" width="265px"/>
+                    <head>President Clinton, Yitzhak Rabin, and Yasir Arafat at the signing ceremony
+                        for the Oslo Accord, September 13, 1993. (William J. Clinton Presidential
+                        Library)</head>
+                </figure>
+                <p><hi rend="strong">The Clinton Administration and the Arab-Israeli Peace Process,
+                        1993–1996</hi></p>
+                <p>The Clinton administration did not initially make Israeli-Palestinian peace a
+                    priority. Clinton and his advisors believed that a diplomatic breakthrough on
+                    the Israeli-Syrian track would be more likely, and that Israel’s leaders would
+                    find it politically easier to pull back from the Golan Heights than to withdraw
+                    from the West Bank. An Israeli-Syrian agreement, they reasoned, would also lead
+                    to an Israeli-Lebanese agreement, and help isolate Iraq and Iran, the principal
+                    regional opponents of the peace process. U.S. officials were briefed on secret
+                    negotiations that the Israelis and Palestinians had begun in Oslo in December
+                    1992, but made little effort to get involved in them.</p>
+                <p>The United States did not play a major role in the negotiations that led to the
+                    Israeli-Jordanian peace treaty of October 1994, though Clinton lent his support
+                    by hosting King Hussein and Rabin in Washington and urging Congress to forgive
+                    Jordan’s debts. Nor did the United States play a critical part in the
+                    negotiations leading up to the May 1994 Cairo Agreement, which finalized
+                    Israel’s withdrawal from most of Gaza and Jericho, or the Taba (or "Oslo II")
+                    Agreement of September 1995. The latter agreement divided the West Bank into
+                    separate areas under Israeli control, Palestinian control, and Israeli military
+                    responsibility with Palestinian civil administration, respectively. Oslo II aslo
+                    spelled out provisions for elections, civil/legal affairs, and other bilateral
+                    Israeli-Palestinian cooperation on various issues. Since the Oslo Accord did not
+                    give the United States monitoring responsibilities, the Clinton administration
+                    found itself largely confined to defusing crises and building up the Palestinian
+                    Authority with economic aid and security assistance.</p>
+                <p>On the Israeli-Syrian track, the administration exerted itself more forcefully,
+                    but with few results. Clinton, Secretary of State <persName>Warren
+                        Christopher</persName>, and Special Middle East Coordinator <persName>Dennis
+                        Ross</persName> tried to build on Rabin’s August 1993 promise to withdraw
+                    fully from the Golan if Syria agreed to full peace and necessary security
+                    arrangements. By 1994, these talks stalled over Israel and Syria’s different
+                    definitions of “full withdrawal.” The Syrians insisted that the Israelis should
+                    withdraw to the line of “June 4, 1967,” when they had controlled a pocket of
+                    land on the northeastern shore of the Sea of Galilee, Israel’s principal source
+                    of water. The Israelis wanted to pull back to the 1923 international border,
+                    which would have left the Sea of Galilee under their sovereignty. That July,
+                    Rabin indicated to Christopher that Israel would withdraw to the June 4 line if
+                    Syria met its other needs, paving the way for talks between Israeli and Syrian
+                    military officers. However, these negotiations eventually bogged down over
+                    whether Israel could retain early warning stations on the Golan, and also became
+                    politically controversial in Israel. Rabin thus chose to suspend them until
+                    after Israel’s elections in 1996.</p>
+                <p><hi rend="strong">Oslo’s Collapse, 1996–2000</hi></p>
+                <p>In November 1995, Rabin was assassinated by <persName>Yigal Amir</persName>, an
+                    Israeli who opposed the Oslo Accords on religious grounds. Rabin’s murder was
+                    followed by a string of terrorist attacks by Hamas, which undermined support for
+                    the Labor Party in Israel’s May 1996 elections. New Prime Minister
+                        <persName>Binyamin Netanyahu</persName> hailed from the Likud Party, which
+                    had historically opposed Palestinian statehood and withdrawal from the occupied
+                    territories.</p>
+                <p>Worried that the peace process might collapse, the Clinton administration
+                    involved itself more actively in Israeli-Palestinian negotiations. In January
+                    1997, following intensive U.S. mediation, Israel and the PA signed the Hebron
+                    Protocol, which provided for the transfer of most of Hebron to Palestinian
+                    control. In October 1998, Clinton hosted Netanyahu and Arafat at the Wye River
+                    Plantation, where they negotiated an agreement calling for further Israeli
+                    withdrawals from the West Bank. Infighting over the implementation of the Wye
+                    Memorandum, however, brought down Netanyahu’s government in January 1999.</p>
+                <p>In Israel’s May 1999 elections, the Labor Party’s <persName>Ehud Barak</persName>
+                    decisively defeated Netanyahu. Barak predicted that he could reach agreements
+                    with both Syria and the Palestinians in 12 to 15 months, and pledged to withdraw
+                    Israeli troops from southern Lebanon. In September, Barak signed the Sharm
+                    al-Shaykh Memorandum with Arafat, which committed both sides to begin permanent
+                    status negotiations. An initial round of meetings, however, achieved nothing,
+                    and by December the Palestinians suspended talks over settlement-building in the
+                    occupied territories. </p>
+                <p>Barak then focused on Syria. In January 2000, Israeli, Syrian, and U.S.
+                    delegations convened in West Virginia for peace talks. These negotiations
+                    foundered when Barak refused to reaffirm Rabin’s pledge to withdraw to the June
+                    4, 1967 line, arguing that none of the concessions offered by the Syrian
+                    delegation in return could be considered final, since Syrian President
+                        <persName>Hafiz al-Asad</persName> was not present. A subsequent meeting
+                    between Clinton and Asad in Geneva failed to produce an Israeli-Syrian
+                    accord.</p>
+                <p>Barak then withdrew Israeli forces unilaterally from Lebanon and returned to the
+                    Palestinian track. At the prime minister’s insistence, Clinton convened a summit
+                    at Camp David in July 2000, where he, Barak, and Arafat attempted to reach a
+                    final agreement on the West Bank and the Gaza Strip. Accounts differ as to why
+                    Camp David failed, but it is clear that despite additional concessions by Barak,
+                    the Israelis and Palestinians remained strongly at odds over borders, Jerusalem,
+                    and whether Israel would recognize Palestinian refugees’ “right of return.” The
+                    summit ended without a settlement; Clinton would blame Arafat for its
+                    failure.</p>
+                <p>On September 28, riots erupted following a visit of Likud Party leader Ariel
+                    Sharon to the Temple Mount, and soon escalated into a wave of
+                    Israeli-Palestinian violence that became known as the al-Aqsa Intifada. In
+                    December 2000, Clinton put forward his own proposals for an Israeli-Palestinian
+                    agreement. By this point, however, the president was leaving office, Barak faced
+                    electoral defeat, and Israeli-Palestinian violence continued unabated.</p>
+                <p>Thus, by the end of 2000, the prospect of ending the Arab-Israeli conflict looked
+                    more distant than it had eight years earlier. The Clinton administration had
+                    helped facilitate Israeli-Jordanian peace and lay the foundations for
+                    Palestinian self-rule. More broadly, the negotiations of the 1990s helped
+                    Israel, the Palestinians, and Syria break with numerous diplomatic taboos and
+                    establish a basis for what a comprehensive Arab-Israeli peace might look like.
+                    But a settlement of the Arab-Israeli conflict remained elusive.</p>
+            </div>
+            <div type="section" xml:id="haiti"
+                ana="clinton-william-j haiti organization-of-american-states">
+                <head>Intervention in Haiti, 1994–1995</head>
+                <p>On September 30, 1991, a military coup under the leadership of Lieutenant General
+                    Raoul Cedras overthrew the government of Jean-Bertrand Aristide, the first
+                    popularly elected president in Haitian history. President George H.W. Bush
+                    called for the restoration of democracy, and worked with the Organization of
+                    American States (OAS) to impose a trade embargo on all goods except medicine and
+                    food. During his 1992 presidential candidacy, Bill Clinton criticized the Bush
+                    administration for its policy on refugee return and promised to increase
+                    pressure on the military junta by tightening economic sanctions.</p>
+                <figure>
+                    <graphic url="haiti.jpg" height="450px" width="372px"/>
+                    <head>USS <hi rend="italic">America</hi> enroute to Haiti in September 1994,
+                        with a unique complement of U.S. Army Special Forces and the 160th Army
+                        Special Aviation Regiment embarked.</head>
+                </figure>
+                <p>Unburdened by the Cold War international framework that structured U.S. foreign
+                    policy for nearly fifty years, the Clinton administration sought to outline new
+                    objectives for U.S. foreign policy, including novel uses for military power.
+                    Ambassador to the United Nations Madeleine Albright outlined a U.S. policy of
+                    “assertive multilateralism,” with an increased role for the United Nations.
+                    National Security Advisor Anthony Lake emphasized the role of economic power in
+                    the new world order, and argued for a U.S. role in the “enlargement” of the
+                    community of free nations. The new administration, however, faced multiple
+                    challenges in the former Yugoslavia, Somalia, North Korea, and Haiti that
+                    complicated their attempts to implement the broad strategies and objectives
+                    defined by the administration’s leaders.</p>
+                <p>Clinton appointed Lawrence Pezzullo as special envoy for Haiti, and as promised
+                    in his campaign, worked to increase economic and diplomatic pressure on the
+                    junta. On June 16 the United Nations voted to impose a ban on petroleum sales to
+                    Haiti. Cedras agreed to participate in talks sponsored by the United Nations and
+                    the OAS. The so-called “Governors Island Accord” signed by Aristide and Cedras
+                    on July 3 called for Aristide’s return to Haiti by October 30, 1993, an amnesty
+                    for the coup leaders, assistance in modernizing the Haitian army, and the
+                    establishment of a new Haitian police force. The agreement provided for the
+                    suspension of U.N. sanctions once Aristide had assumed office in Haiti.</p>
+                <p>Despite indications that the Haitian military was backing away from the
+                    agreement, the United States dispatched the USS <hi rend="italic">Harlan
+                        County</hi> with 200 U.S. and Canadian engineers and military police on
+                    board to prepare for the return of Aristide. On October 11 the ship was met at
+                    the pier in Port-au-Prince by a mob of Haitians, appearing to threaten violence.
+                    With the street battle in Mogadishu only a week past, the administration proved
+                    unwilling to risk casualties in Port-au-Prince. The ship pulled away the
+                    following day and returned to the United States, a significant setback for the
+                    Clinton administration.</p>
+                <p>Four days later, the United Nations Security Council imposed a naval blockade on
+                    Haiti. Through the following months the administration pursued a dual strategy,
+                    planning for military intervention while hoping that the threat of a U.S.
+                    invasion would coerce the Haitian leaders to surrender power. Pressure toward
+                    action continued to build, with Congressional Black Caucus members especially
+                    vocal in demanding an end to military rule in Haiti.</p>
+                <p>The Clinton administration built the diplomatic foundation for the operation in
+                    the summer of 1994, working to secure a United Nations Security Council
+                    Resolution (UNSCR) authorizing the removal of the Haitian military regime. On
+                    July 31 the Security Council passed UNSCR 940, the first resolution authorizing
+                    the use of force to restore democracy for a member nation. It provided for the
+                    reinstatement of the Aristide government and a six-month mandate for the United
+                    Nations Mission in Haiti (UNMIH), which would maintain order after the
+                    operation. The U.N. mandate authorizing the intervention enabled the
+                    administration to recruit forces from Caribbean nations to serve in the
+                    post-invasion security force.</p>
+                <p>In early September planning and preparation for the invasion was completed under
+                    the code name Operation Uphold Democracy. The invasion force numbered nearly
+                    25,000 military personnel from all services, backed by two aircraft carriers and
+                    extensive air support. Although the United States provided the vast majority of
+                    the forces, a multinational contingent from Caribbean nations agreed to serve in
+                    an operation conducted under U.N. mandate. The addition of these multinational
+                    forces shifted the operation from a U.S. military intervention to
+                    U.N.-sanctioned multinational action. The operation was scheduled for September
+                    19.</p>
+                <p>With military action clearly imminent, former President Jimmy Carter led a
+                    delegation to Haiti in search of a negotiated settlement. Carter, Senator Sam
+                    Nunn, and General Colin Powell flew to Haiti on September 17, well aware that
+                    they had little time to reach agreement. President Clinton approved Carter’s
+                    mission, but insisted that the military operation would proceed as scheduled.
+                    The invasion forces launched with the negotiations in progress, without any
+                    certainty whether they would make an opposed or a peaceful entry on to Haitian
+                    soil.</p>
+                <p>The Haitian leadership capitulated in time to avoid bloodshed. Having launched
+                    the operation with the expectation of a forced-entry assault, the forces
+                    conducting the operation displayed remarkable discipline and flexibility in
+                    adjusting to this new and uncertain environment. General Hugh Shelton, commander
+                    of the invasion force, was transformed enroute to Haiti from commander to
+                    diplomat, charged with working out a peaceful transition of power. Shelton and
+                    Cedras met on September 20, 1994, to begin the process, and Aristide returned to
+                    Haiti on October 15. </p>
+                <p>Military planners had defined the conditions for hand-off to UNMIH as the
+                    restoration of basic order, the return of Aristide, and the conduction of a
+                    presidential election and subsequent peaceful transfer of power. The operation
+                    ended with the transfer to UNMIH command on March 31, 1995, and a peaceful
+                    election and transferal of power occurred on February 7, 1996. The operation
+                    yielded important lessons about the complexities involved in managing complex
+                    contingency operations, which were captured in PDD/NSC 56, “Managing Complex
+                    Contingency Operations,” issued in May 1997.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

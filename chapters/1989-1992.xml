@@ -1,0 +1,919 @@
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1989–1992</title>
+                <title type="short">1989–1992</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31" target="#foreword #fall-of-communism #collapse-soviet-union #breakup-yugoslavia #tiananmen-square #gulf-war #madrid-conference"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword" ana="bush-george-h-w baker-james-addison rice-condoleezza russia">
+                <head>
+                    <date from="1989" to="1992">1989–1992</date>: The Presidency of George H.W.
+                    Bush</head>
+                <p>The collapse of the <placeName>Soviet Union</placeName> in 1991 created a massive
+                    shift in the international balance of power and left the United States as the
+                    sole remaining superpower.</p>
+                <figure>
+                    <graphic url="ghw-bush.jpg" height="450px" width="315px"/>
+                    <head>President Bush examines papers with Sec. Cheney and Gen. Scowcroft in the
+                        Oval Office of the White House. (George Bush Presidential Library and
+                        Museum)</head>
+                </figure>
+                <p>President George H.W. Bush took the oath of office with foreign policy on his
+                    mind. He brought to the White House strong credentials: Congressman, Ambassador
+                    to the United Nations, Permanent Representative to the People’s Republic of
+                    China, Director of the Central Intelligence Agency, and Vice President of the
+                    United States. He started his career in military service in 1942, enlisting in
+                    the Navy on his 18th birthday and earning a commission as an ensign several days
+                    before his 19th birthday. He later served as a torpedo bomber pilot, earning a
+                    Distinguished Flying Cross; he was the last veteran of World War II to serve as
+                    president.</p>
+                <p>Patrician and self-effacing, President Bush engaged foreign dignitaries with
+                    ease. He already knew most world leaders on a first-name basis. Former President
+                    Ronald Reagan’s physical grace and soaring rhetoric led to unkind comparisons in
+                    the lead-up to the 1988 campaign. The October 19, 1987, edition of <hi rend="italic">Newsweek </hi>featured Bush on the cover with the caption:
+                    “Fighting the ‘Wimp Factor.’” Whether from this portrayal of him or merely his
+                    highly competitive instincts, Bush overwhelmed his opponents in Republican
+                    primary debates and ran a highly aggressive general election campaign against
+                    Massachusetts Governor Michael Dukakis. While a majority of Americans voted for
+                    him, Bush was a Burkean conservative in a burgeoning Information Age, and he did
+                    not always connect with the average man on the street.</p>
+                <p>Democrats who comprised a majority in the U.S. House of Representatives and the
+                    U.S. Senate bore lingering resentment from the 1988 campaign, while
+                    conservatives such as House Minority Whip Newt Gingrich recalled Bush’s track
+                    record as a political moderate. There were few coattails to President Bush’s
+                    electoral triumph, in other words, and neither a “Bush Revolution” in 1988 nor a
+                    class of “Bush Democrats” in the 101st Congress. In contrast, the so-called
+                    foreign policy establishment held him in high regard. Former Assistant to the
+                    President for National Security Affairs Zbigniew Brzezinski endorsed him for
+                    president—even though Brzezinski had mentored most of Bush’s opponent’s foreign
+                    policy advisers.</p>
+                <p>President Bush faced additional constraints. The massive tax cuts he himself had
+                    termed “voodoo economics” in the 1980 Republican primary had stimulated the U.S.
+                    economy but failed to increase tax revenues, while the 1985 Gramm-Rudman Deficit
+                    Reduction Act triggered automatic spending cuts. Concern over the national debt
+                    was the chief substantive issue of the 1988 campaign, and Bush had vowed to
+                    reduce it without raising taxes. Inflation was tame and unemployment relatively
+                    low, yet the transition to a post-industrial economy and the influx of
+                    high-technology consumer products from Japan raised the specter of a decline in
+                    America’s economic and technological leadership. The shock of the October 1987
+                    stock market crash persisted, coming as it did in a year of two bestsellers,
+                    Paul Kennedy’s <hi rend="italic">The Rise and Fall of the Great Powers</hi> and
+                    Allan Bloom’s <hi rend="italic">Closing of the American Mind</hi>, which
+                    predicted a gloomy future for the West.</p>
+                <p>Bush rejected such pessimism, as it contrasted with developments in the
+                    international political system. Soviet General Secretary Mikhail Gorbachev’s
+                    comprehensive reforms spoke to mankind’s universal yearning to live in an open
+                    society. Chinese Chairman Deng Xiaoping’s economic reforms demonstrated the
+                    intellectual bankruptcy of communism. The ascent of democratic governments in
+                    the Philippines and Chile indicated that right-wing authoritarian regimes—as
+                    opposed to left-wing totalitarian ones—could in fact evolve into democracies.
+                    And the stirrings of liberty in Poland and Hungary offered tremendous
+                    opportunity to pierce the Iron Curtain.</p>
+                <p>Bush appointed as Secretary of State his best friend, James A. Baker, who in turn
+                    chose career foreign service officer Lawrence Eagleburger as his deputy. Another
+                    close associate, Lieutenant General Brent Scowcroft, became Assistant to the
+                    President for National Security Affairs, a position he had held in the
+                    administration of President Gerald Ford. Scowcroft chose as his deputy Robert
+                    Gates, a career employee of the Central Intelligence Agency who had served on
+                    the National Security Council (NSC) under both Scowcroft and Brzezinski. Yet
+                    another veteran of the Ford administration, Congressman Richard Cheney, became
+                    Secretary of Defense after the Tower nomination debacle. With the addition of
+                    General Colin Powell, Reagan’s last national security adviser who became
+                    Chairman of the Joint Chiefs of Staff in October 1989, these individuals formed
+                    the core of the Bush foreign policy team and would all serve in some capacity
+                    for the entirety of the administration. They, in turn, assembled a roster of
+                    staffers who prided themselves on working in relative harmony with
+                    interdepartmental counterparts. These included Robert Blackwill, Condoleezza
+                    Rice, Philip Zelikow, Robert Hutchings, and Richard Haass at the NSC; Robert
+                    Zoellick, Dennis Ross, Robert Kimmett, and William Burns at the Department of
+                    State; and Paul Wolfowitz at the Department of Defense.</p>
+                <p>Presiding over this operation, Bush valued teamwork and loyalty. He extolled
+                    prudence and pragmatism, and did not entertain romantic visions such as a shield
+                    that could make nuclear weapons obsolete. Over time, he and his administration
+                    would strive to build what he termed in his September 11, 1991, address before a
+                    joint session of congress on the Persian Gulf Crisis and federal budget deficit,
+                    a “new world order,” one “freer from the threat of terror, stronger in the
+                    pursuit of justice, and more secure in the quest for peace.”</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="apartheid" ana="south-africa">
+                <head>The End of Apartheid</head>
+                <p>Apartheid, the Afrikaans name given by the white-ruled <placeName>South
+                        Africa</placeName>’s Nationalist Party in 1948 to the country’s harsh,
+                    institutionalized system of racial segregation, came to an end in the early
+                    1990s in a series of steps that led to the formation of a democratic government
+                    in 1994. Years of violent internal protest, weakening white commitment,
+                    international economic and cultural sanctions, economic struggles, and the end
+                    of the Cold War brought down white minority rule in Pretoria. U.S. policy toward
+                    the regime underwent a gradual but complete transformation that played an
+                    important conflicting role in Apartheid’s initial survival and eventual
+                    downfall.</p>
+                <figure>
+                    <graphic url="apartheid.jpg" height="450px" width="317px"/>
+                    <head>F.W. de Klerk shakes hands with Nelson Mandela at the end of the talks
+                        between the Government and anti-apartheid groups to end white-minority rule.
+                        (AP Photo/ John Parkin)</head>
+                </figure>
+                <p>Although many of the segregationist policies dated back to the early decades of
+                    the twentieth century, it was the election of the Nationalist Party in 1948 that
+                    marked the beginning of legalized racism’s harshest features called Apartheid.
+                    The Cold War then was in its early stages. U.S. President Harry Truman’s
+                    foremost foreign policy goal was to limit Soviet expansion. Despite supporting a
+                    domestic civil rights agenda to further the rights of black people in the United
+                    States, the Truman Administration chose not to protest the anti-communist South
+                    African government’s system of Apartheid in an effort to maintain an ally
+                    against the Soviet Union in southern Africa. This set the stage for successive
+                    administrations to quietly support the Apartheid regime as a stalwart ally
+                    against the spread of communism.</p>
+                <p>Inside South Africa, riots, boycotts, and protests by black South Africans
+                    against white rule had occurred since the inception of independent white rule in
+                    1910. Opposition intensified when the Nationalist Party, assuming power in 1948,
+                    effectively blocked all legal and non-violent means of political protest by
+                    non-whites. The African National Congress (ANC) and its offshoot, the Pan
+                    Africanist Congress (PAC), both of which envisioned a vastly different form of
+                    government based on majority rule, were outlawed in 1960 and many of its leaders
+                    imprisoned. The most famous prisoner was a leader of the ANC, <persName>Nelson
+                        Mandela</persName>, who had become a symbol of the anti-Apartheid struggle.
+                    While Mandela and many political prisoners remained incarcerated in South
+                    Africa, other anti-Apartheid leaders fled South Africa and set up headquarters
+                    in a succession of supportive, independent African countries, including Guinea,
+                    Tanzania, Zambia, and neighboring Mozambique where they continued the fight to
+                    end Apartheid. It was not until the 1980s, however, that this turmoil
+                    effectively cost the South African state significant losses in revenue,
+                    security, and international reputation.</p>
+                <p>The international community had begun to take notice of the brutality of the
+                    Apartheid regime after white South African police opened fire on unarmed black
+                    protesters in the town of Sharpeville in 1960, killing 69 people and wounding
+                    186 others. The United Nations led the call for sanctions against the South
+                    African Government. Fearful of losing friends in Africa as de-colonization
+                    transformed the continent, powerful members of the Security Council, including
+                    Great Britain, France, and the United States, succeeded in watering down the
+                    proposals. However, by the late 1970s, grassroots movements in Europe and the
+                    United States succeeded in pressuring their governments into imposing economic
+                    and cultural sanctions on Pretoria. After the U.S. Congress passed the
+                    Comprehensive Anti-Apartheid Act in 1986, many large multinational companies
+                    withdrew from South Africa. By the late 1980s, the South African economy was
+                    struggling with the effects of the internal and external boycotts as well as the
+                    burden of its military commitment in occupying Namibia.</p>
+                <p>Defenders of the Apartheid regime, both inside and outside South Africa, had
+                    promoted it as a bulwark against communism. However, the end of the Cold War
+                    rendered this argument obsolete. South Africa had illegally occupied neighboring
+                    Namibia at the end of World War II, and since the mid-1970s, Pretoria had used
+                    it as a base to fight the communist party in Angola. The United States had even
+                    supported the South African Defense Force’s efforts in Angola. In the 1980s,
+                    hard-line anti-communists in Washington continued to promote relations with the
+                    Apartheid government despite economic sanctions levied by the U.S. Congress.
+                    However, the relaxation of Cold War tensions led to negotiations to settle the
+                    Cold War conflict in Angola. Pretoria’s economic struggles gave the Apartheid
+                    leaders strong incentive to participate. When South Africa reached a
+                    multilateral agreement in 1988 to end its occupation of Namibia in return for a
+                    Cuban withdrawal from Angola, even the most ardent anti-communists in the United
+                    States lost their justification for support of the Apartheid regime.</p>
+                <p>The effects of the internal unrest and international condemnation led to dramatic
+                    changes beginning in 1989. South African Prime Minister <persName>P.W.
+                        Botha</persName> resigned after it became clear that he had lost the faith
+                    of the ruling National Party (NP) for his failure to bring order to the country.
+                    His successor, <persName>F W de Klerk</persName>, in a move that surprised
+                    observers, announced in his opening address to Parliament in February 1990 that
+                    he was lifting the ban on the ANC and other black liberation parties, allowing
+                    freedom of the press, and releasing political prisoners. The country waited in
+                    anticipation for the release of Nelson Mandela who walked out of prison after 27
+                    years on February 11, 1990.</p>
+                <p>The impact of Mandela’s release reverberated throughout South Africa and the
+                    world. After speaking to throngs of supporters in Cape Town where he pledged to
+                    continue the struggle, but advocated peaceful change, Mandela took his message
+                    to the international media. He embarked on a world tour culminating in a visit
+                    to the United States where he spoke before a joint session of Congress.</p>
+                <p>After Prime Minister de Klerk agreed to democratic elections for the country, the
+                    United States lifted sanctions and increased foreign aid, and many of the U.S.
+                    companies who disinvested in the 1980s returned with new investments and joint
+                    ventures. In April 1994, <persName>Nelson Mandela</persName> was elected as
+                    South Africa’s first black president.</p>
+            </div>
+            <div type="section" xml:id="apec" ana="clinton-bill australia">
+                <head>Asia Pacific Economic Cooperation (APEC), <date when="1989">1989</date>
+                </head>
+                <p>Asia Pacific Economic Cooperation, or APEC, was formed in 1989 in Australia as an
+                    informal forum in which member nations could discuss free trade and economic
+                    cooperation along the Pacific Rim. From the perspective of the United States, it
+                    has been a crucial institution for economic engagement within the region.</p>
+                <figure>
+                    <graphic url="apec.jpg" height="450px" width="284px"/>
+                    <head>On the red carpet at the garden of the Osaka Guest House, leaders of the
+                        18-nation Asia Pacific Economic Cooperation forum line up for a group photo
+                        session. (AP Photo/Koji Sasahara)</head>
+                </figure>
+                <p>APEC was one of many multilateral trade organizations that emerged in the
+                    post-Cold War era. As the bipolarity of the Cold War came to an end, the new
+                    world order was marked in part by increasing globalization and the growth of
+                    regional trading blocs. The <placeName>United States</placeName> took a leading
+                    role in defining this new world order in which free trade and multilateral
+                    organizations played an essential role. Although it assisted in the formation of
+                    APEC, the U.S. Government played an even greater role in the creation of the
+                    North American Free Trade Association (NAFTA) and the World Trade Organization
+                    (WTO). All these organizations were based on identifying shared economic goals
+                    and methods, but did not rely upon binding agreements, so states could continue
+                    to act in their own interests. These entities aimed to eliminate trade barriers
+                    and help states consider regional issues when making economic policy.</p>
+                <p>Although the countries bordering the Pacific Ocean were extremely diverse in
+                    terms of linguistic, cultural and ethnic backgrounds, they shared rapidly
+                    developing economic power and common economic interests. Recognizing this, a
+                    number of countries in the region began to discuss the creation of a regional
+                    organization that would promote free trade and further economic integration in
+                    the hope that such a move would benefit the entire region. The resulting
+                    organization, APEC, brought together developed and developing economies and
+                    promoted the idea of a regional Pacific Rim identity in an effort to increase
+                    Pacific-wide cooperation.</p>
+                <p>Since 1989, APEC has expanded from its original 12 members to include 21 member
+                    economies. The founding members were Australia, Brunei Darussalam, Canada,
+                    Indonesia, Japan, the Republic of Korea, Malaysia, New Zealand, the Philippines,
+                    Singapore, Thailand and the United States. In 1991, the <placeName>People’s
+                        Republic of China</placeName>, <placeName>Hong Kong</placeName> and Chinese
+                    Taipei joined the forum. Over the course of the 1990s, Chile, Mexico, Papua New
+                    Guinea, Peru and Russia entered the organization. Together, the member economies
+                    of APEC account for a substantial proportion of world economic activity.</p>
+                <p>During its first five years of operation, APEC established its core objectives.
+                    In the 1991 Seoul Declaration, APEC member economies proclaimed the creation of
+                    a liberalized free trade area around the Pacific Rim as the principle objective
+                    of the organization. A 1994 meeting held in Bogor, Indonesia set as the
+                    organization’s goal the achievement of “free and open trade and investment” for
+                    the region, establishing 2010 as the target date for developed economies and
+                    2020 for developing ones. Each subsequent annual meeting has addressed the
+                    implementation of the Bogor Goals along with pertinent issues for the economic
+                    and security interests of the member economies. The topics that may be addressed
+                    at annual meetings are not proscribed, but the focus tends to be on trade
+                    liberalization, promoting business, and economic cooperation.</p>
+                <p>The United States has long been an active participant in the activities of APEC.
+                    In 1993 in Seattle, Washington, President <persName>Bill Clinton</persName>
+                    hosted what became the first annual meeting of member economies—ministers and
+                    economic leaders. This act displayed the U.S. commitment to working with APEC
+                    member economies to achieve freer trade in the region. Since that time the
+                    United States has maintained a high level of engagement with this key
+                    organization.</p>
+            </div>
+            <div type="section" xml:id="fall-of-communism" ana="bush-george-h-w baker-james-addison eagleburger-lawrence-sidney bulgaria czech-republic germany hungary malta poland romania russia border-administration elections self-determination diplomatic-recognition">
+                <head>Fall of Communism in Eastern Europe, <date when="1989">1989</date>
+                </head>
+                <p>On November 9, 1989, thousands of jubilant Germans brought down the most visible
+                    symbol of division at the heart of Europe—the Berlin Wall. For two generations,
+                    the Wall was the physical representation of the Iron Curtain, and East German
+                    border guards had standing shoot-to-kill orders against those who tried to
+                    escape. But just as the Wall had come to represent the division of Europe, its
+                    fall came to represent the end of the Cold War. In the White House, President
+                    George H. W. Bush and his National Security Advisor, Brent Scowcroft, watched
+                    the unfolding scene on a television in the study, aware of both the historical
+                    significance of the moment and of the challenges for U.S. foreign policy that
+                    lay ahead.</p>
+                <figure>
+                    <graphic url="berlin-wall.jpg" height="400px" width="401px"/>
+                    <head>Germans celebrating the fall of the Berlin Wall on November 10, 1989. (AP
+                        Photo/File) </head>
+                </figure>
+                <p>Not even the most optimistic observer of President’s Ronald Reagan’s 1987 Berlin
+                    speech calling on Soviet General Secretary Mikhail Gorbachev to “tear down this
+                    wall” would have imagined that two years later the communist regimes of Eastern
+                    Europe would collapse like dominoes. By 1990, the former communist leaders were
+                    out of power, free elections were held, and Germany was whole again.</p>
+                <p>The peaceful collapse of the regimes was by no means pre-ordained. Soviet tanks
+                    crushed demonstrators in East Berlin in June 1953, in Hungary in 1956, and again
+                    in Czechoslovakia in 1968. Soviet military planners were intimately involved in
+                    the Polish planning for martial law in 1980, and Soviet troops remained
+                    stationed throughout Eastern Europe, as much a guarantee for Soviet security as
+                    an ominous reminder to Eastern European peoples of Soviet dominance over their
+                    countries. </p>
+                <p>The Reagan administration’s strong rhetoric in support of the political
+                    aspirations of Eastern European and Soviet citizens was met, following 1985,
+                    with a new type of leader in the Soviet Union. Mikhail Gorbachev’s policies of
+                        <hi rend="italic">perestroika</hi> (restructuring) and <hi rend="italic">glasnost</hi> (transparency) further legitimized popular calls for reform
+                    from within. Gorbachev also made clear—at first secretly to the Eastern European
+                    leaders, then increasingly more public—that the Soviet Union had abandoned the
+                    policy of military intervention in support of communist regimes (the Brezhnev
+                    Doctrine).</p>
+                <p>On February 6, 1989, negotiations between the Polish Government and members of
+                    the underground labor union Solidarity opened officially in Warsaw. Solidarity
+                    was formed in August 1980 following a series of strikes that paralyzed the
+                    Polish economy. The 1981 Soviet-inspired imposition of martial law drove the
+                    organization underground, where it survived due to support from Western labor
+                    organizations and Polish émigré groups. The results of the “Round Table Talks,”
+                    signed by government and Solidarity representatives on April 4, included free
+                    elections for 35% of the Parliament (<hi rend="italic">Sejm</hi>), free
+                    elections for the newly created Senate, a new office of the President, and the
+                    recognition of Solidarity as a political party. On June 4, as Chinese tanks
+                    crushed student-led protests in Beijing, Solidarity delivered a crushing
+                    electoral victory. By August 24, ten years after Solidarity emerged on the
+                    scene, Tadeusz Mazowiecki became the first non-communist Prime Minister in
+                    Eastern Europe.</p>
+                <p>In Hungary, drastic changes were also under way. The government, already the most
+                    liberal of the communist governments, allowed free association and assembly and
+                    ordered opening of the country’s border with the West. In doing so, it provided
+                    an avenue to escape for an ever-increasing number of East Germans. The Hungarian
+                    Party removed its long-time leader, Janos Kadar, agreed to its own version of
+                    the Round Table talks with the opposition, and, on June 16, ceremoniously
+                    re-interred Imre Nagy, the reformist communist leader of the 1956 Hungarian
+                    Revolution. By October 23, ten months after political reforms began, Hungary
+                    adopted a new constitution allowing a multi-party system and competitive
+                    elections.</p>
+                <p>The economic collapse of East Germany led increasing numbers of East Germans to
+                    seek to emigrate to the West. Thousands sought refuge in West German embassies
+                    in other communist countries, eventually forcing the government to allow them to
+                    emigrate via special trains. Visiting Berlin in early October, Gorbachev
+                    cautioned the East German leadership of the need to reform, and confided in his
+                    advisors that East German leader Erich Honecker had to be replaced. Two weeks
+                    later, Honecker was forced to resign, while hundreds of thousands marched in
+                    protest throughout major East German cities. On November 9, as the world watched
+                    on television, the East German Government announced the opening of all East
+                    German borders. In a fluid situation, the Berlin Wall came down when an
+                    obviously ill-prepared East German spokesman told reporters that the new travel
+                    regulations also applied to Berlin. Before the end of the month, West German
+                    Chancellor Helmut Kohl unveiled a plan for reunification of the two
+                    Germanies.</p>
+                <p>As the Wall came down and the fears of a Soviet reaction receded, the dominoes
+                    started falling at a quickened pace. In October, riot police arrested hundreds
+                    in Prague after an unsanctioned demonstration; only weeks later, hundreds of
+                    thousands gathered in Prague to protest the government. Alexander Dubcek, the
+                    reformist communist who led the Prague Spring in 1968, made his first public
+                    appearance in over two decades. A new, non-communist government took the
+                    country’s reins on December 5, and on December 29, Vaclav Havel, the famed
+                    playwright and dissident, was elected President. In Bulgaria, protests lead to
+                    the removal of Todor Zhivkov, the long-time leader of the Bulgarian Communist
+                    Party, and his replacement with reformist communist, Petar Mladenov. The new
+                    government quickly announced that the government would hold free elections in
+                    1990.</p>
+                <p>Only in Romania did the events turn violent. Nicolae Ceausescu, an increasingly
+                    idiosyncratic relic of Stalinist times, refused any reforms. On December 17 in
+                    Timisoara, the army and police fired into crowds protesting government policies,
+                    killing dozens. Protests spread to other cities, with hundreds killed when
+                    Ceausescu ordered the violent repression of demonstrations on December 21. By
+                    the next day, Ceausescu was forced to flee Bucharest and was arrested by army
+                    units in the countryside. The interim government, led by a reformist communist
+                    Ion Iliescu, held a quick mock trial and Ceausescu and his wife were executed on
+                    December 25.</p>
+                <p>By the summer of 1990, all of the former communist regimes of Eastern Europe were
+                    replaced by democratically elected governments. In Poland, Hungary, East Germany
+                    and Czechoslovakia, newly formed center-right parties took power for the first
+                    time since the end of World War II. In Bulgaria and Romania, reformed communists
+                    retained control of the governments, but new center-right parties entered
+                    Parliaments and became active on the political scene. The course was set for the
+                    reintegration of Eastern Europe into Western economic, political, and security
+                    frameworks. Writing in his journal on November 10, 1989, Anatoly Chernyaev,
+                    foreign policy advisor to Gorbachev noted that the fall of the wall represented
+                    “a shift in the world balance of forces” and the end of Yalta.</p>
+                <p>Meeting in Malta on December 2, Bush and Gorbachev “buried the Cold War at the
+                    bottom of the Mediterranean” as one of Gorbachev’s staffers later described. In
+                    his memoirs, Bush noted that the rapport he built with Gorbachev at that meeting
+                    would prove beneficial later on. And while Scowcroft did not yet feel the Cold
+                    War was over, he noted that U.S. policy at the time evolved, “from quietly
+                    supporting the transformations to cultivating Soviet acquiescence, even
+                    collaboration, in them.”</p>
+            </div>
+            <div type="section" xml:id="collapse-soviet-union" ana="bush-george-h-w baker-james-addison estonia georgia latvia lithuania russia ukraine arms-control-and-disarmament nuclear-nonproliferation nuclear-weapons">
+                <head>The Collapse of the Soviet Union</head>
+                <p>After his inauguration in January 1989, <persName>George H.W. Bush</persName> did
+                    not automatically follow the policy of his predecessor, <persName>Ronald
+                        Reagan</persName>, in dealing with <persName>Mikhail Gorbachev</persName>
+                    and the Soviet Union. Instead, he ordered a strategic policy re-evaluation in
+                    order to establish his own plan and methods for dealing with the Soviet Union
+                    and arms control.</p>
+                <figure>
+                    <graphic url="collapse-soviet-union.jpg" height="450px" width="361px"/>
+                    <head>Boris Yeltsin makes a speech from atop a tank in front of the Russian
+                        parliament building in Moscow, U.S.S.R., Monday, Aug. 19, 1991. (AP Photo)
+                    </head>
+                </figure>
+                <p>Conditions in Eastern Europe and the Soviet Union, however, changed rapidly.
+                    Gorbachev’s decision to loosen the Soviet yoke on the countries of Eastern
+                    Europe created an independent, democratic momentum that led to the collapse of
+                    the Berlin Wall in November 1989, and then the overthrow of Communist rule
+                    throughout Eastern Europe. While Bush supported these independence movements,
+                    U.S. policy was reactive. Bush chose to let events unfold organically, careful
+                    not to do anything to worsen Gorbachev’s position.</p>
+                <p>With the policy review complete, and taking into account unfolding events in
+                    Europe, Bush met with Gorbachev at Malta in early December 1989. They laid the
+                    groundwork for finalizing START negotiations, completing the Conventional Forces
+                    in Europe treaty, and they discussed the rapid changes in Eastern Europe. Bush
+                    encouraged Gorbachev’s reform efforts, hoping that the Soviet leader would
+                    succeed in shifting the USSR toward a democratic system and a market oriented
+                    economy.</p>
+                <p>Gorbachev’s decision to allow elections with a multi-party system and create a
+                    presidency for the Soviet Union began a slow process of democratization that
+                    eventually destabilized Communist control and contributed to the collapse of the
+                    Soviet Union. Following the May 1990 elections, Gorbachev faced conflicting
+                    internal political pressures: Boris Yeltsin and the pluralist movement advocated
+                    democratization and rapid economic reforms while the hard-line Communist elite
+                    wanted to thwart Gorbachev’s reform agenda.</p>
+                <p>Facing a growing schism between Yeltsin and Gorbachev, the Bush administration
+                    opted to work primarily with Gorbachev because they viewed him as the more
+                    reliable partner and because he made numerous concessions that promoted U.S.
+                    interests. Plans proceeded to sign the START agreement. With the withdrawal of
+                    Red Army troops from East Germany, Gorbachev agreed to German reunification and
+                    acquiesced when a newly reunited Germany joined NATO. When Saddam Hussein
+                    invaded Kuwait, the United States and the Soviet leadership worked together
+                    diplomatically to repel this attack.</p>
+                <p>Yet for all of those positive steps on the international stage, Gorbachev’s
+                    domestic problems continued to mount. Additional challenges to Moscow’s control
+                    placed pressure on Gorbachev and the Communist party to retain power in order to
+                    keep the Soviet Union intact. After the demise of Communist regimes in Eastern
+                    Europe, the Baltic States and the Caucasus demanded independence from Moscow. In
+                    January 1991, violence erupted in Lithuania and Latvia. Soviet tanks intervened
+                    to halt the democratic uprisings, a move that Bush resolutely condemned.</p>
+                <p>By 1991, the Bush administration reconsidered policy options in light of the
+                    growing level of turmoil within the Soviet Union. Three basic options presented
+                    themselves. The administration could continue to support Gorbachev in hopes of
+                    preventing Soviet disintegration. Alternately, the United States could shift
+                    support to Yeltsin and the leaders of the Republics and provide support for a
+                    controlled restructuring or possible breakup of the Soviet Union. The final
+                    option consisted of lending conditional support to Gorbachev, leveraging aid and
+                    assistance in return for more rapid and radical political and economic reforms. </p>
+                <p>Unsure about how much political capital Gorbachev retained, Bush combined
+                    elements of the second and third options. The Soviet nuclear arsenal was vast,
+                    as were Soviet conventional forces, and further weakening of Gorbachev could
+                    derail further arms control negotiations. To balance U.S. interests in relation
+                    to events in the Soviet Union, and in order to demonstrate support for
+                    Gorbachev, Bush signed the START treaty at the Moscow Summit in July 1991. Bush
+                    administration officials also, however, increased contact with Yeltsin.</p>
+                <p>The unsuccessful August 1991 coup against Gorbachev sealed the fate of the Soviet
+                    Union. Planned by hard-line Communists, the coup diminished Gorbachev’s power
+                    and propelled Yeltsin and the democratic forces to the forefront of Soviet and
+                    Russian politics. Bush publicly condemned the coup as “extra-constitutional,”
+                    but Gorbachev’s weakened position became obvious to all. He resigned his
+                    leadership as head of the Communist party shortly thereafter—separating the
+                    power of the party from that of the presidency of the Soviet Union. The Central
+                    Committee was dissolved and Yeltsin banned party activities. A few days after
+                    the coup, Ukraine and Belarus declared their independence from the Soviet Union.
+                    The Baltic States, which had earlier declared their independence, sought
+                    international recognition.</p>
+                <p>Amidst quick, dramatic changes across the landscape of the Soviet Union, Bush
+                    administration officials prioritized the prevention of nuclear catastrophe, the
+                    curbing of ethnic violence, and the stable transition to new political orders.
+                    On September 4, 1991, Secretary of State James Baker articulated five basic
+                    principles that would guide U.S. policy toward the emerging republics:
+                    self-determination consistent with democratic principles, recognition of
+                    existing borders, support for democracy and rule of law, preservation of human
+                    rights and rights of national minorities, and respect for international law and
+                    obligations. The basic message was clear—if the new republics could follow these
+                    principles, they could expect cooperation and assistance from the United States.
+                    Baker met with Gorbachev and Yeltsin in an attempt to shore up the economic
+                    situation and develop some formula for economic cooperation between the
+                    republics and Russia, as well as to determine ways to allow political reforms to
+                    occur in a regulated and peaceful manner. In early December, Yeltsin and the
+                    leaders of Ukraine and Belarus met in Brest to form the Commonwealth of
+                    Independent States (CIS), effectively declaring the demise of the Soviet
+                    Union.</p>
+                <p>On December 25, 1991, the Soviet hammer and sickle flag lowered for the last time
+                    over the Kremlin, thereafter replaced by the Russian tricolor. Earlier in the
+                    day, Mikhail Gorbachev resigned his post as president of the Soviet Union,
+                    leaving Boris Yeltsin as president of the newly independent Russian state.
+                    People all over the world watched in amazement at this relatively peaceful
+                    transition from former Communist monolith into multiple separate nations.</p>
+                <p>With the dissolution of Soviet Union, the main goal of the Bush administration
+                    was economic and political stability and security for Russia, the Baltics, and
+                    the states of the former Soviet Union. Bush recognized all 12 independent
+                    republics and established diplomatic relations with Russia, Ukraine, Belarus,
+                    Kazakhstan, Armenia and Kyrgyzstan. In February 1992, Baker visited the
+                    remaining republics and diplomatic relations were established with Uzbekistan,
+                    Moldova, Azerbaijan, Turkmenistan, and Tajikistan. Civil war in Georgia
+                    prevented its recognition and the establishment of diplomatic relations with the
+                    United States until May 1992. Yeltsin met with Bush at Camp David in February
+                    1992, followed by a formal state visit to Washington in June. Leaders from
+                    Kazakhstan and Ukraine visited Washington in May 1992.</p>
+                <p>During his visits to Washington, politics, economic reforms, and security issues
+                    dominated the conversations between Yeltsin and Bush. Of paramount concern was
+                    securing the nuclear arsenal of the former Soviet Union and making certain
+                    nuclear weapons did not fall into the wrong hands. Baker made it clear that
+                    funding was available from the United States to secure nuclear, chemical and
+                    biological weapons in the former Soviet Union. The Nunn-Lugar Act established
+                    the Cooperative Threat Reduction Program in November 1991 to fund the
+                    dismantling of weapons in the former Soviet Union, in accordance with the START
+                    and INF Treaties and other agreements. Bush and Baker also worked with Yeltsin
+                    and international organizations like the World Bank and IMF to provide financial
+                    assistance and hopefully prevent a humanitarian crisis in Russia.</p>
+            </div>
+            <div type="section" xml:id="breakup-yugoslavia" ana="bosnia-and-herzegovina croatia kosovo macedonia montenegro serbia slovenia bush-george-h-w baker-james-addison">
+                <head>The Breakup of Yugoslavia, 1990–1992</head>
+                <p>Issued on October 18, 1990, National Intelligence Estimate (NIE) 15–90 presented
+                    a dire warning to the U.S. policy community:</p>
+                <p>
+                    <hi rend="italic">Yugoslavia will cease to function as a federal state within a
+                        year, and will probably dissolve within two. Economic reform will not stave
+                        off the breakup. [...] A full-scale interrepublic war is unlikely, but
+                        serious intercommunal conflict will accompany the breakup and will continue
+                        afterward. The violence will be intractable and bitter. There is little the
+                        United States and its European allies can do to preserve Yugoslav
+                        unity.</hi>
+                </p>
+                <figure>
+                    <graphic url="yugoslavia.jpg" height="450px" width="469px"/>
+                    <head>1993 map of the former Yugoslavia. (Central Intelligence Agency)</head>
+                </figure>
+                <p>The October 1990 judgment of the U.S. intelligence community, as Thomas Shreeve
+                    noted in his 2003 study on NIE 15–90 for the National Defense University, “was
+                    analytically sound, prescient, and well written. It was also fundamentally
+                    inconsistent with what US policymakers wanted to happen in the former
+                    Yugoslavia, and it had almost no impact on US policy.” By January 1992, the
+                    Socialist Federal Republic of Yugoslavia ceased to exist, having dissolved into
+                    its constituent states.</p>
+                <p>Yugoslavia—the land of South (i.e. Yugo) Slavs—was created at the end of World
+                    War I when Croat, Slovenian, and Bosnian territories that had been part of the
+                    Austro-Hungarian Empire united with the Serbian Kingdom. The country broke up
+                    under Nazi occupation during World War II with the creation of a Nazi-allied
+                    independent Croat state, but was reunified at the end of the war when the
+                    communist-dominated partisan force of Josip Broz Tito liberated the country.
+                    Following the end of World War II, Yugoslavian unity was a top priority for the
+                    U.S. Government. While ostensibly a communist state, Yugoslavia broke away from
+                    the Soviet sphere of influence in 1948, became a founding member of the
+                    Non-Aligned Movement in 1961, and adopted a more de-centralized and less
+                    repressive form of government as compared with other East European communist
+                    states during the Cold War.</p>
+                <p>The varied reasons for the country’s breakup ranged from the cultural and
+                    religious divisions between the ethnic groups making up the nation, to the
+                    memories of WWII atrocities committed by all sides, to centrifugal nationalist
+                    forces. However, a series of major political events served as the catalyst for
+                    exacerbating inherent tensions in the Yugoslav republic. Following the death of
+                    Tito in 1980, provisions of the 1974 constitution provided for the effective
+                    devolution of all real power away from the federal government to the republics
+                    and autonomous provinces in Serbia by establishing a collective presidency of
+                    the eight provincial representatives and a federal government with little
+                    control over economic, cultural, and political policy. External factors also had
+                    a significant impact. The collapse of communism in Eastern Europe in 1989, the
+                    unification of Germany one year later, and the imminent collapse of the Soviet
+                    Union all served to erode Yugoslavia’s political stability. As Eastern European
+                    states moved away from communist government and toward free elections and market
+                    economies, the West’s attention focused away from Yugoslavia and undermined the
+                    extensive economic and financial support necessary to preserve a Yugoslav
+                    economy already close to collapse. The absence of a Soviet threat to the
+                    integrity and unity of Yugoslavia and its constituent parts meant that a
+                    powerful incentive for unity and cooperation was removed.</p>
+                <p>Slobodan Milosevic, Serbia’s president from 1989, took advantage of the vacuum
+                    created by a progressively weakening central state and brutally deployed the use
+                    of Serbian ultra-nationalism to fan the flames of conflict in the other
+                    republics and gain legitimacy at home. Milosevic started as a banker in Belgrade
+                    and became involved in politics in the mid-1980s. He rose quickly through the
+                    ranks to become head of the Serbian Communist Party in 1986. While attending a
+                    party meeting in the Albanian-dominated province of Kosovo in May 1987, Serbians
+                    in the province rioted outside the meeting hall. Milosevic spoke with the
+                    rioters and listened to their complaints of mistreatment by the Albanian
+                    majority. His actions were extensively reported by Serbian-controlled Yugoslav
+                    mass media, beginning the process of transforming the former banker into the
+                    stalwart symbol of Serbian nationalism. Having found a new source of legitimacy,
+                    Milosevic quickly shored up his power in Serbia through control of the party
+                    apparatus and the press. He moved to strip the two autonomous provinces of
+                    Kosovo and Vojvodina of their constitutionally-guaranteed autonomy within Serbia
+                    by using mass rallies to force the local leaderships to resign in favor of his
+                    own preferred candidates. By mid-1989 Kosovo and Vojvodina had been reintegrated
+                    into Serbia, and the Montenegro leadership was replaced by Milosevic allies.</p>
+                <p>The ongoing effects of democratization in Eastern Europe were felt throughout
+                    Yugoslavia. As Milosevic worked to consolidate power in Serbia, elections in
+                    Slovenia and Croatia in 1990 gave non-communist parties control of the state
+                    legislatures and governments. Slovenia was the first to declare “sovereignty” in
+                    1990, issuing a parliamentary declaration that Slovenian law took precedence
+                    over Yugoslav law. Croatia followed in May, and in August, the Yugoslav republic
+                    of Bosnia-Herzegovina also declared itself sovereign. Slovenia and Croatia began
+                    a concerted effort to transform Yugoslavia from a federal state to a
+                    confederation. With the administration of George H. W. Bush focused primarily on
+                    the Soviet Union, Germany, and the crisis in the Persian Gulf, Yugoslavia had
+                    lost the geostrategic importance it enjoyed during the Cold War. While
+                    Washington attempted during the summer of 1990 to marshal some limited
+                    coordination with its Western allies in case the Yugoslav crisis turned bloody,
+                    Western European governments maintained a wait-and-see attitude. At the same
+                    time, inter-republic relations in Yugoslavia spiraled out of control. Slovenia
+                    overwhelmingly voted for independence in December 1990. A Croatian referendum in
+                    May 1991 also supported full independence. Secretary of State James Baker
+                    traveled to Belgrade to meet with Yugoslav leaders and urge a political solution
+                    to no avail. Slovenia and Croatia both declared formal independence on June 25,
+                    1991.</p>
+                <p>The Yugoslav army (JNA) briefly intervened in Slovenia, but it withdrew after 10
+                    days, effectively confirming Slovenia’s separation. The Serb minority in Croatia
+                    declared its own independence from the republic and its desire to join Serbia,
+                    sparking violence between armed militias. The JNA intervened in the conflict
+                    ostensibly to separate the combatants, but it became quickly apparent that it
+                    favored the Croatian-Serbs. The war that followed devastated Croatia, resulting
+                    in tens of thousands dead, and hundreds of thousands of people displaced. In
+                    Bosnia-Herzegovina, a referendum on independence took place in March 1992, but
+                    was boycotted by the Serb minority. The republic declared its independence from
+                    Yugoslavia in May 1992, while the Serbs in Bosnia declared their own areas an
+                    independent republic. Macedonia itself also declared independence following a
+                    September 1991 referendum, and a U.S. peacekeeping and monitoring force was
+                    dispatched to the border with Serbia to monitor violence.</p>
+                <p>Croatia and Slovenia were internationally recognized in January 1992, with
+                    Bosnia’s independence recognized soon thereafter. The three countries joined the
+                    United Nations on May 22, 1992. Serbia and Montenegro formed a new Federal
+                    Republic of Yugoslavia as a successor state to old Yugoslavia, but the
+                    international community did not recognize its successor claim. Over the next
+                    three years, the war in Bosnia and Herzegovina claimed hundreds of thousands of
+                    lives and displaced millions from their homes, as Europe witnessed the most
+                    horrific fighting on its territory since the end of World War II. In 1998–1999,
+                    violence erupted again in Kosovo, with the province’s majority Albanian
+                    population calling for independence from Serbia. A NATO bombing campaign and
+                    economic sanctions forced the Milosevic regime to accept a NATO-led
+                    international peace keeping force. The province was placed under U.N.
+                    administrative mandate. With the economy crumbling, Milosevic lost his grip on
+                    power in 2001, was arrested, and turned over to the International Crimes
+                    Tribunal in The Hague. He died in prison in 2006, before his trial concluded. In
+                    2008, Kosovo declared independence and was recognized by the United States and
+                    most European states, despite Russian objections.</p>
+            </div>
+            <div type="section" xml:id="tiananmen-square" ana="china arms-embargoes economic-sanctions human-rights">
+                <head>Tiananmen Square, 1989</head>
+                <p>The establishment of formal diplomatic relations between the United States and
+                    the People’s Republic of China in 1979, together with Chinese Vice Premier Deng
+                    Xiaoping’s economic reforms, inaugurated a decade of vibrant cultural exchange
+                    and expanding economic ties between the two countries. However, the Chinese
+                    Government’s violent suppression of demonstrations in Tiananmen Square on June
+                    4, 1989, cooled U.S.-Chinese relations considerably. To the present day, the
+                    Department of State marks the anniversary of the suppression by issuing a
+                    statement calling on the Chinese Government to end harassment of those who
+                    participated in the protests and to fully account for those killed, detained, or
+                    missing.</p>
+                <figure>
+                    <graphic url="tianamen-square.jpg" height="450px" width="292px"/>
+                    <head>A Chinese man stands alone to block a line of tanks heading east on
+                        Beijing’s Chang’an Blvd. in Tiananmen Square. (AP Photo/Jeff Widener,
+                        File)</head>
+                </figure>
+                <p>The demonstrations began on April 15, when Chinese students gathered in Beijing’s
+                    Tiananmen Square, where so many student and mass demonstrations had taken place
+                    since the early 20th century, to mark the death of the popular pro-reform
+                    Chinese leader Hu Yaobang. The demonstration became a forum to protest
+                    corruption and inflation, and call for broader political and economic reforms to
+                    build on the reforms that had already transformed China considerably in the
+                    post-Mao era. </p>
+                <p>The Chinese leadership was divided on how to handle the demonstrations. As the
+                    numbers of protesters swelled to the tens of thousands, some leaders who saw the
+                    protests as a direct challenge to Communist Party rule labeled the demonstrators
+                    “counter-revolutionary” in an April 26 editorial in the government-run <hi rend="italic">People’s Daily</hi> newspaper. Other officials sympathetic to
+                    the protestors’ demands for political reform favored a conciliatory approach, as
+                    represented by General Secretary of the Communist Party Zhao Ziyang’s visit with
+                    protestors on May 4 to hear and acknowledge their concerns.</p>
+                <p>Soviet General Secretary Mikhail Gorbachev’s impending state visit on May 15
+                    invigorated the protests. Some protestors initiated hunger strikes to increase
+                    pressure on the government. Foreign media that arrived to cover the visit turned
+                    their attention to the protests and heightened international—especially
+                    Western—awareness of the protesters and their demands. The crowds in the Square
+                    grew beyond students to include a broad segment of Chinese society, from workers
+                    to ordinary citizens from Beijing and beyond, and reportedly exceeded one
+                    million in number. Gorbachev’s visit occupied Chinese officials’ attention until
+                    his departure on May 18. On May 19, Zhao visited the protesters once more to
+                    make an emotional appeal for hunger strikes to end. The Chinese leadership
+                    imposed martial law in Beijing on May 20. The protests continued.</p>
+                <p>On the night of June 3 and 4, the People’s Liberation Army stormed the Square
+                    with tanks, crushing the protests with terrible human costs. Estimates of the
+                    numbers killed vary. The Chinese Government has asserted that injuries exceeded
+                    3,000 and that over 200 individuals, including 36 university students, were
+                    killed that night. Western sources, however, are skeptical of the official
+                    Chinese report and most frequently cite the toll as hundreds or even thousands
+                    killed. Similar protests that had taken place in other Chinese cities were soon
+                    suppressed and their leaders imprisoned.</p>
+                <p>In the aftermath, President George H.W. Bush denounced the actions in Tiananmen
+                    Square and suspended military sales as well as high level exchanges with Chinese
+                    officials. Many members of the U.S. Congress, the American public, and
+                    international leaders advocated broader economic sanctions, some of which were
+                    implemented. U.S. leaders met with Chinese nationals studying in the United
+                    States as a symbolic gesture of commitment. Questions of relations with China,
+                    in particular the granting of Most-Favored-Nation trading status, were
+                    controversial questions for the remainder of President Bush’s term and into the
+                    term of President Bill Clinton.</p>
+            </div>
+            <div type="section" xml:id="gulf-war" ana="bush-george-h-w iraq kuwait organization-of-petroleum-exporting-countries united-arab-emirates military-intervention-presence-and-withdrawal">
+                <head>The Gulf War, 1991</head>
+                <p>At the end of the Iran-Iraq War of 1980–1988, Iraq emerged with its state intact
+                    and a reinforced sense of national pride, but laden with massive debts. Iraq had
+                    largely financed the war effort through loans, and owed some $37 billion to Gulf
+                    creditors in 1990. Iraqi President Saddam Hussein called on the United Arab
+                    Emirates and Kuwait to cancel the Iraqi debt they held, arguing that the loans
+                    should be considered payments to Iraq for protecting the Arabian Peninsula from
+                    Iranian expansionism, but his appeals went unanswered. The Gulf states’ refusal
+                    to cancel Iraq’s war debts contributed to Saddam Hussein’s decision to make
+                    threats against Iraq’s rich, but militarily weak, neighbor Kuwait.</p>
+                <figure>
+                    <graphic url="desert-storm.jpg" height="450px" width="300px"/>
+                    <head>President George Bush speaks to U.S. Military personnel gathered for his
+                        Thanksgiving holiday visit during Operation Desert Storm. (Department of
+                        Defense/Gerald Johnson)</head>
+                </figure>
+                <p>After Kuwait rejected Saddam’s debt-forgiveness demands, he threatened to
+                    reignite a conflict over the long-standing question of ownership of the Warbah
+                    and Bubiyan Islands, to which Iraq ascribed importance because of the secure
+                    access they afforded to its ports on the Khawr 'Abd Allah—the waterway to the
+                    Persian Gulf that remained the only viable alternative to the closed Shatt
+                    Al-'Arab, cluttered with debris from the Iran-Iraq War.</p>
+                <p>The dispute over the Bubiyan and Warbah Islands was a key point of contention in
+                    the lengthy history of territorial conflict between Iraq and Kuwait. In 1961,
+                    when the United Kingdom ended its protectorate over Kuwait, then Iraqi Prime
+                    Minister General 'Abd Al-Karim Qasim asserted that Kuwait was an "integral part
+                    of Iraq" because it had been part of the former Ottoman province of Al-Basrah.
+                    Iraq threatened to exert its sovereignty over Kuwait, but the consequent
+                    deployment of British troops to Kuwait forced the Iraqis to back down. Although
+                    subsequent regimes relinquished this claim by recognizing Kuwait's independence,
+                    Ba’athist Iraq never formally accepted a common boundary between the two
+                    countries.</p>
+                <p>Still, there had been no major incidents regarding the border dispute until 1990,
+                    when Iraq was in the throes of the postwar economic crisis. In July, Saddam
+                    accused Kuwait and the United Arab Emirates of breaking with Organization of
+                    Petroleum Exporting Countries (OPEC) production quotas and over-producing crude
+                    oil for export, which depressed prices, depriving Iraq of critical oil revenues.
+                    In addition, Saddam Hussein alleged that Kuwait was stealing oil from the
+                    Rumayla oil field that straddled the Iraq-Kuwait border. He also demanded that
+                    Kuwait cede control of the Bubiyan and Warbah Islands to Iraq.</p>
+                <p>During this period, there was a deterioration of relations between the United
+                    States and Iraq. Iraq accused the United States and Israel of deliberately
+                    weakening Iraq by encouraging Kuwait to reduce oil prices. When Iraq began to
+                    threaten Kuwait early in July 1990, the United States staged maneuvers in the
+                    Gulf to warn Iraq against taking military action against the United Arab
+                    Emirates and Kuwait. Despite this show of U.S. force, President George H.W. Bush
+                    adopted a conciliatory policy toward Saddam Hussein in hopes of moderating the
+                    Iraqi regime and policies. The Bush administration tried to maintain economic
+                    and political relations with Iraq, and on April 12, 1990, sent a delegation of
+                    American senators led by Senator Robert Dole to meet with Hussein. Senator Dole
+                    brought a message from the White House suggesting that the United States wanted
+                    to improve relations with Iraq. A letter from President Bush to Saddam delivered
+                    by U.S. Ambassador April Glaspie on July 27 echoed this sentiment.</p>
+                <p>But on August 2, 1990, a force of one hundred thousand Iraqi troops invaded
+                    Kuwait and overran the country in a matter of hours. The invasion of Kuwait led
+                    to a United Nations Security Council embargo and sanctions on Iraq and a
+                    U.S.-led coalition air and ground war, which began on January 16, 1991, and
+                    ended with an Iraqi defeat and retreat from Kuwait on February 28, 1991.</p>
+                <p>Although the United States was aware of Hussein’s threats to Kuwait, it did not
+                    anticipate the Iraqi military incursion. The Iraqi Republican Guard units moved
+                    toward Kuwait City while Iraqi Special Forces secured key sites, including the
+                    islands of Warba and Bubayan, Kuwaiti air fields, and the palaces of the Emir
+                    and the Crown Prince. There was some Kuwaiti resistance to the Iraqi invasion,
+                    but the Iraqi forces easily suppressed Kuwait’s defenses. Members of the Kuwaiti
+                    royal family escaped to Saudi Arabia where they appealed for international
+                    support. On August 28, Iraq declared that Kuwait had become its nineteenth
+                    province.</p>
+                <p>International condemnation of the Iraqi invasion was widespread and virtually
+                    unanimous. Within days, the United States led efforts to organize an
+                    international coalition, which, working through the United Nations Security
+                    Council, passed Resolution 660 demanding Iraq’s immediate and unconditional
+                    withdrawal, Resolution 661 imposing economic sanctions, and Resolution 663
+                    declaring the annexation of Kuwait null and void.</p>
+                <p>The United States and Saudi Arabia agreed to a deployment of U.S. forces to Saudi
+                    Arabia to protect the peninsula. At the same time, the United States and the
+                    coalition insisted on Iraq’s unconditional withdrawal from Kuwait, but Iraq
+                    refused to withdraw and began looting Kuwait and destroying its
+                    infrastructure.</p>
+                <p>By October 30, the Bush administration made a decision to push Iraq out of Kuwait
+                    by force if necessary. Bush increased the U.S. force presence and petitioned the
+                    United Nations for authorization to use force. The result was UN Resolution 678,
+                    which authorized the use of force to compel Iraq to withdraw from Kuwait, but
+                    gave Iraq a forty-five day grace period to withdraw. Led by the United States,
+                    an international coalition of nations amassed forces in the region to help
+                    liberate Kuwait.</p>
+                <p>After the deadline for withdrawal passed, the coalition led by the United States
+                    attacked Iraq by air. Within twenty-four hours, coalition forces controlled the
+                    skies and bombarded such strategic sites as the Iraqi command and control
+                    facilities, Saddam Hussein’s palaces, the Ba’th Party headquarters, power
+                    stations, intelligence and security facilities, hydroelectric stations, oil
+                    refineries, military-industrial complexes, and Iraq’s missile facilities.
+                    Coalition aircraft subsequently targeted Iraqi troops in Kuwait</p>
+                <p>In retaliation, Saddam Hussein launched missile attacks against Israel and on
+                    coalition force bases in Saudi Arabia. But Israel refused to retaliate and
+                    coalition forces took the offensive by launching a land campaign that began on
+                    February 24 and lasted four days. Comprising forces from thirty-four countries,
+                    including a number of Arab countries, the coalition forces liberated Kuwait City
+                    and drove Iraqi forces into a retreat. On March 2, the United Nations Security
+                    Council passed Resolution 686, which set forth conditions for a cease-fire. Iraq
+                    was obligated to accept its provisions, which included sanctions and payment of
+                    reparations for war damages. Iraq was obligated to return property stolen from
+                    Kuwait. The United States continued to put pressure on Iraq through the United
+                    Nations, which passed Security Council Resolution 687 establishing the United
+                    Nations Special Commission (UNSCOM) to inspect Iraq’s suspected chemical and
+                    biological weapons capabilities. The United States subsequently sought to ensure
+                    that the trade embargo imposed on Iraq the previous year through Resolution 661
+                    remained in place and that Iraq was stripped of chemical weapons and missiles
+                    and its nuclear research capabilities. In the chaos following the war,
+                    spontaneous Shiite rebellions in the South and Kurdish unrest in northern Iraq
+                    broke out but were eventually suppressed by Saddam Hussein and his Revolutionary
+                    Guards.</p>
+            </div>
+            <div type="section" xml:id="madrid-conference" ana="bush-george-h-w baker-james-addison israel jordan palestine peace arab-israeli-dispute">
+                <head>The Madrid Conference, 1991</head>
+                <p>On March 6, 1991, President <persName>George H. W. Bush</persName> told Congress,
+                    “The time has come to put an end to the Arab-Israeli conflict.” Bush’s
+                    declaration was followed by eight months of intensive shuttle diplomacy by
+                    Secretary of State <persName>James Baker</persName>, culminating in the Madrid
+                    Peace Conference in October 1991. The Conference, co-chaired by Bush and Soviet
+                    President <persName>Mikhail Gorbachev</persName>, was attended by Israeli,
+                    Egyptian, Syrian, and Lebanese delegations, as well as a joint
+                    Jordanian-Palestinian delegation. For the first time, all of the parties to the
+                    Arab-Israeli conflict had gathered to hold direct negotiations—a historically
+                    unprecedented event.</p>
+                <figure>
+                    <graphic url="madrid-conference.jpg" height="350px" width="512px"/>
+                    <head>President George H.W. Bush at the Madrid Peace Conference, October 30,
+                        1991. (George Bush Presidential Library and Museum)</head>
+                </figure>
+                <p>The Conference’s long-term impact, however, was more limited than the Bush
+                    administration had hoped. Following Madrid, Israeli, Syrian, Jordanian, and
+                    Palestinian representatives continued to meet for bilateral talks in Washington,
+                    and multilateral talks commenced in Moscow in 1992. Yet by 1993, the Washington
+                    talks had become deadlocked and were overtaken by secret Israeli-Palestinian and
+                    Israeli-Jordanian negotiations, which produced the Israeli-Palestinian
+                    Declaration of Principles (the so-called “Oslo Accord”) of September 1993 and
+                    the Israeli-Jordanian peace treaty of October 1994.</p>
+                <p>
+                    <hi rend="strong">From the <hi rend="italic">Intifada</hi> to Madrid </hi>
+                </p>
+                <p>The United States began trying to convene an international Middle East peace
+                    conference during the final year of <persName>Ronald Reagan’s</persName>
+                    Presidency. In December 1987, the Palestinians of the West Bank and the Gaza
+                    Strip had risen up against Israeli military rule. Hoping to stop the violence
+                    and address Palestinian grievances, Secretary of State <persName>George
+                        Shultz</persName> called for an international convention that would serve as
+                    a prelude to direct negotiations between Israel, Jordan, and local Palestinians
+                    on interim autonomy for the occupied territories, followed by talks on a
+                    permanent status agreement. Shultz’s plan, however, went nowhere. Israel
+                    rejected the Secretary’s proposals because they did not call for an end to the
+                    Palestinian uprising, or <hi rend="italic">intifada</hi>,as a precondition to
+                    negotiations. In July 1988, Jordan’s King Hussein rendered the Shultz Plan
+                    unworkable when he renounced his kingdom’s links to the West Bank.</p>
+                <p>Throughout 1989–1990, U.S. peacemaking efforts centered on a plan put forward by
+                    Israeli Prime Minister <persName>Yitzhak Shamir</persName>, which called for the
+                    Palestinians of the West Bank and Gaza Strip to elect representatives who would
+                    negotiate interim arrangements for self-governance with Israel, followed by a
+                    permanent status agreement. U.S. and Egyptian efforts to build on this proposal
+                    ultimately faltered over Israel’s insistence on vetting potential Palestinian
+                    candidates for ties to the Palestine Liberation Organization (PLO). In March
+                    1990, controversy over how to proceed with Shamir’s plan led to the fall of
+                    Israel’s national unity government, putting diplomacy on hold. The failure of
+                    the plan, combined with sharp U.S.-Israeli exchanges over Israeli
+                    settlement-building in the occupied territories, strained relations between Bush
+                    and Shamir. However, American efforts to bring the PLO into the peace process
+                    fared no better. In November 1988, the PLO finally met U.S. demand that it
+                    renounce terrorism and accept U.N. Security Council Resolutions 242 and 338,
+                    which called for Arab-Israeli peace and mutual recognition accompanied by
+                    Israeli withdrawal from “territories” it had occupied in 1967. Nevertheless,
+                    diplomatic contacts between the two sides remained at a low level and were cut
+                    off in June 1990, when Chairman Yasir Arafat refused to condemn a terrorist
+                    attack perpetrated by the Palestine Liberation Front, a PLO faction.</p>
+                <p>By March 1991, the Persian Gulf War had created a more favorable context for
+                    American peacemaking efforts. The Bush administration’s successful military
+                    campaign against Iraq left the President enormously popular at home, and
+                    highlighted America’s increasingly dominant role in a post-Cold War Middle East.
+                    The Soviet Union had not strongly opposed American intervention, and Arab
+                    states, including former Soviet client Syria, joined the coalition against
+                    Saddam Hussein. At the same time, the administration felt a need to reward its
+                    Arab partners for their support by pushing for progress on the Palestinian
+                    issue. Since the PLO backed Iraq during the war, it had alienated Egypt, Syria,
+                    and most of the Gulf States, and lost influence over Palestinians in the
+                    occupied territories. The Bush administration thus had an opportunity to bring
+                    Palestinians into the diplomatic process under conditions that the Israelis
+                    might accept.</p>
+                <p>Between March and October 1991, Baker succeeded in getting Arab leaders and
+                    Palestinian representatives from the occupied territories to drop their demands
+                    that PLO officials and Palestinians from East Jerusalem participate in an
+                    international peace conference. Instead, the Arab parties agreed that the
+                    Palestinians would only be represented by delegates from the occupied
+                    territories, and as part of a joint Palestinian-Jordanian delegation.
+                    Simultaneously, Baker and Bush put pressure on Shamir to drop Israel’s
+                    insistence on bilateral negotiations by withholding $10 billion in loan
+                    guarantees that he had requested to help settle Jewish immigrants from the
+                    Soviet Union. The President insisted that Shamir would have to promise that the
+                    funds would not be used to finance new settlement activity in the occupied
+                    territories. Shamir refused to accept Bush’s demand, but it undoubtedly played a
+                    role in his decision to come to Madrid.</p>
+                <p>
+                    <hi rend="strong">The Conference and its Aftermath</hi>
+                </p>
+                <p>The Madrid Conference opened October 30, 1991, and ended on November 4. Though
+                    the parties largely stuck to their traditional positions and did not negotiate
+                    seriously with each other, they nevertheless agreed to remain in dialogue.
+                    Bilateral talks between Israeli officials and their Arab counterparts would
+                    begin in Washington in December 1991, while multilateral negotiations began in
+                    Moscow in January 1992. From the beginning, the bilateral talks were generally
+                    regarded as the more significant of the two tracks. While these talks acquired
+                    greater momentum following the election of Israeli Prime Minister Yitzhak Rabin
+                    in June 1992, they failed to yield results before the Clinton administration
+                    took office. Ultimately, the Israeli-Jordanian and Israeli-Palestinian tracks
+                    established at Madrid would be circumvented by the parties themselves.
+                    Frustrated by the Palestinian delegation’s inability to move forward without
+                    Arafat’s approval, the Israelis decided to negotiate directly with the PLO,
+                    culminating in the signing of the Declaration of Principles on September 13,
+                    1993. King Hussein and the Israelis likewise decided to move forward
+                    independently of the Madrid framework, holding direct talks which produced a
+                    peace treaty by October 1994.</p>
+            </div>
+            <div type="section" subtype="removed-pending-rewrite" xml:id="strategic-arms-reduction" ana="arms-control-and-disarmament russia reagan-ronald">
+                <head>Strategic Arms Reduction Treaties, <date when="1991">1991</date> and <date when="1993">1993</date>
+                </head>
+            </div>
+        </body>
+    </text>
+</TEI>

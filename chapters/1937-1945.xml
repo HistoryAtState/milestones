@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1937–1945</title>
+                <title type="short">1937–1945</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1937" to="1945">1937–1945</date>: Diplomacy and the Road to Another
+                    War</head>
+                <p>
+                    <hi rend="strong">Introduction</hi>
+                </p>
+                <p>By the late 1930s, the United States continued its efforts to stay out of the
+                    wars in Europe and Asia. As the failure of disarmament, the peace movement, and
+                    the doctrine of appeasement became clear, Congress passed a series of neutrality
+                    acts designed to prevent the United States from being drawn into the widespread
+                    international conflict that the U.S. Government believed to be inevitable.</p>
+                <figure>
+                    <graphic url="pearlhabor.jpg" height="200px" width="200px"/>
+                    <head>Aerial View of Pearl Harbor</head>
+                </figure>
+                <p>In 1940, U.S. policy slowly began to shift from neutrality to non-belligerency by
+                    providing aid to the nations at war with the Axis Powers—Germany, Italy and
+                    Japan. In response to the growing emergency, President <persName>Franklin D.
+                        Roosevelt</persName> called upon the American people to prepare for war. On
+                        <date when="1941-12-07">December 7, 1941</date>, the Japanese attacked the
+                    U.S. naval installation at Pearl Harbor, and the United States formally entered
+                    the Second World War. Meetings between those powers allied in the war against
+                    the Axis powers provided the framework for the postwar world. Two major issues
+                    would become of major importance to postwar foreign policy, the prevention of
+                    another global conflict and the influence of nuclear weapons on the
+                    international balance of power.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="pearl-harbor">
+                <head>Japan, China, the United States and the Road to Pearl Harbor, <date
+                        from="1937" to="1941">1937–41</date>
+                </head>
+                <p>Between 1937 and 1941, escalating conflict between <placeName>China</placeName>
+                    and <placeName>Japan</placeName> influenced U.S. relations with both nations,
+                    and ultimately contributed to pushing the United States toward full-scale war
+                    with Japan and <placeName>Germany</placeName>.</p>
+                <figure>
+                    <graphic url="marcopolo.jpg" height="200px" width="200px"/>
+                    <head>Photograph of the Marco Polo Bridge Incident</head>
+                </figure>
+                <p>At the outset, U.S. officials viewed developments in China with ambivalence. On
+                    the one hand, they opposed <ref target="/milestones/1921-1936/mukden-incident"
+                        >Japanese incursions into northeast China</ref> and the rise of Japanese
+                    militarism in the area, in part because of their sense of a longstanding
+                    friendship with China. On the other hand, most U.S. officials believed that it
+                    had no vital interests in China worth going to war over with Japan. Moreover,
+                    the domestic conflict between Chinese Nationalists and Communists left U.S.
+                    policymakers uncertain of success in aiding such an internally divided nation.
+                    As a result, few U.S. officials recommended taking a strong stance prior to
+                    1937, and so the United States did little to help China for fear of provoking
+                    Japan. U.S. likelihood of providing aid to China increased after July 7, 1937,
+                    when Chinese and Japanese forces clashed on the Marco Polo Bridge near Beijing,
+                    throwing the two nations into a full-scale war. As the United States watched
+                    Japanese forces sweep down the coast and then into the capital of Nanjing,
+                    popular opinion swung firmly in favor of the Chinese. Tensions with Japan rose
+                    when the Japanese Army bombed the U.S.S. Panay as it evacuated American citizens
+                    from Nanjing, killing three. The U.S. Government, however, continued to avoid
+                    conflict and accepted an apology and indemnity from the Japanese. An uneasy
+                    truce held between the two nations into 1940.</p>
+                <figure>
+                    <graphic url="fdr-signing-ll.jpg" width="200px" height="200px"/>
+                    <head>FDR signing Lend-Lease</head>
+                </figure>
+                <p>In 1940 and 1941, President <persName>Franklin D. Roosevelt</persName> formalized
+                    U.S. aid to China. The U.S. Government extended credits to the Chinese
+                    Government for the purchase of war supplies, as it slowly began to tighten
+                    restrictions on Japan. The United States was the main supplier of the oil,
+                    steel, iron, and other commodities needed by the Japanese military as it became
+                    bogged down by Chinese resistance but, in January, 1940, Japan abrogated the
+                    existing treaty of commerce with the United States. Although this did not lead
+                    to an immediate embargo, it meant that the Roosevelt Administration could now
+                    restrict the flow of military supplies into Japan and use this as leverage to
+                    force Japan to halt its aggression in China.</p>
+                <p>After January 1940, the United States combined a strategy of increasing aid to
+                    China through larger credits and the <ref
+                        target="/milestones/1937-1945/lend-lease">Lend-Lease program</ref> with a
+                    gradual move towards an embargo on the trade of all militarily useful items with
+                    Japan. The Japanese Government made several decisions during these two years
+                    that exacerbated the situation. Unable or unwilling to control the military,
+                    Japan’s political leaders sought greater security by establishing the “Greater
+                    East Asia Co-Prosperity Sphere” in August, 1940. In so doing they announced
+                    Japan’s intention to drive the Western imperialist nations from Asia. However,
+                    this Japanese-led project aimed to enhance Japan’s economic and material wealth
+                    so that it would not be dependent upon supplies from the West, and not to
+                    “liberate” the long-subject peoples of Asia. In fact, Japan would have to launch
+                    a campaign of military conquest and rule, and did not intend to pull out of
+                    China. At the same time, several pacts with Western nations only made Japan
+                    appear more of a threat to the United States. First, Japan signed the Tripartite
+                    Pact with Germany and Italy on September 27, 1940 and thereby linked the
+                    conflicts in Europe and Asia. This made China a potential ally in the global
+                    fight against fascism. Then in mid-1941, Japan signed a Neutrality Pact with the
+                    Soviet Union, making it clear that Japan’s military would be moving into
+                    Southeast Asia, where the United States had greater interests. A third agreement
+                    with Vichy France enabled Japanese forces to move into Indochina and begin their
+                    Southern Advance. The United States responded to this growing threat by
+                    temporarily halting negotiations with Japanese diplomats, instituting a full
+                    embargo on exports to Japan, freezing Japanese assets in U.S. banks, and sending
+                    supplies into China along the Burma Road. Although negotiations restarted after
+                    the United States increasingly enforced an embargo against Japan, they made
+                    little headway. Diplomats in Washington came close to agreements on a couple of
+                    occasions, but pro-Chinese sentiments in the United States made it difficult to
+                    reach any resolution that would not involve a Japanese withdrawal from China,
+                    and such a condition was unacceptable to Japan’s military leaders.</p>
+                <p>Faced with serious shortages as a result of the embargo, unable to retreat, and
+                    convinced that the U.S. officials opposed further negotiations, Japan’s leaders
+                    came to the conclusion that they had to act swiftly. For their part, U.S.
+                    leaders had not given up on a negotiated settlement, and also doubted that Japan
+                    had the military strength to attack the U.S. territory. Therefore they were
+                    stunned when the unthinkable happened and Japanese planes bombed the U.S. fleet
+                    at Pearl Harbor on December 7, 1941. The following day, the United States
+                    declared war on Japan, and it soon entered into a military alliance with China.
+                    When Germany stood by its ally and declared war on the United States, the
+                    Roosevelt Administration faced war in both Europe and Asia.</p>
+            </div>
+            <div type="section" xml:id="mexican-oil">
+                <head>Mexican Expropriation of Foreign Oil, <date when="1938">1938</date>
+                </head>
+                <p>On March 18, 1938, Mexican President Lázaro Cárdenas signed an order that
+                    expropriated the assets of nearly all of the foreign oil companies operating in
+                    Mexico. He later created Petróleos Mexicanos (PEMEX), a state-owned firm that
+                    held a monopoly over the Mexican oil industry, and barred all foreign oil
+                    companies from operating in Mexico. The U.S. Government responded with a policy
+                    that backed efforts by American companies to obtain payment for their
+                    expropriated properties but supported Mexico’s right to expropriate foreign
+                    assets as long as prompt and effective compensation was provided.</p>
+                <figure>
+                    <graphic url="cardenas.jpg" height="200px" width="200px"/>
+                    <head>Mexican President Lazaro Cardenas</head>
+                </figure>
+                <p>Prior to expropriation in 1938, the oil industry in Mexico had been dominated by
+                    the Mexican Eagle Company (a subsidiary of the Royal Dutch/Shell Company), which
+                    accounted for over 60% of Mexican oil production, and by American-owned oil
+                    firms including Jersey Standard and Standard Oil Company of California (SOCAL –
+                    now Chevron), which accounted for approximately 30% of total production.
+                    However, in Article 27 of the Constitution of 1917, the Mexican Government
+                    asserted ownership of the “subsoil,” including any natural resources discovered
+                    below ground. The possibility that the Mexican political leadership might
+                    exercise its rights complicated relations with the United States until the
+                    Calles-Morrow agreement of 1928, which temporarily alleviated tensions by
+                    reaffirming the rights of oil companies in the territories they had worked prior
+                    to 1917.</p>
+                <p>Despite the political difficulties, Mexico became the world’s second largest
+                    producer of oil in the 1920s. Nevertheless, the foreign-owned oil companies were
+                    the object of much popular resentment. Since Mexico was an agrarian nation with
+                    only a tiny domestic market, these companies exported most of the oil they
+                    produced during the 1920s and very little of their profits remained Mexico. The
+                    situation was exacerbated during the 1930s, when the Mexican Government’s share
+                    of oil revenues declined and domestic oil production dropped due to the Great
+                    Depression and a glut in the global oil supply. These developments, combined
+                    with the fact that the large oil companies often paid their Mexican workers only
+                    half as much as other employees working in the same capacity, ultimately led to
+                    massive labor unrest.</p>
+                <p>A strike by oil workers in 1937 ultimately led the Mexican Government to act.
+                    Initially, President Cárdenas attempted to mediate a settlement by having a
+                    government commission draw up a new labor agreement. After the foreign companies
+                    defied both the commission and the Mexican Supreme Court, however, Cárdenas
+                    promulgated the expropriation decree on March 18, 1938.</p>
+                <figure>
+                    <graphic url="cordell-hull.jpg" width="200px" height="200px"/>
+                    <head>Secretary of State Cordell Hull</head>
+                </figure>
+                <p>The expropriation act had international repercussions. The foreign-owned oil
+                    companies retaliated by instituting an embargo against Mexican oil. Mexican oil
+                    exports decreased by 50% and the Mexican Government’s primary customer for oil
+                    became Nazi Germany. Expropriation also led the British to take a very strong
+                    stand against Mexico's actions, which prompted the Cárdenas government to sever
+                    diplomatic relations.</p>
+                <p>The U.S. reaction to Mexican expropriation of oil assets was mixed. On the one
+                    hand, it had no objection to expropriation as long as the Mexicans agreed to
+                    compensate the oil companies. Furthermore, U.S. President Franklin Roosevelt
+                    wanted to maintain good relations with the United States’ immediate neighbor,
+                    lest a hostile U.S. response to expropriation drive Mexico to align itself with
+                    the Axis Powers. On the other hand, some U.S. officials urged a tough response
+                    because they understood that that the United States would eventually become a
+                    major importer of oil and because the rights of U.S. economic interests were
+                    involved. As such, they believed that it was essential for American oil
+                    companies to retain direct access to the oil resources of the Western Hemisphere
+                    outside of the United States.</p>
+                <p>Secretary of State Cordell Hull initially supported a strong stance against
+                    Cárdenas’ actions. Although Cárdenas informed the U.S. Government that he
+                    intended to pay compensation, on March 26, Hull dispatched a note to the
+                    Mexicans announcing that the U.S. Government would suspend further purchases of
+                    silver from Mexico. The U.S. Ambassador in Mexico realized that such action
+                    might provoke a diplomatic rupture and asked the Mexicans to consider the note
+                    undelivered until a more moderate policy could be formulated in Washington.
+                    Further opposition from the Treasury Department eventually forced Hull and the
+                    State Department to back down.</p>
+                <p>Although Hull’s attempts to directly challenge the Mexican Government fell out of
+                    favor, U.S. companies fought the expropriation in their own way. For over two
+                    years following expropriation, the oil companies made extravagant demands for
+                    compensation, which the Mexicans repeatedly rejected. The U.S. Government
+                    supported the oil companies until the Second World War began in Europe, at which
+                    point it pressured them to accept a settlement. Finally, on April 18, 1942, the
+                    U.S. and Mexican Governments signed the Cooke-Zevada agreement, whereby the
+                    Mexicans agreed to pay roughly $29 million in compensation to several American
+                    firms, including Jersey Standard and Socal. The British, however, held out until
+                    1947, when they received $130 million.</p>
+                <p>Efforts to secure the re-admission of the foreign oil companies in Mexico proved
+                    to be a failure, however. After Cárdenas left office in 1940, the Mexicans were
+                    willing to consider the possibility, but only on condition that Mexico retained
+                    ownership of the subsoil, and PEMEX its domestic monopoly. This proved
+                    unacceptable to both the U.S. Government and oil companies. Finally, in 1950,
+                    the U.S. Government abandoned its efforts to re-open the Mexican oil industry
+                    after several failed attempts to use government loans as leverage. By this time,
+                    American oil companies had begun losing interest in Mexico and preferred
+                    operating under the more favorable conditions found in the Middle East and
+                    Venezuela.</p>
+            </div>
+            <div type="section" xml:id="american-isolationism">
+                <head>American Isolationism in the <date when="1930">1930s</date>
+                </head>
+                <p>During the 1930s, the combination of the Great Depression and the memory of
+                    tragic losses in World War I contributed to pushing American public opinion and
+                    policy toward isolationism. Isolationists advocated non-involvement in European
+                    and Asian conflicts and non-entanglement in international politics. Although the
+                    United States took measures to avoid political and military conflicts across the
+                    oceans, it continued to expand economically and protect its interests in Latin
+                    America. The leaders of the isolationist movement drew upon history to bolster
+                    their position. In his Farewell Address, President George Washington had
+                    advocated non-involvement in European wars and politics. For much of the
+                    nineteenth century, the expanse of the Atlantic and Pacific Oceans had made it
+                    possible for the United States to enjoy a kind of “free security” and remain
+                    largely detached from Old World conflicts. During World War I, however,
+                    President <persName>Woodrow Wilson</persName>
+                    <ref target="/milestones/1914-1920/foreword"> made a case for U.S.
+                        intervention</ref> in the conflict and a U.S. interest in maintaining a
+                    peaceful world order. Nevertheless, the American experience in that war served
+                    to bolster the arguments of isolationists; they argued that marginal U.S.
+                    interests in that conflict did not justify the number of U.S. casualties.</p>
+                <figure>
+                    <graphic url="wilson-woodrow.jpg" height="200px" width="200px"/>
+                    <head>President Woodrow Wilson</head>
+                </figure>
+                <p>In the wake of the World War I, a report by Senator <persName>Gerald P.
+                        Nye,</persName> a Republican from North Dakota, fed this belief by claiming
+                    that American bankers and arms manufacturers had pushed for U.S. involvement for
+                    their own profit. The 1934 publication of the book <hi rend="italic">Merchants
+                        of Death</hi> by <persName>H.C. Engelbrecht</persName> and <persName>F. C.
+                        Hanighen</persName>, followed by the 1935 tract “War Is a Racket” by
+                    decorated Marine Corps General <persName>Smedley D. Butler</persName> both
+                    served to increase popular suspicions of wartime profiteering and influence
+                    public opinion in the direction of neutrality. Many Americans became determined
+                    not to be tricked by banks and industries into making such great sacrifices
+                    again. The reality of a worldwide economic depression and the need for increased
+                    attention to domestic problems only served to bolster the idea that the United
+                    States should isolate itself from troubling events in Europe. During the
+                    interwar period, the U.S. Government repeatedly chose non-entanglement over
+                    participation or intervention as the appropriate response to international
+                    questions. Immediately following the First World War, <ref
+                        target="/milestones/1914-1920/league">Congress rejected U.S. membership in
+                        the League of Nations</ref>. Some members of Congress opposed membership in
+                    the League out of concern that it would draw the United States into European
+                    conflicts, although ultimately the collective security clause sank the
+                    possibility of U.S. participation. During the 1930s, the League proved
+                    ineffectual in the face of growing militarism, partly due to the U.S. decision
+                    not to participate.</p>
+                <figure>
+                    <graphic url="nye-gerald.jpg" height="200px" width="200px"/>
+                    <head>Senator Gerald Nye</head>
+                </figure>
+                <p>The Japanese invasion of Manchuria and subsequent push to gain control over
+                    larger expanses of Northeast China in 1931 led President <persName>Herbert
+                        Hoover</persName> and his Secretary of State, <persName>Henry
+                        Stimson</persName>, to establish the <ref
+                        target="/milestones/1921-1936/mukde-incident">Stimson Doctrine</ref>, which
+                    stated that the United States would not recognize the territory gained by
+                    aggression and in violation of international agreements. With the Stimson
+                    Doctrine, the United States expressed concern over the aggressive action without
+                    committing itself to any direct involvement or intervention. Other conflicts,
+                    including the Italian invasion of Ethiopia and the Spanish Civil War, also
+                    resulted in virtually no official commitment or action from the United States
+                    Government. Upon taking office, President Franklin Delano Roosevelt tended to
+                    see a necessity for the United States to participate more actively in
+                    international affairs, but his ability to apply his personal outlook to foreign
+                    policy was limited by the strength of isolationist sentiment in the U.S.
+                    Congress. In 1933, President Roosevelt proposed a Congressional measure that
+                    would have granted him the right to consult with other nations to place pressure
+                    on aggressors in international conflicts. The bill ran into strong opposition
+                    from the leading isolationists in Congress, including progressive politicians
+                    such as Senators Hiram Johnson of California, William Borah of Idaho, and Robert
+                    La Follette of Wisconsin. In 1935, controversy over U.S. participation in the
+                    World Court elicited similar opposition. As tensions rose in Europe over Nazi
+                    Germany’s aggressive maneuvers, Congress pushed through a series of <ref
+                        target="/milestones/1921-1936/neutrality-acts">Neutrality Acts</ref>, which
+                    served to prevent American ships and citizens from becoming entangled in outside
+                    conflicts. Roosevelt lamented the restrictive nature of the acts, but because he
+                    still required Congressional support for his domestic New Deal policies, he
+                    reluctantly acquiesced.</p>
+                <p>The isolationists were a diverse group, including progressives and conservatives,
+                    business owners and peace activists, but because they faced no consistent,
+                    organized opposition from internationalists, their ideology triumphed time and
+                    again. Roosevelt appeared to accept the strength of the isolationist elements in
+                    Congress until 1937. In that year, as the situation in Europe continued to grow
+                    worse and the Second Sino-Japanese War began in Asia, the President gave a
+                    speech in which he likened international aggression to a disease that other
+                    nations must work to “quarantine.” At that time, however, Americans were still
+                    not prepared to risk their lives and livelihoods for peace abroad. Even the
+                    outbreak of war in Europe in 1939 did not suddenly diffuse popular desire to
+                    avoid international entanglements. Instead, public opinion shifted from favoring
+                    complete neutrality to supporting limited U.S. aid to the Allies short of actual
+                    intervention in the war. The surprise Japanese attack on the U.S. Navy at
+                        <placeName>Pearl Harbor</placeName> in December of 1941 served to convince
+                    the majority of Americans that the United States should enter the war on the
+                    side of the Allies.</p>
+            </div>
+            <div type="section" xml:id="internationalism">
+                <head>Henry Luce and 20th Century U.S. Internationalism</head>
+                <p>During the middle of the 20th century, <persName>Henry R. Luce</persName>
+                    (1898–1967) became one of the most influential American advocates for
+                    internationalism among figures working in the private sector. The founder of <hi
+                        rend="italic">Time</hi>, <hi rend="italic">Life</hi>, and <hi rend="italic"
+                        >Fortune</hi> magazines, Luce presented a powerful vision of the United
+                    States leading and transforming the world.</p>
+                <figure>
+                    <graphic url="luce.jpg" height="200px" width="200px"/>
+                    <head>Henry Luce</head>
+                </figure>
+                <p>Born in <placeName>China</placeName> in 1898 to missionary parents, from a young
+                    age Henry Luce developed a strong faith in the transformative power of U.S.
+                    ideals. His father was part of a growing group of U.S. missionaries who believed
+                    that it was their calling to save China through a combination of Christianity,
+                    modern science, democracy, and the sorts of freedoms enshrined in the U.S.
+                    Constitution. Raised among people who shared in this belief, Luce internalized a
+                    similar view of China as a place that both needed and wanted U.S. assistance to
+                    bring it into the modern world. Subsequent experiences studying in England and
+                    the United States, and training to fight with U.S. forces in Europe at the end
+                    of World War I, cemented Luce’s conviction that the United States must play an
+                    active and leading role in world affairs.</p>
+                <p>Following his graduation from Yale in 1920 and a year at Oxford, Luce turned to
+                    journalism as a means to promote his internationalist vision. Luce and a
+                    classmate from Yale, Briton Hadden, gathered financial backing, and on March 3,
+                    1923, issued the first installment of <hi rend="italic">Time</hi>, which quickly
+                    became the cornerstone of his publishing empire. A combination of serious news
+                    and trivial matters initially culled from the daily papers, <hi rend="italic"
+                        >Time</hi> also presented a strong editorial stance on world events. The
+                    magazine came out strongly in favor of U.S. involvement overseas and democratic
+                    reform in China, and against Soviet Russia, Bolshevism, and domestic
+                    Prohibition. <hi rend="italic">Time</hi> quickly gained popularity and its
+                    success allowed Luce to subsequently launch two more publications: <hi
+                        rend="italic">Fortune</hi>, a monthly journal intended to raise
+                    internationalist sentiments among the business community, and <hi rend="italic"
+                        >Life</hi>, a weekly image-based magazine that sought to bring the world
+                    home to its readers through vivid photographs.</p>
+                <figure>
+                    <graphic url="timemag.jpg" height="200px" width="200px"/>
+                    <head>Cover of <hi rend="italic">Time</hi> Magazine in 1950</head>
+                </figure>
+                <p>Luce’s efforts to rally popular and government support for U.S. global leadership
+                    peaked with his editorial “The American Century,” published in <hi rend="italic"
+                        >Life</hi> in February 1941. This document had two main objectives: on one
+                    hand it called upon the United States to directly engage in the conflict in
+                    Europe by joining Britain in its battle against Germany; on the other, and more
+                    importantly, it said that the United States must replace Britain as the world
+                    leader and completely transform the system of international relations through
+                    the global application of “American principles.” Drawing upon his background in
+                    China, as well as on the internationalism of <persName>Theodore
+                        Roosevelt</persName> and <persName>Woodrow Wilson</persName>, Luce argued
+                    that the United States had both the right and the moral obligation to use its
+                    military and economic might in the service of promoting higher ideals of freedom
+                    and democracy around the world. Luce’s vision of the American Century had
+                    important implications for U.S. foreign policy in both the short and long
+                    term.</p>
+                <p>Henry Luce advanced his agenda in the service of numerous causes, but he was most
+                    interested in U.S. policies toward Asia. After the outbreak of full-scale war
+                    between China and Japan in 1937, Luce called for greater U.S. support of China’s
+                    war effort, and particularly for the Nationalist government led by Chiang
+                    Kai-shek. After the end of World War II, Luce became a leader in the China lobby
+                    that urged massive assistance to the supposedly democratic and reform-minded
+                    Nationalists over the Communists led by Mao Zedong. When the U.S. Government did
+                    not heed his calls, he turned his efforts to criticizing the weak foreign policy
+                    of President Harry Truman and the Democrats, castigating those he believed had
+                    “lost” China to communism. After <persName>Chiang Kai-shek</persName>’s defeat,
+                    Luce turned his attention to Korea and then Vietnam, where he insisted that the
+                    United States must defend the anti-Communist regimes. Blind to the shortcomings
+                    of these anti-Communists, Luce consistently saw them as the means through which
+                    the United States could transform the world by spreading its values.</p>
+                <p>Throughout his professional life, Henry Luce was one of the most prominent
+                    internationalists in the United States. He used his magazines as high-profile
+                    venues to promote U.S. involvement overseas and developed exceptional political
+                    connections, even with adversaries such as <persName>Franklin
+                        Roosevelt</persName>, in an effort to shape foreign policy. Moreover, his
+                    vision of the American Century marked the full ascendance of internationalism
+                    over isolationism in U.S. foreign policy thinking. His call for the United
+                    States to use its power to shape and lead the international system has had an
+                    enduring influence during the Cold War and beyond.</p>
+            </div>
+            <div type="section" xml:id="atlantic-conf">
+                <head>The Atlantic Conference &amp; Charter, <date when="1941">1941</date>
+                </head>
+                <p>The Atlantic Charter was a joint declaration released by U.S. President
+                        <persName>Franklin D. Roosevelt</persName> and British Prime Minister
+                        <persName>Winston Churchill</persName> on August 14, 1941 following a
+                    meeting of the two heads of state in Newfoundland. The Atlantic Charter provided
+                    a broad statement of U.S. and British war aims.</p>
+                <figure>
+                    <graphic url="winston.jpg" height="200px" width="200px"/>
+                    <head>British Prime Minister Winston Churchill</head>
+                </figure>
+                <p>The meeting had been called in response to the geopolitical situation in Europe
+                    by mid-1941. Although Great Britain had been spared from a German invasion in
+                    the fall of 1940 and, with the passage of the <ref
+                        target="/milestones/1937-1945/lend-lease">U.S. Lend Lease Act</ref> in March
+                    1941, was assured U.S. material support, by the end of May, German forces had
+                    inflicted humiliating defeats upon British, Greek, and, Yugoslav forces in the
+                    Balkans and were threatening to overrun Egypt and close off the Suez Canal,
+                    thereby restricting British access to its possessions in India. When the Germans
+                    invaded the Soviet Union on June 22, 1941, few policymakers in Washington or
+                    London believed that the Soviets would be able to resist the Nazi onslaught for
+                    more than six weeks. While the British Government focused its efforts on dealing
+                    with the Germans in Europe, they were also concerned that Japan might take
+                    advantage of the situation to seize British, French, and Dutch territories in
+                    Southeast Asia.</p>
+                <figure>
+                    <graphic url="atlanticcharter.jpg" height="200px" width="200px"/>
+                    <head>Churchill’s copy of the Atlantic Charter</head>
+                </figure>
+                <p>Churchill and Roosevelt met on August 9 and 10, 1941 aboard the U.S.S. <hi
+                        rend="italic">Augusta</hi> in Placentia Bay, Newfoundland, to discuss their
+                    respective war aims for the Second World War and to outline a postwar
+                    international system. The Charter they drafted included eight “common
+                    principles” that the United States and Great Britain would be committed to
+                    supporting in the postwar world. Both countries agreed not to seek territorial
+                    expansion; to seek the liberalization of international trade; to establish
+                    freedom of the seas, and international labor, economic, and welfare standards.
+                    Most importantly, both the United States and Great Britain were committed to
+                    supporting the restoration of self-governments for all countries that had been
+                    occupied during the war and allowing all peoples to choose their own form of
+                    government</p>
+                <p>While the meeting was successful in drafting these aims, it failed to produce the
+                    desired results for either leader. President Roosevelt had hoped that the
+                    Charter might encourage the American people to back U.S. intervention in World
+                    War II on behalf of the Allies; however, public opinion remained adamantly
+                    opposed to such a policy until the Japanese attack on Pearl Harbor in December
+                    1941. Churchill’s primary goal in attending the Atlantic Conference was “to get
+                    the Americans into the war.” Barring that, he hoped that the United States would
+                    increase its amount of military aid to Great Britain and warn Japan against
+                    taking any aggressive actions in the Pacific.</p>
+                <p>Roosevelt, on the other hand, wanted the British Government to affirm publicly
+                    that it was not involved in any secret treaties, particularly ones concerning
+                    territorial questions, such as those concluded by the Allies during the First
+                    World War concerning the division of enemy territory at war’s end. Roosevelt
+                    also wished to arrange the terms by which Great Britain would repay the United
+                    States for its Lend Lease assistance. Roosevelt wanted the British to pay
+                    compensation by dismantling their system of Imperial Preference, which had been
+                    established by the British Government during the Great Depression and was
+                    designed to encourage trade within the British Empire by lowering tariff rates
+                    between members, while maintaining discriminatory tariff rates against
+                    outsiders.</p>
+                <p>Churchill was extremely disappointed by Roosevelt’s refusal to discuss American
+                    entry into the war. Furthermore, Churchill understood that several aspects of
+                    the proposed joint declaration might be politically damaging for the Prime
+                    Minister. Churchill worried that the abandonment of Imperial Preference would
+                    anger the protectionist wing of his Conservative Party. The Americans also
+                    proved unwilling to warn Japan too strongly against any future military action
+                    against British possessions in Southeast Asia. Finally, both Churchill and many
+                    members of his Cabinet were alarmed by the third point of the Charter, which
+                    mentions the rights of all peoples to choose their own government. Churchill was
+                    concerned that this clause acknowledged the right of colonial subjects to
+                    agitate for decolonization, including those in Great Britain’s empire.</p>
+                <p>Nevertheless, Churchill realized that the joint declaration was the most he could
+                    accomplish during the conference. While the United States would remain neutral,
+                    the declaration would raise the morale of the British public and, most
+                    importantly, bind the United States closer to Great Britain. Therefore, when
+                    Churchill forwarded the text of the declaration to his Cabinet on August 11, he
+                    warned them that would it be “imprudent” to raise unnecessary difficulties. The
+                    Cabinet followed Churchill’s recommendation and approved the Charter.</p>
+                <p>While the Atlantic Charter of August 1941 was not a binding treaty, it was,
+                    nonetheless, significant for several reasons. First, it publicly affirmed the
+                    sense of solidarity between the U.S. and Great Britain against Axis aggression.
+                    Second, it laid out President Roosevelt’s Wilsonian-vision for the postwar
+                    world; one that would be characterized by freer exchanges of trade,
+                    self-determination, disarmament, and collective security. Finally, the Charter
+                    ultimately did serve as an inspiration for colonial subjects throughout the
+                    Third World, from Algeria to Vietnam, as they fought for independence.</p>
+            </div>
+            <div type="section" xml:id="lend-lease">
+                <head>Lend-Lease and Military Aid to the Allies in the Early Years of World War
+                    II</head>
+                <p>During World War II, the United States began to provide significant military
+                    supplies and other assistance to the Allies in September 1940, even though the
+                    United States did not enter the war until December 1941. Much of this aid flowed
+                    to the United Kingdom and other nations already at war with Germany and Japan
+                    through an innovative program known as Lend-Lease.</p>
+                <figure>
+                    <graphic url="fdr-signing-ll.jpg" height="200px" width="200px"/>
+                    <head>FDR Signing the Lend-Lease Bill</head>
+                </figure>
+                <p>When war broke out in Europe in September 1939, President <persName>Franklin D.
+                        Roosevelt</persName> declared that while the United States would remain
+                    neutral in law, he could “not ask that every American remain neutral in thought
+                    as well.” Roosevelt himself made significant efforts to help nations engaged in
+                    the struggle against Nazi Germany and wanted to extend a helping hand to those
+                    countries that lacked the supplies necessary to fight against the Germans. The
+                    United Kingdom, in particular, desperately needed help, as it was short of hard
+                    currency to pay for the military goods, food, and raw materials it needed from
+                    the United States.</p>
+                <p>Though President Roosevelt wanted to provide assistance to the British, both
+                    American law and public fears that the United States would be drawn into the
+                    conflict blocked his plans. The Neutrality Act of 1939 allowed belligerents to
+                    purchase war materiel from the United States, but only on a “cash and carry”
+                    basis. The Johnson Act of 1934 also prohibited the extension of credit to
+                    countries that had not repaid U.S. loans made to them during World War I—which
+                    included Great Britain. The American military opposed the diversion of military
+                    supplies to the United Kingdom. The Army’s Chief of Staff, General George C.
+                    Marshall, anticipated that Britain would surrender following the collapse of
+                    France, and thus American supplies sent to the British would fall into German
+                    hands. Marshall and others therefore argued that U.S. national security would be
+                    better served by reserving military supplies for the defense of the Western
+                    Hemisphere. American public opinion also limited Roosevelt’s options. Many
+                    Americans opposed involving the United States in another war. Even though
+                    American public opinion generally supported the British rather than the Germans,
+                    President Roosevelt had to develop an initiative that was consistent with the
+                    legal prohibition against the granting of credit, satisfactory to military
+                    leadership, and acceptable to an American public that generally resisted
+                    involving the United States in the European conflict.</p>
+                <figure>
+                    <graphic url="wc.jpg" width="200px" height="200px"/>
+                    <head>British Prime Minister Winston Churchill</head>
+                </figure>
+                <p>On September 2, 1940, President Roosevelt signed a “Destroyers for Bases”
+                    agreement. Under the terms of the agreement, the United States gave the British
+                    more than 50 obsolete destroyers, in exchange for 99-year leases to territory in
+                    Newfoundland and the Caribbean, which would be used as U.S. air and naval bases.
+                    British Prime Minister Winston Churchill had originally requested that Roosevelt
+                    provide the destroyers as a gift, but the President knew that the American
+                    public and Congress would oppose such a deal. He therefore decided that a deal
+                    that gave the United States long-term access to British bases could be justified
+                    as essential to the security of the Western Hemisphere—thereby assuaging the
+                    concerns of the public and the U.S. military</p>
+                <p>In December 1940, Churchill warned Roosevelt that the British were no longer able
+                    to pay for supplies. On December 17, President Roosevelt proposed a new
+                    initiative that would be known as Lend-Lease. The United States would provide
+                    Great Britain with the supplies it needed to fight Germany, but would not insist
+                    upon being paid immediately</p>
+                <p>Instead, the United States would “lend” the supplies to the British, deferring
+                    payment. When payment eventually did take place, the emphasis would not be on
+                    payment in dollars. The tensions and instability engendered by inter-allied war
+                    debts in the 1920s and 1930s had demonstrated that it was unreasonable to expect
+                    that virtually bankrupt European nations would be able to pay for every item
+                    they had purchased from the United States. Instead, payment would primarily take
+                    the form of a “consideration” granted by Britain to the United States. After
+                    many months of negotiation, the United States and Britain agreed, in Article VII
+                    of the Lend-Lease agreement they signed, that this consideration would primarily
+                    consist of joint action directed towards the creation of a liberalized
+                    international economic order in the postwar world.</p>
+                <figure>
+                    <graphic url="lendleasememorial.jpg" height="200px" width="200px"/>
+                    <head>Lend-Lease Memorial</head>
+                </figure>
+                <p>The United Kingdom was not the only nation to strike such a deal with the United
+                    States. Over the course of the war, the United States contracted Lend-Lease
+                    agreements with more than 30 countries, dispensing some $50 billion in
+                    assistance. Although British Prime Minister <persName>Winston
+                        Churchill</persName> later referred to the initiative as “the most unsordid
+                    act” one nation had ever done for another, Roosevelt’s primary motivation was
+                    not altruism or disinterested generosity. Rather, Lend-Lease was designed to
+                    serve America’s interest in defeating Nazi Germany without entering the war
+                    until the American military and public was prepared to fight. At a time when the
+                    majority of Americans opposed direct participation in the war, Lend-Lease
+                    represented a vital U.S. contribution to the fight against Nazi Germany.
+                    Moreover, the joint action called for under Article VII of the Lend-Lease
+                    agreements signed by the United States and the recipient nations laid the
+                    foundation for the creation of a new international economic order in the postwar
+                    world.</p>
+            </div>
+            <div type="section" xml:id="us-soviet">
+                <head>U.S.-Soviet Alliance, <date from="1941" to="1945">1941–1945</date>
+                </head>
+                <p>Although relations between the Soviet Union and the United States had been
+                    strained in the years before World War II, the U.S.-Soviet alliance of 1941–1945
+                    was marked by a great degree of cooperation and was essential to securing the
+                    defeat of Nazi Germany. Without the remarkable efforts of the Soviet Union on
+                    the Eastern Front, the United States and Great Britain would have been hard
+                    pressed to score a decisive military victory over Nazi Germany.</p>
+                <figure>
+                    <graphic url="soviet-poster.jpg" height="200px" width="200px"/>
+                    <head>Department of Defense Pro-Soviet Poster</head>
+                </figure>
+                <p>As late as 1939, it seemed highly improbable that the United States and the
+                    Soviet Union would forge an alliance. U.S.-Soviet relations had soured
+                    significantly following Stalin’s decision to sign a non-aggression pact with
+                    Nazi Germany in August of 1939. The Soviet occupation of eastern Poland in
+                    September and the “Winter War” against Finland in December led President
+                        <persName>Franklin Roosevelt</persName> to condemn the Soviet Union publicly
+                    as a “dictatorship as absolute as any other dictatorship in the world,” and to
+                    impose a “moral embargo” on the export of certain products to the Soviets.
+                    Nevertheless, in spite of intense pressure to sever relations with the Soviet
+                    Union, Roosevelt never lost sight of the fact that Nazi Germany, not the Soviet
+                    Union, posed the greatest threat to world peace. In order to defeat that threat,
+                    Roosevelt confided that he “would hold hands with the devil” if necessary.</p>
+                <p>Following the Nazi defeat of France in June of 1940, Roosevelt grew wary of the
+                    increasing aggression of the Germans and made some diplomatic moves to improve
+                    relations with the Soviets. Beginning in July of 1940, a series of negotiations
+                    took place in Washington between Under-Secretary of State <ref
+                        target="/departmenthistory/people/welles-benjamin-sumner">Sumner
+                        Welles</ref> and Soviet Ambassador Constantine Oumansky. Welles refused to
+                    accede to Soviet demands that the United States recognize the changed borders of
+                    the Soviet Union after the Soviet seizure of territory in Finland, Poland, and
+                    Romania and the reincorporation of the Baltic Republics in August 1940, but the
+                    U.S. Government did lift the embargo in January 1941. Furthermore, in March of
+                    1941, Welles warned Oumansky of a future Nazi attack against the Soviet Union.
+                    Finally, during the Congressional debate concerning the passage of the
+                    Lend-Lease bill in early 1941, Roosevelt blocked attempts to exclude the Soviet
+                    Union from receiving U.S. assistance.</p>
+                <figure>
+                    <graphic url="sumnerwelles.jpg" width="200px" height="200px"/>
+                    <head>Under-Secretary of State Sumner Welles</head>
+                </figure>
+                <p>The most important factor in swaying the Soviets eventually to enter into an
+                    alliance with the United States was the Nazi decision to launch its invasion of
+                    the Soviet Union in June 1941. President Roosevelt responded by dispatching his
+                    trusted aide <persName>Harry Lloyd Hopkins</persName> to Moscow in order to
+                    assess the Soviet military situation. Although the War Department had warned the
+                    President that the Soviets would not last more than six weeks, after two
+                    one-on-one meetings with Soviet Premier <persName>Josef Stalin</persName>,
+                    Hopkins urged Roosevelt to assist the Soviets. By the end of October, the first
+                        <ref target="/milestones/1937-1945/lend-lease">Lend-Lease aid</ref> to the
+                    Soviet Union was on its way. The United States entered the war as a belligerent
+                    in late 1941 and thus began coordinating directly with the Soviets, and the
+                    British, as allies.</p>
+                <p>Several issues arose during the war that threatened the alliance. These included
+                    the Soviet refusal to aide the Polish Home Army during the Warsaw Uprising of
+                    August 1944, and the decision of British and U.S. officials to exclude the
+                    Soviets from secret negotiations with German officers in March of 1945 in an
+                    effort to secure the surrender of German troops in Italy. The most important
+                    disagreement, however, was over the opening of a second front in the West.
+                    Stalin’s troops struggled to hold the Eastern front against the Nazi forces, and
+                    the Soviets began pleading for a British invasion of France immediately after
+                    the Nazi invasion in 1941. In 1942, Roosevelt unwisely promised the Soviets that
+                    the Allies would open the second front that autumn. Although Stalin only
+                    grumbled when the invasion was postponed until 1943, he exploded the following
+                    year when the invasion was postponed again until May of 1944. In retaliation,
+                    Stalin recalled his ambassadors from London and Washington and fears soon arose
+                    that the Soviets might seek a separate peace with Germany.</p>
+                <figure>
+                    <graphic url="hlhopkins.jpg" width="200px" height="200px"/>
+                    <head>Harry Lloyd Hopkins</head>
+                </figure>
+                <p>In spite of these differences, the defeat of Nazi Germany was a joint endeavor
+                    that could not have been accomplished without close cooperation and shared
+                    sacrifices. Militarily, the Soviets fought valiantly and suffered staggering
+                    casualties on the Eastern Front. When Great Britain and the United States
+                    finally invaded northern France in 1944, the Allies were finally able to drain
+                    Nazi Germany of its strength on two fronts. Finally, two devastating atomic bomb
+                    attacks against Japan by the United States, coupled with the Soviets’ decision
+                    to break their neutrality pact with Japan by invading Manchuria, finally led to
+                    the end of the war in the Pacific.</p>
+                <p>Furthermore, during the wartime conferences at Tehran and Yalta, Roosevelt
+                    secured political concessions from Stalin and Soviet participation in the United
+                    Nations. While President Roosevelt harbored no illusions about Soviet designs in
+                    Eastern Europe, it was his great hope that if the United States made a sincere
+                    effort to satisfy legitimate Soviet security requirements in Eastern Europe and
+                    Northeast Asia, and to integrate the U.S.S.R. into the United Nations, the
+                    Soviet regime would become an international team player and moderate its
+                    authoritarian regime. Unfortunately, soon after the war, the alliance between
+                    the United States and the Soviet Union began to unravel as the two nations faced
+                    complex postwar decisions.</p>
+            </div>
+            <div type="section" xml:id="chinese-exclusion-act-repeal">
+                <head>Repeal of the Chinese Exclusion Act, <date when="1943">1943</date>
+                </head>
+                <p>In 1943, Congress passed a measure to repeal the discriminatory exclusion laws
+                    against Chinese immigrants and to establish an immigration quota for China of
+                    around 105 visas per year. As such, the Chinese were both the first to be
+                    excluded in the beginning of the era of immigration restriction and the first
+                    Asians to gain entry to the United States in the era of liberalization. The
+                    repeal of this act was a decision almost wholly grounded in the exigencies of
+                    World War II, as Japanese propaganda made repeated reference to Chinese
+                    exclusion from the United States in order to weaken the ties between the United
+                    States and its ally, the Republic of China. The fact that in addition to general
+                    measures preventing Asian immigration, the Chinese were subject to their own,
+                    unique prohibition had long been a source of contention in Sino‑American
+                    relations. There was little opposition to the repeal, because the United States
+                    already had in place a number of measures to ensure that, even without the
+                    Chinese Exclusion Laws explicitly forbidding Chinese immigration, Chinese still
+                    could not enter. The Immigration Act of 1924 stated that aliens ineligible for
+                    U.S. citizenship were not permitted to enter the United States, and this
+                    included the Chinese.</p>
+                <figure>
+                    <graphic url="chinese-exclusion-repeal.jpg" height="200px" width="200px"/>
+                    <head>The Repeal of the Chinese Exclusion Act</head>
+                </figure>
+                <p>More controversial than repeal was the proposal to go one step further and place
+                    the Chinese on a quota basis for future entry to the United States. By finally
+                    applying the formulas created in the 1924 Immigration Act, the total annual
+                    quota for Chinese immigrants to the United States (calculated as a percentage of
+                    the total population of people of Chinese origin living in the United States in
+                    1920) would be around 105. In light of the overall immigration to the United
+                    States, at first glance the new quota seemed insignificant. Yet, those concerned
+                    about an onslaught of Chinese (or Asian) immigration and its potential impact on
+                    American society and racial composition believed that even this small quota
+                    represented an opening wedge through which potentially thousands of Chinese
+                    could enter the United States. Because migration within the Western Hemisphere
+                    was not regulated by the quota system, it seemed possible that Chinese residents
+                    in Central and South America would re-migrate to the United States. Moreover, if
+                    the Chinese of Hong Kong were to apply under the vast, largely unused British
+                    quota, thousands could enter each year on top of the number of available Chinese
+                    visas. </p>
+                <p>Fears about the economic, social, and racial effect of a “floodtide” of Chinese
+                    immigrants led to a compromise bill—fears that mirrored the xenophobic arguments
+                    that had led to Chinese Exclusion in the first place, some sixty years
+                    previously. Under this bill, there would be a quota on Chinese immigration, but,
+                    unlike European quotas based on country of citizenship, the Chinese quota would
+                    be based on ethnicity. Chinese immigrating to the United States from anywhere in
+                    the world would be counted against the Chinese quota, even if they had never
+                    been to China or had never held Chinese nationality. Creating this special,
+                    ethnic quota for the Chinese was a way for the United States to combat Japanese
+                    propaganda by proclaiming that Chinese were welcome, but at the same time, to
+                    ensure that only a limited number of Chinese actually entered the country. </p>
+                <p>President <persName>Franklin D. Roosevelt</persName> threw the weight of his
+                    office behind the compromise measure, connecting the importance of the measure
+                    to American wartime goals. In a letter to Congress, Roosevelt wrote that passing
+                    the bill was vital to correcting the “historic mistake” of Chinese exclusion,
+                    and he emphasized that the legislation was “important in the cause of winning
+                    the war and of establishing a secure peace.” </p>
+                <p>The repeal of Chinese exclusion paved the way for measures in 1946 to admit
+                    Filipino and Asian-Indian immigrants. The exclusion of both of these groups had
+                    long damaged U.S. relations with the Philippines and India. Eventually, Asian
+                    exclusion ended with the 1952 Immigration Act, although that Act followed the
+                    pattern of the Chinese quota and assigned racial, not national, quotas to all
+                    Asian immigrants. This system did not end until Congress did away with the
+                    National Origins quota system altogether in the Immigration Act of 1965.</p>
+            </div>
+            <div type="section" xml:id="war-time-conferences">
+                <head>Wartime Conferences, <date from="1941" to="1945">1941–1945</date>
+                </head>
+                <p>The first involvement of the United States in the wartime conferences between the
+                    Allied nations opposing the Axis powers actually occurred before the nation
+                    formally entered World War II. In August 1941, President <persName>Franklin
+                        Roosevelt</persName> and British Prime Minister <persName>Winston
+                        Churchill</persName> met secretly and devised an eight-point statement of
+                    war aims known as the Atlantic Charter, which included a pledge that the Allies
+                    would not accept territorial changes resulting from the war in Europe. Following
+                    the Japanese attack on Pearl Harbor, the wartime conferences focused on
+                    establishing a second front.</p>
+                <figure>
+                    <graphic url="roosevelt-churchill.jpg" height="200px" width="200px"/>
+                    <head>President Franklin Roosevelt and British Prime Minister Winston Churchill
+                        at the Wartime Conference</head>
+                </figure>
+                <p>At Casablanca in January 1943, Roosevelt and Churchill agreed to fight until the
+                    Axis powers surrendered unconditionally. </p>
+                <p>In a November 1943 meeting in Egypt with Chinese leader <persName>Chiang
+                        Kai-shek</persName>, Roosevelt and Churchill agreed to a pre-eminent role
+                    for China in postwar Asia. </p>
+                <p>The next major wartime conference included Roosevelt, Churchill, and the leader
+                    of the Soviet Union, Joseph Stalin. Meeting at Tehran following the Cairo
+                    Conference, the “Big Three” secured confirmation on the launching of the
+                    cross-channel invasion and a promise from Stalin that the Soviet Union would
+                    eventually enter the war against Japan. </p>
+                <p>In 1944, conferences at Bretton Woods and Dumbarton Oaks created the framework
+                    for international cooperation in the postwar world.</p>
+                <p>In February 1945, the “Big Three” met at the former Russian czar’s summer palace
+                    in the Crimea. Yalta was the most important and by far the most controversial of
+                    the wartime meetings. Recognizing the strong position that the Soviet Army
+                    possessed on the ground, Churchill and an ailing Roosevelt agreed to a number of
+                    compromises with Stalin that allowed Soviet hegemony to remain in Poland and
+                    other Eastern European countries, granted territorial concessions to the Soviet
+                    Union, and outlined punitive measures against Germany, including an occupation
+                    and reparations in principle. Stalin did guarantee that the Soviet Union would
+                    declare war on Japan within six months.</p>
+                <p>The last meeting of the “Big Three” occurred at Potsdam in July 1945, where the
+                    tension that would erupt into the cold war was evident. Despite the end of the
+                    war in Europe and the revelation of the existence of the atomic bomb to the
+                    Allies, neither President Harry Truman, Roosevelt’s successor, nor Clement
+                    Atlee, who mid-way through the conference replaced Churchill, could come to
+                    agreement with Stalin on any but the most minor issues. The most significant
+                    agreement was the issuance of the Potsdam Declaration to Japan demanding an
+                    immediate and unconditional surrenderand threatening Japan with destruction if
+                    they did not comply. With the Axis forces defeated, the wartime alliance soon
+                    devolved into suspicion and bitterness on both sides. </p>
+            </div>
+            <div type="section" xml:id="casablanca">
+                <head>The Casablanca Conference, <date when="1943">1943</date>
+                </head>
+                <p>The Casablanca Conference was a meeting between U.S. President <persName>Franklin
+                        D. Roosevelt</persName> and British Prime Minister <persName>Winston
+                        Churchill</persName> in the city of Casablanca, Morocco that took place from
+                    January 14–24, 1943. While Soviet Premier <persName>Joseph Stalin</persName>
+                    received an invitation, he was unable to attend because the Red Army was engaged
+                    in a major offensive against the German army at the time. The most notable
+                    developments at the Conference were the finalization of Allied strategic plans
+                    against the Axis powers in 1943, and the promulgation of the policy of
+                    “unconditional surrender.” </p>
+                <figure>
+                    <graphic url="casablanca-conference.jpg" height="200px" width="200px"/>
+                    <head>World Leaders at the Casablanca Conference</head>
+                </figure>
+                <p>The Casablanca Conference took place just two months after the Anglo-American
+                    landings in French North Africa in November 1942. At this meeting, Roosevelt and
+                    Churchill focused on coordinating Allied military strategy against the Axis
+                    powers over the course of the coming year. They resolved to concentrate their
+                    efforts against Germany in the hopes of drawing German forces away from the
+                    Eastern Front, and to increase shipments of supplies to the Soviet Union. While
+                    they would begin concentrating forces in England in preparation for an eventual
+                    landing in northern France, they decided that first they would concentrate their
+                    efforts in the Mediterranean by launching an invasion of Sicily and the Italian
+                    mainland designed to knock Italy out of the war. They also agreed to strengthen
+                    their strategic bombing campaign against Germany. Finally, the leaders agreed on
+                    a military effort to eject Japan from Papua New Guinea and to open up new supply
+                    lines to China through Japanese-occupied Burma. </p>
+                <p>On the final day of the Conference, President Roosevelt announced that he and
+                    Churchill had decided that the only way to ensure postwar peace was to adopt a
+                    policy of unconditional surrender. The President clearly stated, however, that
+                    the policy of unconditional surrender did not entail the destruction of the
+                    populations of the Axis powers but rather, “the destruction of the philosophies
+                    in those countries which are based on conquest and the subjugation of other
+                    people.” </p>
+                <p>The policy of demanding unconditional surrender was an outgrowth of Allied war
+                    aims, most notably the Atlantic Charter of August 1941, which called for an end
+                    to wars of aggression and the promotion of disarmament and collective security.
+                    Roosevelt wanted to avoid the situation that had followed the First World War,
+                    when large segments of German society supported the position, so deftly
+                    exploited by the Nazi party, that Germany had not been defeated militarily, but
+                    rather, had been “stabbed in the back” by liberals, pacifists, socialists,
+                    communists, and Jews. Roosevelt also wished to make it clear that neither the
+                    United States nor Great Britain would seek a separate peace with the Axis
+                    powers. </p>
+            </div>
+            <div type="section" xml:id="tehran-conf">
+                <head>The Tehran Conference, <date when="1943">1943</date>
+                </head>
+                <p>The Tehran Conference was a meeting between U.S. President <persName>Franklin
+                        Delano Roosevelt</persName>, British Prime Minister <persName>Winston
+                        Churchill</persName>, and Soviet Premier <persName>Joseph Stalin</persName>
+                    in Tehran, Iran, between November 28 and December 1, 1943.</p>
+                <figure>
+                    <graphic url="tehran-conference.jpg" height="200px" width="200px"/>
+                    <head>Stalin, Roosevelt and Churchill at the Tehran Conference</head>
+                </figure>
+                <p>During the Conference, the three leaders coordinated their military strategy
+                    against Germany and Japan and made a number of important decisions concerning
+                    the post World War II era. The most notable achievements of the Conference
+                    focused on the next phases of the war against the Axis powers in Europe and
+                    Asia. Roosevelt, Churchill, and Stalin engaged in discussions concerning the
+                    terms under which the British and Americans finally committed to launching
+                    Operation Overlord, an invasion of northern France, to be executed by May of
+                    1944. The Soviets, who had long been pushing the Allies to open a second front,
+                    agreed to launch another major offensive on the Eastern Front that would divert
+                    German troops away from the Allied campaign in northern France. Stalin also
+                    agreed in principle that the Soviet Union would declare war against Japan
+                    following an Allied victory over Germany. In exchange for a Soviet declaration
+                    of war against Japan, Roosevelt conceded to Stalin’s demands for the Kurile
+                    Islands and the southern half of Sakhalin, and access to the ice-free ports of
+                    Dairen (Dalian) and Port Arthur (Lüshun Port) located on the Liaodong Peninsula
+                    in northern China. The exact details concerning this deal were not finalized,
+                    however, until the Yalta Conference of 1945. </p>
+                <p> At Tehran, the three Allied leaders also discussed important issues concerning
+                    the fate of Eastern Europe and Germany in the postwar period. Stalin pressed for
+                    a revision of Poland’s eastern border with the Soviet Union to match the line
+                    set by British Foreign Secretary Lord Curzon in 1920. In order to compensate
+                    Poland for the resulting loss of territory, the three leaders agreed to move the
+                    German-Polish border to the Oder and Neisse rivers. This decision was not
+                    formally ratified, however, until the Potsdam Conference of 1945. During these
+                    negotiations Roosevelt also secured from Stalin his assurance that the Republics
+                    of Lithuania, Latvia, and Estonia would be reincorporated into the Soviet Union
+                    only after the citizens of each republic voted on the question in a referendum.
+                    Stalin stressed, however, that the matter would have to be resolved “in
+                    accordance with the Soviet constitution,” and that he would not consent to any
+                    international control over the elections. Roosevelt, Churchill, and Stalin also
+                    broached the question of the possible postwar partition of Germany into Allied
+                    zones of occupation and agreed to have the European Advisory Commission
+                    “carefully study the question of dismemberment” before any final decision was
+                    taken. </p>
+                <p> Broader international cooperation also became a central theme of the
+                    negotiations at Tehran. Roosevelt and Stalin privately discussed the composition
+                    of the United Nations. During the Moscow Conference of the Foreign Ministers in
+                    October and November of 1943, the United States, Britain, China, and the Soviet
+                    Union had signed a four-power declaration whose fourth point called for the
+                    creation of a “general international organization” designed to promote
+                    “international peace and security.” At Tehran, Roosevelt outlined for Stalin his
+                    vision of the proposed organization in which the future United Nations would be
+                    dominated by “four policemen” (the United States, Britain, China, and Soviet
+                    Union) who “would have the power to deal immediately with any threat to the
+                    peace and any sudden emergency which requires action.” </p>
+                <p> Finally, the three leaders issued a “Declaration of the Three Powers Regarding
+                    Iran.” Within it, they thanked the Iranian Government for its assistance in the
+                    war against Germany and promised to provide it with economic assistance both
+                    during and after the war. Most importantly, the U.S., British, and Soviet
+                    Governments stated that they all shared a “desire for the maintenance of the
+                    independence, sovereignty, and territorial integrity of Iran.” </p>
+                <p> Roosevelt secured many of his objectives during the Conference. The Soviet Union
+                    had committed to joining the war against Japan and expressed support for
+                    Roosevelt’s plans for the United Nations. Most importantly, Roosevelt believed
+                    that he had won Stalin’s confidence by proving that the United States was
+                    willing to negotiate directly with the Soviet Union and, most importantly, by
+                    guaranteeing the opening of the second front in France by the spring of 1944.
+                    However, Stalin also gained tentative concessions on Eastern Europe that would
+                    be confirmed during the later wartime conferences.</p>
+            </div>
+            <div type="section" xml:id="bretton-woods"
+                ana="roosevelt-franklin-d hull-cordell united-kingdom financial-and-monetary-policy trade-and-commercial-policy-agreements">
+                <head>Bretton Woods-GATT, 1941–1947</head>
+                <p>During and immediately after the Second World War, the United States, the United
+                    Kingdom, and other allied nations engaged in a series of negotiations to
+                    establish the rules for the postwar international economy. The result was the
+                    creation of the International Monetary Fund and the World Bank at the July 1944
+                    Bretton Woods Conference and the signing of the General Agreement on Tariffs and
+                    Trade at an international conference in Geneva in October 1947.</p>
+                <figure>
+                    <graphic url="bretton-woods.jpg" height="350px" width="441px"/>
+                    <head>Harry Dexter White and John Maynard Keynes at the inaugural meeting of the
+                        International Monetary Fund’s Board of Governors, March 8, 1946.
+                        (International Monetary Fund)</head>
+                </figure>
+                <p>The lessons drawn by U.S. policymakers from the interwar period informed their
+                    approach to the postwar global economy. President <persName>Franklin D.
+                        Roosevelt</persName> and officials such as Secretary of State
+                        <persName>Cordell Hull</persName> were adherents of the Wilsonian belief
+                    that free trade promoted not just prosperity, but also peace. The experience of
+                    the 1930s certainly suggested as much. The policies adopted by governments to
+                    combat the Great Depression—high tariffs, competitive currency devaluations,
+                    discriminatory trading blocs—helped destabilize the international environment
+                    without improving the economic situation. This experience led leaders throughout
+                    the anti-Axis United Nations alliance to conclude that economic cooperation was
+                    the only way to achieve both peace and prosperity, at home and abroad.</p>
+                <p>This vision was articulated in the Atlantic Charter, issued by Roosevelt and
+                    British Prime Minister <persName>Winston Churchill</persName> at the conclusion
+                    of the August 1941 Atlantic Conference. The Charter’s fourth point committed the
+                    United States and the United Kingdom “to further the enjoyment by all States,
+                    great or small, victor or vanquished, of access, on equal terms, to the trade
+                    and to the raw materials of the world which are needed for their economic
+                    prosperity,” while its fifth point expressed their commitment to “the fullest
+                    collaboration between all nations in the economic field with the object of
+                    securing, for all, improved labor standards, economic advancement and social
+                    security.” The two countries elaborated upon these principles in Article VII of
+                    their February 1942 agreement on lend-lease aid. In that article, the United
+                    Kingdom agreed that in return for U.S. lend-lease assistance, it would cooperate
+                    with the United States in devising measures to expand “production, employment,
+                    and the exchange and consumption of goods,” to eliminate “all forms of
+                    discriminatory treatment in international commerce,” to reduce barriers to
+                    trade, and generally to achieve the goals laid out in the Atlantic Charter.</p>
+                <p>By early 1942, U.S. and British officials began preparing proposals that would
+                    foster economic stability and prosperity in the postwar world. <persName>Harry
+                        Dexter White</persName>, Special Assistant to the U.S. Secretary of the
+                    Treasury, and <persName>John Maynard Keynes</persName>, an advisor to the
+                    British Treasury, each drafted plans creating organizations that would provide
+                    financial assistance to countries experiencing short-term balance of payments
+                    deficits; this assistance was meant to ensure that such countries did not adopt
+                    protectionist or predatory economic policies to improve their balance of
+                    payments position. While both plans envisioned a world of fixed exchange rates,
+                    believed to be more conducive to the expansion of international trade than
+                    floating exchange rates, they differed in several significant respects. As a
+                    result, from 1942 until 1944, bilateral and multilateral meetings of allied
+                    financial experts were held in order to settle upon a common approach. Agreement
+                    was finally reached at the July 1944 United Nations Monetary and Financial
+                    Conference, a gathering of delegates from 44 nations that met in Bretton Woods,
+                    New Hampshire. The two major accomplishments of the Bretton Woods conference
+                    were the creation of the International Monetary Fund (IMF) and the International
+                    Bank for Reconstruction and Development (IBRD), commonly known as the World
+                    Bank. The IMF was charged with overseeing a system of fixed exchange rates
+                    centered on the U.S. dollar and gold, serving as a forum for consultation and
+                    cooperation and a provider of short-term financial assistance to countries
+                    experiencing temporary deficits in their balance of payments. The IBRD was
+                    responsible for providing financial assistance for the reconstruction of
+                    war-ravaged nations and the economic development of less developed countries. In
+                    July 1945, Congress passed the Bretton Woods Agreements Act, authorizing U.S.
+                    entry into the IMF and World Bank, and the two organizations officially came
+                    into existence five months later. The fixed exchange rate system established at
+                    Bretton Woods endured for the better part of three decades; only after the
+                    exchange crises of August 1971, when President <persName>Richard M.
+                        Nixon</persName> suspended the dollar’s convertibility into gold, and
+                    February/March 1973 did floating exchange rates become the norm for the major
+                    industrialized democracies.</p>
+                <p>Agreement on international trade proved more difficult to achieve. One of the
+                    most contentious issues was the system of preferential tariffs established among
+                    the members of the British Commonwealth in 1932, whereby trade within the
+                    Commonwealth was subject to lower tariffs than trade between the Commonwealth
+                    nations and the rest of the world. U.S. officials such as Cordell Hull opposed
+                    imperial preferences on both ideological and practical grounds—the United
+                    Kingdom and Canada, both members of the system, were the United States’ two
+                    largest trading partners—and called for their abolition; however, many U.K. and
+                    other Commonwealth officials favored keeping the preferences, at least until the
+                    United States agreed to reduce the high Smoot-Hawley tariffs set in 1930. After
+                    more than four years of negotiations on this and other issues—such as the rules
+                    that would govern tariff negotiations and the structure of a proposed new
+                    organization to oversee international trade—agreement was finally reached in
+                    1947. Twenty-three nations meeting in Geneva from April to October 1947
+                    concluded the first postwar round of tariff negotiations, leading to reductions
+                    in tariffs and imperial preferences, as well as a draft charter for a new
+                    institution, the International Trade Organization (ITO). Participants also
+                    signed the General Agreement on Tariffs and Trade (GATT), designed not only to
+                    implement the agreed tariff cuts but to serve as an interim codification of the
+                    rules governing commercial relations among its signatories until the ITO was
+                    created. In November 1947, the United Nations Conference on Trade and Employment
+                    convened in Havana to consider the draft ITO charter; four months of
+                    negotiations later, the representatives of 53 countries signed the finished
+                    charter in March 1948. However, strong opposition in the U.S. Congress meant
+                    that the ITO never came into existence. Instead, it was the GATT that governed
+                    postwar international trade relations for almost fifty years. Under the GATT’s
+                    aegis, eight rounds of trade negotiations resulted in significant tariff
+                    reductions among its members before it was superseded by the World Trade
+                    Organization in 1995.</p>
+            </div>
+            <div type="section" xml:id="yalta-conf">
+                <head>The Yalta Conference, <date when="1945">1945</date>
+                </head>
+                <p>The Yalta Conference took place in a Russian resort town in the Crimea from
+                    February 4–11, 1945, during World War Two. At Yalta, U.S. President
+                        <persName>Franklin D. Roosevelt</persName>, British Prime Minister
+                        <persName>Winston Churchill</persName>, and Soviet Premier <persName>Joseph
+                        Stalin</persName> made important decisions regarding the future progress of
+                    the war and the postwar world.</p>
+                <figure>
+                    <graphic url="yalta-conference.jpg" height="200px" width="200px"/>
+                    <head>World Leaders at the Yalta Conference</head>
+                </figure>
+                <p>The Allied leaders came to Yalta knowing that an Allied victory in Europe was
+                    practically inevitable but less convinced that the Pacific war was nearing an
+                    end. Recognizing that a victory over Japan might require a protracted fight, the
+                    United States and Great Britain saw a major strategic advantage to Soviet
+                    participation in the Pacific theater. At Yalta, Roosevelt and Churchill
+                    discussed with Stalin the conditions under which the Soviet Union would enter
+                    the war against Japan and all three agreed that, in exchange for potentially
+                    crucial Soviet participation in the Pacific theater, the Soviets would be
+                    granted a sphere of influence in Manchuria following Japan’s surrender. This
+                    included the southern portion of Sakhalin, a lease at Port Arthur (now
+                    Lüshunkou), a share in the operation of the Manchurian railroads, and the Kurile
+                    Islands. This agreement was the major concrete accomplishment of the Yalta
+                    Conference. </p>
+                <p>The Allied leaders also discussed the future of Germany, Eastern Europe and the
+                    United Nations. Roosevelt, Churchill, and Stalin agreed not only to include
+                    France in the postwar governing of Germany, but also that Germany should assume
+                    some, but not all, responsibility for reparations following the war. The
+                    Americans and the British generally agreed that future governments of the
+                    Eastern European nations bordering the Soviet Union should be “friendly” to the
+                    Soviet regime while the Soviets pledged to allow free elections in all
+                    territories liberated from Nazi Germany. Negotiators also released a declaration
+                    on Poland, providing for the inclusion of Communists in the postwar national
+                    government. In discussions regarding the future of the United Nations, all
+                    parties agreed to an American plan concerning voting procedures in the Security
+                    Council, which had been expanded to five permanent members following the
+                    inclusion of France. Each of these permanent members was to hold a veto on
+                    decisions before the Security Council. </p>
+                <p>Initial reaction to the Yalta agreements was celebratory. Roosevelt and many
+                    other Americans viewed it as proof that the spirit of U.S.-Soviet wartime
+                    cooperation would carry over into the postwar period. This sentiment, however,
+                    was short lived. With the death of Franklin D. Roosevelt on April 12, 1945,
+                    Harry S. Truman became the thirty-third president of the United States. By the
+                    end of April, the new administration clashed with the Soviets over their
+                    influence in Eastern Europe, and over the United Nations. Alarmed at the
+                    perceived lack of cooperation on the part of the Soviets, many Americans began
+                    to criticize Roosevelt’s handling of the Yalta negotiations. To this day, many
+                    of Roosevelt’s most vehement detractors accuse him of “handing over” Eastern
+                    Europe and Northeast Asia to the Soviet Union at Yalta despite the fact that the
+                    Soviets did make many substantial concessions. </p>
+            </div>
+            <div type="section" xml:id="potsdam-conf">
+                <head>The Potsdam Conference, <date when="1945">1945</date>
+                </head>
+                <p>The Big Three—Soviet leader <persName>Joseph Stalin</persName>, British Prime
+                    Minister <persName>Winston Churchill</persName> (replaced on July 26 by Prime
+                    Minister <persName>Clement Attlee</persName>), and U.S. President
+                        <persName>Harry Truman</persName>—met in <placeName>Potsdam,
+                        Germany</placeName>, from July 17 to August 2, 1945, to negotiate terms for
+                    the end of World War II. After the Yalta Conference of February 1945, Stalin,
+                    Churchill, and U.S. President Franklin D. Roosevelt had agreed to meet following
+                    the surrender of Germany to determine the postwar borders in Europe. Germany
+                    surrendered on May 8, 1945, and the Allied leaders agreed to meet over the
+                    summer at Potsdam to continue the discussions that had begun at Yalta. Although
+                    the Allies remained committed to fighting a joint war in the Pacific, the lack
+                    of a common enemy in Europe led to difficulties reaching consensus concerning
+                    postwar reconstruction on the European continent. </p>
+                <figure>
+                    <graphic url="truman-stalin.jpg" height="200px" width="200px"/>
+                    <head> Soviet Leader Joseph Stalin and President Harry Truman</head>
+                </figure>
+                <p>The major issue at Potsdam was the question of how to handle Germany. At Yalta,
+                    the Soviets had pressed for heavy postwar reparations from Germany, half of
+                    which would go to the Soviet Union. While Roosevelt had acceded to such demands,
+                    Truman and his Secretary of State, <persName>James Byrnes</persName>, were
+                    determined to mitigate the treatment of Germany by allowing the occupying
+                    nations to exact reparations only from their own zone of occupation. Truman and
+                    Byrnes encouraged this position because they wanted to avoid a repetition of the
+                    situation created by the Treaty of Versailles, which had exacted high
+                    reparations payments from Germany following World War One. Many experts agreed
+                    that the harsh reparations imposed by the Versailles Treaty had handicapped the
+                    German economy and fueled the rise of the Nazis. </p>
+                <p>Despite numerous disagreements, the Allied leaders did manage to conclude some
+                    agreements at Potsdam. For example, the negotiators confirmed the status of a
+                    demilitarized and disarmed Germany under four zones of Allied occupation.
+                    According to the Protocol of the Conference, there was to be “a complete
+                    disarmament and demilitarization of Germany”; all aspects of German industry
+                    that could be utilized for military purposes were to be dismantled; all German
+                    military and paramilitary forces were to be eliminated; and the production of
+                    all military hardware in Germany was forbidden. Furthermore, German society was
+                    to be remade along democratic lines by repeal of all discriminatory laws from
+                    the Nazi era and by the arrest and trial of those Germans deemed to be “war
+                    criminals.” The German educational and judicial systems were to be purged of any
+                    authoritarian influences, and democratic political parties would be encouraged
+                    to participate in the administration of Germany at the local and state level.
+                    The reconstitution of a national German Government was, however, postponed
+                    indefinitely, and the Allied Control Commission (which was comprised of four
+                    occupying powers, the United States, Britain, France, and the Soviet Union)
+                    would run the country during the interregnum. </p>
+                <p>One of the most controversial matters addressed at the Potsdam Conference dealt
+                    with the revision of the German-Soviet-Polish borders and the expulsion of
+                    several million Germans from the disputed territories. In exchange for the
+                    territory it lost to the Soviet Union following the readjustment of the
+                    Soviet-Polish border, Poland received a large swath of German territory and
+                    began to deport the German residents of the territories in question, as did
+                    other nations that were host to large German minority populations. The
+                    negotiators at Potsdam were well-aware of the situation, and even though the
+                    British and Americans feared that a mass exodus of Germans into the western
+                    occupation zones would destabilize them, they took no action other than to
+                    declare that “any transfers that take place should be effected in an orderly and
+                    humane manner” and to request that the Poles, Czechoslovaks and Hungarians
+                    temporarily suspend additional deportations. </p>
+                <p>In addition to settling matters related to Germany and Poland, the Potsdam
+                    negotiators approved the formation of a Council of Foreign Ministers that would
+                    act on behalf of the United States, Great Britain, the Soviet Union, and China
+                    to draft peace treaties with Germany’s former allies. Conference participants
+                    also agreed to revise the 1936 Montreux Convention, which gave Turkey sole
+                    control over the Turkish Straits. Furthermore, the United States, Great Britain,
+                    and China released the “Potsdam Declaration,” which threatened Japan with
+                    “prompt and utter destruction” if it did not immediately surrender (the Soviet
+                    Union did not sign the declaration because it had yet to declare war on Japan). </p>
+                <p>The Potsdam Conference is perhaps best known for President Truman’s July 24, 1945
+                    conversation with Stalin, during which time the President informed the Soviet
+                    leader that the United States had successfully detonated the first atomic bomb
+                    on July 16, 1945. Historians have often interpreted Truman’s somewhat firm
+                    stance during negotiations to the U.S. negotiating team’s belief that U.S.
+                    nuclear capability would enhance its bargaining power. Stalin, however, was
+                    already well-informed about the U.S. nuclear program thanks to the Soviet
+                    intelligence network; so he also held firm in his positions. This situation made
+                    negotiations challenging. The leaders of the United States, Great Britain, and
+                    the Soviet Union, who, despite their differences, had remained allies throughout
+                    the war, never met again collectively to discuss cooperation in postwar
+                    reconstruction.</p>
+            </div>
+            <div type="section" xml:id="un">
+                <head>The Formation of the United Nations, <date when="1945">1945</date>
+                </head>
+                <p>On January 1, 1942, representatives of 26 nations at war with the Axis powers met
+                    in <placeName>Washington</placeName> to sign the Declaration of the United
+                    Nations endorsing the <ref target="/milestones/1937-1945/atlantic-conf">Atlantic
+                        Charter</ref>, pledging to use their full resources against the Axis and
+                    agreeing not to make a separate peace.</p>
+                <figure>
+                    <graphic url="founding-un.jpg" height="200px" width="200px"/>
+                    <head>The Founding of the UN in San Francisco</head>
+                </figure>
+                <p>At the Quebec Conference in August 1943, Secretary of State Cordell Hull and
+                    British Foreign Secretary Anthony Eden agreed to draft a declaration that
+                    included a call for “a general international organization, based on the
+                    principle sovereign equality of all nations.” An agreed declaration was issued
+                    after a Foreign Ministers Conference in Moscow in October 1943. When President
+                        <persName>Franklin D. Roosevelt</persName> met with Soviet Premier
+                        <persName>Joseph Stalin</persName> in <placeName>Tehran, Iran</placeName>,
+                    in November 1943, he proposed an international organization comprising an
+                    assembly of all member states and a 10-member executive committee to discuss
+                    social and economic issues. The United States, Great Britain, Soviet Union, and
+                    China would enforce peace as “the four policemen.” Meanwhile Allied
+                    representatives founded a set of task-oriented organizations: the Food and
+                    Agricultural Organization (May 1943), the United Nations Relief and
+                    Rehabilitation Administration (November 1943), the United Nations Educational,
+                    Scientific, and Cultural Organization (April 1944), the International Monetary
+                    Fund and the World Bank (July 1944), and the International Civil Aviation
+                    Organization (November 1944). </p>
+                <p> U.S., British, Soviet, and Chinese representatives met at Dumbarton Oaks in
+                    Washington in August and September 1944 to draft the charter of a postwar
+                    international organization based on the principle of collective security. They
+                    recommended a General Assembly of all member states and a Security Council
+                    consisting of the Big Four plus six members chosen by the Assembly. Voting
+                    procedures and the veto power of permanent members of the Security Council were
+                    finalized at the <ref target="/milestones/1937-1945/yalta-conf">Yalta Conference
+                        in 1945</ref> when Roosevelt and Stalin agreed that the veto would not
+                    prevent discussions by the Security Council. Roosevelt agreed to General
+                    Assembly membership for Ukraine and Byelorussia while reserving the right, which
+                    was never exercised, to seek two more votes for the United States. </p>
+                <p>Representatives of 50 nations met in San Francisco April-June 1945 to complete
+                    the Charter of the United Nations. In addition to the General Assembly of all
+                    member states and a Security Council of 5 permanent and 6 non-permanent members,
+                    the Charter provided for an 18-member Economic and Social Council, an
+                    International Court of Justice, a Trusteeship Council to oversee certain
+                    colonial territories, and a Secretariat under a Secretary General. The Roosevelt
+                    administration strove to avoid <persName>Woodrow Wilson</persName>’s mistakes in
+                    selling the League of Nations to the Senate. It sought bipartisan support and in
+                    September 1943 the Republican Party endorsed U.S. participation in a postwar
+                    international organization, after which both houses of Congress overwhelmingly
+                    endorsed participation. Roosevelt also sought to convince the public that an
+                    international organization was the best means to prevent future wars. The Senate
+                    approved the UN Charter on July 28, 1945, by a vote of 89 to 2. The United
+                    Nations came into existence on October 24, 1945, after 29 nations had ratified
+                    the Charter. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

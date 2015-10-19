@@ -1,0 +1,1221 @@
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1969–1976</title>
+                <title type="short">1969–1976</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31"
+                    target="#foreword #nixon-shock #salt #rapprochement-china #arab-israeli-war-1973 #oil-embargo #ending-vietnam #shuttle-diplomacy"
+                />
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword" ana="nixon-richard ford-gerald vietnam-conflict">
+                <head>1969–1976: The Presidencies of Richard M. Nixon and Gerald R. Ford</head>
+                <p>President Richard M. Nixon assumed office on January 20, 1969, as an experienced
+                    practitioner of foreign policy. He came into the presidency with clear views on
+                    the broad objectives of his administration in foreign relations, and with a
+                    determination to control major foreign policy initiatives from the White House.
+                    During the post-election transition period, Nixon selected Dr. Henry A.
+                    Kissinger as his National Security Advisor, and approved a proposal drafted by
+                    Kissinger concentrating the interagency policymaking process in the National
+                    Security Council. Nixon selected William P. Rogers as the Secretary of State and
+                    Melvin R. Laird as the Secretary of Defense. General Earle G. Wheeler served as
+                    Chairman of the Joint Chiefs of Staff (CJCS) until July 1970, when he was
+                    replaced by Admiral Thomas H. Moorer. The Director of the Central Intelligence
+                    Agency, Richard M. Helms, continued in that position, which he had held since
+                    1966.</p>
+                <figure>
+                    <graphic url="nixon-ford.jpg" height="450px" width="299px"/>
+                    <head>Kissinger, Nixon, Ford, and Haig meet in the Oval Office, October 13,
+                        1973. (Richard Nixon Library)</head>
+                </figure>
+                <p>Nixon was a realist, convinced that power was the core dynamic of the
+                    international system; while willing to take advantage of summit meetings for
+                    political and diplomatic purposes, he was highly skeptical about personal
+                    diplomacy. His central concern through his presidency lay in managing great
+                    power relationships in the bipolar international system. As the relationship
+                    between Nixon and Kissinger matured, they evolved into a close partnership,
+                    generally with Nixon laying out the broad outlines of policy and Kissinger
+                    helping Nixon work out his thoughts then tirelessly executing the detailed
+                    actions necessary to implement broad policy. While Nixon’s major foreign policy
+                    initiatives tended to come as great surprises when announced, they had a
+                    long-standing basis in his thought and had been worked out well before his
+                    inauguration. During the summer of 1967, for example, he spoke at the Bohemian
+                    Club in San Francisco, taking the opportunity to outline his thoughts on U.S.
+                    relations with the Soviet Union. Similarly, in an article published in <hi
+                        rend="italic">Foreign Affairs</hi> in October 1967, he emphasized the
+                    importance of bringing China into the community of nations. </p>
+                <p>But the achievement of any of these larger visions, he believed, rested on his
+                    ability to reach an honorable end to the Vietnam War. Nixon thought that defeat
+                    in that conflict would prolong and deepen the division in the United States, and
+                    place the United States in a position of weakness in dealing with the Soviets.
+                    He and Kissinger projected that the appearance of American weakness would
+                    encourage the Soviet Union to adopt a more aggressive foreign policy, in the end
+                    creating the risk of war between the superpowers.</p>
+                <p>Nixon expected to end American involvement in the Vietnam War within a year, but
+                    this hope was dashed when his initial strategy—increasing diplomatic and
+                    military pressure on North Vietnam, while offering conciliatory negotiating
+                    terms—failed to yield a settlement. He and Kissinger turned to a dual strategy:
+                    pursuing a negotiated settlement, while building up South Vietnamese forces and
+                    withdrawing U.S. troops, a process known as “Vietnamization” of the war.</p>
+                <p>The policymaking process became increasingly concentrated and acrimonious through
+                    Nixon’s first administration, with Kissinger and Rogers repeatedly clashing over
+                    organizational and personal roles. These clashes generally occurred at times of
+                    crisis, imposing a cost on Nixon and on the policy process in general.
+                    Kissinger’s deputy, General Al Haig, became an increasingly influential advisor
+                    to Nixon, especially on issues related to the war in Southeast Asia.</p>
+                <p>Nixon’s major policy initiatives came to fruition during 1972 and early 1973: the
+                    “opening to China” with the Beijing Summit in February, the dawn of détente with
+                    the Moscow Summit in May, and the end of American involvement in the Vietnam War
+                    in January 1973. By that time, the Watergate scandals had begun to envelope
+                    Nixon’s presidency, with increasing costs in distraction, stress, and political
+                    weakness during Nixon’s remaining time in office. The Nixon administration also
+                    grappled with the consequences of the Arab-Israeli War of October 1973, namely
+                    the energy crisis precipitated by the Organization of Arab Petroleum Exporting
+                    Countries (OAPEC) oil embargo against the United States.</p>
+                <p>Nixon’s resignation in August 1974 brought Gerald R. Ford to the presidency. Ford
+                    inherited Nixon’s second-term foreign policy team, which had undergone
+                    considerable turmoil in previous months. Kissinger succeeded Rogers as Secretary
+                    of State on September 21, 1973, and served as both Secretary of State and
+                    National Security Advisor. Elliott L. Richardson succeeded Laird as Secretary of
+                    Defense in January 1973, and then moved to become the Attorney General in late
+                    May. James R. Schlesinger served as Director of the Central Intelligence Agency
+                    for six months at the outset of the administration, replacing Helms; he then
+                    replaced Richardson as the Secretary of Defense. William E. Colby followed
+                    Schlesinger as the Director of the Central Intelligence Agency. General George
+                    S. Brown replaced Moorer as the CJCS in July 1974.</p>
+                <p>Ford emphasized continuity in foreign policy, continuing Nixon’s policy of
+                    détente with the Soviet Union and the Strategic Arms Limitation Talks (SALT),
+                    reaching broad agreement on the SALT II framework in Vladivostok in November
+                    1974. Along that same line, he continued to develop U.S. relations with the
+                    People’s Republic of China, conducting a summit in Beijing in December 1975. He
+                    also worked with Kissinger in securing the Helsinki Accords, which were signed
+                    in August 1975, and a second Egyptian-Israeli Disengagement Agreement, which was
+                    signed in September 1975. The first months of his presidency saw the invasion
+                    and conquest of South Vietnam by North Vietnam in March–April 1975, followed
+                    quickly by the <hi rend="italic">Mayaguez</hi> incident. </p>
+                <p>Dissatisfied with the performance of his foreign policy team, Ford reshaped it on
+                    November 3, 1975. On that day he named Lt. Gen. Brent Scowcroft his National
+                    Security Advisor, with Kissinger continuing in his responsibilities as Secretary
+                    of State, and Donald R. Rumsfeld replacing James Schlesinger as the Secretary of
+                    Defense. Colby was removed as the Director of the Central Intelligence Agency,
+                    replaced by George H.W. Bush.</p>
+                <p>During the last year of Ford’s presidency, Senator Henry Jackson led critics of
+                    détente who viewed it as an amoral foreign policy. That criticism fueled a
+                    significant challenge to his presidential candidacy from Ronald Reagan. In
+                    response, Ford slowed the momentum both toward an arms control agreement, and
+                    toward an agreement in the protracted negotiations on the Panama Canal. Ford was
+                    defeated by Jimmy Carter in the 1976 election and left office on January 20,
+                    1977.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="allende"
+                ana="nixon-richard kissinger-henry-a rogers-william-pierce chile foreign-investment covert-actions">
+                <head>The Allende Years and the Pinochet Coup, 1969–1973</head>
+                <p>Relations between the United States and Chile deteriorated in the 1960s due to
+                    U.S. concerns regarding the Chilean Left and the rise of Chilean nationalization
+                    of certain industries, especially copper. The Alliance for Progress, signed in
+                    1961 by President <persName>John F. Kennedy</persName>, was designed to prevent
+                    the spread of socialism throughout the hemisphere. The Alliance allowed for
+                    monetary investment in Latin American countries that would help bolster
+                    infrastructure, education, and champion democratic governments, and Chile was
+                    one of the primary recipients of aid. The prospect of the nationalization of two
+                    of the leading Chilean copper companies, Anaconda and Kennicott—both owned by
+                    corporations based in the United States—along with the growth of socialist
+                    sentiment throughout the hemisphere led the United States to overtly and
+                    covertly send aid and assistance to the Chilean Government, as well as to
+                    political parties such as the Christian Democratic Party (PDC).</p>
+                <figure>
+                    <graphic url="chile-allende.jpg" height="450px" width="293px"/>
+                    <head>A crowd of marchers show their support for Allende. (U.S. News &amp; World
+                        Report Magazine Photograph Collection, Library of Congress Prints and
+                        Photographs Division)</head>
+                </figure>
+                <p>In September 1964, PDC candidate <persName>Eduardo Frei</persName> was elected
+                    President of Chile, beating out third-time candidate <persName>Salvador
+                        Allende</persName> from the Front for Popular Action (<hi rend="italic"
+                        >Frente de Acción Popular</hi> or FRAP) party. Frei’s campaign received
+                    funds from the U.S. Government to help ensure his election. His administration
+                    focused on improving housing, agrarian reform, and increasing access to
+                    education. Frei also negotiated an agreement with the Anaconda copper company on
+                    the nationalization of copper mines. There were many critics of the Anaconda
+                    agreement, even within Frei’s PDC, and nationalization became an important issue
+                    in the 1970 presidential election.</p>
+                <p>The three candidates for the presidency in the 1970 elections were
+                        <persName>Radomiro Tomic</persName> for the PDC, former president
+                        <persName>Jorge Alessandri</persName> representing the National Party (PN),
+                    and Salvador Allende, candidate of the Popular Unity (<hi rend="italic">Unidad
+                        Popular</hi> or UP) party, a leftist coalition which had replaced FRAP. The
+                    U.S. Government used covert funds in Chile during this election period, not for
+                    any one candidate’s use but to prevent Allende’s election. U.S. support had some
+                    impact on the election, but Allende still received over one third of the popular
+                    vote. Alessandri also garnered over one third of the vote, trailing Allende by
+                    only one percentage point. A run-off election in the Chilean Congress was
+                    scheduled for October 24, 1970.</p>
+                <p>Neither the Richard Nixon administration, nor the current Chilean Government, nor
+                    U.S. companies with businesses in Chile (Anaconda,&#160;International Telephone
+                    &amp; Telegraph, Kennicott) wished to see an Allende presidency, fearing his
+                    Communist sympathies. The 40 Committee, the U.S. National Security Council
+                    committee that reviewed proposals for covert actions, held numerous meetings
+                    leading up to the October run-off elections. The debate over whether and how to
+                    engage in covert actions in order to prevent an Allende victory was vigorous. At
+                    the same time, the Chilean military leadership had splintered into two distinct
+                    camps regarding the viability of a military coup: those who were willing to
+                    stage a military coup, represented by two factions under General Roberto Viaux
+                    and General Camilo Valenzuela, and those (personified by General René Schneider)
+                    who believed that any attempt by the military to influence the election was
+                    unconstitutional. After two failed attempts by Valenzuela’s supporters to kidnap
+                    Schneider, a third attempt was made by Viaux on October 22. The kidnapping
+                    attempt went horribly wrong and Schneider was shot. He died several days later.
+                    There were no further attempts by the Chilean military to influence the upcoming
+                    run-off election.</p>
+                <p>On October 24 the Chilean Congress voted to elect Allende president by a large
+                    margin, and on November 3 he was officially sworn in as President of Chile.
+                    After Allende’s inauguration, Nixon stated that U.S. relations with Chile would
+                    continue, but would be cooler than during previous administrations. The
+                    administration feared that Allende would create a Communist government in Chile.
+                    U.S. policymakers also took steps to severely limit further credits or aid to
+                    Chile. </p>
+                <p>On December 21, 1970, Allende proposed an amendment to the Chilean constitution
+                    that would authorize the expropriation of the mining companies. The Chilean
+                    Congress passed the nationalization amendment on July 11, 1971, and it became
+                    law five days later. This plan was unique in Latin America because of a clause
+                    that Allende had introduced that cited “excessive profit-taking.” This
+                    maintained that foreign-owned mining companies made exponentially more in Chile
+                    than other similar companies. While expropriation of U.S. assets was usually
+                    based upon a percentage of market value, in this case U.S. companies received
+                    little or no money at all for the nationalized mines. At the same time, Chile
+                    also gained control of the Chilean telephone company, of which ITT owned a
+                    majority. Relations between the two countries soured as the battles over the
+                    nationalization continued throughout the entirety of the Allende administration. </p>
+                <p>Allende wanted to reform health care, agriculture, and education, and was
+                    invested in further nationalization of businesses. He increased the percentage
+                    of farms and businesses that were nationalized. Wages increased throughout the
+                    administration, and for the first few months, inflation was held at bay. On the
+                    surface, the reforms appeared to be successful. It became clear, however, that
+                    the successes were not balancing out the problems. Rising wages produced a boom
+                    in consumerism, and Chile had to rely on imports to meet demand. The price of
+                    copper dropped, which severely affected the country’s balance of payments. In
+                    addition, the Chilean Government was running out of foreign sources of aid. </p>
+                <p>These issues led to a series of demonstrations and strikes from 1971 to 1973. On
+                    June 29, 1973, in the midst of widespread protests and strikes, Lieutenant
+                    Colonel Roberto Souper led a failed coup attempt against Allende. In a radio
+                    address Allende called for the people to support his administration and help
+                    defeat the unlawful coup, and called in General Carlos Prats to deal with the
+                    rebel forces. Prats, like Schneider, believed that the military should remain
+                    apolitical, and the coup was aborted by late morning. Although Prats was key in
+                    stopping the coup, by August he lost the support of much of the army. Prats was
+                    succeeded as Defense Minister and Army Commander by General Augusto Pinochet on
+                    August 24, 1973.</p>
+                <p>Between June and September 1973, more protests and strikes crippled Chile. On
+                    August 22, the Chamber of Deputies charged the Allende government with breaching
+                    numerous sections of the Constitution. Allende refuted the allegations, stating
+                    that his actions were constitutional. By this time, it was clear that dissent in
+                    the military was rampant and that a coup would be successful if supported fully
+                    by the military.</p>
+                <p>On the morning of September 11, 1973, the military launched another coup against
+                    the Allende government. At 9:10 a.m., Allende made his final broadcast from the
+                    presidential palace, announcing that he would not resign the presidency and
+                    rallying his supporters with the cry, “Long live Chile! Long live the people!
+                    Long live the workers!” After the address, Allende purportedly joined in
+                    defending the palace, which was under heavy attack. Once it became clear that
+                    the military would take the palace, Allende told the defenders to surrender.
+                    Allende died during the final events of the coup: his death is now widely
+                    regarded a suicide.</p>
+                <p>On September 13, Pinochet was named President of Chile, whereupon he dismantled
+                    Congress and outlawed many Chilean leftist political parties. The takeover of
+                    the government ended a 46-year history of democratic rule in Chile. In June
+                    1975, Pinochet announced that there would be no future elections in the country.
+                    Although the U.S. Government was initially pleased by the coup, concerns mounted
+                    about the new regime’s reported violations of human rights.</p>
+                <p>Debate continues on whether the United States provided direct support for
+                    Pinochet’s coup. The United States had a long history of engaging in covert
+                    actions in Chile; it had provided funds in support of electoral candidates, run
+                    anti-Allende propaganda campaigns, and had discussed the merits of supporting a
+                    military coup in 1970. A Senate committee was convened in 1975 to investigate
+                    U.S. covert involvement in Chile during the 1960s and 1970s. The report found
+                    that the United States had carried out covert actions in Chile during these
+                    years and had even considered a proposal for Track II, a covert action meant to
+                    organize a military coup to prevent Allende coming to power. However, it
+                    concluded that there was little evidence to link the U.S. Government to covert
+                    support of Pinochet’s coup.</p>
+            </div>
+            <div type="section" xml:id="detente" ana="russia arms-control-and-disarmament">
+                <head>Détente and Arms Control, <date from="1969" to="1979">1969–1979</date>
+                </head>
+                <p>Between the late 1960s and the late 1970s, there was a thawing of the ongoing
+                    Cold War between the United States and the Soviet Union. This détente took
+                    several forms, including increased discussion on arms control. Although the
+                    decade began with vast improvements in bilateral relations, by the end of the
+                    decade events had brought the two superpowers back to the brink of
+                    confrontation. </p>
+                <figure>
+                    <graphic url="detente.jpg" height="450px" width="338px"/>
+                    <head>Conference on Security and Co-operation in Europe, 1975. (Deutsches
+                        Bundesarchiv)</head>
+                </figure>
+                <p>Two decades after the Second World War, Soviet-American tension had become a way
+                    of life. Fears of nuclear conflict between the two superpowers peaked in 1962 in
+                    the wake of the <ref target="/milestones/1961-1968/cuban-missile-crisis">Cuban
+                        Missile Crisis</ref>, paving the way for some of the earliest agreements on
+                    nuclear arms control, including the <ref
+                        target="/milestones/1961-1968/limited-ban">Limited Test Ban Treaty</ref> in
+                    1963. Although these agreements acted as important precedents, the U.S.
+                    escalation of the war in Vietnam increased tensions again and served to derail
+                    any efforts in the mid-1960s to pursue further arms agreements. By the late
+                    1960s, however, both countries had several concrete reasons for resuming arms
+                    talks. The ongoing nuclear arms race was incredibly expensive, and both nations
+                    faced domestic economic difficulties as a result of the diversion of resources
+                    to military research. The emergence of the Sino-Soviet split also made the idea
+                    of generally improving relations with the United States more appealing to the
+                    USSR. The United States faced an increasingly difficult war in Vietnam, and
+                    improved relations with the Soviet Union were thought to be helpful in limiting
+                    future conflicts. With both sides willing to explore accommodation, the early
+                    1970s saw a general warming of relations that was conducive to progress in arms
+                    control talks.</p>
+                <p>In practical terms, détente led to formal agreements on arms control and the
+                    security of Europe. A clear sign that a détente was emerging was found in the
+                    signing of the <ref target="/milestones/1961-1968/npt">Nuclear Nonproliferation
+                        Treaty</ref> in 1968. Then, in 1972, the first round of <ref
+                        target="/milestones/1969-1976/salt">Strategic Arms Limitations Talks</ref>
+                    yielded the Antiballistic Missile Treaty along with an interim agreement setting
+                    caps on the number of intercontinental ballistic missiles each side could
+                    develop. At mid-decade, in 1975, the Conference on Security and Cooperation in
+                    Europe emerged from two years of intense negotiations to sign the <ref
+                        target="/milestones/1969-1976/helsinki">Helsinki Final Act</ref>, which
+                    recognized political borders, established military confidence building measures,
+                    created opportunities for trade and cultural exchange, and promoted human
+                    rights. By the end of the decade, however, cracks had begun to form in the
+                    precarious U.S.-Soviet relationship. The leadership of the two countries signed
+                    a second SALT agreement but did not ratify it, although both nations voluntarily
+                    adhered to the provisions for reduced limits on strategic weapons for years
+                    thereafter.</p>
+                <p>The breakdown of détente in the late 1970s stalled progress on arms control.
+                    Ultimately, the United States and the Soviet Union had different visions of what
+                    détente meant and what its pursuit would entail. Overblown expectations that the
+                    warming of relations in the era of détente would translate into an end to the
+                    Cold War also created public dissatisfaction with the increasing manifestations
+                    of continued competition and the interventions in the Third World. By the time
+                    the Soviet Union invaded Afghanistan in 1979, the spirit of cooperation had been
+                    replaced with renewed competition and formal implementation of the SALT II
+                    agreement stalled. Arms control talks ceased in the early 1980s and only
+                    restarted when <persName>Mikhail Gorbachev</persName> came to power in the
+                    Soviet Union.</p>
+            </div>
+            <div type="section" xml:id="south-asia" ana="pakistan india bangladesh nixon-richard">
+                <head>The South Asia Crisis and the Founding of Bangladesh, <date when="1971"
+                        >1971</date>
+                </head>
+                <p>In 1971, an internal crisis in Pakistan resulted in a third war between
+                        <placeName>India</placeName> and <placeName>Pakistan</placeName> and the
+                    secession of East Pakistan, creating the independent state of
+                        <placeName>Bangladesh</placeName>. These events altered the relationship
+                    between the United States and the region. </p>
+                <figure>
+                    <graphic url="south-asia-crisis.jpg" height="350px" width="528px"/>
+                    <head>Last President of a united Pakistan Yahya Khan with President Richard
+                        Nixon. (Richard Nixon Library)</head>
+                </figure>
+                <p> The partition of India in 1947 created West and East Pakistan, two noncontiguous
+                    territories that shared a dominant religion of Islam but were very different in
+                    terms of language, ethnicity and culture. In the 1970 parliamentary elections,
+                    an overwhelming number of East Pakistanis voted for a political party that
+                    advocated autonomy for the East, but it was blocked from governing by the army
+                    and the existing Pakistani government, and its leader was jailed. The resulting
+                    mass protests in the East were brutally suppressed by the Pakistani army, which
+                    caused a massive refugee movement into neighboring India. East Pakistani
+                    guerilla forces, supported by India, fought with the Pakistani Army in the late
+                    autumn of 1971. West Pakistan responded with air attacks on India, resulting in
+                    open war between the two powers beginning on December 3.</p>
+                <p>The United States faced several dilemmas in how to respond to the crisis. The
+                    regional situation was already complex. India signed a treaty of mutual
+                    assistance with the Soviet Union in August, 1971, and the People’s Republic of
+                    China was friendly to Pakistan and had fought a war with India in 1962. However,
+                    Pakistan was a valuable diplomatic partner, and its government helped the United
+                    States achieve a rapprochement with the People’s Republic of China in the early
+                    1970s. After President <persName>Richard Nixon</persName>’s visit in 1969, the
+                    U.S. Government had resumed selling Pakistan military equipment, a process that
+                    had been disrupted by the previous <ref
+                        target="/milestones/1961-1968/india-pakistan-war">1965 India-Pakistan
+                        War</ref>. Washington wished to avoid a second war between Pakistan and
+                    India, but also feared that Pakistan would be greatly weakened if its eastern
+                    province seceded, and so supported Pakistan initially. However, the action
+                    against the mass protests in East Pakistan was well-publicized and widely
+                    condemned, which limited the extent to which the U.S. Government was willing to
+                    help the Pakistani Government prevent the division of its country. </p>
+                <p>In the end, the United States acted in a somewhat ambiguous manner during the
+                    brief 1971 war. The U.S.S. <hi rend="italic">Enterprise</hi> carrier group from
+                    Vietnam moved toward the Bay of Bengal, stopping in Singapore and eventually
+                    reaching Sri Lanka. This action signaled to the Soviet Union and China that it
+                    was possible that the United States would assist Pakistan. However, by not
+                    ordering direct intervention, the United States also conveyed to both India and
+                    Pakistan the message that the U.S. commitment to intervention in South Asia had
+                    limits. This ambiguity would produce negative results for U.S. influence in the
+                    region. </p>
+                <p>India’s relationship with the Soviet Union ensured that the United Nations would
+                    not intervene, and helped deter China from opening a second conflict on India’s
+                    northern border. Defeated on both fronts, Pakistan was forced to accede to the
+                    establishment of an independent Bangladesh in place of East Pakistan. Bangladesh
+                    was admitted to the United Nations in 1974. </p>
+                <p>These developments resulted in a decline in U.S. influence in South Asia and
+                    India’s emergence as the most significant power on the subcontinent. U.S.
+                    prestige was damaged in both nations, in Pakistan for failing to help prevent
+                    the loss of East Pakistan and in India for supporting the brutality of the
+                    Pakistani regime’s actions in what became Bangladesh. In contrast, the Soviet
+                    relationship with India became stronger, a fact that took on greater
+                    significance with India’s rise to prominence in the region. In the long run, the
+                    1971 war increased competition between India and Pakistan, forcing the United
+                    States to maintain its focus on regional developments.</p>
+            </div>
+            <div type="section" xml:id="nixon-shock"
+                ana="nixon-richard financial-and-monetary-policy trade-and-commercial-policy-agreements">
+                <head>Nixon and the End of the Bretton Woods System, 1971–1973</head>
+                <p>On August 15, 1971, President <persName>Richard M. Nixon</persName> announced his
+                    New Economic Policy, a program “to create a new prosperity without war.” Known
+                    colloquially as the “Nixon shock,” the initiative marked the beginning of the
+                    end for the Bretton Woods system of fixed exchange rates established at the end
+                    of World War II.</p>
+                <figure>
+                    <graphic url="gold-window.jpg" height="350px" width="532px"/>
+                    <head>Secretary of the Treasury John Connally on the day that President Richard
+                        Nixon announced his New Economic Policy, August 15, 1971. (Nixon
+                        Presidential Library)</head>
+                </figure>
+                <p>Under the Bretton Woods system, the external values of foreign currencies were
+                    fixed in relation to the U.S. dollar, whose value was in turn expressed in gold
+                    at the congressionally-set price of $35 per ounce. By the 1960s, a surplus of
+                    U.S. dollars caused by foreign aid, military spending, and foreign investment
+                    threatened this system, as the United States did not have enough gold to cover
+                    the volume of dollars in worldwide circulation at the rate of $35 per ounce; as
+                    a result, the dollar was overvalued. Presidents <persName>John F.
+                        Kennedy</persName> and <persName>Lyndon B. Johnson</persName> adopted a
+                    series of measures to support the dollar and sustain Bretton Woods: foreign
+                    investment disincentives; restrictions on foreign lending; efforts to stem the
+                    official outflow of dollars; international monetary reform; and cooperation with
+                    other countries. Nothing worked. Meanwhile, traders in foreign exchange markets,
+                    believing that the dollar’s overvaluation would one day compel the U.S.
+                    government to devalue it, proved increasingly inclined to sell dollars. This
+                    resulted in periodic runs on the dollar.</p>
+                <p>It was just such a run on the dollar, along with mounting evidence that the
+                    overvalued dollar was undermining the nation’s foreign trading position, which
+                    prompted President Richard M. Nixon to act. On August 13, 1971, Nixon convened a
+                    meeting of his top economic advisers, including Secretary of the Treasury John
+                    Connally and Office of Management and Budget Director George Shultz, at the Camp
+                    David presidential retreat to consider a program of action. Notably absent from
+                    the meeting were Secretary of State William Rogers and President’s Assistant for
+                    National Security Affairs Henry Kissinger. After two days of talks, on the
+                    evening of August 15, Nixon announced his New Economic Policy in an address to
+                    the nation on “The Challenge of Peace.” Asserting that progress in bringing an
+                    end to U.S. involvement in the war in Vietnam meant that it was time for
+                    Americans to turn their minds to the challenges of a post-Vietnam world, Nixon
+                    identified a three-fold task: “We must create more and better jobs; we must stop
+                    the rise in the cost of living; we must protect the dollar from the attacks of
+                    international money speculators.” To achieve the first two goals, he proposed
+                    tax cuts and a 90-day freeze on prices and wages; to achieve the third, Nixon
+                    directed the suspension of the dollar’s convertibility into gold. He also
+                    ordered that an extra 10 percent tariff be levied on all dutiable imports; like
+                    the suspension of the dollar’s gold convertibility, this measure was intended to
+                    induce the United States’ major trading partners to adjust the value of their
+                    currencies upward and the level of their trade barriers downward so as to allow
+                    for more imports from the United States.</p>
+                <p>A success at home, Nixon’s speech shocked many abroad, who saw it as an act of
+                    worrisome unilateralism; the assertive manner in which Connally conducted the
+                    ensuing exchange rate negotiations with his foreign counterparts did little to
+                    allay such concerns. Nevertheless, after months of negotiations, the Group of
+                    Ten (G–10) industrialized democracies agreed to a new set of fixed exchange
+                    rates centered on a devalued dollar in the December 1971 Smithsonian Agreement.
+                    Although characterized by Nixon as “the most significant monetary agreement in
+                    the history of the world,” the exchange rates established in the Smithsonian
+                    Agreement did not last long. Fifteen months later, in February 1973, speculative
+                    market pressure led to a further devaluation of the dollar and another set of
+                    exchange parities. Several weeks later, the dollar was yet again subjected to
+                    heavy pressure in financial markets; however, this time there would be no
+                    attempt to shore up Bretton Woods. In March 1973, the G–10 approved an
+                    arrangement wherein six members of the European Community tied their currencies
+                    together and jointly floated against the U.S. dollar, a decision that
+                    effectively signaled the abandonment of the Bretton Woods fixed exchange rate
+                    system in favor of the current system of floating exchange rates.</p>
+            </div>
+            <div type="section" xml:id="salt"
+                ana="johnson-lyndon-b nixon-richard ford-gerald carter-jimmy reagan-ronald russia arms-control-and-disarmament politico-military-issues">
+                <head>Strategic Arms Limitations Talks/Treaty (SALT) I and II</head>
+                <p>
+                    <hi rend="strong">SALT I</hi>
+                </p>
+                <p>During the late 1960s, the United States learned that the Soviet Union had
+                    embarked upon a massive Intercontinental Ballistic Missile (ICBM) buildup
+                    designed to reach parity with the United States. In January 1967, President
+                        <persName>Lyndon Johnson</persName> announced that the Soviet Union had
+                    begun to construct a limited Anti-Ballistic Missile (ABM) defense system around
+                    Moscow. The development of an ABM system could allow one side to launch a first
+                    strike and then prevent the other from retaliating by shooting down incoming
+                    missiles.</p>
+                <p>Johnson therefore called for strategic arms limitations talks (SALT), and in
+                    1967, he and Soviet Premier <persName>Alexei Kosygin</persName> met at Glassboro
+                    State College in New Jersey. Johnson said they must gain “control of the ABM
+                    race,” and Secretary of Defense <persName>Robert McNamara</persName> argued that
+                    the more each reacted to the other’s escalation, the more they had chosen “an
+                    insane road to follow.” While abolition of nuclear weapons would be impossible,
+                    limiting the development of both offensive and defensive strategic systems would
+                    stabilize U.S.-Soviet relations. </p>
+                <figure>
+                    <graphic url="salt.jpg" height="450px" width="305px"/>
+                    <head>Nixon and Brezhnev during the latter’s visit to the U.S. in 1973. (Nixon
+                        Presidential Library)</head>
+                </figure>
+                <p>Johnson’s successor, <persName>Richard Nixon</persName>, also believed in SALT,
+                    and on November 17, 1969, the formal SALT talks began in Helsinki, Finland. Over
+                    the next two and a half years, the two sides haggled over whether or not each
+                    nation should complete their plans for ABMs; verification of a treaty; and U.S.
+                    concern that the Soviets continued to build more Submarine-Launched Ballistic
+                    Missiles (SLBMs). Nixon and Soviet General Secretary Leonid Brezhnev signed the
+                    ABM Treaty and interim SALT agreement on May 26, 1972, in Moscow.</p>
+                <p>For the first time during the Cold War, the United States and Soviet Union had
+                    agreed to limit the number of nuclear missiles in their arsenals. SALT I is
+                    considered the crowning achievement of the Nixon-Kissinger strategy of détente.
+                    The ABM Treaty limited strategic missile defenses to 200 interceptors each and
+                    allowed each side to construct two missile defense sites, one to protect the
+                    national capital, the other to protect one ICBM field. (For financial and
+                    strategic reasons, the United States stopped construction of each by the end of
+                    the decade.)</p>
+                <p>
+                    <hi rend="strong">SALT II</hi>
+                </p>
+                <p>Negotiations for a second round of SALT began in late 1972. Since SALT I did not
+                    prevent each side from enlarging their forces through the deployment of Multiple
+                    Independently Targeted Re-Entry Vehicles (MIRVs) onto their ICBMs and SLBMs,
+                    SALT II initially focused on limiting, and then ultimately reducing, the number
+                    of MIRVs. Negotiations also sought to prevent both sides from making qualitative
+                    breakthroughs that would again destabilize the strategic relationship. The
+                    negotiations spanned the Nixon, Gerald Ford, and Jimmy Carter
+                    administrations.</p>
+                <p>At the November 1974 Vladivostok Summit, Ford and Brezhnev agreed on the basic
+                    framework of a SALT II agreement. This included a 2,400 limit on strategic
+                    nuclear delivery vehicles (ICBMs, SLBMs, and heavy bombers) for each side; a
+                    1,320 limit on MIRV systems; a ban on new land-based ICBM launchers; and limits
+                    on deployment of new types of strategic offensive arms.</p>
+                <p>Even after the Vladivostok agreements, the two nations could not resolve the two
+                    other outstanding issues from SALT I: the number of strategic bombers and the
+                    total number of warheads in each nation’s arsenal. The first was complicated by
+                    the Soviet Backfire bomber, which U.S. negotiators believed could reach the
+                    United States but which the Soviets refused to include in the SALT negotiations.
+                    Meanwhile, the Soviets attempted unsuccessfully to limit American deployment of
+                    Air-Launched Cruise Missiles (ALCMs). Verification also divided the two nations,
+                    but eventually they agreed on using National Technical Means (NTM), including
+                    the collection of electronic signals known as telemetry and the use of
+                    photo-reconnaissance satellites. On June 17, 1979, Carter and Brezhnev signed
+                    the SALT II Treaty in Vienna. SALT II limited the total of both nations’ nuclear
+                    forces to 2,250 delivery vehicles and placed a variety of other restrictions on
+                    deployed strategic nuclear forces, including MIRVs.</p>
+                <p>However, a broad coalition of Republicans and conservative Democrats grew
+                    increasingly skeptical of the Soviet Union’s crackdown on internal dissent, its
+                    increasingly interventionist foreign policies, and the verification process
+                    delineated in the Treaty. On December 17, 1979, 19 Senators wrote Carter that
+                    “Ratification of a SALT II Treaty will not reverse trends in the military
+                    balance adverse to the United States.” On December 25, the Soviets invaded
+                    Afghanistan, and on January 3, 1980, Carter asked the Senate not to consider
+                    SALT II for its advice and consent, and it was never ratified. Both Washington
+                    and Moscow subsequently pledged to adhere to the agreement’s terms despite its
+                    failure to enter into force. Carter’s successor Ronald Reagan, a vehement critic
+                    of SALT II during the 1980 presidential campaign, agreed to abide by SALT II
+                    until its expiration on December 31, 1985, while he pursued the Strategic Arms
+                    Reduction Treaty (START) and argued that research into the Strategic Defense
+                    Initiative (SDI) adhered to the 1972 ABM Treaty.</p>
+            </div>
+            <div type="section" xml:id="rapprochement-china"
+                ana="nixon-richard kissinger-henry-a east-asia-and-pacific china taiwan pakistan united-nations">
+                <head>Rapprochement with China, 1972</head>
+                <p>In 1972, U.S. President <persName>Richard Nixon</persName> traveled to the
+                    People’s Republic of China (PRC) and met with <persName>Mao Zedong</persName>,
+                    the Chairman of the Central Committee of the Chinese Communist Party, and
+                        <persName>Zhou Enlai</persName>, the PRC Premier. Over the course of this
+                    visit, the two governments negotiated the Shanghai Communiqué, an important step
+                    toward improving relations between the United States and the PRC after many
+                    years of hostility.</p>
+                <figure>
+                    <graphic url="rapproachment-china.jpg" height="450px" width="351px"/>
+                    <head>Chairman of the Chinese Communist Party Mao Zedong shakes hands with U.S.
+                        President Richard Nixon in Beijing, February 21, 1972. (Nixon Presidential
+                        Library)</head>
+                </figure>
+                <p>Diplomatic estrangement between the two countries went back to the 1940s. After
+                    the Chinese civil war ended in 1949, the Communists established the People’s
+                    Republic of China on the Chinese mainland while many soldiers and officials of
+                    the defeated Republic of China (ROC) evacuated to the island of Taiwan. For the
+                    30 years that followed, the United States recognized the Republic of China as
+                    the legitimate government of China and had no official diplomatic relations with
+                    Communist China.</p>
+                <p>In the late 1960s and early 1970s, there were indications that the United States
+                    and the People’s Republic of China were considering rapprochement. The
+                    escalating war in Vietnam led U.S. officials to look for ways to improve
+                    relations with Communist governments in Asia in the hopes that such a policy
+                    might lessen future conflict, undermine alliances between Communist countries,
+                    diplomatically isolate North Vietnam, and increase U.S. leverage against the
+                    Soviet Union. Likewise, Sino-Soviet tension contributed to the Chinese
+                    leadership’s desire for a rapprochement with the United States. Nixon signaled
+                    his interest in improved relations by easing the travel and trade restrictions
+                    against China that dated from the Korean War in the early 1950s. Although the
+                    Sino-U.S. Ambassadorial Talks, which began in 1955 and continued intermittently
+                    over the years that followed, had reached a hiatus, the two sides agreed to
+                    reopen them in 1969. Of greater significance, Nixon established a secret channel
+                    to the PRC’s leadership through Pakistani President Yahya Khan. In Nixon’s view,
+                    Khan was an attractive intermediary since he had good relations with the leaders
+                    of both the United States and the PRC, and he also provided a means to
+                    circumvent the U.S. Department of State, which Nixon feared might oppose or
+                    publicize his initiative.</p>
+                <p>By late 1970, the pace of rapprochement was accelerating. Through the Pakistani
+                    channel, the PRC government expressed interest in high level discussions with
+                    the United States aimed at improving relations. Mao likewise told U.S.
+                    journalist Edgar Snow that he would be happy to talk with Nixon. In 1971, Nixon
+                    removed the last remaining restrictions preventing Americans from traveling to
+                    mainland China. Following well-publicized fraternization between U.S. and PRC
+                    table tennis players during an international competition in Japan, the PRC
+                    issued an invitation in April 1971 for the U.S. ping pong team to play a match
+                    in Communist China. In April 1972, the PRC ping pong team visited the United
+                    States on a good-will tour. This informal “Ping Pong Diplomacy” provided a
+                    public face for more serious diplomatic negotiations.</p>
+                <p>
+                    <persName>Henry Kissinger</persName>, the Assistant to the President for
+                    National Security Affairs, traveled to Beijing twice during 1971 to discuss the
+                    conditions under which each side would consider a normalization of relations.
+                    The first of these trips was conducted in great secrecy and only revealed to the
+                    American public during a dramatic speech by President Nixon. Kissinger’s second
+                    trip to the PRC, in October 1971, coincided with a vote on Chinese
+                    representation in the United Nations. The United States advocated that the
+                    United Nations seat delegations from both Communist China and Taiwan. This
+                    proposal failed and, instead, the member states of the United Nations voted to
+                    seat the PRC delegation in place of the Taiwan delegation. Although the United
+                    States unsuccessfully opposed Taiwan’s expulsion from the General Assembly, it
+                    supported Communist China’s entrance and assumption of a seat on the Security
+                    Council; this contributed to a major diplomatic triumph for the People’s
+                    Republic of China.</p>
+                <p>Nixon travelled to Communist China February 21–28, 1972, becoming the first U.S.
+                    President to visit mainland China while in office. Near the end of the trip, the
+                    two governments issued the Shanghai Communiqué, in which each articulated its
+                    position on a crucial obstacle to normalization, the Taiwan issue. The People’s
+                    Republic of China affirmed that Taiwan was a part of China, and that it opposed
+                    all attempts to create two Chinas, one China and one Taiwan, or an independent
+                    Taiwan. The United States declared that it “acknowledges that all Chinese on
+                    either side of the Taiwan Strait maintain that there is but one China and that
+                    Taiwan is a part of China,” and that it did not challenge that position. The
+                    United States also noted the importance of finding a peaceful resolution to the
+                    Taiwan issue and that it intended to withdraw remaining U.S. troops from Taiwan.
+                    Over the course of the talks, Mao and Zhou made clear to Nixon that their
+                    country would not normalize relations with the United States as long as
+                    Washington continued formal diplomatic relations with Taiwan; Nixon stated that
+                    the United States did not support Taiwanese independence. The principles
+                    established in the Shanghai Communiqué provided the basis for the establishment
+                    of formal diplomatic relations [Carter normalization milestone] between the two
+                    countries in 1979. On a global scale, rapprochement fundamentally altered the
+                    context of the Cold War and influenced the subsequent movement towards détente
+                    between the United States and the Soviet Union.</p>
+            </div>
+            <div type="section" xml:id="arab-israeli-war-1973"
+                ana="nixon-richard rogers-william-pierce kissinger-henry-a egypt israel syria peace united-nations arab-israeli-dispute">
+                <head>The 1973 Arab-Israeli War</head>
+                <p>The 1973 Arab-Israeli War was a watershed for U.S. foreign policy toward the
+                    Middle East. It forced the Nixon administration to realize that Arab frustration
+                    over Israel’s unwillingness to withdraw from the territories it had occupied in
+                    1967 could have major strategic consequences for the United States. The war thus
+                    paved the way for Secretary of State <persName>Henry Kissinger’s</persName>
+                    “shuttle diplomacy” and ultimately, the Israeli-Egyptian peace treaty of
+                    1979.</p>
+                <figure>
+                    <graphic url="73-war.jpg" height="450px" width="284px"/>
+                    <head>President Richard Nixon, Secretary of State Henry Kissinger, and Israeli
+                        Prime Minister Golda Meir, November 1973. (U.S. News &amp; World Report
+                        Magazine Photograph Collection, Library of Congress)</head>
+                </figure>
+                <p>
+                    <hi rend="strong">The Nixon Administration and the Arab-Israeli Conflict,
+                        1969–1973</hi>
+                </p>
+                <p>President <persName>Richard Nixon</persName> came into office convinced that the
+                    Arab-Israeli standoff over the fate of the occupied territories could damage
+                    America’s standing in the Arab world and undermine prospects for U.S.-Soviet
+                    détente. In attempt to break the deadlock, he ordered Secretary of State William
+                    Rogers to negotiate with the Soviets on the parameters of a Middle East
+                    settlement, with the goal of reaching an agreement that each superpower could
+                    sell to its regional clients. By December 1969, however, the Soviet Union,
+                    Egypt, and Israel had all rejected the so-called “Rogers Plan,” which called for
+                    Israeli to withdraw to the 1949 armistice lines, with “insubstantial
+                    alterations,” in return for peace.</p>
+                <p>The failure of the Rogers Plan led Nixon to suspend efforts to reach a settlement
+                    with the Soviets and lent credence to National Security Advisor Henry
+                    Kissinger’s argument that the United States should not push Israel for
+                    concessions so long as Egypt, the leading Arab state, remained aligned with the
+                    Soviets. In the summer of 1970, Nixon broke with Kissinger and allowed Rogers to
+                    present a more limited initiative to halt the Israeli-Egyptian “War of
+                    Attrition” along the Suez Canal, in which the Soviets had become militarily
+                    involved. “Rogers II,” which called for Israel and Egypt to agree to a three
+                    month ceasefire and negotiations under the auspices of U.N. mediator
+                        <persName>Gunnar Jarring</persName>, was accepted by both parties, who
+                    stopped fighting on August 7. Yet Nixon’s appetite for diplomacy was spoiled by
+                    Egyptian and Soviet efforts to move anti-aircraft missiles closer to the Canal
+                    and Syrian intervention in Jordan’s civil war. Until February 1971, Kissinger’s
+                    arguments against prematurely rewarding Soviet clients again held sway.</p>
+                <p>In February 1971, however, Egyptian President <persName>Anwar Sadat</persName>
+                    presented the Nixon administration with a new opportunity for Arab-Israeli
+                    peacemaking. Sadat proposed that Egypt would reopen the Suez Canal if the Israel
+                    Defense Forces (IDF) pulled back from the Canal’s east bank and later agreed to
+                    a timetable for further withdrawals. He also indicated that he would renounce
+                    all claims of belligerency against Israel if the IDF withdrew to the
+                    international border. Rogers’ efforts to capitalize on Sadat’s statements by
+                    working toward an interim settlement, however, were opposed by the Israelis, and
+                    received little support from Kissinger and Nixon. Kissinger believed that
+                    Egyptian proposals for an interim settlement, along with a Soviet peace plan
+                    tabled that September, would be rejected by the Israelis, and did not want
+                    discord over the Middle East to undermine efforts at détente before the Moscow
+                    summit of May 1972. For Nixon, such reasoning was reinforced by a desire to
+                    avoid a crisis in U.S.-Israeli relations before the 1972 presidential elections. </p>
+                <p>In the wake of the Moscow summit, where the Americans and the Soviets
+                    deliberately avoided discussing the Middle East, Sadat made two more moves to
+                    get the Nixon administration to break the Arab-Israeli stalemate. In July 1972,
+                    he decided to expel Soviet military advisors from Egypt, and opened a
+                    backchannel to Kissinger through Hafiz Isma‘il, his national security advisor.
+                    In February 1973, Isma‘il met with Kissinger and informed him that Egypt would
+                    be willing to sign a separate peace agreement with Israel that could involve
+                    demilitarized zones on both sides of the international border and peacekeepers
+                    in sensitive locations like Sharm al-Shaykh. However, Egyptian-Israeli
+                    normalization would have to wait until Israel withdrew from all the territories
+                    it had conquered in 1967. The Israelis responded haltingly, and Nixon and
+                    Kissinger made little effort to change their minds. Despite Sadat’s public
+                    displays of frustration, as well as warnings from Jordan’s King Hussein and
+                    Soviet Secretary-General Leonid Brezhnev, Nixon and Kissinger believed that
+                    given the military balance, Egypt and Syria would not attack Israel, a view
+                    supported by much of the U.S. intelligence community. Until the fall of 1973,
+                    the President and Kissinger held that any American diplomatic initiative would
+                    have to wait until after Israel’s elections that October.</p>
+                <p>
+                    <hi rend="strong">The War and its Consequences</hi>
+                </p>
+                <p>On October 6, 1973, Egypt and Syria attacked Israel’s forces in the Sinai
+                    Peninsula and the Golan Heights. Despite initial Israeli setbacks, Kissinger,
+                    now both Secretary of State and National Security Advisor, believed that Israel
+                    would win quickly. He feared that a rout of the Arabs could force the Soviets to
+                    intervene, raising their prestige in the Arab world and damaging détente. Thus,
+                    he proposed that the United States and the Soviet Union call for an end to the
+                    fighting and a return to the 1967 ceasefire lines. The Soviets, who were uneager
+                    to intervene on behalf of their clients, agreed, but the Egyptians rejected the
+                    ceasefire proposal. Wanting to avoid both an Arab defeat and military
+                    intervention, the Soviets then began to resupply Egypt and Syria with weapons.
+                    By October 9, following a failed IDF counter-attack against Egypt’s forces, the
+                    Israelis requested that America do the same for them. Not wanting to see Israel
+                    defeated, Nixon agreed, and American planes carrying weapons began arriving in
+                    Israel on October 14.</p>
+                <p>With the American airlift underway, the fighting turned against the Arabs. On
+                    October 16, IDF units crossed the Suez Canal. Sadat began to show interest in a
+                    ceasefire, leading Brezhnev to invite Kissinger to Moscow to negotiate an
+                    agreement. A U.S.-Soviet proposal for a ceasefire followed by peace talks was
+                    adopted by the UN Security Council as Resolution 338 on October 22. Afterward,
+                    however, Kissinger flew to Tel Aviv, where he told the Israelis that the United
+                    States would not object if the IDF continued to advance while he flew back to
+                    Washington. When Kissinger returned to the United States, he agreed to a Soviet
+                    request to seek another ceasefire resolution, which the Security Council adopted
+                    on October 23. Yet the Israelis still refused to stop. On October 24, Brezhnev
+                    sent Nixon a hotline message suggesting that the United States and the Soviet
+                    Union send troops to Egypt to “implement” the ceasefire. If Nixon chose not to
+                    do so, Brezhnev threatened, “We should be faced with the necessity urgently to
+                    consider the question of taking appropriate steps unilaterally.” The United
+                    States responded by putting its nuclear forces on worldwide alert on October 25.
+                    By the end of the day, the crisis abated when the Security Council adopted
+                    Resolution 340, which called for a ceasefire, the withdrawal of all forces to
+                    their October 22 positions, and U.N. observers and peacekeepers to monitor the
+                    ceasefire. This time, the Israelis accepted the resolution. </p>
+                <p> The 1973 war thus ended in an Israeli victory, but at great cost to the United
+                    States. Though the war did not scuttle détente, it nevertheless brought the
+                    United States closer to a nuclear confrontation with the Soviet Union than at
+                    any point since the Cuban missile crisis. The American military airlift to
+                    Israel, moreover, had led Arab oil producers to embargo oil shipments to the
+                    United States and some Western European countries, causing international
+                    economic upheaval. The stage was set for Kissinger to make a major effort at
+                    Arab-Israeli peacemaking.</p>
+            </div>
+            <div type="section" xml:id="oil-embargo"
+                ana="israel foreign-economic-policy nixon-richard kissinger-henry-a organization-of-petroleum-exporting-countries">
+                <head>Oil Embargo, 1973–1974</head>
+                <p>During the 1973 Arab-Israeli War, Arab members of the Organization of Petroleum
+                    Exporting Countries (OPEC) imposed an embargo against the United States in
+                    retaliation for the U.S. decision to re-supply the Israeli military and to gain
+                    leverage in the post-war peace negotiations. Arab OPEC members also extended the
+                    embargo to other countries that supported Israel including the Netherlands,
+                    Portugal, and South Africa. The embargo both banned petroleum exports to the
+                    targeted nations and introduced cuts in oil production. Several years of
+                    negotiations between oil-producing nations and oil companies had already
+                    destabilized a decades-old pricing system, which exacerbated the embargo’s
+                    effects.</p>
+                <figure>
+                    <graphic url="oil-embargo.jpg" height="450px" width="300px"/>
+                    <head>Cars wait in long lines during the gas shortage. (Library of Congress
+                        Prints and Photographs Division, U.S. News &amp; World Report Magazine
+                        Photograph Collection, Warren K. Leffler)</head>
+                </figure>
+                <p>The 1973 Oil Embargo acutely strained a U.S. economy that had grown increasingly
+                    dependent on foreign oil. The efforts of President Richard M. Nixon’s
+                    administration to end the embargo signaled a complex shift in the global
+                    financial balance of power to oil-producing states and triggered a slew of U.S.
+                    attempts to address the foreign policy challenges emanating from long-term
+                    dependence on foreign oil.</p>
+                <p>By 1973, OPEC had demanded that foreign oil corporations increase prices and cede
+                    greater shares of revenue to their local subsidiaries. In April, the Nixon
+                    administration announced a new energy strategy to boost domestic production to
+                    reduce U.S. vulnerability to oil imports and ease the strain of nationwide fuel
+                    shortages. That vulnerability would become overtly clear in the fall of that
+                    year. </p>
+                <p>The onset of the embargo contributed to an upward spiral in oil prices with
+                    global implications. The price of oil per barrel first doubled, then quadrupled,
+                    imposing skyrocketing costs on consumers and structural challenges to the
+                    stability of whole national economies. Since the embargo coincided with a
+                    devaluation of the dollar, a global recession seemed imminent. U.S. allies in
+                    Europe and Japan had stockpiled oil supplies, and thereby secured for themselves
+                    a short-term cushion, but the long-term possibility of high oil prices and
+                    recession precipitated a rift within the Atlantic Alliance. European nations and
+                    Japan found themselves in the uncomfortable position of needing U.S. assistance
+                    to secure energy sources, even as they sought to disassociate themselves from
+                    U.S. Middle East policy. The United States, which faced a growing dependence on
+                    oil consumption and dwindling domestic reserves, found itself more reliant on
+                    imported oil than ever before, having to negotiate an end to the embargo under
+                    harsh domestic economic circumstances that served to diminish its international
+                    leverage. To complicate matters, the embargo’s organizers linked its end to
+                    successful U.S. efforts to bring about peace between Israel and its Arab
+                    neighbors.</p>
+                <p>Partly in response to these developments, on November 7 the Nixon administration
+                    announced Project Independence to promote domestic energy independence. It also
+                    engaged in intensive diplomatic efforts among its allies, promoting a consumers’
+                    union that would provide strategic depth and a consumers’ cartel to control oil
+                    pricing. Both of these efforts were only partially successful. </p>
+                <p>President Nixon and Secretary of State Henry Kissinger recognized the constraints
+                    inherent in peace talks to end the war that were coupled with negotiations with
+                    Arab OPEC members to end the embargo and increase production. But they also
+                    recognized the linkage between the issues in the minds of Arab leaders. The
+                    Nixon administration began parallel negotiations with key oil producers to end
+                    the embargo, and with Egypt, Syria, and Israel to arrange an Israeli pullout
+                    from the Sinai and the Golan Heights. Initial discussions between Kissinger and
+                    Arab leaders began in November 1973 and culminated with the First
+                    Egyptian-Israeli Disengagement Agreement on January 18, 1974. Though a finalized
+                    peace deal failed to materialize, the prospect of a negotiated end to
+                    hostilities between Israel and Syria proved sufficient to convince the relevant
+                    parties to lift the embargo in March 1974.</p>
+                <p>The embargo laid bare one of the foremost challenges confronting U.S. policy in
+                    the Middle East, that of balancing the contradictory demands of unflinching
+                    support for Israel and the preservation of close ties to the Arab oil-producing
+                    monarchies. The strains on U.S. bilateral relations with Saudi Arabia revealed
+                    the difficulty of reconciling those demands. The U.S. response to the events of
+                    1973–1974 also clarified the need to reconcile U.S. support for Israel to
+                    counterbalance Soviet influence in the Arab world with both foreign and domestic
+                    economic policies.</p>
+                <p>The full impact of the embargo, including high inflation and stagnation in oil
+                    importers, resulted from a complex set of factors beyond the proximate actions
+                    taken by the Arab members of OPEC. The declining leverage of the U.S. and
+                    European oil corporations (the “Seven Sisters”) that had hitherto stabilized the
+                    global oil market, the erosion of excess capacity of East Texas oil fields, and
+                    the recent decision to allow the U.S. dollar to float freely in the
+                    international exchange all played a role in exacerbating the crisis. Once the
+                    broader impact of these factors set in throughout the United States, it
+                    triggered new measures beyond the April and November 1973 efforts that focused
+                    on energy conservation and development of domestic energy sources. These
+                    measures included the creation of the Strategic Petroleum Reserve, a national
+                    55-mile-per-hour speed limit on U.S. highways, and later, President Gerald R.
+                    Ford’s administration’s imposition of fuel economy standards. It also prompted
+                    the creation of the International Energy Agency proposed by Kissinger.</p>
+            </div>
+            <div type="section" xml:id="ending-vietnam"
+                ana="vietnam-conflict nixon-richard kissinger-henry-a cambodia laos vietnam">
+                <head>Ending the Vietnam War, 1969–1973 </head>
+                <p>President <persName>Richard M. Nixon</persName> assumed responsibility for the
+                    Vietnam War as he swore the oath of office on January 20, 1969. He knew that
+                    ending this war honorably was essential to his success in the presidency. He
+                    expected that the American people would give him a year to end U.S. involvement
+                    in the war, and he expected to succeed during that time—believing that his
+                    experience in foreign relations, his toughness, and his willingness to bring to
+                    bear military and political pressure on North Vietnam would yield a settlement
+                    in the public negotiations just opening in Paris.</p>
+                <figure>
+                    <graphic url="end-vietnam-war.jpg" height="400px" width="266px"/>
+                    <head>President Richard M. Nixon and President Thieu at Midway, June 1969.
+                        (Nixon Presidential Library)</head>
+                </figure>
+                <p>In his first months in office, Nixon directed the U.S. military to increase its
+                    pressure on the battlefield, while ordering the secret B–52 bombings of North
+                    Vietnamese base camps in Cambodia—the “Menu bombings”—as a signal of his
+                    willingness to further escalate the war. He expected to complement this military
+                    pressure with conciliatory negotiating terms in the newly begun negotiations,
+                    and with diplomatic pressure on the Soviet Union, hoping the Soviet Union would
+                    encourage their North Vietnamese allies to engage in serious negotiations. These
+                    forms of pressure, however, brought him no closer to ending the war. In order to
+                    buy time with the American people, Nixon began to withdraw forces from Vietnam,
+                    meeting with South Vietnam’s President <persName>Nguyen Van Thieu</persName> on
+                    Midway Island on June 8 to announce the first increment of redeployment. From
+                    that point on, the U.S. troop withdrawal never ceased. As U.S. troop strength
+                    and capabilities declined, the United States worked toward building South
+                    Vietnam’s military capacity through a program known as “Vietnamization.” It
+                    would remain a constant question over the remaining years of the administration,
+                    whether the South Vietnamese could build the combat capability, logistics and
+                    planning capacity, and leadership at the national and military levels to face
+                    the North Vietnamese on their own.</p>
+                <p>It quickly became apparent that the public peace talks in Paris were being used
+                    as propaganda theater by both sides, and that any productive negotiations would
+                    have to be done in private. On August 4, the President’s Assistant for National
+                    Security Affairs <persName>Henry Kissinger</persName> conducted his first
+                    private session with the North Vietnamese leadership. He would meet with North
+                    Vietnamese Politburo member Le Duc Tho intermittently over the following months,
+                    with no apparent progress toward a settlement.</p>
+                <p>In the fall of 1969, disappointed with the lack of any visible results from this
+                    strategy, Nixon and Kissinger directed an extensive planning effort assessing
+                    the possibility of coercing the North Vietnamese into negotiations through a
+                    series of “short, sharp blows” inflicted by air and naval forces. The
+                    political-military planning included a cell of National Security Council staff
+                    members examining strategic issues, and a military planning team comprised of
+                    Joint Staff, Pacific Command (PACOM), and Military Assistance Command Vietnam
+                    (MACV) officers working at MACV Headquarters in Saigon. Nixon met with the Joint
+                    Chiefs of Staff (JCS) on October 11, and it became clear that the planning had
+                    satisfied neither the White House nor the JCS. With American casualties on the
+                    decline, the anti-war movement still a powerful force, and no satisfactory
+                    political-military solution in sight, Nixon turned away from that option to
+                    deliver the “silent majority” speech on November 3, 1969, rallying the American
+                    people toward patient support for a protracted war. The administration would
+                    continue its dual strategy of Vietnamization and negotiation.</p>
+                <p>In March 1970 the fall of Prince <persName>Norodom Sihanouk</persName> in
+                    Cambodia destroyed the fragile neutrality of that state, as his successor
+                        <persName>Lon Nol</persName> demanded the North Vietnamese withdraw from
+                    their base camps along the South Vietnamese border. The North Vietnamese reacted
+                    by extending their presence toward the west. Nixon responded by ordering a
+                    US-South Vietnamese “incursion” into Cambodia on April 30. Limited by Nixon to a
+                    30-kilometer strip along the border, and limited in time to the end of June,
+                    this action sparked violent protests on campuses across the United States. These
+                    culminated in the deaths of four students at Kent State University on May 4. The
+                    incursion into the North Vietnamese Army (NVA) base camps yielded a great
+                    quantity of rice, weapons, and ammunition, and disrupted the North Vietnamese
+                    command and logistics structures for months, buying time for Vietnamization and
+                    further U.S. troop withdrawals. </p>
+                <p>The following spring, Nixon ordered a theater-wide offensive, seeking to seize
+                    the initiative in the war. South Vietnamese forces crossed into Cambodia and
+                    Laos in early February 1971. The North Vietnamese had anticipated the incursion
+                    into Laos, known as Lam Son 719, and massed their forces in an attempt to
+                    annihilate the South Vietnamese. The South Vietnamese withdrawal disintegrated
+                    into a disorderly retreat.</p>
+                <p>Meanwhile, Nixon and Kissinger sought to reshape the international context of the
+                    war through building relationships with North Vietnam’s superpower allies in
+                    Moscow and Beijing. Nixon wanted to create a dilemma for the Soviet and
+                    Chinese—give them “bigger fish to fry,” in his phrase—in choosing between their
+                    support of North Vietnam, and a closer relationship with the United States. The
+                    1972 summits in Beijing and Moscow reflected this strategy, though the Communist
+                    powers continued their material support of Hanoi.</p>
+                <p>The North Vietnamese opened a three-pronged offensive in South Vietnam, known in
+                    the United States as the Easter Offensive, in late March 1972, expecting that a
+                    victory on the battlefield would translate into a triumph at the negotiating
+                    table. Rather than accept the prospect of defeat, Nixon sent massive air force
+                    and naval reinforcements to bases in Indochina and Guam. On May 4 he decided to
+                    mine North Vietnam’s harbors and open a sustained air offensive, Operation
+                    Linebacker, against North Vietnam. These actions, along with intensive air
+                    attacks in the battle areas and improved South Vietnamese defenses, stymied
+                    North Vietnam’s offensive, leading the Politburo, for the first time, to engage
+                    in serious negotiations.</p>
+                <p>On October 11–12 Kissinger and <persName>Le Duc Tho</persName> reached agreement
+                    on a peace settlement, both sides working to reach that end before the U.S.
+                    presidential election on November 7. President Thieu rejected the settlement,
+                    refusing to accept a peace that left North Vietnamese forces in South Vietnam,
+                    and legitimized the Hanoi-controlled Communist shadow government, the
+                    Provisional Revolutionary Government. His rejection forced Kissinger to resume
+                    negotiations with Le Duc Tho. </p>
+                <p>Kissinger was unable to find any common ground acceptable to both Vietnamese
+                    parties in two renewed rounds of negotiations. Finally, in order to break the
+                    deadlock, on December 14 Nixon ordered massive B–52 attacks on the North
+                    Vietnamese heartland—the “Christmas Bombing.” Meanwhile he continued to exert
+                    intense pressure on Thieu, threatening to cut off U.S. economic, military, and
+                    political support of South Vietnam if Thieu refused to accept the agreement.
+                    Negotiations resumed on January 8, 1973, and the United States and the
+                    Democratic Republic of Vietnam initialed the agreement on January 23. Thieu
+                    reluctantly accepted the settlement despite his continued misgivings, and the
+                    peace agreement was signed on January 27.</p>
+                <p>The peace settlement enabled the United States to withdraw from the war and
+                    welcome the American prisoners of war back home. Neither of the Vietnamese
+                    parties abided by the settlement, however, and the war continued.</p>
+                <p>Nixon had gained Thieu’s adherence to the agreement through a series of letters
+                    and envoys, all promising U.S. military support in the event of a North
+                    Vietnamese violation of the accords. On November 14, 1972, for example, Nixon
+                    wrote Thieu that “I repeat my personal assurances to you that the United States
+                    will react very strongly and rapidly to any violation of the agreement.” Both
+                    sides understood this to mean the recommitment of B–52s to combat. In the end,
+                    these commitments were not upheld due to a combination of factors—domestic and
+                    Congressional reluctance to re-engage in the war, economic constraints, and
+                    finally the Watergate scandal, which weakened and distracted Nixon. Having
+                    rebuilt their forces and upgraded their logistics system, North Vietnamese
+                    forces triggered a major offensive in the Central Highlands in March 1975. On
+                    April 30, 1975, NVA tanks rolled through the gate of the Presidential Palace in
+                    Saigon, effectively ending the war.</p>
+            </div>
+            <div type="section" xml:id="angola" ana="angola cuba ford-gerald">
+                <head>The Angola Crisis <date from="1974" to="1975">1974–75</date>
+                </head>
+                <p>After a successful military coup in Portugal that toppled a long-standing
+                    authoritarian regime on April 25, 1974, the new rulers in
+                        <placeName>Lisbon</placeName> sought to divest the country of its costly
+                    colonial empire. The impending independence of one of those colonies,
+                        <placeName>Angola</placeName>, led to the Angolan civil war that grew into a
+                    Cold War competition. The Angola crisis of 1974–1975 ultimately contributed to
+                    straining relations between the United States and the Soviet Union.</p>
+                <figure>
+                    <graphic url="angola.jpg" height="450px" width="299px"/>
+                    <head>Cuban and Angolan soldiers are shown during a weapon practice session at a
+                        training center. (AP Photo)</head>
+                </figure>
+                <p>Three main military movements had been fighting for Angolan independence since
+                    the 1960s. The Popular Movement for the Liberation of Angola (MPLA) was a
+                    Marxist organization centered in the capital, Luanda, and led by
+                        <persName>Agostinho Neto</persName>. The National Front for the Liberation
+                    of Angola (FNLA), led by <persName>Holden Roberto</persName>, was based in the
+                    north of the country and had strong ties to the U.S. ally, Mobutu Sese Seko, in
+                    neighboring Zaire. The National Union for the Total Independence of Angola
+                    (UNITA), an offshoot of the FNLA, was led by Jonas Savimbi and supported by the
+                    country’s largest ethnic group, the Ovimbundu. Following the Portuguese coup,
+                    these three revolutionaries met with representatives of the new Portuguese
+                    Government in January 1975 and signed the Alvor Agreement that granted Angolan
+                    independence and provided for a three-way power sharing government. However,
+                    trust quickly broke down among the three groups, and the country descended into
+                    civil war as each vied for sole power. </p>
+                <p>The crisis in Angola developed into a Cold War battleground as the superpowers
+                    and their allies delivered military assistance to their preferred clients. The
+                    United States supplied aid and training for both the FNLA and UNITA while troops
+                    from Zaire assisted Holden Roberto and his fighters. China, also, sent military
+                    instructors to train the FNLA. The Soviet Union provided military training and
+                    equipment for the MPLA. During the summer of 1975, the Soviet-supported MPLA was
+                    able to consolidate power in Luanda and oust the U.S.-supported FNLA from the
+                    capital, but the FNLA continued to attack. The remaining Portuguese troops
+                    failed to stem the violence. When MPLA leader Neto announced November 11, 1975
+                    as the day of Angolan independence, Lisbon decided to withdraw its troops on
+                    that day. </p>
+                <p>The MPLA also had long-established relations with <persName>Fidel
+                        Castro</persName>’s Cuba. Before November 11, the MPLA had negotiated with
+                    Castro for Cuban assistance. At the same time, UNITA, which enjoyed U.S.
+                    support, approached the Apartheid government in South Africa for military
+                    reinforcement. Pretoria, with the aim to end the use of Angola as a base for
+                    rebels fighting for the independence of South Africa-occupied Namibia,
+                    contributed forces that entered southern Angola in October and made rapid
+                    progress toward the capital. In response, Castro sent Cuban Special Forces to
+                    halt the South African advance and succeeded in drawing attention to the fact
+                    that the United States had provided support to a group that now accepted
+                    assistance from an Apartheid government. </p>
+                <p>The U.S. Government had encouraged the South African intervention, but preferred
+                    to downplay its connection with the Apartheid regime. However, once Pretoria’s
+                    involvement became widely known, the Chinese withdrew its advisers from the
+                    region, and the Ford Administration was faced with domestic resistance to the
+                    U.S. role in the Angolan conflict. President Gerald Ford had requested
+                    Congressional approval for more money to fund the operation in Angola. However,
+                    many members of Congress were wary of intervening abroad after the struggle in
+                    Vietnam, others wished to avoid the South Africa connection, and still others
+                    did not believe the issue was important. In the end, Congress rejected the
+                    President’s request for additional funds. South Africa withdrew its forces in
+                    the spring of 1976 and the MPLA remained as the official government of Angola.
+                    Still, Jonas Savimbi and UNITA continued an insurgency until his death in 2002. </p>
+                <p>During the period of the Angolan crisis, the United States and the Soviet Union
+                    were still enjoying a brief thaw in their relations, in an era referred to as
+                        <ref target="/milestones/1969-1976/detente">détente</ref>. During this time,
+                    Washington and Moscow had reached a series of agreements that aimed to reduce
+                    tensions between the two superpowers. However, by 1974, strains on bilateral
+                    relations had already compromised U.S. support for détente and the crisis in
+                    Angola served to accelerate this trend. From the U.S. point of view, one of the
+                    aims of détente was to draw the Soviet Union further into the international
+                    system so that Washington could induce Moscow to show restraint in its dealings
+                    with the Third World. The Ford Administration believed that Cuba had intervened
+                    in Angola as a Soviet proxy and as such, the general view in Washington was that
+                    Moscow was breaking the rules of détente. The appearance of a Soviet success and
+                    a U.S. loss in Angola on the heels of a victory by Soviet-supported North
+                    Vietnam over U.S.-supported South Vietnam continued to erode U.S. faith in
+                    détente as an effective Cold War foreign policy. </p>
+                <p>The U.S. failure to achieve its desired outcome in Angola raised the stakes of
+                    the superpower competition in the Third World. Subsequent disagreements over the
+                    Horn of Africa, and Afghanistan contributed to undoing the period of détente
+                    between the Soviet Union and the United States. Additionally, the Angola crisis
+                    also ended a recent thaw in U.S.-Cuban relations.</p>
+            </div>
+            <div type="section" xml:id="shuttle-diplomacy"
+                ana="nixon-richard kissinger-henry-a egypt israel syria peace">
+                <head>Shuttle Diplomacy and the Arab-Israeli Dispute, 1974–1975 </head>
+                <p>In January and May 1974, Secretary of State <persName>Henry Kissinger</persName>
+                    engaged in “shuttle diplomacy,” a term coined by the members of the media who
+                    followed Kissinger on his various short flights among Middle East capitals as he
+                    sought to deal with the fallout of the October 1973 war. After three weeks of
+                    fighting, a ceasefire found Israeli forces entangled with the Egyptian and
+                    Syrian forces. This presented President Richard Nixon and Kissinger with an
+                    opportunity to play a lead role in disengaging these armies from one another and
+                    possibly laying the groundwork for further steps to peacefully resolve the
+                    25-year conflict. In January 1974, Kissinger helped negotiate the first
+                    Egyptian-Israeli disengagement agreement in eight days, and in May, he arranged
+                    a Syrian-Israeli disengagement after a month of intense negotiations.
+                    Kissinger’s shuttle diplomacy secured one last deal in September 1975 with the
+                    conclusion of a second Egyptian-Israeli disengagement agreement.</p>
+                <figure>
+                    <graphic url="shuttle-diplomacy.jpg" height="450px" width="501px"/>
+                    <head>The map of the second disengagement agreement between Egypt and Israel in
+                        1975. (Office of the Geographer, U.S. Department of State)</head>
+                </figure>
+                <p>The origins of the first shuttle started with Israel’s proposals for
+                    disengagement with the Egyptians on January 4 and 5, 1974. Israel’s proposals
+                    demonstrated to Kissinger that the two sides were close enough for him to engage
+                    in intensive diplomacy between Jerusalem and Cairo to find a way to negotiate a
+                    solution. Nixon, who had become severely distracted by the growing Watergate
+                    crisis, encouraged Kissinger to make the trip, but Nixon’s involvement in this
+                    negotiation and the ones to follow before his resignation was minimal.</p>
+                <p>On January 11, Kissinger arrived in Aswan, Egypt where President <persName>Anwar
+                        Sadat</persName> worked during the winter. The negotiations would center
+                    around three key items: first, where the forward line of each army would be
+                    located; second, the size of the zones where armor was to be limited; and third,
+                    the types of armor to be limited in these zones. The Israelis also wanted the
+                    Egyptians to reopen the Suez Canal and sought assurances guaranteeing Israeli
+                    passage through the Suez Canal, the Straits of Tiran, and Bab el-Madeb.
+                    Furthermore, Israel desired Egypt to reconstruct cities along the Suez Canal so
+                    as to ensure that the danger to Egyptian civilian populations would deter Egypt
+                    from starting another war. Kissinger shuttled between Israel and Egypt for a
+                    week, reaching an agreement on January 18. The highlights of the agreement
+                    included limited Egyptian and Israeli forces divided by a U.N. buffer zone on
+                    the east bank of the Suez Canal. Egypt also agreed to most of the assurances
+                    that Israel had requested.</p>
+                <p>Following the conclusion of this Egyptian-Israeli disengagement agreement,
+                    commonly known as Sinai I, U.S. attention moved to Syria, the other country with
+                    armies entangled with Israel’s forces. Kissinger hoped moving on the
+                    Syrian-Israeli front would lead the Arab members of the Organization of
+                    Petroleum Exporting Countries (OAPEC) to lift the oil embargo they had imposed
+                    on the United States in retaliation for American assistance to Israel during the
+                    war.</p>
+                <p>Unlike the relatively short negotiations that led to the Egyptian-Israeli
+                    disengagement agreement, negotiations for a Syrian-Israeli disengagement proved
+                    far more arduous and took much longer. By March 18, OPEC lifted the oil embargo,
+                    but it would be subject to review on June I. With a need to show progress in
+                    negotiations between Israel and Syria before then, Kissinger moved forward in
+                    laying the groundwork for another shuttle. Through the end of March and most of
+                    April, Kissinger met separately in Washington with Israeli officials and a
+                    senior- level Syrian emissary to discuss the groundwork for negotiations.</p>
+                <p>By the end of April, Kissinger decided the time was right to begin his second
+                    shuttle in the Middle East. On May 1, he left for Jerusalem to begin nearly a
+                    month of intense negotiations between the Israelis and Syrians. The negotiation
+                    centered on the town of Quneitra in the Golan Heights, three kilometers within
+                    the zone Israel had captured during the June 1967 Arab-Israeli War. Since
+                    Quneitra did not include any Israeli settlements, the Syrians wanted the town
+                    returned as part of any agreement, as well as the territory taken during the
+                    October war. After the first week of negotiations, the Syrians and Israelis had
+                    shared with Kissinger their views of a line of disengagement. They were close to
+                    one another; however, control of Quneitra and three hills that surrounded the
+                    town remained the key stumbling block. By mid-May, both sides had agreed to
+                    compromises that put their proposals within a few hundred meters of each other,
+                    and Israel had assented to a civilian Syrian presence in Quneitra. Despite the
+                    progress, neither side would close the gap needed to complete an agreement. On
+                    May 16, Kissinger offered an American proposal that sought to find the common
+                    ground necessary to reach a compromise. Both sides wanted modifications to this
+                    American proposal, however, and negotiations dragged on for another two weeks
+                    with Kissinger almost ceasing the negotiations on three separate occasions.
+                    Finally, on May 31, Syria and Israel signed a disengagement agreement.</p>
+                <p>On August 9, Nixon resigned the presidency, and Vice-President <persName>Gerald
+                        Ford</persName> assumed the office while keeping Kissinger on board as both
+                    Secretary of State and National Security Adviser. During the fall, much to the
+                    U.S. Government’s disappointment, an Arab summit in Rabat, Morocco virtually
+                    eliminated any hopes of a Jordanian-Israeli agreement. The Arab representatives
+                    announced a resolution on October 28 that recognized the Palestine Liberation
+                    Organization (PLO) as the sole representative of the Palestinian people and
+                    affirmed its right “to establish an independent national authority over all
+                    liberated territory.” Despite previous Jordanian efforts during the year to
+                    engage the Israelis in negotiations over the West Bank and Jerusalem, this
+                    resolution forced King Hussein to defer to the PLO in future negotiations with
+                    Israel over the West Bank and East Jerusalem.</p>
+                <p>With Jordan no longer in a position to press the United States for a negotiation
+                    with Israel, and Israel unwilling to talk with the PLO, Sadat convinced
+                    President Ford and Kissinger that they should spend 1975 pushing for a second
+                    agreement between Israel and Egypt over the Sinai. Unlike Sinai I, however,
+                    negotiations for this second agreement proved far more challenging and lasted
+                    several months. After initial discussions with the Egyptians and Israelis, Ford
+                    concluded that the Israelis were not as forthcoming as Egypt, and in March, he
+                    called for a reassessment of U.S. policy towards Israel. This sparked an outcry
+                    from the U.S. Senate, and Ford backtracked during the early summer. Ultimately,
+                    by August, an agreement was within sight, and Kissinger finished the second
+                    Egyptian-Israeli disengagement agreement, known as the Sinai Interim Agreement
+                    or Sinai II, which Egypt and Israel signed on September 4. This agreement led to
+                    the withdrawal of Israeli forces further east in the Sinai and a U.N. buffer
+                    zone put in the place of the Israelis. The agreement also committed major U.S.
+                    resources through the establishment of three manned stations and three unmanned
+                    electronic sensor fields in the Sinai.</p>
+            </div>
+            <div type="section" xml:id="helsinki"
+                ana="russia conference-on-security-and-cooperation-in-europe">
+                <head>Helsinki Final Act, <date when="1975">1975</date>
+                </head>
+                <p>The Helsinki Final Act was an agreement signed by 35 nations that concluded the
+                    Conference on Security and Cooperation in Europe, held in <placeName>Helsinki,
+                        Finland</placeName>. The multifaceted Act addressed a range of prominent
+                    global issues and in so doing had a far-reaching effect on the Cold War and
+                    U.S.-Soviet relations.</p>
+                <figure>
+                    <graphic url="helsinki.jpg" height="450px" width="344px"/>
+                    <head>President Ford adresses the European Security Conference in Helsinki. (AP
+                        Photo)</head>
+                </figure>
+                <p>The Helsinki Conference had its origins in early Cold War discussions. The Soviet
+                    Union first sought a European conference on security issues in 1954 at the
+                    Geneva Conference in the hopes that such a meeting would result in formal
+                    recognition of the political boundaries in Eastern Europe that had been
+                    established after World War II. At that time, the United States and the other
+                    Western nations were reluctant to engage in such a discussion because they
+                    feared that it might strengthen the Soviet position and lead to an expansion of
+                    communism. As a result, no progress was made through the 1950s and 1960s. </p>
+                <p>However, the shift towards détente during the early 1970s encouraged Western
+                    leaders to reconsider the negotiations. Discussions started with the Helsinki
+                    Consultations in 1972 and continued until the opening of the formal Conference
+                    on Security and Cooperation in Europe (CSCE) in July of 1973. From the summer of
+                    1973 to the summer of 1975, intensive negotiations continued in Geneva, until
+                    the participants finally met again in Helsinki on August 1, 1975 to sign the
+                    Helsinki Final Act. Every European country except Albania signed the Act, in
+                    addition to the United States and Canada.</p>
+                <p>The Helsinki Final Act dealt with a variety of issues divided into four
+                    “baskets.” The first basket included ten principles covering political and
+                    military issues, territorial integrity, the definition of borders, peaceful
+                    settlement of disputes and the implementation of confidence building measures
+                    between opposing militaries. The second basket focused on economic issues like
+                    trade and scientific cooperation. The third basket emphasized human rights,
+                    including freedom of emigration and reunification of families divided by
+                    international borders, cultural exchanges and freedom of the press. Finally, the
+                    fourth basket formalized the details for follow-up meetings and implementation
+                    procedures. The CSCE held further meetings in Belgrade in 1977–78, Madrid in
+                    1980–83, and Vienna in 1986–89.</p>
+                <p>Although initially unpopular in the West, the Helsinki Final Act proved important
+                    at the end of the Cold War. Some activists opposed the Western concession on
+                    boundaries that resulted in a formal acceptance of the Soviet annexation of
+                    Estonia, Latvia and Lithuania, effectively acknowledging Soviet domination of
+                    Eastern Europe. In spite of such criticism, the third basket on human rights and
+                    freedoms ultimately proved to be important to dissidents in Eastern Europe and
+                    the Soviet Union. To follow the progress of the USSR in implementing the human
+                    rights stipulations established in the Act, human rights activists set up
+                    Helsinki Monitoring Groups in the Soviet Union and across Europe. These groups
+                    tracked violations of the Act and drew international attention to human rights
+                    violations. Furthermore, the Belgrade follow-up meeting introduced a review
+                    process to track violators of the Helsinki Final Act and hold them accountable.
+                    Together these measures enabled dissidents to act and speak more openly than
+                    would otherwise have been possible.</p>
+                <p>The Helsinki Process, including the review meetings, led to greater cooperation
+                    between Eastern and Western Europe. Representatives from non-aligned countries
+                    acted as intermediaries, helping to broker deals between members of the <ref
+                        target="/milestones/1945-1952/nato">North Atlantic Treaty Organization</ref>
+                    and the <ref target="/milestones/1953-1960/warsaw-treaty">Warsaw Pact</ref>. The
+                    Vienna Review Meeting introduced recognition of the rights of emigration and
+                    religious freedom, which helped to open ties between Eastern and Western Europe.
+                    In addition, the Vienna meetings launched a new series of CSCE conferences on
+                    the Human Dimension that took place concurrently with, and contributed to,
+                    widespread political and social changes in Europe. These shifts helped bring an
+                    end to Soviet dominance in Eastern Europe and the end of the Cold War.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

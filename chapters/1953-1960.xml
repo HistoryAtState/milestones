@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schemas/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1953–1960</title>
+                <title type="short">1953–1960</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2013-10-31" target="#east-german-uprising"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1953" to="1960">1953–1960</date>: Entrenchment of a Bi-Polar Foreign
+                    Policy</head>
+                <p>Concerns about the international spread of communism and the growing power of the
+                    Soviet Union dominated most foreign policy decisions during the administration
+                    of President <persName>Dwight D. Eisenhower</persName>.</p>
+                <figure>
+                    <graphic url="eisenhower-dwight-d.jpg" height="200px" width="200px"/>
+                    <head>President Dwight D. Eisenhower</head>
+                </figure>
+                <p>U.S. foreign policymakers observed with concern as the Soviets tightened their
+                    hold on Eastern Europe. In Africa and Asia nationalist movements challenged
+                    colonial governments. U.S. officials suspected that communists dominated these
+                    movements and received support directly from the Soviet Union. In order to
+                    counterbalance the Soviet threat, President Eisenhower supported a doctrine of
+                    massive retaliation, which called for the development of technology necessary to
+                    match and even surpass Soviet nuclear capability. Recognizing that nuclear war
+                    was a last resort, U.S. officials supported engaging in conventional limited
+                    wars. In an effort to prepare for potential military conflicts, President
+                    Eisenhower exercised unprecedented executive authority in deploying the U.S.
+                    military abroad, without specific authorization from the U.S. Congress. These
+                    Cold War policies served to increase the foreign policymaking power of the
+                    presidency and to expand U.S. international obligations.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="dien-bien-phu" ana="vietnam-conflict vietnam laos cambodia">
+                <head>Dien Bien Phu &amp; the Fall of French Indochina, <date when="1954"
+                        >1954</date>
+                </head>
+                <p>In the late 1940s, the French struggled to control its colonies in
+                        <placeName>Indochina</placeName> - Vietnam, Cambodia, and Laos. Despite
+                    financial assistance from the United States, nationalist uprisings against
+                    French colonial rule began to take their toll. On May 7, 1954, the French-held
+                    garrison at <placeName>Dien Bien Phu</placeName> in Vietnam fell after a four
+                    month siege led by Vietnamese nationalist <persName>Ho Chi Minh</persName>.
+                    After the fall of Dien Bien Phu, the French pulled out of the region. Concerned
+                    about regional instability, the United States became increasingly committed to
+                    countering communist nationalists in Indochina. The United States would not pull
+                    out of Vietnam for another twenty years.</p>
+                <figure>
+                    <graphic url="french-indochina.jpg" height="200px" width="200px"/>
+                    <head>French Foreign Legionnaire in French Indochina</head>
+                </figure>
+                <p>Southeast Asia, with Indochina at the center, had long been a region of interest
+                    to outside powers. Most of the region fell under European colonial control after
+                    the mid-19th century. During World War Two, Japan also sought the resources the
+                    area had to offer. After Japanese defeat, many of the countries of Southeast
+                    Asia occupied by Japan protested their return to colonial status, resulting in a
+                    surge of nationalism. American officials involved in the U.S. occupation of
+                    Japan also developed a strong interest in the region, which they viewed as a
+                    potential market for Japanese goods and a source of raw materials (like tin,
+                    oil, rubber, and rice) to supply Japanese manufacturing.</p>
+                <p>Like the other colonial powers, France attempted to reestablish its position in
+                    Indochina after 1945, but found that it was difficult. Laos gained its
+                    independence in 1949, and Cambodia became independent in 1953. France promised
+                    Vietnam its autonomy by 1949, but only offered limited independence, with France
+                    continuing to oversee defense and foreign policy. To counter the influence of
+                    popular nationalist Ho Chi Minh, the French attempted to reinstate former
+                    emperor Bao Dai, but he was never as popular as Ho Chi Minh, and Vietnam’s
+                    independence movement continued to grow. <persName>Bao Dai</persName> eventually
+                    abdicated a second time and lived out his life in exile in France.</p>
+                <figure>
+                    <graphic url="hochiminh.jpg" width="200px" height="200px"/>
+                    <head>Ho Chi Minh</head>
+                </figure>
+                <p>Although Ho Chi Minh would become famous for leading the North Vietnamese forces
+                    against the United States in the 1960s, despite his communist leanings, he was
+                    not at the outset anti-American. He had been disappointed by the lack of support
+                    given native peoples struggling for independence from colonial rule at the
+                    Versailles Conference that ended World War I. In the 1940s, he made repeated
+                    requests for American aid and campaigned for independence. Following
+                    unsuccessful discussions with the French in 1946, general war broke out between
+                    Ho Chi Minh’s Viet Minh forces and French troops in the northern part of
+                    Vietnam.</p>
+                <p>U.S. interests in the late 1940s and early 1950s did not, however, include
+                    supporting Vietnam’s effort to gain independence under a nationalist with
+                    communist leanings. Active communist rebellions in Malaya and the Philippines,
+                    and the <ref target="/milestones/1945-1952/chinese-rev">establishment of the
+                        People’s Republic of China</ref> in 1949, caused U.S. officials great
+                    concern. President <persName>Eisenhower</persName> explained the link between
+                    Vietnam’s status and that of the rest of Southeast Asia through the metaphor of
+                    falling dominoes: if one country fell to communism, the rest of them would
+                    follow. The United States also required French assistance developing the <ref
+                        target="/milestones/1945-1952/nato">North Atlantic Treaty Organization
+                        (NATO)</ref> and rebuilding West Germany, and, as such, supported the
+                    failing French regime in Indochina. By the time of the Korean War armistice in
+                    1953, the United States was already irrevocably committed to defending the
+                    French against the increasingly aggressive Viet Minh forces.</p>
+                <p>In early 1954, the French army was encamped at Dien Bien Phu, a heavily fortified
+                    base located deep in a valley and near communications links on the Laotian
+                    border. By mid-March, it was clear that the French were struggling under a Viet
+                    Minh seige and that only outside intervention in the form of fresh troops or
+                    airstrikes could save them. Though President Eisenhower was determined to
+                    prevent a communist victory in Vietnam, the U.S. Congress and officials in the
+                    Administration were equally determined not to intervene unless they could do so
+                    as a part of a larger coalition. Britain and other members of NATO declined to
+                    participate in rescuing what they thought was a lost cause. Dien Bien Phu fell
+                    in May, and the French retreated from Vietnam.</p>
+                <p>In the wake of the French defeat, the French and Vietnamese, along with
+                    representatives from the United States and China, met in Geneva in mid-1954 to
+                    discuss the future of Indochina. They reached two agreements. First, the French
+                    and the Viet Minh agreed to a cease-fire and a temporary division of the country
+                    along the 17th parallel. French forces would remain in the South, and Ho Chi
+                    Minh’s forces would control the North. The second agreement promised that
+                    neither the North nor the South would join alliances with outside parties, and
+                    called for general elections in 1956. Laos and Cambodia were to remain
+                    neutral.</p>
+                <p>The United States did not sign the second agreement, establishing instead its own
+                    government in South Vietnam. As the French pulled out, the United States
+                    appointed Ngo Dinh Diem to lead South Vietnam. Like Bao Dai, Diem was an
+                    unpopular choice in Vietnam as he had waited out the nationalist struggle
+                    against France abroad. Diem had also collaborated with the Japanese occupation,
+                    but his Catholicism appealed to the Western powers. The United States also
+                    supported the formation of the Southeast Asia Treaty Organization, designed to
+                    respond if there was an armed attack on any nation in the region.</p>
+            </div>
+            <div type="section" xml:id="east-german-uprising"
+                ana="eisenhower-dwight-d dulles-john-foster germany russia north-atlantic-treaty-organization alliances">
+                <head>The East German Uprising, 1953</head>
+                <p>On June 16, 1953, workers in East Berlin rose in protest against government
+                    demands to increase productivity. Within days, nearly a million East Germans
+                    joined the protests and began rioting across hundreds of East German cities and
+                    towns. In order to prolong the uprising and win support for the West, the United
+                    States established an aid program to feed East Germans. The program, which
+                    continued until October 1953, proved very popular with East Germans and
+                    highlighted the repression and privations of life under communism.</p>
+                <figure>
+                    <graphic url="east-german-uprising.jpg" height="450px" width="318px"/>
+                    <head>Russian Tank in front of the German Imperial Court of Justice, Leipzig,
+                        June 17, 1953. (Deutsches Bundesarchiv)</head>
+                </figure>
+                <p>The uprising was a product of Soviet and East German reaction to West Germany’s
+                    formal alignment to the West. In May 1952, Western powers signed the General
+                    (Bonn) and European Defense Community (EDC) treaties. These treaties were, in
+                    essence, a rejection of Stalin’s March 1952 offer to agree to a unified Germany
+                    on the condition that it remained unarmed. In response to West Germany’s
+                    absorption and rearmament by the Western powers, the Soviets and the regime of
+                    East German General Secretary Walter Ulbricht decided to unequivocally transform
+                    East Germany into a Soviet satellite state.</p>
+                <p>At the heart of East Germany’s transformation, a process dubbed “Constructing
+                    Socialism” enacted forced collectivization of agriculture, a campaign against
+                    private trade and Industry, and the development of heavy industry.
+                    Collectivization produced severe food shortages, which began in the winter and
+                    spring of 1953. Forced remilitarization, the suppression of churches, and the
+                    persecution of opposition also added to the strain on the population. East
+                    Germans emigrated en masse to West Germany via West Berlin, protest movements
+                    flourished, and expressions of general dissatisfaction characterized public
+                    life.</p>
+                <p>In April 1953, after the death of Stalin, Soviet authorities sought to rein in
+                    Ulbricht’s regime, which advocated even more collectivization. Moscow persuaded
+                    Ulbricht to relax or discontinue parts of the “Constructing Socialism” movement
+                    in a new campaign called the “New Course.” Because many people perceived the
+                    “New Course” as a capitulation to the West, and also because the treatment of
+                    manufacturing workers remained harsh, the relaxation of “Constructing Socialism”
+                    transformed general discontent into open defiance. On June 16, a few hundred
+                    workers called for a general strike. The next day, demonstrations and rioting
+                    broke out throughout East Germany. The Soviet occupation forces declared martial
+                    law and used massive military force to suppress the rioting and support the East
+                    German regime.</p>
+                <p>In response, the United States under the leadership of President Dwight D.
+                    Eisenhower showed its support for the uprising by establishing a large scale
+                    food relief program for East Germans, which was officially announced on July 10
+                    and commenced on July 27. Under this program, the United States pledged to
+                    distribute $15 million worth of food from 35 distribution centers established in
+                    West Berlin, to which East Germans had access through East Berlin. The so called
+                    “Eisenhower packages” contained lard, peas, flour, and pasteurized milk. The
+                    United States distributed over 5 million packages through these centers to over
+                    a million East Germans who were able to gain access to East Berlin. In response,
+                    the East German Government cut off rail and bus traffic to West Berlin, which
+                    further heightened tensions. The program put Ulbricht on the defensive and
+                    extended the atmosphere of crisis across East Germany.</p>
+                <p>In addition to achieving humanitarian objectives through this assistance program,
+                    the United States sought to destabilize East Germany and weaken Ulbricht’s
+                    regime. The Eisenhower administration also hoped to deter Soviet initiatives to
+                    start talks on German reunification. Washington believed that any movement
+                    toward unification on Soviet terms or even a lessening of the crisis would
+                    threaten the delicate process of Western European military integration and
+                    weaken an already tenuous French resolve to ratify the European Defense
+                    Community (EDC) treaty. The United States was also concerned that unification
+                    negations would undermine West German Chancellor Konrad Adenauer because he had
+                    based his administration on alignment with the West. President Eisenhower and
+                    Secretary of State John Foster Dulles attempted to exploit the uprising in East
+                    Germany in order to undercut the Soviet Union’s post-Stalin “Peace and Unity”
+                    campaign, bolster support for West German rearmament and the EDC, and weaken the
+                    Soviets’ initiative toward German unification.</p>
+                <p>As the food aid continued, Western European governments grew apprehensive that
+                    Soviet military action against West Berlin was a real possibility. The campaign
+                    also experienced diminishing returns as the East German regime tightened control
+                    over the population and prevented people from receiving the aid. The campaign
+                    ended in early October.</p>
+            </div>
+            <div type="section" xml:id="seato">
+                <head>Southeast Asia Treaty Organization (SEATO), <date when="1954">1954</date>
+                </head>
+                <p>In September of 1954, the United States, France, Great Britain, New Zealand,
+                    Australia, the Philippines, Thailand and Pakistan formed the Southeast Asia
+                    Treaty Organization, or SEATO.</p>
+                <figure>
+                    <graphic url="seato.jpg" height="200px" width="200px"/>
+                    <head>SEATO Meeting in Manila</head>
+                </figure>
+                <p>The purpose of the organization was to prevent communism from gaining ground in
+                    the region. Although called the “Southeast Asia Treaty Organization,” only two
+                    Southeast Asian countries became members. The Philippines joined in part because
+                    of its close ties with the United States and in part out of concern over the
+                    nascent communist insurgency threatening its own government. Thailand,
+                    similarly, joined after learning of a newly established “Thai Autonomous Region”
+                    in Yunnan Province in South China, expressing concern about the potential for
+                    Chinese communist subversion on its own soil. The rest of the region was far
+                    less concerned about the threat of communism to internal stability. Burma and
+                    Indonesia both preferred to maintain their neutrality rather than join the
+                    organization. Malaya (including Singapore) found it politically difficult to
+                    give formal support to the organization, though through its ties with Great
+                    Britain it learned of key developments. Finally, the terms of the Geneva
+                    Agreements of 1954 signed after the fall of French Indochina prevented Vietnam,
+                    Cambodia and Laos from joining any international military alliance, though these
+                    countries were ultimately included in the area protected under SEATO and granted
+                    “observers” status.</p>
+                <p>Most of the SEATO member states were countries located elsewhere but with an
+                    interest in the region or the organization. Australia and New Zealand were
+                    interested in Asian affairs because of their geographic position in the Pacific.
+                    Great Britain and France had long maintained colonies in the region and were
+                    interested in developments in the greater Indochina region. For Pakistan, the
+                    appeal of the pact was the potential for receiving support in its struggles
+                    against India, in spite of the fact that neither country was located in the area
+                    under the organization’s jurisdiction. Finally, U.S. officials believed
+                    Southeast Asia to be a crucial frontier in the fight against communist
+                    expansion, so it viewed SEATO as essential to its global Cold War policy of
+                    containment.</p>
+                <p>Headquartered in <placeName>Bangkok, Thailand</placeName>, SEATO had only a few
+                    formal functions. It maintained no military forces of its own, but the
+                    organization hosted joint military exercises for member states each year. As the
+                    communist threat appeared to change from one of outright attack to one of
+                    internal subversion, SEATO worked to strengthen the economic foundations and
+                    living standards of the Southeast Asian States. It sponsored a variety of
+                    meetings and exhibitions on cultural, religious and historical topics, and the
+                    non-Asian member states sponsored fellowships for Southeast Asian scholars.</p>
+                <p>Beyond its activities, the SEATO charter was also vitally important to the
+                    American rationale for the Vietnam War. The United States used the organization
+                    as its justification for refusing to go forward with the 1956 elections intended
+                    to reunify Vietnam, instead maintaining the divide between communist North
+                    Vietnam and South Vietnam at the 17th parallel. As the conflict in Vietnam
+                    unfolded, the inclusion of Vietnam as a territory under SEATO protection gave
+                    the United States the legal framework for its continued involvement there.</p>
+                <p>The organization had a number of weaknesses as well. To address the problems
+                    attached to the guerrilla movements and local insurrections that plagued the
+                    region in the post-colonial years, the SEATO defense treaty called only for
+                    consultation, leaving each individual nation to react individually to internal
+                    threats. Unlike the <ref target="/milestones/1945-1952/nato">North Atlantic
+                        Treaty Organization (NATO)</ref>, SEATO had no independent mechanism for
+                    obtaining intelligence or deploying military forces, so the potential for
+                    collective action was necessarily limited. Moreover, because it incorporated
+                    only three Asian members, SEATO faced charges of being a new form of Western
+                    colonialism. Linguistic and cultural difficulties between the member states also
+                    compounded its problems, making it difficult for SEATO to accomplish many of its
+                    goals.</p>
+                <p>By the early 1970s, members began to withdraw from the organization. Neither
+                    Pakistan nor France supported the U.S. intervention in Vietnam, and both nations
+                    were pulling away from the organization in the early 1970s. Pakistan formally
+                    left SEATO in 1973, because the organization had failed to provide it with
+                    assistance in its ongoing conflict against India. When the Vietnam War ended in
+                    1975, the most prominent reason for SEATO’s existence disappeared. As a result,
+                    SEATO formally disbanded in 1977.</p>
+            </div>
+            <div type="section" xml:id="taiwan-strait-crises" ana="taiwan china">
+                <head>The Taiwan Straits Crises: <date from="1954" to="1955">1954–55</date> and
+                        <date when="1958">1958</date>
+                </head>
+                <p>Tensions between the <placeName>People’s Republic of China (PRC)</placeName> and
+                    the <placeName>Republic of China (ROC)</placeName> in the 1950s resulted in
+                    armed conflict over strategic islands in the <placeName>Taiwan
+                        Strait</placeName>. On two separate occasions during the 1950s, the PRC
+                    bombed islands controlled by the ROC. The United States responded by actively
+                    intervening on behalf of the ROC.</p>
+                <figure>
+                    <graphic url="taiwan-strait.jpg" height="200px" width="200px"/>
+                    <head>Map of the Taiwan Strait</head>
+                </figure>
+                <p>The importance of the islands in the Taiwan Strait was rooted in their geographic
+                    proximity to China and Taiwan and their role in the Chinese Civil War. Jinmen
+                    (Quemoy), two miles from the mainland Chinese city of Xiamen, and Mazu, ten
+                    miles from the city of Fuzhou, are located approximately one hundred miles west
+                    of Taiwan. When the Nationalist Government of the ROC under <persName>Chiang
+                        Kai-shek</persName> recognized that it had lost control of mainland China
+                    during the Chinese Civil War, the officials and part of the Nationalist Army
+                    fled to the island of Taiwan, establishing troops on these two islands and the
+                    Dachen Islands further north. In the early 1950s, Chiang’s forces launched minor
+                    attacks from Jinmen and Mazu against the coast of mainland China. Leadership on
+                    both sides of the strait continued to view the islands as a potential launching
+                    pad for an ROC invasion to retake the Chinese mainland and had an interest in
+                    controlling the islands.</p>
+                <p>U.S. policy toward East Asia in the early Cold War contributed to the tensions in
+                    the Taiwan Strait. In late 1949 and early 1950, American officials were prepared
+                    to let PRC forces cross the Strait and defeat Chiang, but after the outbreak of
+                    the Korean War in June 1950, the United States sent its Seventh Fleet into the
+                    Taiwan Strait to prevent the Korean conflict from spreading south. The
+                    appearance of the Seventh Fleet angered the Chinese Communists, who transferred
+                    their troops poised for an invasion of Taiwan to the Korean front. This served
+                    to delay military conflict in the Strait until the United States withdrew its
+                    fleet after the Korean War.</p>
+                <p>Over the next few years, the U.S. Government took steps that allied it more
+                    firmly to the ROC Government on Taiwan. In 1954, the United States led the
+                    creation of the <ref target="/milestones/1953-1960/seato">Southeast Asia Treaty
+                        Organization</ref>, which was designed to unify the region against the
+                    perceived Communist threat. Moreover, U.S. officials openly debated the
+                    possibility of signing a Mutual Defense Treaty with Chiang Kai-shek. The PRC
+                    viewed these developments as threats to its national security and regional
+                    leadership. In the interest of bolstering its strategic position in the Taiwan
+                    Strait, the PRC began to bombard Jinmen in September 1954, and soon expanded its
+                    targets to include Mazu and the Dachen Islands.</p>
+                <p>U.S. policymakers considered sending part of the U.S. fleet into the Strait.
+                    Discussions centered on whether this maneuver would reopen the Chinese Civil War
+                    and, if so, what effect that would have on U.S. security concerns in the region.
+                    U.S. policymakers did not want to be drawn into the conflict, but wanted the ROC
+                    to maintain control of the islands. The loss of Jinmen and Mazu to the People’s
+                    Republic might mean an irreparable blow to Nationalist Army morale and the
+                    legitimacy of the ROC regime on Taiwan. To assert its continued support of that
+                    regime, the United States signed the Mutual Defense Treaty with the ROC.
+                    Although the treaty did not commit the United States to defending the off-shore
+                    islands, it promised support if the ROC engaged in a broader conflict with the
+                    PRC.</p>
+                <figure>
+                    <graphic url="enlai.jpg" width="200px" height="200px"/>
+                    <head>Zhou Enlai</head>
+                </figure>
+                <p>The situation in the Strait deteriorated in late 1954 and early 1955, prompting
+                    the U.S. Government to act. In January 1955, the U.S. Congress passed the
+                    “Formosa Resolution,” which gave President Eisenhower total authority to defend
+                    Taiwan and the off-shore islands. The U.S. Government then announced its
+                    determination to defend Taiwan against communist attack, although it did not
+                    specify the territory included within its defensive perimeter. In exchange for a
+                    private promise to defend Jinmen and Mazu, however, <persName>Chiang
+                        Kai-shek</persName> agreed to withdraw his troops from Dachen, which was
+                    strategically ambiguous and difficult to defend.</p>
+                <p>The Eisenhower Administration considered many options, ranging from convincing
+                    Chiang Kai-shek to give up the islands to employing nuclear weapons against the
+                    PRC. Before any of these options became necessary, at the Afro-Asian Conference
+                    in April 1955 in Bandung PRC Foreign Minister <persName>Zhou Enlai</persName>
+                    announced a desire to negotiate with the United States. The PRC’s sudden shift
+                    could have stemmed from pressure from the Soviet Union to ease tensions, concern
+                    about the very real possibility of war with the United States, or changes in
+                    internal politics. In September, 1955, the PRC and the United States began talks
+                    at Geneva to address the issue of repatriation of nationals, but also to discuss
+                    preventing the escalation of future conflicts.</p>
+                <p>Although there were good reasons for the PRC to stand down in 1955, it resumed
+                    its bombardment of Jinmen and Mazu in 1958. This time, the PRC took advantage of
+                    the fact that international attention was focused on U.S. intervention in
+                    Lebanon and barred ROC efforts to re-supply garrisons on the off-shore islands.
+                    The PRC also wanted to protest continued U.S. support of the ROC regime. Once
+                    again, President Eisenhower was concerned that the loss of the islands would
+                    hurt Nationalist morale and might be a precursor to the Communist conquest of
+                    Taiwan. The United States thus arranged to re-supply ROC garrisons on Jinmen and
+                    Mazu. This brought an abrupt end to the bombardment and eased the crisis.
+                    Eventually, the PRC and ROC came to an arrangement in which they shelled each
+                    other’s garrisons on alternate days. This continued for twenty years until the
+                    PRC and the United States normalized relations.</p>
+            </div>
+            <div type="section" xml:id="china-talks">
+                <head>U.S.-China Ambassadorial Talks, <date from="1955" to="1970">1955–1970</date>
+                </head>
+                <p>On August 1, 1955, the United States and the <placeName>People’s Republic of
+                        China (PRC)</placeName> opened a series of ambassadorial-level talks in
+                    Geneva to discuss the repatriation of nationals and other issues of mutual
+                    concern. Because the two countries did not have formal diplomatic relations, the
+                    talks were the principle form of contact between them for sixteen years. The
+                    Chinese proposed the negotiations because Sino-American tensions were high,
+                    causing concern to bystanders throughout the region.</p>
+                <figure>
+                    <graphic url="ambassadorial-talks.jpg" height="200px" width="200px"/>
+                    <head>Henry Kissinger and Chairman Mao, with Zhou Enlai behind them in
+                        Beijing</head>
+                </figure>
+                <p>In late 1954 and early 1955, <ref
+                        target="/milestones/1953-1960/taiwan-strait-crises">the PRC’s bombardment of
+                        the off-shore islands in the Taiwan Strait</ref> had brought the United
+                    States and China to the brink of confrontation. The crisis ended when the
+                    Chinese Foreign Minister suggested that the PRC would be willing to meet with
+                    the United States for a series of bi-lateral talks. The United States proposed
+                    that the two nations send individuals of ambassadorial rank to meet in Geneva.
+                    When the talks began, the United States was represented by U.S. Ambassador to
+                    Czechoslovakia <persName>U. Alexis Johnson</persName>, and the Chinese side by
+                    Chinese Ambassador to Poland <persName>Wang Bingnan</persName>. At the outset,
+                    there were two items on the agenda: to negotiate for the repatriation of
+                    nationals in either country, and to address any “other practical matters of
+                    concern to both sides.”</p>
+                <p>The repatriation of nationals was the primary issue as the talks began. After the
+                    Chinese Communist victory in 1949 and the outbreak of the Korean War in 1950,
+                    citizens from both nations were stranded behind newly closed borders. Once it
+                    became clear that the United States would not recognize the PRC, the Chinese
+                    arrested or denied exit permits to U.S. missionaries, businessmen, and scholars
+                    still living in China. These several dozen individuals were neither tried for
+                    crimes nor given any indication of how long they would be held. By the same
+                    token, the U.S. Government declared a “state of emergency” and prevented Chinese
+                    students and scholars with technical skills capable of aiding China from
+                    returning home. Of some 5,000 Chinese students in the United States in 1949, 105
+                    were held for several years.</p>
+                <p>After six weeks of discussions, on September 10, 1955, issued an “agreed
+                    announcement” that acknowledged the right of Americans in China and Chinese in
+                    the United States to return freely and “expeditiously” to their countries of
+                    origin, and it permitted anyone who believed his or her return was being
+                    prevented to seek assistance from a designated third party. For Americans
+                    detained in China, the third party was the British Embassy, and for Chinese in
+                    the United States, the Indian Embassy acted as the intermediary.</p>
+                <p>After completing this agreement, the two sides faced obstacles in implementing
+                    it. China proposed other topics for discussion, including ending the U.S.
+                    embargo on China that had been in place since the start of the Korean War in
+                    1950 and a future meeting of Chinese and U.S. foreign ministers. U.S.
+                    policymakers, however, were unwilling to address these topics before all U.S.
+                    citizens still in China were released and allowed to depart. As the two sides
+                    failed to see eye to eye on the implementation of this agreement, the Geneva
+                    talks became an open forum for accusations and recriminations over the next
+                    several years. The Chinese representatives demanded the repatriation of all
+                    Chinese citizens in the United States, but the U.S. Government claimed that it
+                    did not prevent them from leaving and some chose to stay. Meanwhile, U.S.
+                    officials accused the Chinese of ignoring the text of the announcement and
+                    continuing to hold American citizens as political prisoners on false charges.
+                    China insisted that it had the right to punish lawbreakers, and no criminal
+                    could be released until his or her full sentence had been served.</p>
+                <p>Other issues caused difficulties for the talks. The United States proved
+                    unwilling to lift the embargo, to allow exchanges of journalists, or to engage
+                    in high-level meetings until China agreed to renounce the use of force in
+                    unifying Taiwan with the mainland. For China, Taiwan was strictly an internal
+                    issue. The status of Taiwan became the major obstacle that prevented
+                    accommodation between the United States and China until the early 1970s.
+                    Protocol issues affected the talks as well. In late 1957, the United States
+                    attempted to end the talks by transferring Ambassador Johnson to Thailand and
+                    sending a representative of lower rank to meet with Wang. As a result of this
+                    action, the two sides suspended the talks for nine months. In September of 1958,
+                    the U.S. Government appointed its Ambassador to Poland, <persName>Jacob
+                        Beam</persName>, as its representative and the talks continued, on and off,
+                    in Warsaw.</p>
+                <p>After the initial agreement on repatriation in the autumn of 1955, the talks
+                    continued for sixteen years and 136 total meetings without making further
+                    progress. They ended when President <persName>Richard Nixon</persName> visited
+                    China and set the stage for eventual U.S. recognition of the People’s Republic.
+                    Although they accomplished little in terms of formal agreements, the talks did
+                    provide China and the United States with an avenue for negotiation, so that
+                    misunderstandings did not escalate into outright conflict. In this way, the
+                    U.S.-China Ambassadorial Talks served as an important factor in relieving
+                    tension in East Asia.</p>
+            </div>
+            <div type="section" xml:id="warsaw-treaty">
+                <head>The Warsaw Treaty Organization, <date when="1955">1955</date>
+                </head>
+                <p>The Warsaw Treaty Organization (also known as the Warsaw Pact) was a political
+                    and military alliance established on May 14, 1955 between the <placeName>Soviet
+                        Union</placeName> and several Eastern European countries. The Soviet Union
+                    formed this alliance as a counterbalance to the <ref
+                        target="/milestones/1945-1952/nato">North Atlantic Treaty Organization
+                        (NATO)</ref>, a collective security alliance concluded between the United
+                    States, Canada and Western European nations in 1949.</p>
+                <figure>
+                    <graphic url="warsawpact.jpg" height="200px" width="200px"/>
+                    <head>Presidential Palace in Warsaw where the Warsaw Pact was signed</head>
+                </figure>
+                <p>The Warsaw Pact supplemented existing agreements. Following World War II, the
+                    Soviet Union had concluded bilateral treaties with each of the East European
+                    states except for East Germany, which was still part of the Soviet
+                    occupied-territory of Germany. When the Federal Republic of Germany entered NATO
+                    in early May 1955, the Soviets feared the consequences of a strengthened NATO
+                    and a rearmed West Germany and hoped that the Warsaw Treaty Organization could
+                    both contain West Germany and negotiate with NATO as an equal partner. Soviet
+                    leadership also noted that civil unrest was on the rise in Eastern European
+                    countries and determined that a unified, multilateral political and military
+                    alliance would tie Eastern European capitals more closely to Moscow.</p>
+                <p>The original signatories to the Warsaw Treaty Organization were the Soviet Union,
+                    Albania, Poland, Czechoslovakia, Hungary, Bulgaria, Romania, and the German
+                    Democratic Republic. Although the members of the Warsaw Pact pledged to defend
+                    each other if one or more of them came under attack, emphasized non-interference
+                    in the internal affairs of its members, and supposedly organized itself around
+                    collective decision-making, the Soviet Union ultimately controlled most of the
+                    Pact’s decisions. The Soviet Union also used the Pact to contain popular dissent
+                    in its European satellites, for example in Hungary in 1956, in Czechoslovakia in
+                    1968, and in Poland in 1981.</p>
+                <p>By the 1980s, the Warsaw Treaty Organization was beset by problems related to the
+                    economic slowdown in all Eastern European countries. By the late 1980s political
+                    changes in most of the member states made the Pact virtually ineffectual. In
+                    September 1990, East Germany left the Pact in preparation for reunification with
+                    West Germany. By October, Czechoslovakia, Hungary, and Poland had withdrawn from
+                    all Warsaw Pact military exercises. The Warsaw Pact officially disbanded in
+                    March and July of 1991 following the dissolution of the Soviet Union.</p>
+            </div>
+            <div type="section" xml:id="cento" subtype="removed-pending-rewrite">
+                <head>The Baghdad Pact (<date when="1955">1955</date>) and the Central Treaty
+                    Organization (CENTO)</head>
+                <p>The Baghdad Pact was a defensive organization for promoting shared political,
+                    military and economic goals founded in 1955 by <placeName>Turkey</placeName>,
+                        <placeName>Iraq</placeName>, <placeName>Great Britain</placeName>,
+                        <placeName>Pakistan</placeName> and <placeName>Iran</placeName>. Similar to
+                    the North Atlantic Treaty Organization and the Southeast Asia Treaty
+                    Organization, the main purpose of the Baghdad Pact was to prevent communist
+                    incursions and foster peace in the Middle East. It was renamed the Central
+                    Treaty Organization, or CENTO, in 1959 after Iraq pulled out of the Pact.</p>
+                <figure>
+                    <graphic url="centoflag.jpg" height="200px" width="200px"/>
+                    <head>CENTO Flag</head>
+                </figure>
+                <p>In the early 1950s, the United States Government expressed an interest in the
+                    formation of a Middle East Command to protect the region against communist
+                    encroachment. The nature of some of the ongoing tensions in the region, like
+                    Arab-Israeli conflict and Egyptian-led anti-colonialism, made it difficult to
+                    forge an alliance that would include both Israel and Western colonial powers.
+                    Instead, the U.S shifted its focus to the “Northern Tier,” referring to the line
+                    of countries that formed a border between the U.S.S.R. and the Middle East. The
+                    idea was to conclude an alliance that would link the southernmost member of the
+                        <ref target="/milestones/1945-1952/nato">North Atlantic Treaty Organization
+                        (NATO)</ref>, Turkey, with the westernmost member of the <ref
+                        target="/milestones/1953-1960/seato">Southeast Asia Treaty Organization
+                        (SEATO)</ref>, Pakistan. Turkey and Pakistan signed an agreement in 1954 to
+                    increase security and stability in the region. In February 1955, Iraq and Turkey
+                    signed a “pact of mutual cooperation” in Baghdad to resist outside aggression,
+                    and they opened it to other countries in the region as well. In April, the
+                    United Kingdom announced its intention to adhere to the Pact, and it was
+                    followed by Pakistan and finally, Iran. The King of Jordan considered joining,
+                    but he could not overcome domestic opposition to the pact. The United States
+                    signed individual agreements with each of the nations in the Pact, but it did
+                    not formally join. Instead, the United States participated as an observer and
+                    took part in committee meetings.</p>
+                <p>Developments in the Middle East in the years that followed weakened the Pact. In
+                    1956, Egyptian leader <persName>Gamal Abdel Nasser</persName> seized control of
+                    the <ref target="/milestones/1953-1960/suez">Suez Canal</ref>, an important
+                    international waterway. Israel responded by invading the Sinai peninsula, and
+                    British and French forces intervened. The outcome of the incident was a profound
+                    loss of British prestige in the region, which in turn damaged its position of
+                    leadership in the Baghdad Pact. A series of events in 1958, including an
+                    Egyptian-Syrian union, an Iraqi revolution, and civil unrest in Lebanon
+                    threatened regional stability. In response to these developments, the United
+                    States invoked the 1957 Eisenhower Doctrine as justification for intervening in
+                    Lebanon. The members of the Baghdad Pact except for Iraq endorsed the U.S.
+                    intervention, and in 1959, Iraq announced it was formally leaving the
+                    arrangement. As a result, the other signatories to the Baghdad Pact formed the
+                    Central Treaty Organization, or CENTO. Although the United States was still not
+                    a member of the organization, it did sign bilateral military aid treaties with
+                    Pakistan, Iran and Turkey, ensuring that it would continue to be active in
+                    supporting the CENTO members.</p>
+                <p>CENTO never actually provided its members with a means for guaranteeing
+                    collective defense. After the withdrawal of Iraq from the Baghdad Pact, CENTO
+                    moved its headquarters to Ankara, Turkey, and the United States continued to
+                    support the organization as an associate, but not as a member. CENTO never
+                    created a permanent military command structure or armed forces, but the United
+                    States provided assistance to its allies in the region. By the close of the
+                    Eisenhower Administration, it had become clear to CENTO members that the
+                    organization was a better conduit for economic and technical cooperation than it
+                    was a military alliance. In 1979, the Iranian revolution led to the overthrow of
+                    the shah and Iran’s withdrawal from CENTO. Pakistan also withdrew that year
+                    after determining the organization no longer had a role to play in bolstering
+                    its security. CENTO formally disbanded in 1979.</p>
+            </div>
+            <div type="section" xml:id="bandung-conf">
+                <head>Bandung Conference (Asian-African Conference), <date when="1955">1955</date>
+                </head>
+                <p>In April, 1955, representatives from twenty-nine governments of Asian and African
+                    nations gathered in <placeName>Bandung, Indonesia</placeName> to discuss peace
+                    and the role of the Third World in the Cold War, economic development, and
+                    decolonization.</p>
+                <figure>
+                    <graphic url="bandung.jpg" height="200px" width="200px"/>
+                    <head>Gedung Merdeka in Bandung during the Asia-Africa Conference in 1955</head>
+                </figure>
+                <p>The core principles of the Bandung Conference were political self-determination,
+                    mutual respect for sovereignty, non-aggression, non-interference in internal
+                    affairs, and equality. These issues were of central importance to all
+                    participants in the conference, most of which had recently emerged from colonial
+                    rule. The governments of Burma, India, Indonesia, Pakistan and Sri Lanka
+                    co-sponsored the Bandung Conference, and they brought together an additional
+                    twenty-four nations from Asia, Africa and the Middle East. Because the
+                    decolonization process was still ongoing, the delegates at the conference took
+                    it upon themselves to speak for other colonized peoples (especially in Africa)
+                    that had not yet established independent governments. The delegates built upon
+                    the Five Principles of Peaceful Coexistence, worked out in negotiations between
+                    India and China in 1954, as they sought to build solidarity among recently
+                    independent nations.</p>
+                <p>At the close of the Bandung Conference attendees signed a communique that
+                    included a range of concrete objectives. These goals included the promotion of
+                    economic and cultural cooperation, protection of human rights and the principle
+                    of self-determination, a call for an end to racial discrimination wherever it
+                    occurred, and a reiteration of the importance of peaceful coexistence. The
+                    leaders hoped to focus on the potential for collaboration among the nations of
+                    the third world, promoting efforts to reduce their reliance on Europe and North
+                    America.</p>
+                <p>The Bandung Conference and its final resolution laid the foundation for the
+                    nonaligned movement during the Cold War. Leaders of developing countries banded
+                    together to avoid being forced to take sides in the Cold War contest. The
+                    initial motivation for the movement was the promotion of peace. In the 1970s it
+                    grew increasingly radical in its condemnation of the policies of the Cold War
+                    super powers. Although the nonaligned movement continued until the end of the
+                    Cold War, the solidarity produced by the “spirit of Bandung” had weakened by end
+                    of the 1960s, by which time most of the original participants in the conference
+                    were no longer in power in their respective countries.</p>
+                <p>The United States Government initially viewed the Bandung Conference, and the
+                    nonaligned movement that emerged from it, with caution. Observers in the United
+                    States expressed concern that the meeting was a sign of a leftward shift in the
+                    ideological leanings of the newly independent nations of Africa and Asia.
+                    Moreover, the conference revealed two contradictions in U.S. foreign policy with
+                    regard to decolonization in the Third World. First, the United States Government
+                    found itself caught between its desire to support decolonization and
+                    self-determination in Southeast Asia and Africa and its reliance on the colonial
+                    powers of Western Europe as allies against the communist Eastern Bloc.
+                    Cooperation with Britain, France and the Netherlands was vital to U.S. policy in
+                    Europe, but supporting decolonization would be tantamount to opposing those
+                    allies. Second, the conference coincided with a fundamental shift in U.S. race
+                    relations. The 1954 <hi rend="italic">Brown v. the Board of Education</hi>
+                    decision had declared school segregation unconstitutional, but the process of
+                    ending the Jim Crow laws in the American South was long and difficult. Many
+                    countries around the world, particularly newly independent nations, followed the
+                    U.S. civil rights movement with interest and questioned the extent to which U.S.
+                    rhetoric of equality and self-determination matched the status of civil rights
+                    in the United States. U.S. leaders worried that the anti-colonialism of Bandung
+                    and the discussion of global racial politics taking place there could turn
+                    anti-American or anti-Western.</p>
+                <p>In the end, however, the Bandung Conference did not lead to a general
+                    denunciation of the West as U.S. observers had feared. Instead, the participants
+                    displayed a wide range of ideologies and loyalties. U.S. allies in Asia were
+                    able to represent their shared interests with the United States in the
+                    conference meetings, and Chinese Premier <persName>Zhou Enlai</persName> took a
+                    moderate line in his speeches to the delegates. Nevertheless, Bandung gave a
+                    voice to emerging nations and demonstrated that they could be a force in future
+                    world politics, inside or outside the Cold War framework.</p>
+            </div>
+            <div type="section" xml:id="khrushchev-20th-congress">
+                <head>Khrushchev and the Twentieth Congress of the Communist Party, <date
+                        when="1956">1956</date>
+                </head>
+                <p>In February, 1956, Soviet leader <persName>Nikita Khrushchev</persName> made a
+                    keynote address to international communist leaders at the Twentieth Congress of
+                    the Communist Party of the Soviet Union. He used his speech to make unexpected
+                    and unprecedented condemnations of the policies and excesses of his predecessor,
+                        <persName>Joseph Stalin</persName>, setting off a chain of reaction that led
+                    to calls for reform in <placeName>Eastern Europe</placeName> and a new policy in
+                    the Soviet Union for dealing with the West.</p>
+                <figure>
+                    <graphic url="nk.jpg" width="200px" height="200px"/>
+                    <head>Nikita Khrushchev</head>
+                </figure>
+                <p>After Stalin died in 1953, four men joined together to lead the country:
+                        <persName>Georgi Malenkov</persName>, <persName>Lavrenti Beria</persName>,
+                        <persName>Vyacheslav Molotov</persName>, and <persName>Nikita
+                        Khrushchev</persName>. As head of the <abbr>KGB</abbr>, Beria was perceived
+                    as a threat to the other three, and they arranged for his execution. As Soviet
+                    Premier in 1953, Malenkov oversaw the first signs of the Soviet “peace
+                    offensive,” in which a series of overtures to the West indicated the beginning
+                    of a change in party policies. By 1955, however, Khrushchev had consolidated his
+                    power, forcing Malenkov to resign as Premier due to his close ties with Beria,
+                    and Khrushchev emerged as the sole leader.</p>
+                <p>The Party Congress was an organization that included some 1,500 Communist leaders
+                    from fifty-six countries around the world, and its twentieth meeting opened in
+                    Moscow on <date when="1956-02-14">February 14, 1956</date>. The Congress
+                    convened roughly every four years, and it served as the major forum through
+                    which the central leadership in <placeName>Moscow</placeName> informed
+                    communists from across the world about policies and ideology. In a private
+                    session of the Soviet representatives which was closed to foreign delegations,
+                    Nikita Khrushchev gave a speech denouncing Stalin. The new Soviet leader had
+                    spent many hours deliberating about his message to the gathering. In preparation
+                    for his participation in the Party Congress, Khrushchev had joined the Presidium
+                    of the Supreme Soviet, an executive governing body in the Soviet government, in
+                    a two-month debate about Stalin’s legacy and the extent to which his successors
+                    could be publicly critical of Stalinist policies. Khrushchev was keenly aware of
+                    the fact that if he gave a speech that proved too critical of Stalin or which
+                    seemed to criticize the Communist system rather than just the former leader and
+                    the word of it spread, it could give Communism’s opponents and international
+                    anti-communists ammunition against the <placeName>Soviet Union</placeName> and
+                    the international movement as a whole. However, he saw the Party as being in
+                    danger of stagnation from years of oppression and Stalinist purges, so calling
+                    for decentralization and denouncing the areas in which Stalin had strayed from
+                    socialist ideology was a way to revitalize the party and secure his own position
+                    as its leader.</p>
+                <p>When Khrushchev finally made his “secret speech,” he shocked the gathered
+                    representatives at the Party Congress. Over the course of his address, he
+                    condemned the brutality of the Stalinist regime, particularly the purges that
+                    led to the torture and execution of some wholly innocent party loyalists.
+                    Khrushchev was careful not to extend his condemnation to the persecution of
+                    non-communists, because as a rising star of the Communist Party he too had
+                    played a role in these purges. Instead, he noted the ways in which Stalin had
+                    misinterpreted and misrepresented otherwise correct ideas and Marxist-Leninist
+                    thought in a paranoid determination to stay in power. In terms of foreign
+                    policy, Khrushchev reversed the Stalinist policy which assumed that a war with
+                    the capitalist West was inevitable and instead advocated a new policy of
+                    “peaceful coexistence.” Because it reconsidered Stalin’s legacy, the address
+                    became known as “Stalin’s Second Funeral.” The speech became the opening salvo
+                    in a larger effort at reforming the party and making it more efficient, but it
+                    also had important consequences for Soviet external relations.</p>
+                <figure>
+                    <graphic url="allen-dulles.jpg" width="200px" height="200px"/>
+                    <head>CIA Chief, Allen Dulles</head>
+                </figure>
+                <p>Khrushchev’s speech was supposed to be private. It was intended only for internal
+                    Communist Party consideration, but word of the events unfolding at the Twentieth
+                    Party Congress quickly traveled across the Iron Curtain. In addition to the
+                    rumors of what had been said, Israeli intelligence officers obtained a copy of
+                    the complete speech and shared it with the <persName>Eisenhower</persName>
+                    Administration. Reactions varied. U.S. CIA chief, <persName>Allen
+                        Dulles</persName>, struck by the unexpected reversal in policy espoused in
+                    the speech, wondered if Khrushchev had been drunk and speaking extemporaneously.
+                    After an internal debate in the CIA, Dulles suggested to his brother and
+                    Secretary of State, <ref target="/departmenthistory/people/dulles-john-foster"
+                        >John Foster Dulles</ref>, that the United States leak the speech to the
+                    press. Eisenhower agreed, and it was sent to the <hi rend="italic">New York
+                        Times</hi>. </p>
+                <p>In the immediate aftermath of the speech, the course of de-Stalinization suited
+                    U.S. interests, as the internal crisis that was expected to emerge out of the
+                    shift in policy temporarily paralyzed the Soviet Union. The Eisenhower
+                    Administration watched, but did not interfere, as the speech became the impetus
+                    for a series of grassroots movements demanding democratic reforms in
+                        <placeName>Eastern Europe</placeName>. Protests broke out in
+                        <placeName>Poland</placeName> and <placeName>Hungary</placeName> in the
+                    summer and autumn of 1956, both with tragic consequences. In Poland, the
+                    Communist Party leadership proved uncertain how to address the demonstrations,
+                    and overreacted by sending in a military force to put down the protest. The
+                    situation in Hungary was even more extreme and month-long demonstrations ended
+                    with Soviet military intervention and thousands of casualties. In Asia,
+                    Communist leaders in the <placeName>People’s Republic of China</placeName> and
+                        <placeName>Vietnam</placeName> expressed grave doubts about the reforms
+                    indicated by Khrushchev.</p>
+                <p>Although Khrushchev played a role in shutting down the rebellions in the Soviet
+                    satellites in Eastern Europe, he followed up on his address to the Twentieth
+                    Party Congress by continuing to advocate reforms and increased cooperation with
+                    the West. As a result, there were early signs of détente in the late 1950s, even
+                    though progress was delayed first by the U-2 incident and later by the <ref
+                        target="/milestones/1961-1968/cuban-missile-crisis">Cuban Missile
+                        Crisis</ref>.</p>
+            </div>
+            <div type="section" xml:id="suez">
+                <head>The Suez Crisis, <date when="1956">1956</date>
+                </head>
+                <p>On July 26, 1956, Egyptian President Gamal Abdel Nasser announced the
+                    nationalization of the Suez Canal Company, the joint British-French enterprise
+                    which had owned and operated the Suez Canal since its construction in 1869.
+                    Nasser’s announcement came about following months of mounting political tensions
+                    between Egypt, Britain, and France. Although Nasser offered full economic
+                    compensation for the Company, the British and French Governments, long
+                    suspicious of Nasser’s opposition to the continuation of their political
+                    influence in the region, were outraged by the nationalization. The Egyptian
+                    leader, in turn, resented what he saw as European efforts to perpetuate their
+                    colonial domination.</p>
+                <figure>
+                    <graphic url="suez.jpg" height="450px" width="284px"/>
+                    <head>Nine members of United Nations Security Council signify support of the
+                        resolution endorsing operation of the Suez Canal on Oct. 14, 1956.(AP
+                        Photo/Tom Fitzsimmons)</head>
+                </figure>
+                <p>The Eisenhower administration, worried by the prospect of the outbreak of
+                    hostilities between its NATO allies and an emergent, influential Middle Eastern
+                    power (and the possible intervention of the Soviet Union in such a conflict),
+                    attempted to broker a diplomatic settlement of the British-French-Egyptian
+                    dispute. On September 9, U.S. Secretary of State John Foster Dulles proposed the
+                    creation of a Suez Canal Users’ Association (SCUA), an international consortium
+                    of 18 of the world’s leading maritime nations, to operate the Canal. Although
+                    SCUA would have given Britain, France, and Egypt an equal stake in the Canal,
+                    this, and various other U.S. and international mediation efforts failed to win
+                    the full support of any of the contending powers.</p>
+                <p>In discussions with the United States between August and October, the British
+                    Government repeatedly hinted that it might resort to force in dealing with
+                    Nasser. At the same time, the British and French held secret military
+                    consultations with Israel, who regarded Nasser as a threat to its security,
+                    resulting in the creation of a joint plan to invade Egypt and overthrow its
+                    President. In keeping with these plans, Israeli forces attacked across Egypt’s
+                    Sinai Peninsula on October 29, 1956, advancing to within 10 miles of the Suez
+                    Canal. Under the pretext of protecting the Canal from the two belligerents,
+                    Britain and France landed troops of their own a few days later.</p>
+                <p>In response, the Eisenhower administration, concerned about dissociating the
+                    United States from European colonialism—especially in light of its strident
+                    condemnation of the Soviet intervention in Hungary the same week—as well as the
+                    possibility that the Soviets would intervene to assist Nasser, pressured Britain
+                    and France to accept a United Nations ceasefire on November 6. Moreover, the
+                    United States voted for U.N. resolutions publicly condemning the invasion and
+                    approving the creation of a U.N. peacekeeping force. Washington’s public censure
+                    of two of its most important allies temporarily soured relations with London and
+                    Paris and helped contribute to the resignation of British Prime Minister Anthony
+                    Eden in January 1957. Concurrently, U.S. worries about the continued viability
+                    of European (particularly British) political and military power in the Middle
+                    East in the aftermath of the Suez Crisis prompted the creation of the Eisenhower
+                    Doctrine, which gave the administration increased power to aid countries in the
+                    region. By March 1957, however, the U.S.–U.K. bilateral relationship had
+                    recovered under Eden’s successor, Harold Macmillan.</p>
+            </div>
+            <div type="section" xml:id="sputnik">
+                <head>
+                    <hi rend="italic">Sputnik</hi>, <date when="1957">1957</date>
+                </head>
+                <p>On October 4, 1957, the <placeName>Soviet Union</placeName> launched the earth’s
+                    first artificial satellite, <hi rend="italic">Sputnik-1</hi>. The successful
+                    launch came as a shock to experts and citizens in the <placeName>United
+                        States</placeName>, who had hoped that the United States would accomplish
+                    this scientific advancement first.</p>
+                <figure>
+                    <graphic url="sputnick.jpg" height="200px" width="200px"/>
+                    <head>Russian stamp commemorating <hi rend="italic">Sputnik</hi> Journey</head>
+                </figure>
+                <p>The fact that the Soviets were successful fed fears that the U.S. military had
+                    generally fallen behind in developing new technology. As a result, the launch of
+                        <hi rend="italic">Sputnik</hi> served to intensify the arms race and raise
+                    Cold War tensions. During the 1950s, both the United States and the Soviet Union
+                    were working to develop new technology. Nazi Germany had been close to
+                    developing the world’s first intercontinental ballistic missile (ICBM) near the
+                    end of the Second World War, and German scientists aided research in both
+                    countries in the wake of that conflict. Both countries were also engaged in
+                    developing satellites as a part of a goal set by the International Council of
+                    Scientific Unions, which had called for the launch of satellite technology
+                    during late 1957 or 1958. Over the course of the decade, the United States
+                    tested several varieties of rockets and missiles, but all of these tests ended
+                    in failure.</p>
+                <p>The Soviet launch of the first <hi rend="italic">Sputnik</hi> satellite was one
+                    accomplishment in a string of technological successes. Few in the United States
+                    had anticipated it, and even those who did were not aware of just how impressive
+                    it would be. At 184 pounds, the Russian satellite was much heavier than anything
+                    the United States was developing at the time, and its successful launch was
+                    quickly followed by the launch of two additional satellites, including one that
+                    carried a dog into space. Together, these orbited the earth every 90-minutes and
+                    created fear that the United States lagged far behind in technological
+                    capability. These concerns were compounded when the United States learned that
+                    the Soviet Union also tested the first intercontinental ballistic missile that
+                    year.</p>
+                <p>Although President <persName>Dwight Eisenhower</persName> had tried to downplay
+                    the importance of the <hi rend="italic">Sputnik</hi> launch to the American
+                    people, he poured additional funds and resources into the space program in an
+                    effort to catch up. The U.S. Government suffered a severe setback in December of
+                    1957 when its first artificial satellite, named <hi rend="italic">Vanguard</hi>,
+                    exploded on the launch pad, serving as a very visible reminder of how much the
+                    country had yet to accomplish to be able to compete militarily with the Soviets.
+                    At last, on January 31, 1958, the United States succeeded in launching its first
+                    satellite, the <hi rend="italic">Explorer</hi>. The <hi rend="italic"
+                        >Explorer</hi> was still slighter than <hi rend="italic">Sputnik</hi>, but
+                    its launch sent it deeper into space. The Soviets responded with yet another
+                    launch, and the space race continued.</p>
+                <p>The success of <hi rend="italic">Sputnik</hi> had a major impact on the Cold War
+                    and the United States. Fear that they had fallen behind led U.S. policymakers to
+                    accelerate space and weapons programs. In the late 1950s, Soviet Premier
+                        <persName>Nikita Khrushchev</persName> boasted about Soviet technological
+                    superiority and growing stockpiles of ICBMs, so the United States worked
+                    simultaneously to develop its own ICBMs to counter what it assumed was a growing
+                    stockpile of Soviet missiles directed against the United States. With both
+                    countries researching new technology, talk of creating a treaty banning nuclear
+                    testing faded away for several years. In this way, the launch of Sputnik fueled
+                    both the space race and the arms race, in addition to increasing Cold War
+                    tensions, as each country worked to prepare new methods of attacking the other.
+                    Eventually, lawmakers and political campaigners in the United States
+                    successfully exploited the fear of a “missile gap” developing between U.S. and
+                    Soviet nuclear arsenals in the 1960 presidential election, which brought
+                        <persName>John F. Kennedy</persName> to power over Eisenhower’s vice
+                    president, <persName>Richard Nixon</persName>. The Cuban Missile Crisis of 1962
+                    served to remind both sides of the dangers of the weapons they were
+                    developing.</p>
+            </div>
+            <div type="section" xml:id="eisenhower-doctrine">
+                <head>The Eisenhower Doctrine, <date when="1957">1957</date>
+                </head>
+                <p>President <persName>Dwight D. Eisenhower</persName> announced the Eisenhower
+                    Doctrine in January 1957, and Congress approved it in March of the same year.
+                    Under the Eisenhower Doctrine, a country could request American economic
+                    assistance and/or aid from U.S. military forces if it was being threatened by
+                    armed aggression from another state. Eisenhower singled out the Soviet threat in
+                    his doctrine by authorizing the commitment of U.S. forces “to secure and protect
+                    the territorial integrity and political independence of such nations, requesting
+                    such aid against overt armed aggression from any nation controlled by
+                    international communism.”</p>
+                <figure>
+                    <graphic url="eisenhower.jpg" height="200px" width="200px"/>
+                    <head>Portrait of Dwight D. Eisenhower</head>
+                </figure>
+                <p>The Eisenhower Administration’s decision to issue this doctrine was motivated in
+                    part by an increase in Arab hostility toward the West, and growing Soviet
+                    influence in Egypt and Syria following the <ref
+                        target="/milestones/1953-1960/suez">Suez Crisis of 1956</ref>. The Suez
+                    Crisis, which had resulted in military mobilization by Great Britain, France,
+                    and Israel—as well as United Nations action—against
+                    <placeName>Egypt</placeName>, had encouraged pan-Arab sentiment in the Middle
+                    East, and elevated the popularity and influence of Egyptian President
+                        <persName>Gamal Abdel Nasser</persName>. President Eisenhower believed that,
+                    as a result of the Suez conflict, a power vacuum had formed in the Middle East
+                    due to the loss of prestige of Great Britain and France. Eisenhower feared that
+                    this had allowed Nasser to spread his pan-Arab policies and form dangerous
+                    alliances with Jordan and Syria, and had opened the Middle East to Soviet
+                    influence. Eisenhower wanted this vacuum filled by the United States before the
+                    Soviets could step in to fill the void. Because Eisenhower feared that radical
+                    nationalism would combine with international communism in the region and
+                    threaten Western interests, he was willing to commit to sending U.S. troops to
+                    the Middle East under certain circumstances.</p>
+                <p>The first real test of the Eisenhower Doctrine came in 1958 in
+                        <placeName>Lebanon</placeName>, where the threat was not armed aggression or
+                    a direct Soviet incursion. Lebanon’s President, <persName>Camille
+                        Chamoun</persName>, requested assistance from the United States in order to
+                    prevent attacks from Chamoun’s political rivals, some of whom had communist
+                    leanings and ties to Syria and Egypt. Eisenhower responded to Chamoun’s request
+                    by sending U.S. troops into Lebanon to help maintain order. Although Eisenhower
+                    never directly invoked the Eisenhower Doctrine, the American action in Lebanon
+                    was meant not only to help Chamoun’s Government against its political opponents,
+                    but also to send a signal to the Soviet Union that it would act to protect its
+                    interests in the Middle East.</p>
+            </div>
+            <div type="section" xml:id="berlin-crises">
+                <head>The Berlin Crisis, <date from="1958" to="1961">1958–1961</date>
+                </head>
+                <p>On November 10, 1958, Soviet Premier <persName>Nikita Khrushchev</persName>
+                    delivered a speech in which he demanded that the Western powers of the United
+                    States, Great Britain and France pull their forces out of <placeName>West
+                        Berlin</placeName> within six months. This ultimatum sparked a three year
+                    crisis over the future of the city of Berlin that culminated in 1961 with the
+                    building of the Berlin Wall. The division of Germany and its capital city of
+                    Berlin among the four victors of the Second World War was frozen in time by the
+                    onset of the Cold War despite the postwar agreements to unify the zones.</p>
+                <figure>
+                    <graphic url="berlincrises.jpg" height="200px" width="200px"/>
+                    <head>President John F. Kennedy meeting with West Berlin Mayor Willy Brandt at
+                        the White House</head>
+                </figure>
+                <p>West Berlin remained under western control, but it was located deep inside East
+                    German territory, and that made its protection from communist takeover a
+                    constant challenge for the western powers. In 1948, the Soviet Union sparked a
+                    crisis in the city by cutting off land access between West Germany and West
+                    Berlin, necessitating a year-long airlift of supplies to the stranded citizens
+                    before the Soviets reopened the passageways. By 1958, however, a similar
+                    situation would have doomed the city; it was already too populous and too
+                    prosperous to be supplied via air. The United States heralded the economic
+                    success and political freedom of West Berlin as a symbol of the success of the
+                    capitalist system, and it was deeply committed to its security, so a Soviet
+                    decision to cut off land access again had the potential to lead to a more
+                    serious conflict between the two powers. At the same time, the existence of West
+                    Berlin was increasingly becoming a liability for the Soviet Union and the East
+                    German government. The divided city highlighted the sharp contrast between the
+                    communist and capitalist systems, and the freedom of movement between the
+                    sectors had resulted in a mass exodus from the eastern side.</p>
+                <p>Looking for a way to stop the flow of people from east to west and a means to
+                    check the growing military power of West Germany, Khrushchev insisted in his
+                    November 1958 speech that it was time for the United States to pull out of the
+                    city. The west interpreted his speech as an ultimatum, and U.S. President
+                        <persName>Dwight Eisenhower</persName> became determined not to give in to
+                    Soviet demands. Instead, the two sides opened a foreign minister’s conference at
+                    Geneva in the summer of 1959 and made an attempt to negotiate a new agreement on
+                    Berlin. Khrushchev wanted the Western garrisons out of West Berlin as a
+                    precursor to reunifying the city, but Eisenhower believed that protecting the
+                    freedom of West Berlin required an ongoing U.S. presence. Although Khrushchev
+                    and Eisenhower made some progress toward mutual understanding during talks at
+                    Camp David in the United States in 1959, relations became tense after the Soviet
+                    Union shot down an American U-2 spy plane canvassing Soviet territory in 1960.
+                    In the wake of this incident, there appeared to be little hope for
+                    accommodation. At that point, talks ceased, and the Soviet premier appeared
+                    willing to wait for the U.S. presidential elections to take place so he could
+                    begin anew with the incoming administration.</p>
+                <p>However, the first negotiations between the new U.S. President and Khrushchev did
+                    not result in a resolution. In the summer of 1961, President John F. Kennedy met
+                    with Khrushchev in Vienna to address the ongoing issue of Berlin, in addition to
+                    the countries’ competing interests in Laos, and the question of disarmament.
+                    Although they agreed to further discussions on Laos, they found no solution to
+                    the Berlin problem. In the wake of the conference, Khrushchev once again gave
+                    the United States six months to withdraw from Berlin. Kennedy responded by
+                    activating 150,000 reservists and increasing defense expenditures, in
+                    preparation for a potential conflict over the future of the city. Unwilling to
+                    face a potential nuclear escalation over the city, Khrushchev prepared to take
+                    his own form of action.</p>
+                <p>On the morning of August 13, 1961, Berliners awoke to discover that on the orders
+                    of East German leader <persName>Walter Ulbricht </persName>, a barbed wire fence
+                    had gone up overnight separating West and East Berlin and preventing movement
+                    between the two sides. The barbed wire fence was soon expanded to include cement
+                    walls and guard towers. The Berlin Wall would prevent the West from having
+                    further influence on the East, stop the flow of migrants out of the communist
+                    sector, and ultimately become the most iconic image of the Cold War in Europe.
+                    The United States quickly condemned the wall, which divided families and limited
+                    freedom of movement.</p>
+                <p>Shortly after the wall was erected, a standoff between U.S. and Soviet troops on
+                    either side of the diplomatic checkpoint led to one of the tensest moments of
+                    the Cold War in Europe. A dispute over whether East German or Soviet guards were
+                    authorized to patrol the checkpoints and examine the travel documents of U.S.
+                    diplomats passing through led the United States to station tanks on its side of
+                    the checkpoint, pointing toward the East German troops just beyond the wall.
+                    Concerns that U.S. forces would either attempt to take down the wall or force
+                    their way through the checkpoint led the Soviet Union to station its own tanks
+                    on the East German side. A wrong move during the face-off could have led to war,
+                    and any conventional skirmish between two nuclear powers always brought with it
+                    the risk of escalation. Instead, Kennedy made use of back channels to suggest
+                    that Khrushchev remove his tanks, promising that if the Soviet Union did so, the
+                    U.S. army would reciprocate. The standoff ended peacefully.</p>
+                <p>The Berlin Wall remained in place until November 9, 1989, when the border between
+                    East and West Berlin was reopened and the wall itself was finally
+                    dismantled.</p>
+            </div>
+            <div type="section" xml:id="u2-incident">
+                <head> U-2 Overflights and the Capture of Francis Gary Powers, <date when="1960"
+                        >1960</date>
+                </head>
+                <p> On <date when="1960-05-01">May 1, 1960</date>, the pilot of an American U-2
+                    spyplane was shot down while flying though Soviet airspace. The fallout over the
+                    incident resulted in the cancellation of the Paris Summit scheduled to discuss
+                    the ongoing situation in divided Germany, the possibility of an arms control or
+                    test ban treaty, and the relaxation of tensions between the
+                        <placeName>USSR</placeName> and the United States.</p>
+                <figure>
+                    <graphic url="francisgarypowers.jpg" height="200px" width="200px"/>
+                    <head>Francis Gary Powers with model of U-2 plane</head>
+                </figure>
+                <p> As early as 1955, officials in both <placeName>Moscow</placeName> and
+                        <placeName>Washington</placeName> had grown concerned about the relative
+                    nuclear capabilities of the Soviet Union and the United States. Given the threat
+                    that the nuclear arms race posed to national security, leadership in both
+                    countries placed a priority on information about the other side’s progress. At a
+                    conference in Geneva in 1955, U.S. President <persName>Dwight
+                        Eisenhower</persName> proposed an “open skies” plan, in which each country
+                    would be permitted to make overflights of the other to conduct mutual aerial
+                    inspections of nuclear facilities and launchpads. Soviet leader <persName>Nikita
+                        Khrushchev</persName> refused the proposal, continuing the established
+                    Soviet policy of rejecting international inspections in any form. Meanwhile,
+                    Khrushchev also claimed that the Soviet Union had developed numerous
+                    intercontinental ballistic missiles, which only motivated the United States
+                    Government to look for new ways to verify developments in the Soviet nuclear
+                    program.</p>
+                <p> The U-2 spyplane program grew out of these concerns. The U-2 was a special
+                    high-altitude plane that flew at a ceiling of 70,000 feet. Because it flew at
+                    such heights, it was thought it would be possible for the planes to pass over
+                    the Soviet Union undetected by radar on the ground. It was important that the
+                    overflights be undetected, because normally an unauthorized invasion of another
+                    country’s airspace was considered an act of war. Operated through the U.S.
+                    Central Intelligence Agency (CIA), the first flight over Moscow and
+                        <placeName>Leningrad</placeName> (<placeName>St. Petersburg</placeName>)
+                    took place on <date when="1956-07-04">July 4, 1956</date>. The flights continued
+                    intermittently over the next four years. It was later revealed that the Soviets
+                    did pick up the flights on radar, and the United States lost a plane over the
+                    Soviet Union in 1959, but as long as there was no definitive proof connecting
+                    the flights to the United States there was no advantage for the Soviets to raise
+                    the issue publicly lest it draw attention to the Soviet inability to shoot down
+                    the offending flights.</p>
+                <figure>
+                    <graphic url="powerstrial.jpg" width="200px" height="200px"/>
+                    <head>Powers Trial</head>
+                </figure>
+                <p> On May 1, 1960, the situation changed. On the eve of the Paris Summit and during
+                    the May Day holiday, <abbr>CIA</abbr> pilot <persName>Francis Gary
+                        Powers</persName> took off from a base in Pakistan bound for another base in
+                    Norway, with his planned flight path transgressing 2,900 miles of Soviet
+                    airspace. Near the city of Sverdlovsk Oblast in the Ural Mountains, Powers'
+                    plane was shot down by a Soviet surface-to-air missile. Powers ejected and
+                    parachuted safely to the ground, where he was captured by the <abbr>KGB</abbr>,
+                    and held for interrogation. The plane crashed, but parts of it were recovered
+                    and placed on public display in Moscow as evidence of American deceit.</p>
+                <p> Although the capture of Powers provided the Soviets the concrete proof that the
+                    United States had been conducting the flights, it was not immediately clear what
+                    the impact would be for the Paris Summit. At first, and before they had
+                    confirmation that Powers had survived, U.S. officials claimed that the U-2 had
+                    been conducting a routine weather flight but experienced a malfunction of its
+                    oxygen delivery system that had caused the pilot to black out and drift over
+                    Soviet air space. On May 7, however, Khrushchev revealed that Powers was alive
+                    and uninjured, and clearly had not blacked out from oxygen deprivation.
+                    Moreover, the Soviets recovered the plane mostly intact, including the aerial
+                    camera system. It became instantly apparent that the weather survey story was a
+                    cover-up for a spy program. Khrushchev had publicly committed himself to the
+                    idea of “peaceful coexistence” with the United States and the pursuit of
+                    détente, so from his perspective, if U.S. President Dwight Eisenhower denied any
+                    knowledge of the spy program and the United States apologized, he would have
+                    continued the summit. Spying was common, and of course, the Soviet Union had its
+                    own agents reporting on developments in the United States. Eisenhower, however,
+                    refused to issue a formal apology to the Soviet Union; he had taken a great
+                    personal interest in the spyplane program, and considered the violation of
+                    Soviet airspace and the reconnaissance of Soviet nuclear facilities serious
+                    enough to personally approve each flight. On May 11, Eisenhower finally
+                    acknowledged his full awareness of the entire program and of the Powers flight
+                    in particular. Moreover, he explained that in the absence of an “open skies”
+                    agreement, such spy flights were a necessary element in maintaining national
+                    defense, and that he planned to continue them.</p>
+                <figure>
+                    <graphic url="u2-wreckage.jpg" width="200px" height="200px"/>
+                    <head>Wreckage of crashed U-2 Plane</head>
+                </figure>
+                <p> Eisenhower’s statement left Khrushchev in a difficult position. If he did
+                    nothing, that would be tantamount to acknowledging implicitly the right of the
+                    United States to spy. But any action Khrushchev did take had the potential to
+                    scuttle the upcoming conference and his larger plans for a Soviet-American
+                    détente. Ultimately, he demanded that Eisenhower apologize for the past flights
+                    and promise to discontinue them as a precondition for entering into the planned
+                    negotiations on Germany. Eisenhower’s refusal led the Soviet delegation to leave
+                    Paris just as the summit was about to begin.</p>
+                <p> After extensive questioning by the KGB, Powers was convicted of spying and
+                    sentenced to three years in prison and seven more of hard labor. In February,
+                    1962, however, he and a detained American student were traded for a captured
+                    Soviet spy, <persName>Rudolf Abel</persName>. Although Eisenhower refused to end
+                    the U-2 program, it was quickly overtaken by new technology, as satellite images
+                    replaced aerial photographs. For his part, Khrushchev abandoned his attempts to
+                    cooperate with Eisenhower, opting instead to wait for the inauguration of the
+                    new U.S. President, <persName>John F. Kennedy</persName>, elected to office in
+                    November, 1960.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

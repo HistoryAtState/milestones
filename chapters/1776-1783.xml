@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Milestones: 1776–1783</title>
+                <title type="short">1776–1783</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="section" xml:id="foreword">
+                <head>
+                    <date from="1776" to="1783">1776–1783</date>: Diplomacy and the American
+                    Revolution</head>
+                <p>In the 1770s, the increasingly defiant American colonies began to work toward
+                    political independence from the British Government.</p>
+                <figure>
+                    <graphic url="yorktown.jpg" height="200px" width="200px"/>
+                    <head>General George Washington at Yorktown</head>
+                </figure>
+                <p>Tensions continued to escalate until, in 1775, armed conflict erupted. The
+                    colonists, who were economically dependent on Europe, recognized that European
+                    nations were unlikely to conclude trade agreements with the Americans unless
+                    they declared their independence. The <ref
+                        target="/milestones/1776-1783/continental-congress">U.S. Continental
+                        Congress</ref> endorsed <persName>Thomas Jefferson</persName>’s <ref
+                        target="/milestones/1776-1783/declaration">Declaration of Independence</ref>
+                    on July 4, 1776, and, with the endorsement of this document, the conflict with
+                    Great Britain became a full-fledged War of Independence.</p>
+                <p>Unable to defeat the strong British military on their own, the American colonists
+                    required foreign assistance. <persName>John Adams</persName> approached the
+                    French with the “<ref target="/milestones/1776-1783/model-treaty">Model
+                        Treaty</ref>,” which protected neutral trade and shipping rights in the
+                    event of a war. The French decision to sign this commercial treaty with the
+                    American colonists made France an implicit ally in the war against Great
+                    Britain.</p>
+                <p>In 1778, France formally established its position as an ally with a treaty of
+                    alliance that committed the French to the war on the condition that the
+                    Americans did not seek a separate peace with Great Britain. Following the
+                    British surrender at the Battle of Yorktown, the Americans negotiated
+                    independently with Great Britain despite their agreement with France. The war
+                    was not officially concluded, however, until the agreement to the <ref
+                        target="/milestones/1776-1783/treaty">Treaty of Paris</ref> in 1783, which
+                    was signed in concert with treaties between Great Britain, France, and Spain.
+                    The final treaty granted full independence and recognized the borders of the new
+                        <placeName>United States of America</placeName>.</p>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="continental-congress">
+                <head>Continental Congress, <date from="1774" to="1781">1774–1781</date>
+                </head>
+                <p>The Continental Congress was the governing body by which the American colonial
+                    governments coordinated their resistance to British rule during the first two
+                    years of the American Revolution. The Congress balanced the interests of the
+                    different colonies and also established itself as the official colonial liaison
+                    to <placeName>Great Britain</placeName>. As the war progressed, the Congress
+                    became the effective national government of the country, and, as such, conducted
+                    diplomacy on behalf of the new United States.</p>
+                <figure>
+                    <graphic url="continentalcongress.jpg" height="200px" width="200px"/>
+                    <head>The Continental Congress </head>
+                </figure>
+                <p>In 1774, the British Parliament passed a series of laws collectively known as the
+                    Intolerable Acts, with the intent to suppress unrest in colonial Boston by
+                    closing the port and placing it under martial law. In response, colonial
+                    protestors led by a group called the Sons of Liberty issued a call for a
+                    boycott. Merchant communities were reluctant to participate in such a boycott
+                    unless there were mutually agreed upon terms and a means to enforce the
+                    boycott’s provisions. Spurred by local pressure groups, colonial legislatures
+                    empowered delegates to attend a Continental Congress which would set terms for a
+                    boycott. The colony of Connecticut was the first to respond.</p>
+                <p>The Congress first met in <placeName>Philadelphia</placeName> on September 5,
+                    1774, with delegates from each of the 13 colonies except Georgia. On October 20,
+                    the Congress adopted the Articles of Association, which stated that if the
+                    Intolerable Acts were not repealed by December 1, 1774, a boycott of British
+                    goods would begin in the colonies. The Articles also outlined plans for an
+                    embargo on exports if the Intolerable Acts were not repealed before September
+                    10, 1775.</p>
+                <p>On October 21, the delegates approved separate statements for the people of Great
+                    Britain and the North American colonies, explaining the colonial position, and
+                    on October 26 a similar address was approved for the people of Quebec.</p>
+                <p>Furthermore, on October 26, the delegates drafted a formal petition outlining the
+                    colonists' grievances for British King <persName>George III</persName>. Many
+                    delegates were skeptical about changing the king’s attitude towards the
+                    colonies, but believed that every opportunity should be exhausted to de-escalate
+                    the conflict before taking more radical action. They did not draft such a letter
+                    to the British Parliament as the colonists viewed the Parliament as the
+                    aggressor behind the recent Intolerable Acts. Lastly, not fully expecting the
+                    standoff in Massachusetts to explode into full-scale war, the Congress agreed to
+                    reconvene in Philadelphia on May 10, 1775.</p>
+                <p>By the time Congress met again, war was already underway, and thus the delegates
+                    to the Second Continental Congress formed the Continental army and dispatched
+                    George Washington to Massachusetts as its commander. Meanwhile, Congress drafted
+                    the Olive Branch Petition, which attempted to suggest means of resolving
+                    disputes between the colonies and Great Britain. Congress sent the petition to
+                    King <persName>George III</persName> on July 8, but he refused to receive
+                    it.</p>
+                <p>As British authority crumbled in the colonies, the Continental Congress
+                    effectively took over as the de facto national government, thereby exceeding the
+                    initial authority granted to it by the individual colonial governments. However,
+                    the local groups that had formed to enforce the colonial boycott continued to
+                    support the Congress. The Second Congress continued to meet until March 1, 1781,
+                    when the Articles of Confederation that established a new national government
+                    for the United States took effect.</p>
+                <p>As the de facto national government, the Continental Congress assumed the role of
+                    negotiating diplomatic agreements with foreign nations. The British Parliament
+                    the British Parliament banned trade with the colonies and authorized the seizure
+                    of colonial vessels on December 23. These actions served to further erode the
+                    positions of anti-independence moderates in Congress and bolster those of
+                    pro-independence leaders. On April 6, 1776, Congress responded to Parliament's
+                    actions by opening American ports to all foreign ships except British vessels.
+                    Reports from American agent <persName>Arthur Lee</persName> in London also
+                    served to support the revolutionary cause. Lee’s reports suggested that France
+                    was interested in assisting the colonies in their fight against Great
+                    Britain.</p>
+                <p>With a peaceful resolution increasingly unlikely in 1775, Congress began to
+                    explore other diplomatic channels and dispatched congressional delegate
+                        <persName>Silas Deane</persName> to France in April of 1776.</p>
+                <figure>
+                    <graphic url="deane.jpg" height="200px" width="200px"/>
+                    <head>Silas Deane</head>
+                </figure>
+                <p>Deane succeeded in securing informal French support by May. By then, Congress was
+                    increasingly conducting international diplomacy and had drafted the Model Treaty
+                    with which it hoped to seek alliances with Spain and France. On July 4, 1776 the
+                    Congress took the important step of <ref
+                        target="/milestones/1776-1783/declaration">formally declaring the colonies’
+                        independence from Great Britain</ref>. In September, Congress adopted the
+                    Model Treaty, and then sent commissioners to France to negotiate a formal
+                    alliance. They entered into a a formal alliance with France in 1778. Congress
+                    eventually sent diplomats to other European powers to encourage support for the
+                    American cause and to secure loans for the money-strapped war effort.</p>
+                <p>Congress and the British government made further attempts to reconcile, but
+                    negotiations failed when Congress refused to revoke the Declaration of
+                    Independence, both in a meeting on September 11, 1776, with British Admiral
+                        <persName>Richard Howe</persName>, and when a peace delegation from
+                    Parliament arrived in Philadelphia in 1778. Instead, Congress spelled out terms
+                    for peace on August 14, 1779, which demanded British withdrawal, American
+                    independence, and navigation rights on the Mississippi River. The next month
+                    Congress appointed <persName>John Adams</persName> to negotiate such terms with
+                    England, but British officials were evasive.</p>
+                <p>
+                    <ref target="/milestones/1776-1783/treaty">Formal peace negotiations</ref> would
+                    have to wait until after the Confederation Congress took over the reins of
+                    government on March 1, 1781, following American victories at Yorktown that
+                    resulted in British willingness to end the war. </p>
+            </div>
+            <div type="section" xml:id="secret-committee">
+                <head>Secret Committee of Correspondence/ Committee for Foreign Affairs, <date
+                        from="1775" to="1777">1775–1777</date>
+                </head>
+                <p>The Continental Congress established the Committee of Secret Correspondence to
+                    communicate with sympathetic Britons and other Europeans early in the American
+                    Revolution. The committee coordinated diplomatic functions for the Continental
+                    Congress and directed transatlantic communication and public relations.</p>
+                <figure>
+                    <graphic url="bfranklin.jpg" height="200px" width="200px"/>
+                    <head>Benjamin Franklin</head>
+                </figure>
+                <p>Congress initially established the Committee of Correspondence on November 29,
+                    1775, to communicate with colonial agents in Britain and “friends in ... other
+                    parts of the world.” On the committee were <persName>Benjamin
+                        Franklin</persName>, Benjamin Harrison, Thomas Johnson, <persName>John
+                        Dickinson</persName>, and <persName>John Jay</persName>. <persName>Robert
+                        Morris</persName>, revolutionary financier, soon joined them. Congress
+                    granted the committee extensive authority to conduct international diplomacy,
+                    including the negotiation of clandestine shipments of arms and other similar
+                    activities. Owing to the nature of the correspondence, the members began to add
+                    the word “secret” to the committee’s title, and soon it was known as the
+                    Committee of Secret Correspondence. The Committee's diplomatic duties grew, and
+                    Congress renamed it the Committee for Foreign Affairs on April 17, 1777.</p>
+                <p>Of the initial members of the committee, Benjamin Franklin was the most active.
+                    Drawing on his extensive European contacts, he began a campaign to rally
+                    international support of the American cause. On December 12, 1775, Franklin
+                    wrote to Don Gabriel de Bourbon, a prince of the Spanish royal family and one of
+                    Franklin's scholarly associates. In his letter, Franklin strongly hinted at the
+                    advantages of a Spanish alliance with the American revolutionaries. Franklin
+                    dispatched similar letters to American sympathizers in France. He sent these
+                    letters through associates whom he trusted to protect the communications from
+                    interception by the British.</p>
+                <p><persName>Arthur Lee</persName>, a Virginian living in London, also aided the
+                    Committee. Congress would later officially appoint Lee as a commissioner for the
+                    Committee. Lee had come into contact with the French playwright Beaumarchais,
+                    who was then working as a secret French agent investigating British troubles in
+                    the colonies. Lee provided Beaumarchais with information about American
+                    successes that influenced the French Foreign Minister Charles Gravier, comte de
+                    Vergennes, to provide the colonies with clandestine shipments of gunpowder and
+                    war materiel.</p>
+                <p>The Committee of Correspondence also worked on American soil. In late 1775, a
+                    mysterious French traveler named Achard de Bonvouloir appeared in Philadelphia.
+                    He had been dispatched by the French Government to contact the Continental
+                    Congress, but publicly disavowed any such mission. The committee made contact
+                    with him, and Franklin convinced Bonvouloir that the colonies were seeking
+                    independence and were unlikely to reconcile with Britain. Franklin encouraged
+                    this representative of the French Government to report to his government that
+                    France should seek an alliance with the colonies once they declared their
+                    independence, and in the meantime provide the colonies with secret
+                    assistance.</p>
+                <p> Thereafter, the Committee continued to correspond with Lee in London, and, after
+                    Congress appointed them in the fall of 1776, also with the commissioners in
+                    France. As the British Navy tightened its blockade, however, communication
+                    became increasingly difficult, especially after British forces seized
+                    Philadelphia in 1777. Once France formally signed an alliance with the United
+                    States in 1778, communications improved. With the alliance also came more duties
+                    for the Committee and the appointment of French Minister to the United States,
+                    Conrad-Alexandre Gérard de Rayneval.</p>
+                <p>The Committee also facilitated decisions to solve infighting among the American
+                    commissioners in Europe who clashed on financial matters. Lee suspected the
+                    early colonial agent in France, Silas Deane, of financial malfeasance and began
+                    a campaign to bring about his recall. Thomas Paine, who had become secretary of
+                    the Committee, sympathized with Lee. Paine published anonymous pamphlets in
+                    which he claimed that Congress possessed documentation of secret French aid that
+                    would affirm Lee’s version of events. French Minister Gérard intervened,
+                    explaining to the committee that France could not formally admit to providing
+                    such aid without risking war with Britain, which it was not ready to do.
+                    Congress passed a resolution denying that there had been French aid on January
+                    12, 1778.</p>
+                <p>The Committee continued to coordinate communication between Congress and
+                    diplomats in Europe, and sent more representatives to other European courts to
+                    encourage their assistance to the American cause. However, by 1780, an
+                    overworked Congress had many more duties, and members of the Committee for
+                    Foreign Affairs had begun to neglect their duties. Committee member James Lovell
+                    wrote to Arthur Lee and John Jay suggesting that Congress establish a Department
+                    of Foreign Affairs to handle the day-to-day business of foreign diplomacy.
+                    Congressman James Duane also agreed. The committee members brought the
+                    suggestion before Congress, and Congress ultimately decided to create a a
+                    committee for the establishment of executive departments. Congress finally
+                    agreed to establish departments on February 6, 1781, but it was not until August
+                    10 that the new Confederation Congress elected Robert Livingston as Secretary
+                    for Foreign Affairs.</p>
+            </div>
+            <div type="section" xml:id="declaration">
+                <head>The Declaration of Independence, <date when="1776">1776</date>
+                </head>
+                <p>By issuing the Declaration of Independence, adopted by the Continental Congress
+                    on July 4, 1776, the 13 American colonies severed their political connections to
+                    Great Britain. The Declaration summarized the colonists’ motivations for seeking
+                    independence. By declaring themselves an independent nation, the American
+                    colonists were able to confirm an official alliance with the Government of
+                    France and obtain French assistance in the war against Great Britain.</p>
+                <figure>
+                    <graphic url="declaration_independence.jpg" height="200px" width="200px"/>
+                    <head>The Declaration of Independence</head>
+                </figure>
+                <p>Throughout the 1760s and early 1770s, the North American colonists found
+                    themselves increasingly at odds with British imperial policies regarding <ref
+                        target="/milestones/1750-1775/parliamentary-taxation">taxation</ref> and
+                        <ref target="/milestones/1750-1775/proclamation-line-1763">frontier
+                        policy</ref>. When repeated protests failed to influence British policies,
+                    and instead resulted in the closing of the port of Boston and the declaration of
+                    martial law in <placeName>Massachusetts</placeName>, the colonial governments
+                    sent delegates to a <ref target="/milestones/1776-1783/continental-congress"
+                        >Continental Congress</ref> to coordinate a colonial boycott of British
+                    goods. When fighting broke out between American colonists and British forces in
+                    Massachusetts, the Continental Congress worked with local groups, originally
+                    intended to enforce the boycott, to coordinate resistance against the British.
+                    British officials throughout the colonies increasingly found their authority
+                    challenged by informal local governments, although loyalist sentiment remained
+                    strong in some areas.</p>
+                <p>Despite these changes, colonial leaders hoped to reconcile with the British
+                    Government, and all but the most radical members of Congress were unwilling to
+                    declare independence. However, in late 1775, Benjamin Franklin, then a member of
+                    the Secret Committee of Correspondence, hinted to French agents and other
+                    European sympathizers that the colonies were increasingly leaning towards
+                    seeking independence. While perhaps true, Franklin also hoped to convince the
+                    French to supply the colonists with aid. Independence would be necessary,
+                    however, before French officials would consider the possibility of an
+                    alliance.</p>
+                <p>Throughout the winter of 1775–1776, the members of the Continental Congress came
+                    to view reconciliation with Britain as unlikely, and independence the only
+                    course of action available to them. When on December 22, 1775, the British
+                    Parliament prohibited trade with the colonies, Congress responded in April of
+                    1776 by opening colonial ports—this was a major step towards severing ties with
+                    Britain. The colonists were aided by the January publication of <persName>Thomas
+                        Paine</persName>’s pamphlet <hi rend="italic">Common Sense</hi>, which
+                    advocated the colonies’ independence and was widely distributed throughout the
+                    colonies. By February of 1776, colonial leaders were discussing the possibility
+                    of forming foreign alliances and began to draft the <ref
+                        target="/milestones/1776-1783/model-treaty">Model Treaty</ref> that would
+                    serve as a basis for the 1778 alliance with France. Leaders for the cause of
+                    independence wanted to make certain that they had sufficient congressional
+                    support before they would bring the issue to the vote. On June 7, 1776,
+                        <persName>Richard Henry Lee</persName> introduced a motion in Congress to
+                    declare independence. Other members of Congress were amenable but thought some
+                    colonies not quite ready. However, Congress did form a committee to draft a
+                    declaration of independence and assigned this duty to <persName>Thomas
+                        Jefferson</persName>.</p>
+                <figure>
+                    <graphic url="thomaspaine.jpg" height="200px" width="200px"/>
+                    <head>Thomas Paine</head>
+                </figure>
+                <p>
+                    <persName>Benjamin Franklin</persName> and <persName>John Adams</persName>
+                    reviewed Jefferson’s draft. They preserved its original form, but struck
+                    passages likely to meet with controversy or skepticism, most notably passages
+                    blaming King <persName>George III</persName> for the transatlantic slave trade
+                    and those blaming the British people rather than their government. The committee
+                    presented the final draft before Congress on June 28, 1776, and Congress adopted
+                    the final text of the Declaration of Independence on July 4.</p>
+                <p>The British Government did its best to dismiss the Declaration as a trivial
+                    document issued by disgruntled colonists. British officials commissioned
+                    propagandists to highlight the declaration’s flaws and to rebut the colonists’
+                    complaints. The Declaration divided British domestic opposition, as some
+                    American sympathizers thought the Declaration had gone too far, but in
+                    British-ruled Ireland it had many supporters.</p>
+                <p>The Declaration’s most important diplomatic effect was to allow for recognition
+                    of the United States by friendly foreign governments. The Sultan of Morocco
+                    mentioned American ships in a consular document in 1777, but Congress had to
+                    wait until the 1778 Treaty of Alliance with France for a formal recognition of
+                    U.S. independence. The Netherlands acknowledged U.S. independence in 1782.
+                    Although Spain joined the war against Great Britain in 1779, it did not
+                    recognize U.S. independence until the <ref target="/milestones/1776-1783/treaty"
+                        >1783 Treaty of Paris</ref>. Under the terms of the treaty, which ended the
+                    War of the American Revolution, Great Britain officially acknowledged the United
+                    States as a sovereign and independent nation.</p>
+            </div>
+            <div type="section" xml:id="model-treaty">
+                <head>The Model Treaty, <date when="1776">1776</date>
+                </head>
+                <p>The Model Treaty was a template for commercial treaties that the United States
+                    Continental Congress sought to make with <placeName>France</placeName> and
+                        <placeName>Spain</placeName> in order to secure assistance in the struggle
+                    against the British in the American Revolution. Congress approved the treaty on
+                    September 17, 1776. The Model Treaty did not contain provisions for direct
+                    military support, but rather for the supply of weapons and other indirect
+                    assistance, in addition to favorable commercial terms. The Treaty of Amity and
+                    Commerce that the United States and France concluded in 1778 was based on this
+                    treaty and was signed concurrently with the Treaty of Alliance that included
+                    provisions of a military nature. The Model Treaty also served as a template for
+                    further commercial treaties the United States would make in the coming
+                    years.</p>
+                <figure>
+                    <graphic url="francespain.jpg" height="200px" width="200px"/>
+                    <head>19th Century Map of France and Spain</head>
+                </figure>
+                <p>As the delegates to the Continental Congress became more amenable to declaring
+                    independence, they considered forging foreign alliances to assist in the
+                    struggle. Virginia delegate George Wythe originally advanced the suggestion of
+                    seeking a foreign alliance in early 1776, and the idea was referred to
+                    committee. This suggestion inspired other leading statesmen, including
+                    Massachusetts delegate <persName>John Adams</persName>. Adams noted the
+                    advantages of trade with France in his diary in February and March of 1776, and
+                    speculated that a separation of the colonies from Great Britain would be
+                    advantageous to France. Between March and April, Adams drafted a preliminary
+                    version of the Model Treaty in his diary. As an example, he outlined conditions
+                    for an alliance between France and the not-yet-independent colonies. In this
+                    draft, the United States was to accept no troops from France, nor submit to
+                    French authority, but only to present commercial terms.</p>
+                <figure>
+                    <graphic url="johnadams.jpg" height="200px" width="200px"/>
+                    <head>John Adams</head>
+                </figure>
+                <p>Adams presented a more formal draft of a general model treaty before the
+                    Continental Congress on July 18, 1776. The template treaty sought reciprocal
+                    trade terms, although not free trade, and made no mention of direct military
+                    assistance. Congress adopted a formal version of the Model Treaty on September
+                    17. On September 24, Congress drafted instructions to commissioners on how to
+                    negotiate a treaty with France based on the template provided in the Model
+                    Treaty. The commissioners were also instructed to seek a most-favored-nation
+                    trade clause in the absence of the slightly more liberal trade clauses of the
+                    Model Treaty, which could be construed as seeking a free trade agreement between
+                    the two countries. The commissioners were to seek additional military aid, and
+                    also to assure any Spanish diplomats present that the United States had no
+                    designs on Spanish territory—Spain was a traditional ally of France and would
+                    join the war in the hopes of regaining territories lost in earlier wars and in
+                    the interest of maintaining a secure frontier on the northern border of its
+                    American Empire. The Congress then appointed commissioners to execute the terms
+                    on September 25.</p>
+                <p>The United States would have to wait until early 1778 for France to formally
+                    agree to a treaty. The formal treaty differed from the Model Treaty in that the
+                    two countries granted each other most-favored-nation trading privileges, and
+                    also allowed for the presence of consuls in each other’s cities. In addition,
+                    the Treaty of Alliance provided additional military stipulations relating to the
+                    terms of the alliance, ceding any military gains in North America to the United
+                    States, and any gains in the Caribbean to France. More importantly, France
+                    agreed not to seek peace with Great Britain without British acknowledgement of
+                    American independence, and neither allied country was to seek peace without the
+                    other’s consent. The Treaty encouraged other countries to join the alliance, but
+                    only if both French and American negotiators were present. The 1778 treaty also
+                    included a secret clause allowing for articles to be altered if Spain chose to
+                    join the alliance.</p>
+                <p>The Model Treaty served as a successful starting point for negotiations. The
+                    United States was able to obtain most of the conditions it wanted, and the
+                    treaty that resulted proved beneficial to U.S. trade until the disruptions
+                    caused by the <ref target="/milestones/1784-1800/haitian-rev">Haitian</ref> and
+                        <ref target="/milestones/1784-1800/french-rev">French</ref> revolutions in
+                    the 1790s. The treaty also served as a model for future trade compacts,
+                    especially the Convention of 1800 between France and the United States that
+                    terminated the undeclared <ref target="/milestones/1784-1800/xyz"
+                        >Quasi-War</ref> with France and restored peace between the two countries.
+                </p>
+            </div>
+            <div type="section" xml:id="french-alliance">
+                <head>French Alliance, French Assistance, and European Diplomacy during the American
+                    Revolution, <date from="1778" to="1782">1778–1782</date>
+                </head>
+                <p>During the American Revolution, the American colonies faced the significant
+                    challenge of conducting international diplomacy and seeking the international
+                    support it needed to fight against the British. The single most important
+                    diplomatic success of the colonists during the War for Independence was the
+                    critical link they forged with France. Representatives of the French and
+                    American governments signed the Treaty of Alliance and the Treaty of Amity and
+                    Commerce on February 6, 1778.</p>
+                <figure>
+                    <graphic url="vergennes.jpg" height="200px" width="200px"/>
+                    <head>French Foreign Minister Comte de Vergennes</head>
+                </figure>
+                <p>American colonists hoped for possible French aid in their struggle against
+                    British forces. The Continental Congress established the <ref
+                        target="/milestones/1776-1783/secret-committee">Secret Committee of
+                        Correspondence</ref> to publicize the American cause in Europe. Committee
+                    member <ref target="/milestones/1776-1783/b-franklin"><persName>Benjamin
+                            Franklin</persName></ref> wrote to contacts in France with encouraging
+                    accounts of colonial resistance. The French had suffered a defeat by the British
+                    during the Seven Years’ War and had lost North American territory under the 1763
+                    Treaty of Paris. As the French and the British continued to vie for power in the
+                    1770s, French officials saw an opportunity in the rebellion of Britain’s North
+                    American colonies to take advantage of British troubles. Through secret agents,
+                    the French Government began to provide clandestine assistance to the United
+                    States, much of which they channeled through American trader Silas Deane.</p>
+                <p>As the members of the Continental Congress considered declaring independence,
+                    they also discussed the possibility and necessity of foreign alliances, and
+                    assigned a committee to draft a <ref target="/milestones/1776-1783/model-treaty"
+                        >Model Treaty</ref> to serve as guide for this work. After Congress <ref
+                        target="/milestones/1776-1783/declaration">formally declared
+                        independence</ref> from Great Britain in 1776, it dispatched a group of
+                    several commissioners led by Benjamin Franklin to negotiate an alliance with
+                    France. When news of the Declaration of Independence and the subsequent British
+                    evacuation of Boston reached France, French Foreign Minister <persName>Comte de
+                        Vergennes</persName> decided in favor of an alliance. However, once news of
+                    General <persName>George Washington</persName>’s defeats in New York reached
+                    Europe in August of 1776, Vergennes wavered, questioning the wisdom of
+                    committing to a full alliance.</p>
+                <p>Benjamin Franklin’s popularity in France bolstered French support for the
+                    American cause. The French public viewed Franklin as a representative of
+                    republican simplicity and honesty, an image Franklin cultivated. A rage for all
+                    things Franklin and American swept France, assisting American diplomats and
+                    Vergennes in pushing for an alliance. In the meantime, Vergennes agreed to
+                    provide the United States with a secret loan.</p>
+                <p>Despite the loan and discussions of a full alliance, French assistance to the new
+                    United States was limited at the outset. Throughout 1777, Vergennes delayed as
+                    he conducted negotiations with the Spanish Government, which was wary of U.S.
+                    independence and also wanted assurances that Spain would regain territories if
+                    it went to war against the British.</p>
+                <p>Vergennes finally decided in favor of an alliance when news of the British
+                    surrender at the Battle of Saratoga reached him in December 1777. Vergennes,
+                    having heard rumors of secret British peace offers to Franklin, decided not to
+                    wait for Spanish support and offered the United States an official French
+                    alliance. On February 6, 1778, Benjamin Franklin and the other two
+                    commissioners, <persName>Arthur Lee</persName> and <persName>Silas
+                        Deane</persName>, signed a Treaty of Alliance and a Treaty of Amity and
+                    Commerce with France. The Treaty of Alliance contained the provisions the U.S.
+                    commissioners had originally requested, but also included a clause forbidding
+                    either country to make a separate peace with Britain, as well as a secret clause
+                    allowing for Spain, or other European powers, to enter into the alliance. Spain
+                    officially entered the war on June 21, 1779. The Treaty of Amity and Commerce
+                    promoted trade between the United States and France and recognized the United
+                    States as an independent nation.</p>
+                <!--<figure>
+                    <graphic url="saratoga.jpg" height="200px" width="200px"/>
+                    <head>Washington at the Battle of Saratoga</head>
+                </figure>-->
+                <p>Between 1778 and 1782 the French provided supplies, arms and ammunition,
+                    uniforms, and, most importantly, troops and naval support to the beleaguered
+                    Continental Army. The French navy transported reinforcements, fought off a
+                    British fleet, and protected Washington’s forces in Virginia. French assistance
+                    was crucial in securing the British surrender at Yorktown in 1781.</p>
+                <p>With the consent of Vergennes, U.S. commissioners entered negotiations with
+                    Britain to end the war, and reached a preliminary agreement in 1782. Franklin
+                    informed Vergennes of the agreement and also asked for an additional loan.
+                    Vergennes did lodge a complaint on this instance, but also granted the requested
+                    loan despite French financial troubles. Vergennes and Franklin successfully
+                    presented a united front despite British attempts to drive a wedge between the
+                    allies during their separate peace negotiations. The United States, Spain, and
+                    France formally ended the war with Britain with the <ref
+                        target="/milestones/1776-1783/treaty">Treaty of Paris</ref> in 1783.</p>
+                <p> Although European powers considered their treaty obligations abrogated by the
+                    French Revolution, the United States considered it to be in effect despite
+                    President Washington’s policy of neutrality in the war between Britain and
+                    France. The Citizen Genêt Affair erupted partially because of clauses contained
+                    in the alliance treaty that violated the neutrality policy. The Treaty of Paris
+                    also remained technically in effect during the undeclared <ref
+                        target="/milestones/1784-1800/xyz">Quasi-War</ref> with France, and was
+                    formally ended by the Convention of 1800 which also terminated the
+                    Quasi-War.</p>
+            </div>
+            <div type="section" xml:id="b-franklin">
+                <head>Benjamin Franklin: First American Diplomat, <date from="1776" to="1785"
+                        >1776–1785</date>
+                </head>
+                <p>Benjamin Franklin, the most distinguished scientific and literary American of the
+                    colonial era, was the first American diplomat.</p>
+                <figure>
+                    <graphic url="bfranklin2.jpg" height="200px" width="200px"/>
+                    <head>Benjamin Franklin</head>
+                </figure>
+                <p>Franklin served from 1776 to 1778 on a commission to France charged with the
+                    critical task of gaining French support for American independence. French
+                    aristocrats and intellectuals embraced Franklin as the personification of the
+                    New World Enlightenment. His likeness appeared on medallions, rings, watches,
+                    and snuffboxes, and fashionable ladies adopted the "coiffure a la Franklin" in
+                    imitation of the fur cap he wore instead of a wig. His popularity and diplomatic
+                    skill—along with the first American battlefield success at Saratoga—convinced
+                    France to recognize American independence and conclude an alliance with the
+                    thirteen states in 1778. Franklin presented his credentials to the French court
+                    in 1779, becoming the first American Minister (the eighteenth century American
+                    equivalent of Ambassador) to be received by a foreign government. Franklin’s
+                    home in Passy, just outside Paris, became the center of American diplomacy in
+                    Europe. When Thomas Jefferson succeeded Franklin in 1785, French Foreign
+                    Minister Vergennes asked: “It is you who replace Dr. Franklin?” Jefferson
+                    replied, “No one can replace him, Sir; I am only his successor.”</p>
+            </div>
+            <div type="section" xml:id="articles">
+                <head>Articles of Confederation, <date from="1777" to="1781">1777–1781</date>
+                </head>
+                <p>The Articles of Confederation served as the written document that established the
+                    functions of the national government of the United States after it declared
+                    independence from Great Britain. It established a weak central government that
+                    mostly, but not entirely, prevented the individual states from conducting their
+                    own foreign diplomacy.</p>
+                <figure>
+                    <graphic url="articles.jpg" height="200px" width="200px"/>
+                    <head>The Articles of Confederation</head>
+                </figure>
+                <p><ref target="/milestones/1750-1775/albany-plan">The Albany Plan</ref> an earlier,
+                    pre-independence attempt at joining the colonies into a larger union, had failed
+                    in part because the individual colonies were concerned about losing power to
+                    another central insitution. As the American Revolution gained momentum, however,
+                    many political leaders saw the advantages of a centralized government that could
+                    coordinate the Revolutionary War. In June of 1775, the New York provincial
+                    Congress sent a plan of union to the Continental Congress, which, like the
+                    Albany Plan, continued to recognize the authority of the British Crown.</p>
+                <p>Some Continental Congress delegates had also informally discussed plans for a
+                    more permanent union than the Continental Congress, whose status was temporary.
+                    Benjamin Franklin had drawn up a plan for “Articles of Confederation and
+                    Perpetual Union.” While some delegates, such as Thomas Jefferson, supported
+                    Franklin’s proposal, many others were strongly opposed. Franklin introduced his
+                    plan before Congress on July 21, but stated that it should be viewed as a draft
+                    for when Congress was interested in reaching a more formal proposal. Congress
+                    tabled the plan.</p>
+                <p>Following the Declaration of Independence, the members of the Continental
+                    Congress realized it would be necessary to set up a national government.
+                    Congress began to discuss the form this government would take on July 22,
+                    disagreeing on a number of issues, including whether representation and voting
+                    would be proportional or state-by-state. The disagreements delayed final
+                    discussions of confederation until October of 1777. By then, the British capture
+                    of Philadelphia had made the issue more urgent. Delegates finally formulated the
+                    Articles of Confederation, in which they agreed to state-by-state voting and
+                    proportional state tax burdens based on land values, though they left the issue
+                    of state claims to western lands unresolved. Congress sent the Articles to the
+                    states for ratification at the end of November. Most delegates realized that the
+                    Articles were a flawed compromise, but believed that it was better than an
+                    absence of formal national government.</p>
+                <p>On December 16, 1777, Virginia was the first state to ratify. Other states
+                    ratified during the early months of 1778. When Congress reconvened in June of
+                    1778, the delegates learned that Maryland, Delaware and New Jersey refused to
+                    ratify the Articles. The Articles required unanimous approval from the states.
+                    These smaller states wanted other states to relinquish their western land claims
+                    before they would ratify the Articles. New Jersey and Delaware eventually agreed
+                    to the conditions of the Articles, with New Jersey ratifying on Nov 20, 1778,
+                    and Delaware on Feb 1, 1779. This left Maryland as the last remaining
+                    holdout.</p>
+                <p>Irked by Maryland’s recalcitrance, several other state governments passed
+                    resolutions endorsing the formation of a national government without the state
+                    of Maryland, but other politicians such as Congressman <persName>Thomas
+                        Burke</persName> of North Carolina persuaded their governments to refrain
+                    from doing so, arguing that without unanimous approval of the new Confederation,
+                    the new country would remain weak, divided, and open to future foreign
+                    intervention and manipulation.</p>
+                <p>Meanwhile, in 1780, British forces began to conduct raids on Maryland communities
+                    in the Chesapeake Bay. Alarmed, the state government wrote to the French
+                    minister <persName>Anne-César De la Luzerne</persName> asking for French naval
+                    assistance. Luzerne wrote back, urging the government of Maryland to ratify the
+                    Articles of Confederation. Marylanders were given further incentive to ratify
+                    when Virginia agreed to relinquish its western land claims, and so the Maryland
+                    legislature ratified the Articles of Confederation on March 1, 1781.</p>
+                <figure>
+                    <graphic url="luzerne.jpg" height="200px" width="200px"/>
+                    <head>French minister Anne-César De la Luzerne</head>
+                </figure>
+                <p>The Continental Congress voted on Jan 10, 1781, to establish a Department of
+                    Foreign Affairs; on Aug 10 of that year, it elected Robert R. Livingston as
+                    Secretary of Foreign Affairs. The Secretary’s duties involved corresponding with
+                    U.S. representatives abroad and with ministers of foreign powers. The Secretary
+                    was also charged with transmitting Congress’ instructions to U.S. agents abroad
+                    and was authorized to attend sessions of Congress. A further Act of Feb 22,
+                    1782, allowed the Secretary to ask and respond to questions during sessions of
+                    the Continental Congress.</p>
+                <p>The Articles created a sovereign, national government, and, as such, limited the
+                    rights of the states to conduct their own diplomacy and foreign policy. However,
+                    this proved difficult to enforce, as the national government could not prevent
+                    the state of Georgia from pursuing its own independent policy regarding Spanish
+                    Florida, attempting to occupy disputed territories and threatening war if
+                    Spanish officials did not work to curb Indian attacks or refrain from harboring
+                    escaped slaves. Nor could the Confederation government prevent the landing of
+                    convicts that the British Government continued to export to its former colonies.
+                    In addition, the Articles did not allow Congress sufficient authority to enforce
+                    provisions of the 1783 <ref target="/milestones/1776-1783/treaty">Treaty of
+                        Paris</ref> that allowed British creditors to sue debtors for
+                    pre-Revolutionary debts, an unpopular clause that many state governments chose
+                    to ignore. Consequently, British forces continued to occupy forts in the Great
+                    Lakes region. These problems, combined with the Confederation government’s
+                    ineffectual response to Shays’ Rebellion in Massachusetts, convinced national
+                    leaders that a more powerful central government was necessary. This led to the
+                    Constitutional Convention that formulated the current Constitution of the United
+                    States.</p>
+            </div>
+            <div type="section" xml:id="treaty">
+                <head>Treaty of Paris, <date when="1783">1783</date>
+                </head>
+                <p>In 1782, Benjamin Franklin rejected informal peace overtures from Great Britain
+                    for a settlement that would provide the thirteen states with some measure of
+                    autonomy within the British Empire. Franklin insisted on British recognition of
+                    American independence and refused to consider a peace separate from France,
+                    America’s staunch ally. Franklin did agree, however, to negotiations with the
+                    British for an end to the war. Joined by peace commissioners John Adams and John
+                    Jay, Franklin engaged the British in formal negotiations beginning on September
+                    27, 1782.</p>
+                <figure>
+                    <graphic url="treaty1783.jpg" height="200px" width="200px"/>
+                    <head>American Negotiations of the Peace of Paris</head>
+                </figure>
+                <p>Although Franklin demanded the cessation of Canada to an independent America, he
+                    knew that the British Government of <persName>Lord Shelburne</persName>, opposed
+                    to American independence, was unprepared to accept that offer. Two months of
+                    hard bargaining resulted in a preliminary articles of peace in which the British
+                    accepted American independence and boundaries, resolved the difficult issues of
+                    fishing rights on the Newfoundland banks and prewar debts owed British
+                    creditors, promised restitution of property lost during the war by Americans
+                    loyal to the British cause, and provided for the evacuation of British forces
+                    from the thirteen states. The preliminary articles signed in Paris on November
+                    30, 1782, were only effective when Britain and France signed a similar treaty,
+                    which French Foreign Minister <persName>Vergennes</persName> quickly negotiated.
+                    France signed preliminary articles of peace with Great Britain on January 20,
+                    1783, followed by a formal peace of Paris signed on September 3, 1783.</p>
+                <p>The illustration above, a copy of a sketch by the studio of <persName>Benjamin
+                        West</persName>, shows the American negotiators of the Peace of Paris. The
+                    sketch remains incomplete because British negotiators chose not to sit for their
+                    half of the portrait: it serves as a powerful symbol of the division between
+                    Great Britain and its former American colonies. </p>
+            </div>
+        </body>
+    </text>
+</TEI>
