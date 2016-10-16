@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brown_odds.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="brown_odds.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:sch="http://purl.oclc.org/dsdl/schematron">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>HO Milestones Guidelines</title>
+                <author>
+                    <persName xml:id="Joe">Joe Wicentowski</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <p>This document is currently for internal use only</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This was adapted from the FRUS ODD.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#Joe" when="2013-10-09">First version</change>
+            <change who="#Joe" when="2013-10-31">Updated with launch-ready taxonomy, added
+                listChange, updated against TEI 2.5.0</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="introduction">
+                <head>Introduction</head>
+                <p>HO Milestones</p>
+            </div>
+
+            <divGen type="toc"/>
+
+            <div>
+                <head>Appendix of TEI Elements, etc.</head>
+                <!-- The <schemaSpec> element is in effect the root element for the schema
+                specification portion of the ODD. The @ident is required. The @start 
+                says what element(s) are allowed as the root element of documents 
+                conforming to this schema. There is no official default, but Roma 
+                behave as if the default is "teiCorpus TEI".-->
+                <schemaSpec ident="milestones" start="TEI" source="tei:2.5.0">
+
+                    <!-- The <moduleRef> elements specify which TEI modules (which
+                    correspond directly to chapters in the Guidelines) will be included 
+                    in the schema. The value of the @key attribute is the name of the 
+                    module. For any element, you can find the name of the module containing 
+                    it in the reference documentation for that element. A complete list of 
+                    modules is available at
+                    http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html#STMA.
+                    The first four listed here are required: core, tei, header, 
+                    textstructure. -->
+                    <moduleRef key="core"
+                        include="p hi gloss term name date time ref list item head note 
+                        graphic pb lb editor title publisher pubPlace desc"/>
+                    <moduleRef key="tei"/>
+                    <moduleRef key="header"
+                        include="teiHeader fileDesc titleStmt publicationStmt idno sourceDesc 
+                        encodingDesc classDecl taxonomy editorialDecl correction revisionDesc listChange change"/>
+                    <moduleRef key="textstructure"
+                        include="TEI text body div byline dateline closer signed titlePage 
+                        docTitle titlePart docImprint docDate front back"/>
+
+                    <moduleRef key="namesdates" include="orgName persName placeName"/>
+                    <moduleRef key="figures" include="table row cell figure"/>
+
+                    <!-- including the linking module gives us @corresp -->
+                    <moduleRef key="linking" include="anchor"/>
+                    <!-- including the transcr module gives us @facs -->
+                    <moduleRef key="transcr" include="facsimile space"/>
+                    <!-- remove all transcr attributes except for @facs -->
+                    <classSpec type="atts" module="linking" ident="att.global.linking" mode="change">
+                        <attList>
+                            <attDef ident="synch" mode="delete"/>
+                            <attDef ident="sameAs" mode="delete"/>
+                            <attDef ident="copyOf" mode="delete"/>
+                            <attDef ident="next" mode="delete"/>
+                            <attDef ident="prev" mode="delete"/>
+                            <attDef ident="exclude" mode="delete"/>
+                            <attDef ident="select" mode="delete"/>
+                        </attList>
+                    </classSpec>
+
+                    <!-- kill a few attrs from a class (selective thinning):  -->
+                    <classSpec type="atts" ident="att.global" mode="change">
+                        <attList>
+                            <attDef ident="rendition" mode="delete"/>
+                            <attDef ident="xml:space" mode="delete"/>
+                            <attDef ident="xml:base" mode="delete"/>
+                        </attList>
+                    </classSpec>
+
+                    <!-- kill a few more -->
+                    <classSpec type="atts" ident="att.breaking" mode="delete"/>
+                    <classSpec type="atts" ident="att.declarable" mode="delete"/>
+                    <classSpec type="atts" ident="att.declaring" mode="delete"/>
+                    <classSpec type="atts" ident="att.divLike" mode="change">
+                        <attList>
+                            <attDef ident="org" mode="delete"/>
+                            <attDef ident="sample" mode="delete"/>
+                            <attDef ident="part" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec type="atts" ident="att.docStatus" mode="delete"/>
+                    <classSpec type="atts" ident="att.editLike" mode="delete"/>
+                    <classSpec type="atts" ident="att.fragmentable" mode="delete"/>
+                    <classSpec type="atts" ident="att.internetMedia" mode="delete"/>
+                    <classSpec type="atts" ident="att.naming" mode="change">
+                        <attList>
+                            <attDef ident="nymRef" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec type="atts" ident="att.personal" mode="delete"/>
+
+                    <!-- 
+                    constrain tei:list/@type
+                -->
+                    <elementSpec ident="list" module="core" mode="change">
+                        <desc>Restrict @type values for tei:list elements</desc>
+                        <attList>
+                            <attDef ident="type" usage="req" mode="replace">
+                                <valList type="closed">
+                                    <valItem ident="participants">
+                                        <gloss>Document participants List</gloss>
+                                    </valItem>
+                                    <valItem ident="subject">
+                                        <gloss>Document subject heading</gloss>
+                                    </valItem>
+                                    <valItem ident="index">
+                                        <gloss>Back of book Index</gloss>
+                                    </valItem>
+                                    <valItem ident="terms">
+                                        <gloss>Front matter List of Terms &amp;
+                                            Abbreviations</gloss>
+                                    </valItem>
+                                    <valItem ident="names">
+                                        <gloss>Front matter List of Persons</gloss>
+                                    </valItem>
+                                    <valItem ident="toc">
+                                        <gloss>Front matter Table of Contents</gloss>
+                                    </valItem>
+                                    <valItem ident="sources">
+                                        <gloss>Front matter List of Sources</gloss>
+                                    </valItem>
+                                    <valItem ident="to">
+                                        <gloss>Document Recipients List</gloss>
+                                    </valItem>
+                                    <valItem ident="simple">
+                                        <gloss>Tightly-spaced text</gloss>
+                                        <!-- TEI supplies this definition for "simple": -->
+                                    </valItem>
+                                    <valItem ident="references">
+                                        <gloss>Document References heading</gloss>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+
+                    <!-- 
+                    constrain tei:div/@type
+                -->
+                    <elementSpec ident="div" module="core" mode="change">
+                        <desc>Restrict @type values for tei:div elements</desc>
+                        <attList>
+                            <attDef ident="type" usage="req" mode="replace">
+                                <valList type="closed">
+                                    <valItem ident="section">
+                                        <gloss>Section</gloss>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                        <attList>
+                            <attDef ident="ana" usage="req" mode="replace">
+                                <datatype minOccurs="1" maxOccurs="unbounded">
+                                    <rng:ref name="data.enumerated"/>
+                                </datatype>
+                                <valList type="closed">
+                                    <valItem ident="people">
+                                        <gloss>People [For people named in resources, only use a
+                                            person tag if the resource is relevant to their service
+                                            as President or Secretary.]</gloss>
+                                    </valItem>
+                                    <valItem ident="presidents">
+                                        <gloss>Presidents (in People).</gloss>
+                                    </valItem>
+                                    <valItem ident="washington-george">
+                                        <gloss>Washington, George (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="adams-john">
+                                        <gloss>Adams, John (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="jefferson-thomas-p">
+                                        <gloss>Jefferson, Thomas (P) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="madison-james-p">
+                                        <gloss>Madison, James (P) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="monroe-james-p">
+                                        <gloss>Monroe, James (P) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="adams-john-quincy-p">
+                                        <gloss>Adams, John Quincy (P) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="jackson-andrew">
+                                        <gloss>Jackson, Andrew (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="van-buren-martin-p">
+                                        <gloss>Van Buren, Martin (P) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="harrison-william-henry">
+                                        <gloss>Harrison, William Henry (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="tyler-john">
+                                        <gloss>Tyler, John (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="polk-james-k">
+                                        <gloss>Polk, James K. (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="taylor-zachary">
+                                        <gloss>Taylor, Zachary (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="fillmore-millard">
+                                        <gloss>Fillmore, Millard (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="pierce-franklin">
+                                        <gloss>Pierce, Franklin (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="buchanan-james-p">
+                                        <gloss>Buchanan, James (P) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="lincoln-abraham">
+                                        <gloss>Lincoln, Abraham (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="johnson-andrew">
+                                        <gloss>Johnson, Andrew (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="grant-ulysses-s">
+                                        <gloss>Grant, Ulysses S. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="hayes-rutherford-b">
+                                        <gloss>Hayes, Rutherford B. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="garfield-james-a">
+                                        <gloss>Garfield, James A. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="arthur-chester-a">
+                                        <gloss>Arthur, Chester A. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="cleveland-grover-1881-1885">
+                                        <gloss>Cleveland, Grover (1881-1885) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="harrison-benjamin">
+                                        <gloss>Harrison, Benjamin (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="cleveland-grover-1893-1897">
+                                        <gloss>Cleveland, Grover (1893-1897) (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="mckinley-william">
+                                        <gloss>McKinley, William (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="roosevelt-theodore">
+                                        <gloss>Roosevelt, Theodore (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="taft-william-howard">
+                                        <gloss>Taft, William Howard (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="wilson-woodrow">
+                                        <gloss>Wilson, Woodrow (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="harding-warren-g">
+                                        <gloss>Harding, Warren G. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="coolidge-calvin">
+                                        <gloss>Coolidge, Calvin (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="hoover-herbert">
+                                        <gloss>Hoover, Herbert (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="roosevelt-franklin-d">
+                                        <gloss>Roosevelt, Franklin D. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="truman-harry-s">
+                                        <gloss>Truman, Harry S. (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="eisenhower-dwight-d">
+                                        <gloss>Eisenhower, Dwight D. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="kennedy-john-f">
+                                        <gloss>Kennedy, John F. (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="johnson-lyndon-b">
+                                        <gloss>Johnson, Lyndon B. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="nixon-richard">
+                                        <gloss>Nixon, Richard (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="ford-gerald">
+                                        <gloss>Ford, Gerald (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="carter-jimmy">
+                                        <gloss>Carter, Jimmy (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="reagan-ronald">
+                                        <gloss>Reagan, Ronald (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="bush-george-h-w">
+                                        <gloss>Bush, George H.W. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="clinton-william-j">
+                                        <gloss>Clinton, William J. (in People &gt;
+                                            Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="bush-george-w">
+                                        <gloss>Bush, George W. (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="obama-barack">
+                                        <gloss>Obama, Barack (in People &gt; Presidents).</gloss>
+                                    </valItem>
+                                    <valItem ident="secretaries-of-state">
+                                        <gloss>Secretaries of State (in People).</gloss>
+                                    </valItem>
+                                    <valItem ident="jefferson-thomas-s">
+                                        <gloss>Jefferson, Thomas (S) (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="randolph-edmund-jennings">
+                                        <gloss>Randolph, Edmund Jennings (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="pickering-timothy">
+                                        <gloss>Pickering, Timothy (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="marshall-john">
+                                        <gloss>Marshall, John (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="madison-james-s">
+                                        <gloss>Madison, James (S) (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="smith-robert">
+                                        <gloss>Smith, Robert (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="monroe-james-s">
+                                        <gloss>Monroe, James (S) (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="adams-john-quincy-s">
+                                        <gloss>Adams, John Quincy (S) (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="clay-henry">
+                                        <gloss>Clay, Henry (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="van-buren-martin-s">
+                                        <gloss>Van Buren, Martin (S) (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="livingston-edward">
+                                        <gloss>Livingston, Edward (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="mclane-louis">
+                                        <gloss>McLane, Louis (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="forsyth-john">
+                                        <gloss>Forsyth, John (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="webster-daniel-1841-1843">
+                                        <gloss>Webster, Daniel (1841-1843) (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="upshur-abel-parker">
+                                        <gloss>Upshur, Abel Parker (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="calhoun-john-caldwell">
+                                        <gloss>Calhoun, John Caldwell (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="buchanan-james-s">
+                                        <gloss>Buchanan, James (S) (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="clayton-john-middleton">
+                                        <gloss>Clayton, John Middleton (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="webster-daniel-1850-1852">
+                                        <gloss>Webster, Daniel (1850-1852) (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="everett-edward">
+                                        <gloss>Everett, Edward (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="marcy-william-learned">
+                                        <gloss>Marcy, William Learned (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="cass-lewis">
+                                        <gloss>Cass, Lewis (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="black-jeremiah-sullivan">
+                                        <gloss>Black, Jeremiah Sullivan (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="seward-william-henry">
+                                        <gloss>Seward, William Henry (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="washburne-elihu-benjamin">
+                                        <gloss>Washburne, Elihu Benjamin (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="fish-hamilton">
+                                        <gloss>Fish, Hamilton (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="evarts-william-maxwell">
+                                        <gloss>Evarts, William Maxwell (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="blaine-james-gillespie-1881">
+                                        <gloss>Blaine, James Gillespie (1881) (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="frelinghuysen-frederick-theodore">
+                                        <gloss>Frelinghuysen, Frederick Theodore (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="bayard-thomas-francis">
+                                        <gloss>Bayard, Thomas Francis (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="blaine-james-gillespie-1889-1892">
+                                        <gloss>Blaine, James Gillespie (1889-1892) (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="foster-john-watson">
+                                        <gloss>Foster, John Watson (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="gresham-walter-quintin">
+                                        <gloss>Gresham, Walter Quintin (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="olney-richard">
+                                        <gloss>Olney, Richard (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="sherman-john">
+                                        <gloss>Sherman, John (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="day-william-rufus">
+                                        <gloss>Day, William Rufus (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="hay-john-milton">
+                                        <gloss>Hay, John Milton (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="root-elihu">
+                                        <gloss>Root, Elihu (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="bacon-robert">
+                                        <gloss>Bacon, Robert (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="knox-philander-chase">
+                                        <gloss>Knox, Philander Chase (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="bryan-william-jennings">
+                                        <gloss>Bryan, William Jennings (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="lansing-robert">
+                                        <gloss>Lansing, Robert (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="colby-bainbridge">
+                                        <gloss>Colby, Bainbridge (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="hughes-charles-evans">
+                                        <gloss>Hughes, Charles Evans (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="kellogg-frank-billings">
+                                        <gloss>Kellogg, Frank Billings (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="stimson-henry-lewis">
+                                        <gloss>Stimson, Henry Lewis (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="hull-cordell">
+                                        <gloss>Hull, Cordell (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="stettinius-edward-reilly">
+                                        <gloss>Stettinius, Edward Reilly (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="byrnes-james-francis">
+                                        <gloss>Byrnes, James Francis (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="marshall-george-catlett">
+                                        <gloss>Marshall, George Catlett (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="acheson-dean-gooderham">
+                                        <gloss>Acheson, Dean Gooderham (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="dulles-john-foster">
+                                        <gloss>Dulles, John Foster (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="herter-christian-archibald">
+                                        <gloss>Herter, Christian Archibald (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="rusk-david-dean">
+                                        <gloss>Rusk, David Dean (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="rogers-william-pierce">
+                                        <gloss>Rogers, William Pierce (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="kissinger-henry-a">
+                                        <gloss>Kissinger, Henry A. (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="vance-cyrus-roberts">
+                                        <gloss>Vance, Cyrus Roberts (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="muskie-edmund-sixtus">
+                                        <gloss>Muskie, Edmund Sixtus (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="haig-alexander-meigs">
+                                        <gloss>Haig, Alexander Meigs (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="shultz-george-pratt">
+                                        <gloss>Shultz, George Pratt (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="baker-james-addison">
+                                        <gloss>Baker, James Addison (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="eagleburger-lawrence-sidney">
+                                        <gloss>Eagleburger, Lawrence Sidney (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="christopher-warren-minor">
+                                        <gloss>Christopher, Warren Minor (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="albright-madeleine-korbel">
+                                        <gloss>Albright, Madeleine Korbel (in People &gt;
+                                            Secretaries of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="powell-colin-luther">
+                                        <gloss>Powell, Colin Luther (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="rice-condoleezza">
+                                        <gloss>Rice, Condoleezza (in People &gt; Secretaries of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="clinton-hillary-rodham">
+                                        <gloss>Clinton, Hillary Rodham (in People &gt; Secretaries
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="places">
+                                        <gloss>Places</gloss>
+                                    </valItem>
+                                    <valItem ident="sovereign-territories">
+                                        <gloss>Sovereign Territories (in Places).</gloss>
+                                    </valItem>
+                                    <valItem ident="sub-saharan-africa">
+                                        <gloss>Sub-Saharan Africa (in Places &gt; Sovereign
+                                            Territories).</gloss>
+                                    </valItem>
+                                    <valItem ident="angola">
+                                        <gloss>Angola (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="benin">
+                                        <gloss>Benin (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="botswana">
+                                        <gloss>Botswana (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="burkina-faso">
+                                        <gloss>Burkina Faso (in Places &gt; Sovereign Territories
+                                            &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="burundi">
+                                        <gloss>Burundi (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="cameroon">
+                                        <gloss>Cameroon (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="cape-verde">
+                                        <gloss>Cape Verde (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="central-african-republic">
+                                        <gloss>Central African Republic (in Places &gt; Sovereign
+                                            Territories &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="chad">
+                                        <gloss>Chad (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="comoros">
+                                        <gloss>Comoros (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="congo-brazzaville">
+                                        <gloss>Congo (Brazzaville) (in Places &gt; Sovereign
+                                            Territories &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="cote-divoire">
+                                        <gloss>Cote d’Ivoire (in Places &gt; Sovereign Territories
+                                            &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="democratic-republic-of-the-congo-kinshasa">
+                                        <gloss>Democratic Republic of the Congo (Kinshasa) (in
+                                            Places &gt; Sovereign Territories &gt; Sub-Saharan
+                                            Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="djibouti">
+                                        <gloss>Djibouti (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="equatorial-guinea">
+                                        <gloss>Equatorial Guinea (in Places &gt; Sovereign
+                                            Territories &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="ethiopia">
+                                        <gloss>Ethiopia (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="eritrea">
+                                        <gloss>Eritrea (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="gabon">
+                                        <gloss>Gabon (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="the-gambia">
+                                        <gloss>The Gambia (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="ghana">
+                                        <gloss>Ghana (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="guinea">
+                                        <gloss>Guinea (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="guinea-bissau">
+                                        <gloss>Guinea-Bissau (in Places &gt; Sovereign Territories
+                                            &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="kenya">
+                                        <gloss>Kenya (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="lesotho">
+                                        <gloss>Lesotho (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="liberia">
+                                        <gloss>Liberia (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="madagascar">
+                                        <gloss>Madagascar (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="malawi">
+                                        <gloss>Malawi (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="mali">
+                                        <gloss>Mali (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="mauritania">
+                                        <gloss>Mauritania (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="mauritius">
+                                        <gloss>Mauritius (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="mozambique">
+                                        <gloss>Mozambique (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="namibia">
+                                        <gloss>Namibia (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="niger">
+                                        <gloss>Niger (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="nigeria">
+                                        <gloss>Nigeria (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="rwanda">
+                                        <gloss>Rwanda (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="sao-tome-and-principe">
+                                        <gloss>Sao Tome and Principe (in Places &gt; Sovereign
+                                            Territories &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="senegal">
+                                        <gloss>Senegal (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="seychelles">
+                                        <gloss>Seychelles (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="sierra-leone">
+                                        <gloss>Sierra Leone (in Places &gt; Sovereign Territories
+                                            &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="somalia">
+                                        <gloss>Somalia (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="south-africa">
+                                        <gloss>South Africa (in Places &gt; Sovereign Territories
+                                            &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="south-sudan">
+                                        <gloss>South Sudan (in Places &gt; Sovereign Territories
+                                            &gt; Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="sudan">
+                                        <gloss>Sudan (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="swaziland">
+                                        <gloss>Swaziland (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="tanzania">
+                                        <gloss>Tanzania (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="togo">
+                                        <gloss>Togo (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="uganda">
+                                        <gloss>Uganda (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="zambia">
+                                        <gloss>Zambia (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="zimbabwe">
+                                        <gloss>Zimbabwe (in Places &gt; Sovereign Territories &gt;
+                                            Sub-Saharan Africa).</gloss>
+                                    </valItem>
+                                    <valItem ident="east-asia-and-pacific">
+                                        <gloss>East Asia and Pacific (in Places &gt; Sovereign
+                                            Territories).</gloss>
+                                    </valItem>
+                                    <valItem ident="australia">
+                                        <gloss>Australia (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="brunei">
+                                        <gloss>Brunei (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="burma">
+                                        <gloss>Burma (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="cambodia">
+                                        <gloss>Cambodia (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="china">
+                                        <gloss>China (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="the-federated-states-of-micronesia">
+                                        <gloss>The Federated States of Micronesia (in Places &gt;
+                                            Sovereign Territories &gt; East Asia and
+                                            Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="fiji">
+                                        <gloss>Fiji (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="indonesia">
+                                        <gloss>Indonesia (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="japan">
+                                        <gloss>Japan (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="kiribati">
+                                        <gloss>Kiribati (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="laos">
+                                        <gloss>Laos (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="malaysia">
+                                        <gloss>Malaysia (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="marshall-islands">
+                                        <gloss>Marshall Islands (in Places &gt; Sovereign
+                                            Territories &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="mongolia">
+                                        <gloss>Mongolia (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="nauru">
+                                        <gloss>Nauru (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="new-zealand">
+                                        <gloss>New Zealand (in Places &gt; Sovereign Territories
+                                            &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="north-korea">
+                                        <gloss>North Korea (in Places &gt; Sovereign Territories
+                                            &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="palau">
+                                        <gloss>Palau (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="papua-new-guinea">
+                                        <gloss>Papua New Guinea (in Places &gt; Sovereign
+                                            Territories &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="philippines">
+                                        <gloss>Philippines (in Places &gt; Sovereign Territories
+                                            &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="samoa">
+                                        <gloss>Samoa (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="singapore">
+                                        <gloss>Singapore (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="solomon-islands">
+                                        <gloss>Solomon Islands (in Places &gt; Sovereign Territories
+                                            &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="south-korea">
+                                        <gloss>South Korea (in Places &gt; Sovereign Territories
+                                            &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="taiwan">
+                                        <gloss>Taiwan (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="thailand">
+                                        <gloss>Thailand (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="timor-leste">
+                                        <gloss>Timor-Leste (in Places &gt; Sovereign Territories
+                                            &gt; East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="tonga">
+                                        <gloss>Tonga (in Places &gt; Sovereign Territories &gt; East
+                                            Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="tuvalu">
+                                        <gloss>Tuvalu (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="vanuatu">
+                                        <gloss>Vanuatu (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="vietnam">
+                                        <gloss>Vietnam (in Places &gt; Sovereign Territories &gt;
+                                            East Asia and Pacific).</gloss>
+                                    </valItem>
+                                    <valItem ident="europe">
+                                        <gloss>Europe (in Places &gt; Sovereign
+                                            Territories).</gloss>
+                                    </valItem>
+                                    <valItem ident="albania">
+                                        <gloss>Albania (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="andorra">
+                                        <gloss>Andorra (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="armenia">
+                                        <gloss>Armenia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="austria">
+                                        <gloss>Austria (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="azerbaijan">
+                                        <gloss>Azerbaijan (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="belarus">
+                                        <gloss>Belarus (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="belgium">
+                                        <gloss>Belgium (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="bosnia-and-herzegovina">
+                                        <gloss>Bosnia and Herzegovina (in Places &gt; Sovereign
+                                            Territories &gt; Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="bulgaria">
+                                        <gloss>Bulgaria (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="croatia">
+                                        <gloss>Croatia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="cyprus">
+                                        <gloss>Cyprus (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="czech-republic">
+                                        <gloss>Czech Republic (in Places &gt; Sovereign Territories
+                                            &gt; Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="denmark">
+                                        <gloss>Denmark (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="estonia">
+                                        <gloss>Estonia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="finland">
+                                        <gloss>Finland (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="france">
+                                        <gloss>France (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="georgia">
+                                        <gloss>Georgia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="germany">
+                                        <gloss>Germany (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="greece">
+                                        <gloss>Greece (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="holy-see">
+                                        <gloss>Holy See (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="hungary">
+                                        <gloss>Hungary (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="iceland">
+                                        <gloss>Iceland (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="ireland">
+                                        <gloss>Ireland (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="italy">
+                                        <gloss>Italy (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="kosovo">
+                                        <gloss>Kosovo (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="latvia">
+                                        <gloss>Latvia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="liechtenstein">
+                                        <gloss>Liechtenstein (in Places &gt; Sovereign Territories
+                                            &gt; Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="lithuania">
+                                        <gloss>Lithuania (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="luxembourg">
+                                        <gloss>Luxembourg (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="macedonia">
+                                        <gloss>Macedonia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="malta">
+                                        <gloss>Malta (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="moldova">
+                                        <gloss>Moldova (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="monaco">
+                                        <gloss>Monaco (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="montenegro">
+                                        <gloss>Montenegro (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="netherlands">
+                                        <gloss>Netherlands (in Places &gt; Sovereign Territories
+                                            &gt; Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="norway">
+                                        <gloss>Norway (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="poland">
+                                        <gloss>Poland (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="portugal">
+                                        <gloss>Portugal (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="romania">
+                                        <gloss>Romania (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="russia">
+                                        <gloss>Russia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="san-marino">
+                                        <gloss>San Marino (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="serbia">
+                                        <gloss>Serbia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="slovakia">
+                                        <gloss>Slovakia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="slovenia">
+                                        <gloss>Slovenia (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="spain">
+                                        <gloss>Spain (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="sweden">
+                                        <gloss>Sweden (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="switzerland">
+                                        <gloss>Switzerland (in Places &gt; Sovereign Territories
+                                            &gt; Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="turkey">
+                                        <gloss>Turkey (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="ukraine">
+                                        <gloss>Ukraine (in Places &gt; Sovereign Territories &gt;
+                                            Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="united-kingdom">
+                                        <gloss>United Kingdom (in Places &gt; Sovereign Territories
+                                            &gt; Europe).</gloss>
+                                    </valItem>
+                                    <valItem ident="near-east">
+                                        <gloss>Near East (in Places &gt; Sovereign
+                                            Territories).</gloss>
+                                    </valItem>
+                                    <valItem ident="algeria">
+                                        <gloss>Algeria (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="bahrain">
+                                        <gloss>Bahrain (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="egypt">
+                                        <gloss>Egypt (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="iran">
+                                        <gloss>Iran (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="iraq">
+                                        <gloss>Iraq (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="israel">
+                                        <gloss>Israel (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="jordan">
+                                        <gloss>Jordan (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="kuwait">
+                                        <gloss>Kuwait (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="lebanon">
+                                        <gloss>Lebanon (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="libya">
+                                        <gloss>Libya (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="morocco">
+                                        <gloss>Morocco (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="oman">
+                                        <gloss>Oman (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="qatar">
+                                        <gloss>Qatar (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="saudi-arabia">
+                                        <gloss>Saudi Arabia (in Places &gt; Sovereign Territories
+                                            &gt; Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="syria">
+                                        <gloss>Syria (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="tunisia">
+                                        <gloss>Tunisia (in Places &gt; Sovereign Territories &gt;
+                                            Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="united-arab-emirates">
+                                        <gloss>United Arab Emirates (in Places &gt; Sovereign
+                                            Territories &gt; Near East).</gloss>
+                                    </valItem>
+                                    <valItem ident="yemen">
+                                        <gloss>Yemen (in Places &gt; Sovereign Territories &gt; Near
+                                            East).</gloss>
+                                    </valItem>
+                                    <valItem ident="south-and-central-asia">
+                                        <gloss>South and Central Asia (in Places &gt; Sovereign
+                                            Territories).</gloss>
+                                    </valItem>
+                                    <valItem ident="afghanistan">
+                                        <gloss>Afghanistan (in Places &gt; Sovereign Territories
+                                            &gt; South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="bangladesh">
+                                        <gloss>Bangladesh (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="bhutan">
+                                        <gloss>Bhutan (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="india">
+                                        <gloss>India (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="kyrgyzstan">
+                                        <gloss>Kyrgyzstan (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="kazakhstan">
+                                        <gloss>Kazakhstan (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="maldives">
+                                        <gloss>Maldives (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="nepal">
+                                        <gloss>Nepal (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="pakistan">
+                                        <gloss>Pakistan (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="sri-lanka">
+                                        <gloss>Sri Lanka (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="tajikistan">
+                                        <gloss>Tajikistan (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="turkmenistan">
+                                        <gloss>Turkmenistan (in Places &gt; Sovereign Territories
+                                            &gt; South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="uzbekistan">
+                                        <gloss>Uzbekistan (in Places &gt; Sovereign Territories &gt;
+                                            South and Central Asia).</gloss>
+                                    </valItem>
+                                    <valItem ident="western-hemisphere">
+                                        <gloss>Western Hemisphere (in Places &gt; Sovereign
+                                            Territories).</gloss>
+                                    </valItem>
+                                    <valItem ident="antigua-and-barbuda">
+                                        <gloss>Antigua and Barbuda (in Places &gt; Sovereign
+                                            Territories &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="argentina">
+                                        <gloss>Argentina (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="the-bahamas">
+                                        <gloss>The Bahamas (in Places &gt; Sovereign Territories
+                                            &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="barbados">
+                                        <gloss>Barbados (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="belize">
+                                        <gloss>Belize (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="brazil">
+                                        <gloss>Brazil (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="bolivia">
+                                        <gloss>Bolivia (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="canada">
+                                        <gloss>Canada (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="chile">
+                                        <gloss>Chile (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="colombia">
+                                        <gloss>Colombia (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="costa-rica">
+                                        <gloss>Costa Rica (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="cuba">
+                                        <gloss>Cuba (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="dominica">
+                                        <gloss>Dominica (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="dominican-republic">
+                                        <gloss>Dominican Republic (in Places &gt; Sovereign
+                                            Territories &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="ecuador">
+                                        <gloss>Ecuador (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="el-salvador">
+                                        <gloss>El Salvador (in Places &gt; Sovereign Territories
+                                            &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="grenada">
+                                        <gloss>Grenada (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="guatemala">
+                                        <gloss>Guatemala (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="guyana">
+                                        <gloss>Guyana (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="haiti">
+                                        <gloss>Haiti (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="honduras">
+                                        <gloss>Honduras (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="jamaica">
+                                        <gloss>Jamaica (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="mexico">
+                                        <gloss>Mexico (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="nicaragua">
+                                        <gloss>Nicaragua (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="panama">
+                                        <gloss>Panama (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="paraguay">
+                                        <gloss>Paraguay (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="peru">
+                                        <gloss>Peru (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="st-kitts-and-nevis">
+                                        <gloss>St. Kitts and Nevis (in Places &gt; Sovereign
+                                            Territories &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="st-lucia">
+                                        <gloss>St. Lucia (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="st-vincent-and-the-grenadines">
+                                        <gloss>St. Vincent and the Grenadines (in Places &gt;
+                                            Sovereign Territories &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="suriname">
+                                        <gloss>Suriname (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="trinidad-and-tobago">
+                                        <gloss>Trinidad and Tobago (in Places &gt; Sovereign
+                                            Territories &gt; Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="uruguay">
+                                        <gloss>Uruguay (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="venezuela">
+                                        <gloss>Venezuela (in Places &gt; Sovereign Territories &gt;
+                                            Western Hemisphere).</gloss>
+                                    </valItem>
+                                    <valItem ident="dependencies-and-areas-of-special-sovereignty">
+                                        <gloss>Dependencies and Areas of Special Sovereignty (in
+                                            Places).</gloss>
+                                    </valItem>
+                                    <valItem ident="akrotiri">
+                                        <gloss>Akrotiri (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="american-samoa">
+                                        <gloss>American Samoa (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="anguilla">
+                                        <gloss>Anguilla (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="aruba">
+                                        <gloss>Aruba (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="ashmore-and-cartier-islands">
+                                        <gloss>Ashmore and Cartier Islands (in Places &gt;
+                                            Dependencies and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="azores">
+                                        <gloss>Azores (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="baker-island">
+                                        <gloss>Baker Island (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="bermuda">
+                                        <gloss>Bermuda (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="bouvet-island">
+                                        <gloss>Bouvet Island (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="british-indian-ocean-territory">
+                                        <gloss>British Indian Ocean Territory (in Places &gt;
+                                            Dependencies and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="cayman-islands">
+                                        <gloss>Cayman Islands (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="christmas-island">
+                                        <gloss>Christmas Island (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="clipperton-island">
+                                        <gloss>Clipperton Island (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="cocos-keeling-islands">
+                                        <gloss>Cocos (Keeling) Islands (in Places &gt; Dependencies
+                                            and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="cook-islands">
+                                        <gloss>Cook Islands (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="coral-sea-islands">
+                                        <gloss>Coral Sea Islands (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="curacao">
+                                        <gloss>Curacao (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="dhekelia">
+                                        <gloss>Dhekelia (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="falkland-islands-islas-malvinas">
+                                        <gloss>Falkland Islands (Islas Malvinas) (in Places &gt;
+                                            Dependencies and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="faroe-islands">
+                                        <gloss>Faroe Islands (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="french-guiana">
+                                        <gloss>French Guiana (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="french-polynesia">
+                                        <gloss>French Polynesia (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="french-southern-and-antarctic-lands">
+                                        <gloss>French Southern and Antarctic Lands (in Places &gt;
+                                            Dependencies and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="gibralter">
+                                        <gloss>Gibralter (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="greenland">
+                                        <gloss>Greenland (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="guadeloupe">
+                                        <gloss>Guadeloupe (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="guam">
+                                        <gloss>Guam (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="guernsey">
+                                        <gloss>Guernsey (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="heard-island-and-mcdonald-islands">
+                                        <gloss>Heard Island and McDonald Islands (in Places &gt;
+                                            Dependencies and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="hong-kong">
+                                        <gloss>Hong Kong (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="howland-island">
+                                        <gloss>Howland Island (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="isle-of-man">
+                                        <gloss>Isle of Man (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="jan-mayen">
+                                        <gloss>Jan Mayen (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="jarvis-island">
+                                        <gloss>Jarvis Island (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="jersey">
+                                        <gloss>Jersey (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="johnson-atoll">
+                                        <gloss>Johnson Atoll (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="kingman-reef">
+                                        <gloss>Kingman Reef (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="macau">
+                                        <gloss>Macau (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="martinique">
+                                        <gloss>Martinique (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="mayotte">
+                                        <gloss>Mayotte (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="midway-islands">
+                                        <gloss>Midway Islands (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="monterserrat">
+                                        <gloss>Monterserrat (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="navassa-island">
+                                        <gloss>Navassa Island (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="new-caledonia">
+                                        <gloss>New Caledonia (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="niue">
+                                        <gloss>Niue (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="norfolk-island">
+                                        <gloss>Norfolk Island (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="northern-mariana-islands">
+                                        <gloss>Northern Mariana Islands (in Places &gt; Dependencies
+                                            and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="palmyra-atoll">
+                                        <gloss>Palmyra Atoll (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="pitcairn-islands">
+                                        <gloss>Pitcairn Islands (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="puerto-rico">
+                                        <gloss>Puerto Rico (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="reunion">
+                                        <gloss>Reunion (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="saint-barthelemy">
+                                        <gloss>Saint Barthelemy (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="saint-helena">
+                                        <gloss>Saint Helena (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="saint-martin">
+                                        <gloss>Saint Martin (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="saint-pierre-and-miquelon">
+                                        <gloss>Saint Pierre and Miquelon (in Places &gt;
+                                            Dependencies and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="sint-maarten">
+                                        <gloss>Sint Maarten (in Places &gt; Dependencies and Areas
+                                            of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="south-georgia-and-the-south-sandwich-islands">
+                                        <gloss>South Georgia and the South Sandwich Islands (in
+                                            Places &gt; Dependencies and Areas of Special
+                                            Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="svalbard">
+                                        <gloss>Svalbard (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="tokelau">
+                                        <gloss>Tokelau (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="turks-and-caicos-islands">
+                                        <gloss>Turks and Caicos Islands (in Places &gt; Dependencies
+                                            and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="virgin-islands-british">
+                                        <gloss>Virgin Islands, British (in Places &gt; Dependencies
+                                            and Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="virgin-islands-u-s">
+                                        <gloss>Virgin Islands, U.S. (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="wake-island">
+                                        <gloss>Wake Island (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="wallis-and-futuna">
+                                        <gloss>Wallis and Futuna (in Places &gt; Dependencies and
+                                            Areas of Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="zanzibar">
+                                        <gloss>Zanzibar (in Places &gt; Dependencies and Areas of
+                                            Special Sovereignty).</gloss>
+                                    </valItem>
+                                    <valItem ident="other">
+                                        <gloss>Other (in Places).</gloss>
+                                    </valItem>
+                                    <valItem ident="antarctica">
+                                        <gloss>Antarctica (in Places &gt; Other).</gloss>
+                                    </valItem>
+                                    <valItem ident="palestine">
+                                        <gloss>Palestine (in Places &gt; Other).</gloss>
+                                    </valItem>
+                                    <valItem ident="paracel-islands">
+                                        <gloss>Paracel Islands (in Places &gt; Other).</gloss>
+                                    </valItem>
+                                    <valItem ident="spratly-islands">
+                                        <gloss>Spratly Islands (in Places &gt; Other).</gloss>
+                                    </valItem>
+                                    <valItem ident="western-sahara">
+                                        <gloss>Western Sahara (in Places &gt; Other).</gloss>
+                                    </valItem>
+                                    <valItem ident="topics">
+                                        <gloss>Topics</gloss>
+                                    </valItem>
+                                    <valItem ident="arms-control-and-disarmament">
+                                        <gloss>Arms Control and Disarmament (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="arms-embargoes">
+                                        <gloss>Arms Embargoes (in Topics &gt; Arms Control and
+                                            Disarmament).</gloss>
+                                    </valItem>
+                                    <valItem ident="arms-transfers">
+                                        <gloss>Arms Transfers (in Topics &gt; Arms Control and
+                                            Disarmament).</gloss>
+                                    </valItem>
+                                    <valItem ident="chemical-and-bacteriological-warfare">
+                                        <gloss>Chemical and Bacteriological Warfare (in Topics &gt;
+                                            Arms Control and Disarmament).</gloss>
+                                    </valItem>
+                                    <valItem ident="collective-security">
+                                        <gloss>Collective Security (in Topics &gt; Arms Control and
+                                            Disarmament).</gloss>
+                                    </valItem>
+                                    <valItem ident="confidence-building-measures">
+                                        <gloss>Confidence-Building Measures (in Topics &gt; Arms
+                                            Control and Disarmament). [These measures will usually
+                                            be explicitly be labeled as such by negotiating
+                                            partners.]</gloss>
+                                    </valItem>
+                                    <valItem ident="nuclear-nonproliferation">
+                                        <gloss>Nuclear Nonproliferation (in Topics &gt; Arms Control
+                                            and Disarmament).</gloss>
+                                    </valItem>
+                                    <valItem ident="nuclear-weapons">
+                                        <gloss>Nuclear Weapons (in Topics &gt; Arms Control and
+                                            Disarmament).</gloss>
+                                    </valItem>
+                                    <valItem ident="department-of-state">
+                                        <gloss>Department of State (in Topics). [Do not use as tag;
+                                            this term is too general.]</gloss>
+                                    </valItem>
+                                    <valItem ident="buildings-domestic">
+                                        <gloss>Buildings: Domestic (in Topics &gt; Department of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="buildings-foreign">
+                                        <gloss>Buildings: Foreign (in Topics &gt; Department of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="congressional-relations">
+                                        <gloss>Congressional Relations (in Topics &gt; Department of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="organization-and-management">
+                                        <gloss>Organization and Management (in Topics &gt;
+                                            Department of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="personnel-civil-service">
+                                        <gloss>Personnel: Civil Service (in Topics &gt; Department
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="personnel-demographics">
+                                        <gloss>Personnel: Demographics (in Topics &gt; Department of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="personnel-foreign-service">
+                                        <gloss>Personnel: Foreign Service (in Topics &gt; Department
+                                            of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="personnel-locally-employed-staff">
+                                        <gloss>Personnel: Locally Employed Staff (in Topics &gt;
+                                            Department of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="protection-of-americans-abroad">
+                                        <gloss>Protection of Americans Abroad (in Topics &gt;
+                                            Department of State).</gloss>
+                                    </valItem>
+                                    <valItem ident="protocol">
+                                        <gloss>Protocol (in Topics &gt; Department of
+                                            State).</gloss>
+                                    </valItem>
+                                    <valItem ident="foreign-economic-policy">
+                                        <gloss>Foreign Economic Policy (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="agriculture">
+                                        <gloss>Agriculture (in Topics &gt; Foreign Economic
+                                            Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="economic-sanctions">
+                                        <gloss>Economic Sanctions (in Topics &gt; Foreign Economic
+                                            Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="economic-summit-meetings">
+                                        <gloss>Economic Summit Meetings (in Topics &gt; Foreign
+                                            Economic Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="energy-and-natural-resources">
+                                        <gloss>Energy and Natural Resources (in Topics &gt; Foreign
+                                            Economic Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="financial-and-monetary-policy">
+                                        <gloss>Financial and Monetary Policy (in Topics &gt; Foreign
+                                            Economic Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="foreign-aid">
+                                        <gloss>Foreign Aid (in Topics &gt; Foreign Economic
+                                            Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="foreign-investment">
+                                        <gloss>Foreign Investment (in Topics &gt; Foreign Economic
+                                            Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="labor">
+                                        <gloss>Labor (in Topics &gt; Foreign Economic
+                                            Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="new-international-economic-order">
+                                        <gloss>New International Economic Order (in Topics &gt;
+                                            Foreign Economic Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="trade-and-commercial-policy-agreements">
+                                        <gloss>Trade and Commercial Policy/Agreements (in Topics
+                                            &gt; Foreign Economic Policy).</gloss>
+                                    </valItem>
+                                    <valItem ident="global-issues">
+                                        <gloss>Global Issues (in Topics). [Do not use as tag; this
+                                            term is too general.]</gloss>
+                                    </valItem>
+                                    <valItem ident="border-administration">
+                                        <gloss>Border Administration (in Topics &gt; Global
+                                            Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="decolonization">
+                                        <gloss>Decolonization (in Topics &gt; Global
+                                            Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="elections">
+                                        <gloss>Elections (in Topics &gt; Global Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="immigration">
+                                        <gloss>Immigration (in Topics &gt; Global Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="narcotics">
+                                        <gloss>Narcotics (in Topics &gt; Global Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="outer-space">
+                                        <gloss>Outer Space (in Topics &gt; Global Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="peace">
+                                        <gloss>Peace (in Topics &gt; Global Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="polar-affairs">
+                                        <gloss>Polar Affairs (in Topics &gt; Global Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="population-demographics">
+                                        <gloss>Population Demographics (in Topics &gt; Global
+                                            Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="self-determination">
+                                        <gloss>Self-Determination (in Topics &gt; Global
+                                            Issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="human-rights">
+                                        <gloss>Human Rights (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="asylum">
+                                        <gloss>Asylum (in Topics &gt; Human Rights).</gloss>
+                                    </valItem>
+                                    <valItem ident="detainees">
+                                        <gloss>Detainees (in Topics &gt; Human Rights).</gloss>
+                                    </valItem>
+                                    <valItem ident="genocide">
+                                        <gloss>Genocide (in Topics &gt; Human Rights).</gloss>
+                                    </valItem>
+                                    <valItem ident="political-prisoners">
+                                        <gloss>Political Prisoners (in Topics &gt; Human
+                                            Rights).</gloss>
+                                    </valItem>
+                                    <valItem ident="refugees">
+                                        <gloss>Refugees (in Topics &gt; Human Rights).</gloss>
+                                    </valItem>
+                                    <valItem ident="information-programs">
+                                        <gloss>Information Programs (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="international-law">
+                                        <gloss>International Law (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="domestic-protest-against-u-s-activity">
+                                        <gloss>Domestic Protest against U.S. Activity (in Topics
+                                            &gt; International Law).</gloss>
+                                    </valItem>
+                                    <valItem ident="foreign-protest-against-u-s-activity">
+                                        <gloss>Foreign Protest against U.S. Activity (in Topics &gt;
+                                            International Law).</gloss>
+                                    </valItem>
+                                    <valItem ident="law-of-the-sea">
+                                        <gloss>Law of the Sea (in Topics &gt; International
+                                            Law).</gloss>
+                                    </valItem>
+                                    <valItem ident="property-claims">
+                                        <gloss>Property Claims (in Topics &gt; International
+                                            Law).</gloss>
+                                    </valItem>
+                                    <valItem ident="international-organizations">
+                                        <gloss>International Organizations (in Topics). [If an
+                                            organization begins to appear frequently, please suggest
+                                            a separate tag for the organization.]</gloss>
+                                    </valItem>
+                                    <valItem ident="association-of-southeast-asian-nations">
+                                        <gloss>Association of Southeast Asian Nations (in Topics
+                                            &gt; International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem
+                                        ident="conference-on-security-and-cooperation-in-europe">
+                                        <gloss>Conference on Security and Cooperation in Europe (in
+                                            Topics &gt; International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="european-advisory-commission">
+                                        <gloss>European Advisory Commission (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="european-economic-community">
+                                        <gloss>European Economic Community (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="far-eastern-commission">
+                                        <gloss>Far Eastern Commission (in Topics &gt; International
+                                            Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="international-monetary-fund">
+                                        <gloss>International Monetary Fund (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="league-of-nations">
+                                        <gloss>League of Nations (in Topics &gt; International
+                                            Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="international-atomic-energy-agency">
+                                        <gloss>International Atomic Energy Agency (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="non-governmental-organizations">
+                                        <gloss>Non-governmental Organizations (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="north-atlantic-treaty-organization">
+                                        <gloss>North Atlantic Treaty Organization (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="organization-of-american-states">
+                                        <gloss>Organization of American States (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="organization-of-petroleum-exporting-countries">
+                                        <gloss>Organization of Petroleum Exporting Countries (in
+                                            Topics &gt; International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="southeast-asia-treaty-organization">
+                                        <gloss>Southeast Asia Treaty Organization (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="united-nations">
+                                        <gloss>United Nations (in Topics &gt; International
+                                            Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="universal-postal-union">
+                                        <gloss>Universal Postal Union (in Topics &gt; International
+                                            Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="world-trade-organization">
+                                        <gloss>World Trade Organization (in Topics &gt;
+                                            International Organizations).</gloss>
+                                    </valItem>
+                                    <valItem ident="politico-military-issues">
+                                        <gloss>Politico-Military issues (in Topics). [Do not use as
+                                            tag; this term is too general.]</gloss>
+                                    </valItem>
+                                    <valItem ident="alliances">
+                                        <gloss>Alliances (in Topics &gt; Politico-Military
+                                            issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="armistices">
+                                        <gloss>Armistices (in Topics &gt; Politico-Military
+                                            issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="covert-actions">
+                                        <gloss>Covert Actions (in Topics &gt; Politico-Military
+                                            issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="diplomatic-recognition">
+                                        <gloss>Diplomatic Recognition (in Topics &gt;
+                                            Politico-Military issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="military-bases">
+                                        <gloss>Military Bases (in Topics &gt; Politico-Military
+                                            issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="military-intervention-presence-and-withdrawal">
+                                        <gloss>Military Intervention, Presence and Withdrawal (in
+                                            Topics &gt; Politico-Military issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="national-security-council">
+                                        <gloss>National Security Council (in Topics &gt;
+                                            Politico-Military issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="national-security-policy">
+                                        <gloss>National Security Policy (in Topics &gt;
+                                            Politico-Military issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="quarantine-blockade">
+                                        <gloss>Quarantine (Blockade) (in Topics &gt;
+                                            Politico-Military issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="terrorism">
+                                        <gloss>Terrorism (in Topics &gt; Politico-Military
+                                            issues).</gloss>
+                                    </valItem>
+                                    <valItem ident="science-and-technology">
+                                        <gloss>Science and Technology (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="atomic-energy">
+                                        <gloss>Atomic Energy (in Topics &gt; Science and
+                                            Technology).</gloss>
+                                    </valItem>
+                                    <valItem ident="warfare">
+                                        <gloss>Warfare (in Topics).</gloss>
+                                    </valItem>
+                                    <valItem ident="afghanistan-conflict-2001">
+                                        <gloss>Afghanistan Conflict (2001) (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="american-revolutionary-war">
+                                        <gloss>American Revolutionary War (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="arab-israeli-dispute">
+                                        <gloss>Arab-Israeli Dispute (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="civil-war-u-s">
+                                        <gloss>Civil War (U.S.) (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="cuban-missile-crisis">
+                                        <gloss>Cuban Missile Crisis (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="geneva-convention">
+                                        <gloss>Geneva Convention (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="iraq-war-2003">
+                                        <gloss>Iraq War (2003) (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="korean-war">
+                                        <gloss>Korean War (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="mexican-american-war">
+                                        <gloss>Mexican-American War (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="neutrality">
+                                        <gloss>Neutrality (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="prisoners-of-war">
+                                        <gloss>Prisoners of War (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="spanish-american-war">
+                                        <gloss>Spanish-American War (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="suez-canal">
+                                        <gloss>Suez Canal (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="vietnam-conflict">
+                                        <gloss>Vietnam Conflict (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="war-crimes-and-war-criminals">
+                                        <gloss>War Crimes and War Criminals (in Topics &gt;
+                                            Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="war-of-1812">
+                                        <gloss>War of 1812 (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="world-war-i">
+                                        <gloss>World War I (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                    <valItem ident="world-war-ii">
+                                        <gloss>World War II (in Topics &gt; Warfare).</gloss>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+
+                    <!-- 
+                    constrain tei:hi/@rend
+                -->
+                    <elementSpec ident="hi" module="core" mode="change">
+                        <desc>Restrict @rend values for tei:hi elements</desc>
+                        <attList>
+                            <attDef ident="rend" usage="req" mode="replace">
+                                <valList type="closed">
+                                    <valItem ident="strong">
+                                        <gloss>Strong, bold</gloss>
+                                    </valItem>
+                                    <valItem ident="italic">
+                                        <gloss>Italic, oblique</gloss>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+
+                    <!-- 
+                    constrain tei:p/@rend
+                -->
+                    <elementSpec ident="p" module="core" mode="change">
+                        <desc>Restrict @rend values for tei:p elements</desc>
+                        <attList>
+                            <attDef ident="rend" usage="opt" mode="replace">
+                                <valList type="closed">
+                                    <valItem ident="strong">
+                                        <gloss>Strong, bold</gloss>
+                                    </valItem>
+                                    <valItem ident="italic">
+                                        <gloss>Italic, oblique</gloss>
+                                    </valItem>
+                                    <valItem ident="center">
+                                        <gloss>Centered</gloss>
+                                    </valItem>
+                                    <valItem ident="right">
+                                        <gloss>Right-aligned</gloss>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+
+                </schemaSpec>
+            </div>
+        </body>
+    </text>
+</TEI>

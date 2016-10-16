@@ -1,0 +1,3439 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace rng = "http://relaxng.org/ns/structure/1.0"
+namespace sch = "http://purl.oclc.org/dsdl/schematron"
+namespace xlink = "http://www.w3.org/1999/xlink"
+
+# Schema generated from ODD source 2013-10-31T13:33:37Z. 
+# Edition: 2.5.0. Last updated on
+#	26th July 2013.
+# Edition Location: http://www.tei-c.org/Vault/P5/2.5.0/
+#
+
+# This document is currently for internal use only
+macro.paraContent =
+  (text | model.gLike | model.phrase | model.inter | model.global)*
+macro.limitedContent = (text | model.limitedPhrase | model.inter)*
+macro.phraseSeq = (text | model.gLike | model.phrase | model.global)*
+macro.specialPara =
+  (text
+   | model.gLike
+   | model.phrase
+   | model.inter
+   | model.divPart
+   | model.global)*
+data.certainty = "high" | "medium" | "low" | "unknown"
+data.probability = xsd:double { minInclusive = "0" maxInclusive = "1" }
+data.numeric =
+  xsd:double
+  | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+  | xsd:decimal
+data.count = xsd:nonNegativeInteger
+data.temporal.w3c =
+  xsd:date
+  | xsd:gYear
+  | xsd:gMonth
+  | xsd:gDay
+  | xsd:gYearMonth
+  | xsd:gMonthDay
+  | xsd:time
+  | xsd:dateTime
+data.truthValue = xsd:boolean
+data.language = xsd:language | ""
+data.outputMeasurement =
+  xsd:token {
+    pattern =
+      "[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)"
+  }
+data.pointer = xsd:anyURI
+data.version = xsd:token { pattern = "[\d]+(\.[\d]+){0,2}" }
+data.word = xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+data.text = xsd:string
+data.name = xsd:Name
+data.enumerated = data.name
+data.temporal.iso =
+  xsd:date
+  | xsd:gYear
+  | xsd:gMonth
+  | xsd:gDay
+  | xsd:gYearMonth
+  | xsd:gMonthDay
+  | xsd:time
+  | xsd:dateTime
+  | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+att.ascribed.attributes = att.ascribed.attribute.who
+att.ascribed.attribute.who =
+  
+  ## indicates the person, or group of people, to whom the element content is ascribed.
+  attribute who {
+    list { data.pointer+ }
+  }?
+att.canonical.attributes =
+  att.canonical.attribute.key, att.canonical.attribute.ref
+att.canonical.attribute.key =
+  
+  ## provides an externally-defined means of identifying the entity (or entities) being named, using a coded value of some kind.
+  attribute key { data.text }?
+att.canonical.attribute.ref =
+  
+  ## (reference) provides an explicit means of locating a full definition for the entity being named by means of one or more URIs.
+  attribute ref {
+    list { data.pointer+ }
+  }?
+att.ranging.attributes =
+  att.ranging.attribute.atLeast,
+  att.ranging.attribute.atMost,
+  att.ranging.attribute.min,
+  att.ranging.attribute.max,
+  att.ranging.attribute.confidence
+att.ranging.attribute.atLeast =
+  
+  ## gives a minimum estimated value for the approximate measurement.
+  attribute atLeast { data.numeric }?
+att.ranging.attribute.atMost =
+  
+  ## gives a maximum estimated value for the approximate measurement.
+  attribute atMost { data.numeric }?
+att.ranging.attribute.min =
+  
+  ## where the measurement summarizes more than one observation or a range, supplies the minimum value observed.
+  attribute min { data.numeric }?
+att.ranging.attribute.max =
+  
+  ## where the measurement summarizes more than one observation or a range, supplies the maximum value observed.
+  attribute max { data.numeric }?
+att.ranging.attribute.confidence =
+  
+  ## specifies the degree of statistical confidence (between zero and one) that a value falls within the range specified by min and max, or the proportion of observed values that fall within that range.
+  attribute confidence { data.probability }?
+att.dimensions.attributes =
+  att.ranging.attributes,
+  att.dimensions.attribute.unit,
+  att.dimensions.attribute.quantity,
+  att.dimensions.attribute.extent,
+  att.dimensions.attribute.precision,
+  att.dimensions.attribute.scope
+att.dimensions.attribute.unit =
+  
+  ## names the unit used for the measurement
+  ## Suggested values include: 1] cm(centimetres) ; 2] mm(millimetres) ; 3] in(inches) ; 4] lines; 5] chars(characters) 
+  attribute unit {
+    
+    ## (centimetres) 
+    "cm"
+    | 
+      ## (millimetres) 
+      "mm"
+    | 
+      ## (inches) 
+      "in"
+    | 
+      ## lines of text
+      "lines"
+    | 
+      ## (characters) characters of text
+      "chars"
+    | xsd:Name
+  }?
+att.dimensions.attribute.quantity =
+  
+  ## specifies the length in the units specified
+  attribute quantity { data.numeric }?
+att.dimensions.attribute.extent =
+  
+  ## indicates the size of the object concerned using a project-specific vocabulary combining quantity and units in a single string of words. 
+  attribute extent { data.text }?
+att.dimensions.attribute.precision =
+  
+  ## characterizes the precision of the values specified by the other attributes.
+  attribute precision { data.certainty }?
+att.dimensions.attribute.scope =
+  
+  ## where the measurement summarizes more than one observation, specifies the applicability of this measurement.
+  ## Sample values include: 1] all; 2] most; 3] range
+  attribute scope { data.enumerated }?
+att.cReferencing.attributes = att.cReferencing.attribute.cRef
+att.cReferencing.attribute.cRef =
+  
+  ## (canonical reference) specifies the destination of the pointer by supplying a canonical reference from a scheme defined in a refsDecl element in the TEI header
+  attribute cRef { data.text }?
+att.datable.w3c.attributes =
+  att.datable.w3c.attribute.when,
+  att.datable.w3c.attribute.notBefore,
+  att.datable.w3c.attribute.notAfter,
+  att.datable.w3c.attribute.from,
+  att.datable.w3c.attribute.to
+att.datable.w3c.attribute.when =
+  
+  ## supplies the value of the date or time in a standard form, e.g. yyyy-mm-dd.
+  attribute when { data.temporal.w3c }?
+att.datable.w3c.attribute.notBefore =
+  
+  ## specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notBefore { data.temporal.w3c }?
+att.datable.w3c.attribute.notAfter =
+  
+  ## specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notAfter { data.temporal.w3c }?
+att.datable.w3c.attribute.from =
+  
+  ## indicates the starting point of the period in standard form, e.g. yyyy-mm-dd.
+  attribute from { data.temporal.w3c }?
+att.datable.w3c.attribute.to =
+  
+  ## indicates the ending point of the period in standard form, e.g. yyyy-mm-dd.
+  attribute to { data.temporal.w3c }?
+att.datable.attributes =
+  att.datable.w3c.attributes,
+  att.datable.iso.attributes,
+  att.datable.custom.attributes,
+  att.datable.attribute.calendar,
+  att.datable.attribute.period
+att.datable.attribute.calendar =
+  
+  ## indicates the system or calendar to which the date represented by the content of this element belongs.
+  attribute calendar { data.pointer }?
+sch:pattern [
+  id = "calendar-constraint-calendar"
+  "\x{a}" ~
+  "      "
+  sch:rule [
+    context = "tei:*[@calendar]"
+    "\x{a}" ~
+    "            "
+    sch:assert [
+      test = "string-length(.) gt 0"
+      "\x{a}" ~
+      "@calendar indicates the system or calendar to which the date represented by the content of this element\x{a}" ~
+      "belongs, but this "
+      sch:name [ ]
+      " element has no textual content."
+    ]
+    "\x{a}" ~
+    "          "
+  ]
+  "\x{a}" ~
+  "   "
+]
+att.datable.attribute.period =
+  
+  ## supplies a pointer to some location defining a named period of time within which the datable item is understood to have occurred.
+  attribute period { data.pointer }?
+att.divLike.attributes = att.divLike.attribute.part
+att.divLike.attribute.part =
+  
+  ##
+  attribute part { text }?
+att.responsibility.attributes =
+  att.responsibility.attribute.cert, att.responsibility.attribute.resp
+att.responsibility.attribute.cert =
+  
+  ## (certainty) signifies the degree of certainty associated with the intervention or interpretation.
+  attribute cert { data.certainty }?
+att.responsibility.attribute.resp =
+  
+  ## (responsible party) indicates the agency responsible for the intervention or interpretation, for example an editor or transcriber.
+  attribute resp {
+    list { data.pointer+ }
+  }?
+att.global.attributes =
+  att.global.linking.attributes,
+  att.global.facs.attributes,
+  att.global.change.attributes,
+  att.global.attribute.xmlid,
+  att.global.attribute.n,
+  att.global.attribute.xmllang,
+  att.global.attribute.rend,
+  att.global.attribute.style
+att.global.attribute.xmlid =
+  
+  ## (identifier) provides a unique identifier for the element bearing the attribute.
+  attribute xml:id { xsd:ID }?
+att.global.attribute.n =
+  
+  ## (number) gives a number (or other label) for an element, which is not necessarily unique within the document.
+  attribute n { data.text }?
+att.global.attribute.xmllang =
+  
+  ## (language) indicates the language of the element content using a tag generated according to BCP 47.
+  attribute xml:lang { data.language }?
+att.global.attribute.rend =
+  
+  ## (rendition) indicates how the element in question was rendered or presented in the source text.
+  attribute rend {
+    list { data.word+ }
+  }?
+att.global.attribute.style =
+  
+  ## contains an expression in some formal style definition language which defines the rendering or presentation used for this element in the source text 
+  attribute style { data.text }?
+att.media.attributes =
+  att.media.attribute.width,
+  att.media.attribute.height,
+  att.media.attribute.scale
+att.media.attribute.width =
+  
+  ## Where the media are displayed, indicates the display width 
+  attribute width { data.outputMeasurement }?
+att.media.attribute.height =
+  
+  ## Where the media are displayed, indicates the display height
+  attribute height { data.outputMeasurement }?
+att.media.attribute.scale =
+  
+  ## Where the media are displayed, indicates a scale factor to be applied when generating the desired display size
+  attribute scale { data.numeric }?
+att.resourced.attributes = att.resourced.attribute.url
+att.resourced.attribute.url =
+  
+  ## (uniform resource locator) specifies the URL from which the media concerned may be obtained.
+  attribute url { data.pointer }
+att.naming.attributes =
+  att.canonical.attributes, att.naming.attribute.role
+att.naming.attribute.role =
+  
+  ## may be used to specify further information about the entity referenced by this name, for example the occupation of a person, or the status of a place. 
+  attribute role { data.enumerated }?
+att.placement.attributes = att.placement.attribute.place
+att.placement.attribute.place =
+  
+  ## specifies where this item is placed
+  ## Suggested values include: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6] overleaf; 7] above; 8] end; 9] inline; 10] inspace
+  attribute place {
+    list {
+      (
+       ## below the line
+       "below"
+       | 
+         ## at the foot of the page
+         "bottom"
+       | 
+         ## in the margin (left, right, or both)
+         "margin"
+       | 
+         ## at the top of the page
+         "top"
+       | 
+         ## on the opposite, i.e. facing, page
+         "opposite"
+       | 
+         ## on the other side of the leaf
+         "overleaf"
+       | 
+         ## above the line
+         "above"
+       | 
+         ## at the end of e.g. chapter or volume.
+         "end"
+       | 
+         ## within the body of the text.
+         "inline"
+       | 
+         ## in a predefined space, for example left by an earlier scribe.
+         "inspace"
+       | xsd:Name)+
+    }
+  }?
+att.typed.attributes =
+  att.typed.attribute.type, att.typed.attribute.subtype
+att.typed.attribute.type =
+  
+  ## characterizes the element in some sense, using any convenient classification scheme or typology.
+  attribute type { data.enumerated }?
+att.typed.attribute.subtype =
+  
+  ## provides a sub-categorization of the element, if needed
+  attribute subtype { data.enumerated }?
+sch:pattern [
+  id = "att.typed-constraint-subtypeTyped"
+  "\x{a}" ~
+  "      "
+  sch:rule [
+    context = "*[@subtype]"
+    "\x{a}" ~
+    "	        "
+    sch:assert [
+      test = "@type"
+      "The "
+      sch:name [ ]
+      " element should not be categorized in detail with @subtype\x{a}" ~
+      " unless also categorized in general with @type"
+    ]
+    "\x{a}" ~
+    "      "
+  ]
+  "\x{a}" ~
+  "   "
+]
+att.pointing.attributes =
+  att.pointing.attribute.targetLang,
+  att.pointing.attribute.target,
+  att.pointing.attribute.evaluate
+att.pointing.attribute.targetLang =
+  
+  ## specifies the language of the content to be found at the destination referenced by target, using a language tag generated according to BCP 47.
+  attribute targetLang { data.language }?
+sch:pattern [
+  id = "targetLang-constraint-targetLang"
+  "\x{a}" ~
+  "      "
+  sch:rule [
+    context = "tei:*[not(self::tei:schemaSpec)][@targetLang]"
+    "\x{a}" ~
+    "            "
+    sch:assert [
+      test = "count(@target)"
+      "@targetLang can only be used if @target is specified."
+    ]
+    "\x{a}" ~
+    "          "
+  ]
+  "\x{a}" ~
+  "   "
+]
+att.pointing.attribute.target =
+  
+  ## specifies the destination of the reference by supplying one or more URI References
+  attribute target {
+    list { data.pointer+ }
+  }?
+att.pointing.attribute.evaluate =
+  
+  ## specifies the intended meaning when the target of a pointer is itself a pointer.
+  attribute evaluate {
+    
+    ## if the element pointed to is itself a pointer, then the target of that pointer will be taken, and so on, until an element is found which is not a pointer.
+    "all"
+    | 
+      ## if the element pointed to is itself a pointer, then its target (whether a pointer or not) is taken as the target of this pointer.
+      "one"
+    | 
+      ## no further evaluation of targets is carried out beyond that needed to find the element specified in the pointer's target.
+      "none"
+  }?
+att.sortable.attributes = att.sortable.attribute.sortKey
+att.sortable.attribute.sortKey =
+  
+  ## supplies the sort key for this element in an index, list or group which contains it.
+  attribute sortKey { data.word }?
+att.edition.attributes =
+  att.edition.attribute.ed, att.edition.attribute.edRef
+att.edition.attribute.ed =
+  
+  ## (edition) supplies an arbitrary identifier for the source edition in which the associated feature (for example, a page, column, or line break) occurs at this point in the text.
+  attribute ed {
+    list { data.word+ }
+  }?
+att.edition.attribute.edRef =
+  
+  ## (edition reference) provides a pointer to the source edition in which the associated feature (for example, a page, column, or line break) occurs at this point in the text.
+  attribute edRef {
+    list { data.pointer+ }
+  }?
+att.spanning.attributes = att.spanning.attribute.spanTo
+att.spanning.attribute.spanTo =
+  
+  ## indicates the end of a span initiated by the element bearing this attribute.
+  attribute spanTo { data.pointer }?
+sch:pattern [
+  id = "spanTo-constraint-spanTo-2"
+  "\x{a}" ~
+  "      "
+  sch:rule [
+    context = "tei:*[@spanTo]"
+    "\x{a}" ~
+    "         "
+    sch:assert [
+      test =
+        "id(substring(@spanTo,2)) and following::*[@xml:id=substring(current()/@spanTo,2)]"
+      "\x{a}" ~
+      "The element indicated by @spanTo ("
+      sch:value-of [ select = "@spanTo" ]
+      ") must follow the current element "
+      sch:name [ ]
+      "\x{a}" ~
+      "         "
+    ]
+    "\x{a}" ~
+    "      "
+  ]
+  "\x{a}" ~
+  "   "
+]
+att.tableDecoration.attributes =
+  att.tableDecoration.attribute.role,
+  att.tableDecoration.attribute.rows,
+  att.tableDecoration.attribute.cols
+att.tableDecoration.attribute.role =
+  
+  ## indicates the kind of information held in this cell or in each cell of this row.
+  ## Suggested values include: 1] label; 2] data
+  [ a:defaultValue = "data" ]
+  attribute role {
+    
+    ## labelling or descriptive information only.
+    "label"
+    | 
+      ## data values.
+      "data"
+    | xsd:Name
+  }?
+att.tableDecoration.attribute.rows =
+  
+  ## indicates the number of rows occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute rows { data.count }?
+att.tableDecoration.attribute.cols =
+  
+  ## (columns) indicates the number of columns occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute cols { data.count }?
+att.translatable.attributes = att.translatable.attribute.versionDate
+att.translatable.attribute.versionDate =
+  
+  ## specifies the date on which the source text was extracted and sent to the translator
+  attribute versionDate { data.temporal.w3c }?
+model.nameLike.agent = name | orgName | persName
+model.nameLike.agent_alternation = name | orgName | persName
+model.nameLike.agent_sequence = name, orgName, persName
+model.nameLike.agent_sequenceOptional = name?, orgName?, persName?
+model.nameLike.agent_sequenceOptionalRepeatable =
+  name*, orgName*, persName*
+model.nameLike.agent_sequenceRepeatable = name+, orgName+, persName+
+model.hiLike = hi
+model.hiLike_alternation = hi
+model.hiLike_sequence = hi
+model.hiLike_sequenceOptional = hi?
+model.hiLike_sequenceOptionalRepeatable = hi*
+model.hiLike_sequenceRepeatable = hi+
+model.emphLike = gloss | term | title
+model.emphLike_alternation = gloss | term | title
+model.emphLike_sequence = gloss, term, title
+model.emphLike_sequenceOptional = gloss?, term?, title?
+model.emphLike_sequenceOptionalRepeatable = gloss*, term*, title*
+model.emphLike_sequenceRepeatable = gloss+, term+, title+
+model.highlighted = model.hiLike | model.emphLike
+model.dateLike = date | time
+model.dateLike_alternation = date | time
+model.dateLike_sequence = date, time
+model.dateLike_sequenceOptional = date?, time?
+model.dateLike_sequenceOptionalRepeatable = date*, time*
+model.dateLike_sequenceRepeatable = date+, time+
+model.graphicLike = graphic
+model.ptrLike = ref
+model.milestoneLike = pb | lb | anchor
+model.gLike = notAllowed
+model.biblLike = notAllowed
+model.biblLike_alternation = notAllowed
+model.biblLike_sequence = empty
+model.biblLike_sequenceOptional = empty
+model.biblLike_sequenceOptionalRepeatable = empty
+model.biblLike_sequenceRepeatable = notAllowed
+model.headLike = head
+model.headLike_alternation = head
+model.headLike_sequence = head
+model.headLike_sequenceOptional = head?
+model.headLike_sequenceOptionalRepeatable = head*
+model.headLike_sequenceRepeatable = head+
+model.labelLike = desc
+model.labelLike_alternation = desc
+model.labelLike_sequence = desc
+model.labelLike_sequenceOptional = desc?
+model.labelLike_sequenceOptionalRepeatable = desc*
+model.labelLike_sequenceRepeatable = desc+
+model.listLike = \list | table
+model.listLike_alternation = \list | table
+model.listLike_sequence = \list, table
+model.listLike_sequenceOptional = \list?, table?
+model.listLike_sequenceOptionalRepeatable = \list*, table*
+model.listLike_sequenceRepeatable = \list+, table+
+model.noteLike = note
+model.lLike = notAllowed
+model.lLike_alternation = notAllowed
+model.lLike_sequence = empty
+model.lLike_sequenceOptional = empty
+model.lLike_sequenceOptionalRepeatable = empty
+model.lLike_sequenceRepeatable = notAllowed
+model.pLike = p
+model.pLike_alternation = p
+model.pLike_sequence = p
+model.pLike_sequenceOptional = p?
+model.pLike_sequenceOptionalRepeatable = p*
+model.pLike_sequenceRepeatable = p+
+model.global.edit = space
+model.divPart = model.lLike | model.pLike
+model.placeNamePart = placeName
+model.placeNamePart_alternation = placeName
+model.placeNamePart_sequence = placeName
+model.placeNamePart_sequenceOptional = placeName?
+model.placeNamePart_sequenceOptionalRepeatable = placeName*
+model.placeNamePart_sequenceRepeatable = placeName+
+model.placeStateLike = model.placeNamePart
+model.placeStateLike_alternation = model.placeNamePart_alternation
+model.placeStateLike_sequence = model.placeNamePart_sequence
+model.placeStateLike_sequenceOptional =
+  model.placeNamePart_sequenceOptional?
+model.placeStateLike_sequenceOptionalRepeatable =
+  model.placeNamePart_sequenceOptionalRepeatable*
+model.placeStateLike_sequenceRepeatable =
+  model.placeNamePart_sequenceRepeatable+
+model.publicationStmtPart = date | publisher | pubPlace | idno
+model.certLike = notAllowed
+model.descLike = desc
+model.glossLike = gloss
+model.respLike = editor
+model.divWrapper = byline | dateline | docDate
+model.divTopPart = model.headLike
+model.divTop = model.divWrapper | model.divTopPart
+model.pLike.front =
+  head | byline | docTitle | titlePart | docImprint | docDate
+model.divBottomPart = closer | signed
+model.divBottom = model.divWrapper | model.divBottomPart
+model.titlepagePart =
+  graphic | byline | docTitle | titlePart | docImprint | docDate
+model.nameLike = model.nameLike.agent | model.placeStateLike | idno
+model.nameLike_alternation =
+  model.nameLike.agent_alternation
+  | model.placeStateLike_alternation
+  | idno
+model.nameLike_sequence =
+  model.nameLike.agent_sequence, model.placeStateLike_sequence, idno
+model.nameLike_sequenceOptional =
+  model.nameLike.agent_sequenceOptional?,
+  model.placeStateLike_sequenceOptional?,
+  idno?
+model.nameLike_sequenceOptionalRepeatable =
+  model.nameLike.agent_sequenceOptionalRepeatable*,
+  model.placeStateLike_sequenceOptionalRepeatable*,
+  idno*
+model.nameLike_sequenceRepeatable =
+  model.nameLike.agent_sequenceRepeatable+,
+  model.placeStateLike_sequenceRepeatable+,
+  idno+
+model.global =
+  model.milestoneLike | model.noteLike | model.global.edit | figure
+model.frontPart = titlePage
+model.pPart.data = model.dateLike | model.nameLike
+model.inter = model.biblLike | model.labelLike | model.listLike
+model.common = model.divPart | model.inter
+model.phrase =
+  model.highlighted
+  | model.graphicLike
+  | model.ptrLike
+  | model.pPart.data
+model.limitedPhrase =
+  model.hiLike | model.emphLike | model.ptrLike | model.pPart.data
+model.divLike = \div
+model.divGenLike = notAllowed
+model.div1Like = notAllowed
+model.teiHeaderPart = encodingDesc
+model.sourceDescPart = notAllowed
+model.encodingDescPart = editorialDecl | classDecl
+model.editorialDeclPart = correction
+model.resourceLike = facsimile
+p =
+  
+  ## (paragraph) Restrict @rend values for tei:p elements [3.1.  7.2.5. ]
+  element p {
+    macro.paraContent,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.style,
+    att.global.linking.attribute.corresp,
+    att.global.facs.attribute.facs,
+    att.global.change.attribute.change,
+    
+    ##
+    attribute rend {
+      
+      ## (Strong, bold) 
+      "strong"
+      | 
+        ## (Italic, oblique) 
+        "italic"
+      | 
+        ## (Centered) 
+        "center"
+      | 
+        ## (Right-aligned) 
+        "right"
+    }?,
+    empty
+  }
+hi =
+  
+  ## (highlighted) Restrict @rend values for tei:hi elements [3.3.2.2.  3.3.2. ]
+  element hi {
+    macro.paraContent,
+    att.global.attribute.xmlid,
+    att.global.attribute.n,
+    att.global.attribute.xmllang,
+    att.global.attribute.style,
+    att.global.linking.attribute.corresp,
+    att.global.facs.attribute.facs,
+    att.global.change.attribute.change,
+    
+    ##
+    attribute rend {
+      
+      ## (Strong, bold) 
+      "strong"
+      | 
+        ## (Italic, oblique) 
+        "italic"
+    },
+    empty
+  }
+desc =
+  
+  ## (description) contains a brief description of the object documented by its parent element, including its intended usage, purpose, or application where this is appropriate. [22.4.1. ]
+  element desc {
+    macro.limitedContent,
+    att.global.attributes,
+    att.translatable.attributes,
+    empty
+  }
+gloss =
+  
+  ## identifies a phrase or word used to provide a gloss or definition for some other word or phrase. [3.3.4.  22.4.1. ]
+  element gloss {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.translatable.attributes,
+    att.typed.attributes,
+    att.pointing.attributes,
+    att.cReferencing.attributes,
+    empty
+  }
+term =
+  
+  ## contains a single-word, multi-word, or symbolic designation which is regarded as a technical term. [3.3.4. ]
+  element term {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    att.canonical.attributes,
+    att.sortable.attributes,
+    att.cReferencing.attributes,
+    empty
+  }
+name =
+  
+  ## (name, proper noun) contains a proper noun or noun phrase. [3.5.1. ]
+  element name {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.typed.attributes,
+    empty
+  }
+date =
+  
+  ## contains a date in any format. [3.5.4.  2.2.4.  2.5.  3.11.2.4.  15.2.3.  13.3.6. ]
+  element date {
+    (text | model.gLike | model.phrase | model.global)*,
+    att.global.attributes,
+    att.datable.attributes,
+    att.typed.attributes,
+    empty
+  }
+time =
+  
+  ## contains a phrase defining a time of day in any format. [3.5.4. ]
+  element time {
+    (text | model.gLike | model.phrase | model.global)*,
+    att.global.attributes,
+    att.datable.attributes,
+    att.typed.attributes,
+    empty
+  }
+ref =
+  
+  ## (reference) defines a reference to another location, possibly modified by additional text or comment. [3.6.  16.1. ]
+  element ref {
+    macro.paraContent
+    >> sch:pattern [
+         id = "ref-constraint-refAtts"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:ref"
+           "\x{a}" ~
+           "               "
+           sch:report [
+             test = "@target and @cRef"
+             "Only one of the\x{a}" ~
+             "	attributes @target' and @cRef' may be supplied on "
+             sch:name [ ]
+             "\x{a}" ~
+             "               "
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ],
+    att.global.attributes,
+    att.pointing.attributes,
+    att.typed.attributes,
+    att.cReferencing.attributes,
+    empty
+  }
+\list =
+  
+  ## (list) Restrict @type values for tei:list elements [3.7. ]
+  element list {
+    ((model.divTop | model.global)*,
+     ((item, model.global*)+ | (model.global*, item, model.global*)+),
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    att.sortable.attributes,
+    
+    ##
+    attribute type {
+      
+      ## (Document participants List) 
+      "participants"
+      | 
+        ## (Document subject heading) 
+        "subject"
+      | 
+        ## (Back of book Index) 
+        "index"
+      | 
+        ## (Front matter List of Terms &
+        ##                                             Abbreviations) 
+        "terms"
+      | 
+        ## (Front matter List of Persons) 
+        "names"
+      | 
+        ## (Front matter Table of Contents) 
+        "toc"
+      | 
+        ## (Front matter List of Sources) 
+        "sources"
+      | 
+        ## (Document Recipients List) 
+        "to"
+      | 
+        ## (Tightly-spaced text) 
+        "simple"
+      | 
+        ## (Document References heading) 
+        "references"
+    },
+    empty
+  }
+item =
+  
+  ## contains one component of a list. [3.7.  2.5. ]
+  element item {
+    macro.specialPara,
+    att.global.attributes,
+    att.sortable.attributes,
+    empty
+  }
+head =
+  
+  ## (heading) contains any type of heading, for example the title of a section, or the heading of a list, glossary, manuscript description, etc. [4.2.1. ]
+  element head {
+    (text
+     | model.gLike
+     | model.phrase
+     | model.inter
+     | model.lLike
+     | model.global)*,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+note =
+  
+  ## contains a note or annotation. [3.8.1.  2.2.6.  3.11.2.8.  9.3.5.4. ]
+  element note {
+    macro.specialPara,
+    att.global.attributes,
+    att.placement.attributes,
+    att.pointing.attributes,
+    att.responsibility.attributes,
+    att.typed.attributes,
+    
+    ## indicates whether the copy text shows the exact place of reference for the note.
+    [ a:defaultValue = "true" ] attribute anchored { data.truthValue }?,
+    
+    ## points to the end of the span to which the note is attached, if the note is not embedded in the text at that point.
+    attribute targetEnd {
+      list { data.pointer+ }
+    }?,
+    empty
+  }
+graphic =
+  
+  ## indicates the location of an inline graphic, illustration, or figure. [3.9. ]
+  element graphic {
+    model.descLike*,
+    att.global.attributes,
+    att.media.attributes,
+    att.resourced.attributes,
+    empty
+  }
+pb =
+  
+  ## (page break) marks the start of a new page in a paginated document. [3.10.3. ]
+  element pb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.edition.attributes,
+    att.spanning.attributes,
+    empty
+  }
+lb =
+  
+  ## (line break) marks the start of a new (typographic) line in some edition or version of a text. [3.10.3.  7.2.5. ]
+  element lb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.edition.attributes,
+    att.spanning.attributes,
+    empty
+  }
+editor =
+  
+  ## contains a secondary statement of responsibility for a bibliographic item, for example the name of an individual, institution or organization, (or of several such) acting as editor, compiler, translator, etc.  [3.11.2.2. ]
+  element editor {
+    macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
+  }
+title =
+  
+  ## contains a title for any kind of work. [3.11.2.2.  2.2.1.  2.2.5. ]
+  element title {
+    macro.paraContent,
+    att.global.attributes,
+    att.canonical.attributes,
+    att.typed.attribute.subtype,
+    
+    ## classifies the title according to some convenient typology.
+    ## Sample values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] short; 5] desc(descriptive) 
+    attribute type { data.enumerated }?,
+    
+    ## indicates the bibliographic level for a title, that is, whether it identifies an article, book, journal, series, or unpublished material.
+    attribute level {
+      
+      ## (analytic) the title applies to an analytic item, such as an article, poem, or other work published as part of a larger item. 
+      "a"
+      | 
+        ## (monographic) the title applies to a monograph such as a book or other item considered to be a distinct publication, including single volumes of multi-volume works 
+        "m"
+      | 
+        ## (journal) the title applies to any serial or periodical publication such as a journal, magazine, or newspaper 
+        "j"
+      | 
+        ## (series) the title applies to a series of otherwise distinct publications such as a collection 
+        "s"
+      | 
+        ## (unpublished) the title applies to any unpublished material (including theses and dissertations unless published by a commercial press)
+        "u"
+    }?,
+    empty
+  }
+publisher =
+  
+  ## provides the name of the organization responsible for the publication or distribution of a bibliographic item. [3.11.2.4.  2.2.4. ]
+  element publisher { macro.phraseSeq, att.global.attributes, empty }
+pubPlace =
+  
+  ## (publication place) contains the name of the place where a bibliographic item was published. [3.11.2.4. ]
+  element pubPlace {
+    macro.phraseSeq, att.global.attributes, att.naming.attributes, empty
+  }
+teiHeader =
+  
+  ## (TEI header) supplies the descriptive and declarative information making up an electronic title page prefixed to every TEI-conformant text. [2.1.1.  15.1. ]
+  element teiHeader {
+    (fileDesc, model.teiHeaderPart*, revisionDesc?),
+    att.global.attributes,
+    
+    ## specifies the kind of document to which the header is attached, for example whether it is a corpus or individual text.
+    ## Sample values include: 1] text; 2] corpus
+    [ a:defaultValue = "text" ] attribute type { data.enumerated }?,
+    empty
+  }
+fileDesc =
+  
+  ## (file description) contains a full bibliographic description of an electronic file. [2.2.  2.1.1. ]
+  element fileDesc {
+    ((titleStmt, publicationStmt), sourceDesc+),
+    att.global.attributes,
+    empty
+  }
+titleStmt =
+  
+  ## (title statement) groups information about the title of a work and those responsible for its content. [2.2.1.  2.2. ]
+  element titleStmt {
+    (title+, model.respLike*), att.global.attributes, empty
+  }
+publicationStmt =
+  
+  ## (publication statement) groups information concerning the publication or distribution of an electronic or other text.  [2.2.4.  2.2. ]
+  element publicationStmt {
+    (model.pLike+ | model.publicationStmtPart+),
+    att.global.attributes,
+    empty
+  }
+idno =
+  
+  ## (identifier) supplies any form of identifier used to identify some object, such as a bibliographic item, a person, a title, an organization, etc. in a standardized way. [2.2.4.  2.2.5.  3.11.2.4. ]
+  element idno {
+    (text | model.gLike | idno)*,
+    att.global.attributes,
+    att.sortable.attributes,
+    
+    ## categorizes the identifier, for example as an ISBN, Social Security number, etc. 
+    attribute type { data.enumerated }?,
+    empty
+  }
+sourceDesc =
+  
+  ## (source description) describes the source from which an electronic text was derived or generated, typically a bibliographic description in the case of a digitized text, or a phrase such as "born digital" for a text which has no previous existence. [2.2.7. ]
+  element sourceDesc {
+    (model.pLike+
+     | (model.biblLike | model.sourceDescPart | model.listLike)+),
+    att.global.attributes,
+    empty
+  }
+encodingDesc =
+  
+  ## (encoding description) documents the relationship between an electronic text and the source or sources from which it was derived. [2.3.  2.1.1. ]
+  element encodingDesc {
+    (model.encodingDescPart | model.pLike)+,
+    att.global.attributes,
+    empty
+  }
+editorialDecl =
+  
+  ## (editorial practice declaration) provides details of editorial principles and practices applied during the encoding of a text. [2.3.3.  2.3.  15.3.2. ]
+  element editorialDecl {
+    (model.pLike | model.editorialDeclPart)+,
+    att.global.attributes,
+    empty
+  }
+correction =
+  
+  ## (correction principles) states how and under what circumstances corrections have been made in the text. [2.3.3.  15.3.2. ]
+  element correction {
+    model.pLike+,
+    att.global.attributes,
+    
+    ## indicates the degree of correction applied to the text. 
+    [ a:defaultValue = "unknown" ]
+    attribute status {
+      
+      ## the text has been thoroughly checked and proofread. 
+      "high"
+      | 
+        ## the text has been checked at least once. 
+        "medium"
+      | 
+        ## the text has not been checked. 
+        "low"
+      | 
+        ## the correction status of the text is unknown. 
+        "unknown"
+    }?,
+    
+    ## indicates the method adopted to indicate corrections within the text. 
+    [ a:defaultValue = "silent" ]
+    attribute method {
+      
+      ## corrections have been made silently 
+      "silent"
+      | 
+        ## corrections have been represented using markup
+        "markup"
+    }?,
+    empty
+  }
+classDecl =
+  
+  ## (classification declarations) contains one or more taxonomies defining any classificatory codes used elsewhere in the text. [2.3.7.  2.3. ]
+  element classDecl { taxonomy+, att.global.attributes, empty }
+taxonomy =
+  
+  ## defines a typology either implicitly, by means of a bibliographic citation, or explicitly by a structured taxonomy. [2.3.7. ]
+  element taxonomy {
+    ((model.glossLike | model.descLike)* | model.biblLike),
+    att.global.attributes,
+    empty
+  }
+revisionDesc =
+  
+  ## (revision description) summarizes the revision history for a file. [2.5.  2.1.1. ]
+  element revisionDesc {
+    (\list | listChange | change+), att.global.attributes, empty
+  }
+change =
+  
+  ## documents a change or set of changes made during the production of a source document, or during the revision of an electronic file. [2.5.  2.4.1. ]
+  element change {
+    macro.specialPara,
+    att.ascribed.attributes,
+    att.datable.attributes,
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## points to one or more elements that belong to this change.
+    attribute target {
+      list { data.pointer+ }
+    }?,
+    empty
+  }
+listChange =
+  
+  ## groups a number of change descriptions associated with either the creation of a source text or the revision of an encoded text.  [2.5.  11.7. ]
+  element listChange {
+    (listChange | change)+,
+    att.global.attributes,
+    att.sortable.attributes,
+    
+    ## indicates whether the ordering of its child change elements is to be considered significant or not
+    [ a:defaultValue = "true" ] attribute ordered { data.truthValue }?,
+    empty
+  }
+TEI =
+  
+  ## (TEI document) contains a single TEI-conformant document, comprising a TEI header and a text, either in isolation or as part of a teiCorpus element. [4.  15.1. ]
+  element TEI {
+    (teiHeader,
+     ((model.resourceLike+, \text?) | \text))
+    >> sch:ns [ prefix = "tei" uri = "http://www.tei-c.org/ns/1.0" ]
+    >> sch:ns [
+         prefix = "rng"
+         uri = "http://relaxng.org/ns/structure/1.0"
+       ],
+    att.global.attributes,
+    
+    ## specifies the major version number of the TEI Guidelines against which this document is valid.
+    attribute version { data.version }?,
+    empty
+  }
+\text =
+  
+  ## contains a single text of any kind, whether unitary or composite, for example a poem or drama, a collection of essays, a novel, a dictionary, or a corpus sample. [4.  15.1. ]
+  element text {
+    (model.global*,
+     (front, model.global*)?,
+     (body),
+     model.global*,
+     (back, model.global*)?),
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+body =
+  
+  ## (text body) contains the whole body of a single unitary text, excluding any front or back matter. [4. ]
+  element body {
+    (model.global*,
+     (model.divTop, (model.global | model.divTop)*)?,
+     (model.divGenLike, (model.global | model.divGenLike)*)?,
+     ((model.divLike, (model.global | model.divGenLike)*)+
+      | (model.div1Like, (model.global | model.divGenLike)*)+
+      | ((model.common, model.global*)+,
+         ((model.divLike, (model.global | model.divGenLike)*)+
+          | (model.div1Like, (model.global | model.divGenLike)*)+)?)),
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    empty
+  }
+\div =
+  
+  ## (text division) Restrict @type values for tei:div elements [4.1. ]
+  element div {
+    ((model.divTop | model.global)*,
+     ((((model.divLike | model.divGenLike), model.global*)+
+       | ((model.common, model.global*)+,
+          ((model.divLike | model.divGenLike), model.global*)*)),
+      (model.divBottom, model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attribute.subtype,
+    
+    ##
+    attribute type {
+      
+      ## (Section) 
+      "section"
+    },
+    
+    ##
+    attribute ana {
+      list {
+        (
+         ## (People [For people named in resources, only use a
+         ##                                             person tag if the resource is relevant to their service
+         ##                                             as President or Secretary.]) 
+         "people"
+         | 
+           ## (Presidents (in People).) 
+           "presidents"
+         | 
+           ## (Washington, George (in People >
+           ##                                             Presidents).) 
+           "washington-george"
+         | 
+           ## (Adams, John (in People > Presidents).) 
+           "adams-john"
+         | 
+           ## (Jefferson, Thomas (P) (in People >
+           ##                                             Presidents).) 
+           "jefferson-thomas-p"
+         | 
+           ## (Madison, James (P) (in People >
+           ##                                             Presidents).) 
+           "madison-james-p"
+         | 
+           ## (Monroe, James (P) (in People >
+           ##                                             Presidents).) 
+           "monroe-james-p"
+         | 
+           ## (Adams, John Quincy (P) (in People >
+           ##                                             Presidents).) 
+           "adams-john-quincy-p"
+         | 
+           ## (Jackson, Andrew (in People > Presidents).) 
+           "jackson-andrew"
+         | 
+           ## (Van Buren, Martin (P) (in People >
+           ##                                             Presidents).) 
+           "van-buren-martin-p"
+         | 
+           ## (Harrison, William Henry (in People >
+           ##                                             Presidents).) 
+           "harrison-william-henry"
+         | 
+           ## (Tyler, John (in People > Presidents).) 
+           "tyler-john"
+         | 
+           ## (Polk, James K. (in People > Presidents).) 
+           "polk-james-k"
+         | 
+           ## (Taylor, Zachary (in People > Presidents).) 
+           "taylor-zachary"
+         | 
+           ## (Fillmore, Millard (in People >
+           ##                                             Presidents).) 
+           "fillmore-millard"
+         | 
+           ## (Pierce, Franklin (in People > Presidents).) 
+           "pierce-franklin"
+         | 
+           ## (Buchanan, James (P) (in People >
+           ##                                             Presidents).) 
+           "buchanan-james-p"
+         | 
+           ## (Lincoln, Abraham (in People > Presidents).) 
+           "lincoln-abraham"
+         | 
+           ## (Johnson, Andrew (in People > Presidents).) 
+           "johnson-andrew"
+         | 
+           ## (Grant, Ulysses S. (in People >
+           ##                                             Presidents).) 
+           "grant-ulysses-s"
+         | 
+           ## (Hayes, Rutherford B. (in People >
+           ##                                             Presidents).) 
+           "hayes-rutherford-b"
+         | 
+           ## (Garfield, James A. (in People >
+           ##                                             Presidents).) 
+           "garfield-james-a"
+         | 
+           ## (Arthur, Chester A. (in People >
+           ##                                             Presidents).) 
+           "arthur-chester-a"
+         | 
+           ## (Cleveland, Grover (1881-1885) (in People >
+           ##                                             Presidents).) 
+           "cleveland-grover-1881-1885"
+         | 
+           ## (Harrison, Benjamin (in People >
+           ##                                             Presidents).) 
+           "harrison-benjamin"
+         | 
+           ## (Cleveland, Grover (1893-1897) (in People >
+           ##                                             Presidents).) 
+           "cleveland-grover-1893-1897"
+         | 
+           ## (McKinley, William (in People >
+           ##                                             Presidents).) 
+           "mckinley-william"
+         | 
+           ## (Roosevelt, Theodore (in People >
+           ##                                             Presidents).) 
+           "roosevelt-theodore"
+         | 
+           ## (Taft, William Howard (in People >
+           ##                                             Presidents).) 
+           "taft-william-howard"
+         | 
+           ## (Wilson, Woodrow (in People > Presidents).) 
+           "wilson-woodrow"
+         | 
+           ## (Harding, Warren G. (in People >
+           ##                                             Presidents).) 
+           "harding-warren-g"
+         | 
+           ## (Coolidge, Calvin (in People > Presidents).) 
+           "coolidge-calvin"
+         | 
+           ## (Hoover, Herbert (in People > Presidents).) 
+           "hoover-herbert"
+         | 
+           ## (Roosevelt, Franklin D. (in People >
+           ##                                             Presidents).) 
+           "roosevelt-franklin-d"
+         | 
+           ## (Truman, Harry S. (in People > Presidents).) 
+           "truman-harry-s"
+         | 
+           ## (Eisenhower, Dwight D. (in People >
+           ##                                             Presidents).) 
+           "eisenhower-dwight-d"
+         | 
+           ## (Kennedy, John F. (in People > Presidents).) 
+           "kennedy-john-f"
+         | 
+           ## (Johnson, Lyndon B. (in People >
+           ##                                             Presidents).) 
+           "johnson-lyndon-b"
+         | 
+           ## (Nixon, Richard (in People > Presidents).) 
+           "nixon-richard"
+         | 
+           ## (Ford, Gerald (in People > Presidents).) 
+           "ford-gerald"
+         | 
+           ## (Carter, Jimmy (in People > Presidents).) 
+           "carter-jimmy"
+         | 
+           ## (Reagan, Ronald (in People > Presidents).) 
+           "reagan-ronald"
+         | 
+           ## (Bush, George H.W. (in People >
+           ##                                             Presidents).) 
+           "bush-george-h-w"
+         | 
+           ## (Clinton, William J. (in People >
+           ##                                             Presidents).) 
+           "clinton-william-j"
+         | 
+           ## (Bush, George W. (in People > Presidents).) 
+           "bush-george-w"
+         | 
+           ## (Obama, Barack (in People > Presidents).) 
+           "obama-barack"
+         | 
+           ## (Secretaries of State (in People).) 
+           "secretaries-of-state"
+         | 
+           ## (Jefferson, Thomas (S) (in People > Secretaries of
+           ##                                             State).) 
+           "jefferson-thomas-s"
+         | 
+           ## (Randolph, Edmund Jennings (in People > Secretaries
+           ##                                             of State).) 
+           "randolph-edmund-jennings"
+         | 
+           ## (Pickering, Timothy (in People > Secretaries of
+           ##                                             State).) 
+           "pickering-timothy"
+         | 
+           ## (Marshall, John (in People > Secretaries of
+           ##                                             State).) 
+           "marshall-john"
+         | 
+           ## (Madison, James (S) (in People > Secretaries of
+           ##                                             State).) 
+           "madison-james-s"
+         | 
+           ## (Smith, Robert (in People > Secretaries of
+           ##                                             State).) 
+           "smith-robert"
+         | 
+           ## (Monroe, James (S) (in People > Secretaries of
+           ##                                             State).) 
+           "monroe-james-s"
+         | 
+           ## (Adams, John Quincy (S) (in People > Secretaries of
+           ##                                             State).) 
+           "adams-john-quincy-s"
+         | 
+           ## (Clay, Henry (in People > Secretaries of
+           ##                                             State).) 
+           "clay-henry"
+         | 
+           ## (Van Buren, Martin (S) (in People > Secretaries of
+           ##                                             State).) 
+           "van-buren-martin-s"
+         | 
+           ## (Livingston, Edward (in People > Secretaries of
+           ##                                             State).) 
+           "livingston-edward"
+         | 
+           ## (McLane, Louis (in People > Secretaries of
+           ##                                             State).) 
+           "mclane-louis"
+         | 
+           ## (Forsyth, John (in People > Secretaries of
+           ##                                             State).) 
+           "forsyth-john"
+         | 
+           ## (Webster, Daniel (1841-1843) (in People >
+           ##                                             Secretaries of State).) 
+           "webster-daniel-1841-1843"
+         | 
+           ## (Upshur, Abel Parker (in People > Secretaries of
+           ##                                             State).) 
+           "upshur-abel-parker"
+         | 
+           ## (Calhoun, John Caldwell (in People > Secretaries of
+           ##                                             State).) 
+           "calhoun-john-caldwell"
+         | 
+           ## (Buchanan, James (S) (in People > Secretaries of
+           ##                                             State).) 
+           "buchanan-james-s"
+         | 
+           ## (Clayton, John Middleton (in People > Secretaries
+           ##                                             of State).) 
+           "clayton-john-middleton"
+         | 
+           ## (Webster, Daniel (1850-1852) (in People >
+           ##                                             Secretaries of State).) 
+           "webster-daniel-1850-1852"
+         | 
+           ## (Everett, Edward (in People > Secretaries of
+           ##                                             State).) 
+           "everett-edward"
+         | 
+           ## (Marcy, William Learned (in People > Secretaries of
+           ##                                             State).) 
+           "marcy-william-learned"
+         | 
+           ## (Cass, Lewis (in People > Secretaries of
+           ##                                             State).) 
+           "cass-lewis"
+         | 
+           ## (Black, Jeremiah Sullivan (in People > Secretaries
+           ##                                             of State).) 
+           "black-jeremiah-sullivan"
+         | 
+           ## (Seward, William Henry (in People > Secretaries of
+           ##                                             State).) 
+           "seward-william-henry"
+         | 
+           ## (Washburne, Elihu Benjamin (in People > Secretaries
+           ##                                             of State).) 
+           "washburne-elihu-benjamin"
+         | 
+           ## (Fish, Hamilton (in People > Secretaries of
+           ##                                             State).) 
+           "fish-hamilton"
+         | 
+           ## (Evarts, William Maxwell (in People > Secretaries
+           ##                                             of State).) 
+           "evarts-william-maxwell"
+         | 
+           ## (Blaine, James Gillespie (1881) (in People >
+           ##                                             Secretaries of State).) 
+           "blaine-james-gillespie-1881"
+         | 
+           ## (Frelinghuysen, Frederick Theodore (in People >
+           ##                                             Secretaries of State).) 
+           "frelinghuysen-frederick-theodore"
+         | 
+           ## (Bayard, Thomas Francis (in People > Secretaries of
+           ##                                             State).) 
+           "bayard-thomas-francis"
+         | 
+           ## (Blaine, James Gillespie (1889-1892) (in People >
+           ##                                             Secretaries of State).) 
+           "blaine-james-gillespie-1889-1892"
+         | 
+           ## (Foster, John Watson (in People > Secretaries of
+           ##                                             State).) 
+           "foster-john-watson"
+         | 
+           ## (Gresham, Walter Quintin (in People > Secretaries
+           ##                                             of State).) 
+           "gresham-walter-quintin"
+         | 
+           ## (Olney, Richard (in People > Secretaries of
+           ##                                             State).) 
+           "olney-richard"
+         | 
+           ## (Sherman, John (in People > Secretaries of
+           ##                                             State).) 
+           "sherman-john"
+         | 
+           ## (Day, William Rufus (in People > Secretaries of
+           ##                                             State).) 
+           "day-william-rufus"
+         | 
+           ## (Hay, John Milton (in People > Secretaries of
+           ##                                             State).) 
+           "hay-john-milton"
+         | 
+           ## (Root, Elihu (in People > Secretaries of
+           ##                                             State).) 
+           "root-elihu"
+         | 
+           ## (Bacon, Robert (in People > Secretaries of
+           ##                                             State).) 
+           "bacon-robert"
+         | 
+           ## (Knox, Philander Chase (in People > Secretaries of
+           ##                                             State).) 
+           "knox-philander-chase"
+         | 
+           ## (Bryan, William Jennings (in People > Secretaries
+           ##                                             of State).) 
+           "bryan-william-jennings"
+         | 
+           ## (Lansing, Robert (in People > Secretaries of
+           ##                                             State).) 
+           "lansing-robert"
+         | 
+           ## (Colby, Bainbridge (in People > Secretaries of
+           ##                                             State).) 
+           "colby-bainbridge"
+         | 
+           ## (Hughes, Charles Evans (in People > Secretaries of
+           ##                                             State).) 
+           "hughes-charles-evans"
+         | 
+           ## (Kellogg, Frank Billings (in People > Secretaries
+           ##                                             of State).) 
+           "kellogg-frank-billings"
+         | 
+           ## (Stimson, Henry Lewis (in People > Secretaries of
+           ##                                             State).) 
+           "stimson-henry-lewis"
+         | 
+           ## (Hull, Cordell (in People > Secretaries of
+           ##                                             State).) 
+           "hull-cordell"
+         | 
+           ## (Stettinius, Edward Reilly (in People > Secretaries
+           ##                                             of State).) 
+           "stettinius-edward-reilly"
+         | 
+           ## (Byrnes, James Francis (in People > Secretaries of
+           ##                                             State).) 
+           "byrnes-james-francis"
+         | 
+           ## (Marshall, George Catlett (in People > Secretaries
+           ##                                             of State).) 
+           "marshall-george-catlett"
+         | 
+           ## (Acheson, Dean Gooderham (in People > Secretaries
+           ##                                             of State).) 
+           "acheson-dean-gooderham"
+         | 
+           ## (Dulles, John Foster (in People > Secretaries of
+           ##                                             State).) 
+           "dulles-john-foster"
+         | 
+           ## (Herter, Christian Archibald (in People >
+           ##                                             Secretaries of State).) 
+           "herter-christian-archibald"
+         | 
+           ## (Rusk, David Dean (in People > Secretaries of
+           ##                                             State).) 
+           "rusk-david-dean"
+         | 
+           ## (Rogers, William Pierce (in People > Secretaries of
+           ##                                             State).) 
+           "rogers-william-pierce"
+         | 
+           ## (Kissinger, Henry A. (in People > Secretaries of
+           ##                                             State).) 
+           "kissinger-henry-a"
+         | 
+           ## (Vance, Cyrus Roberts (in People > Secretaries of
+           ##                                             State).) 
+           "vance-cyrus-roberts"
+         | 
+           ## (Muskie, Edmund Sixtus (in People > Secretaries of
+           ##                                             State).) 
+           "muskie-edmund-sixtus"
+         | 
+           ## (Haig, Alexander Meigs (in People > Secretaries of
+           ##                                             State).) 
+           "haig-alexander-meigs"
+         | 
+           ## (Shultz, George Pratt (in People > Secretaries of
+           ##                                             State).) 
+           "shultz-george-pratt"
+         | 
+           ## (Baker, James Addison (in People > Secretaries of
+           ##                                             State).) 
+           "baker-james-addison"
+         | 
+           ## (Eagleburger, Lawrence Sidney (in People >
+           ##                                             Secretaries of State).) 
+           "eagleburger-lawrence-sidney"
+         | 
+           ## (Christopher, Warren Minor (in People > Secretaries
+           ##                                             of State).) 
+           "christopher-warren-minor"
+         | 
+           ## (Albright, Madeleine Korbel (in People >
+           ##                                             Secretaries of State).) 
+           "albright-madeleine-korbel"
+         | 
+           ## (Powell, Colin Luther (in People > Secretaries of
+           ##                                             State).) 
+           "powell-colin-luther"
+         | 
+           ## (Rice, Condoleezza (in People > Secretaries of
+           ##                                             State).) 
+           "rice-condoleezza"
+         | 
+           ## (Clinton, Hillary Rodham (in People > Secretaries
+           ##                                             of State).) 
+           "clinton-hillary-rodham"
+         | 
+           ## (Places) 
+           "places"
+         | 
+           ## (Sovereign Territories (in Places).) 
+           "sovereign-territories"
+         | 
+           ## (Sub-Saharan Africa (in Places > Sovereign
+           ##                                             Territories).) 
+           "sub-saharan-africa"
+         | 
+           ## (Angola (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "angola"
+         | 
+           ## (Benin (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "benin"
+         | 
+           ## (Botswana (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "botswana"
+         | 
+           ## (Burkina Faso (in Places > Sovereign Territories
+           ##                                             > Sub-Saharan Africa).) 
+           "burkina-faso"
+         | 
+           ## (Burundi (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "burundi"
+         | 
+           ## (Cameroon (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "cameroon"
+         | 
+           ## (Cape Verde (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "cape-verde"
+         | 
+           ## (Central African Republic (in Places > Sovereign
+           ##                                             Territories > Sub-Saharan Africa).) 
+           "central-african-republic"
+         | 
+           ## (Chad (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "chad"
+         | 
+           ## (Comoros (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "comoros"
+         | 
+           ## (Congo (Brazzaville) (in Places > Sovereign
+           ##                                             Territories > Sub-Saharan Africa).) 
+           "congo-brazzaville"
+         | 
+           ## (Cote d’Ivoire (in Places > Sovereign Territories
+           ##                                             > Sub-Saharan Africa).) 
+           "cote-divoire"
+         | 
+           ## (Democratic Republic of the Congo (Kinshasa) (in
+           ##                                             Places > Sovereign Territories > Sub-Saharan
+           ##                                             Africa).) 
+           "democratic-republic-of-the-congo-kinshasa"
+         | 
+           ## (Djibouti (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "djibouti"
+         | 
+           ## (Equatorial Guinea (in Places > Sovereign
+           ##                                             Territories > Sub-Saharan Africa).) 
+           "equatorial-guinea"
+         | 
+           ## (Ethiopia (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "ethiopia"
+         | 
+           ## (Eritrea (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "eritrea"
+         | 
+           ## (Gabon (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "gabon"
+         | 
+           ## (The Gambia (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "the-gambia"
+         | 
+           ## (Ghana (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "ghana"
+         | 
+           ## (Guinea (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "guinea"
+         | 
+           ## (Guinea-Bissau (in Places > Sovereign Territories
+           ##                                             > Sub-Saharan Africa).) 
+           "guinea-bissau"
+         | 
+           ## (Kenya (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "kenya"
+         | 
+           ## (Lesotho (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "lesotho"
+         | 
+           ## (Liberia (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "liberia"
+         | 
+           ## (Madagascar (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "madagascar"
+         | 
+           ## (Malawi (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "malawi"
+         | 
+           ## (Mali (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "mali"
+         | 
+           ## (Mauritania (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "mauritania"
+         | 
+           ## (Mauritius (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "mauritius"
+         | 
+           ## (Mozambique (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "mozambique"
+         | 
+           ## (Namibia (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "namibia"
+         | 
+           ## (Niger (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "niger"
+         | 
+           ## (Nigeria (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "nigeria"
+         | 
+           ## (Rwanda (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "rwanda"
+         | 
+           ## (Sao Tome and Principe (in Places > Sovereign
+           ##                                             Territories > Sub-Saharan Africa).) 
+           "sao-tome-and-principe"
+         | 
+           ## (Senegal (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "senegal"
+         | 
+           ## (Seychelles (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "seychelles"
+         | 
+           ## (Sierra Leone (in Places > Sovereign Territories
+           ##                                             > Sub-Saharan Africa).) 
+           "sierra-leone"
+         | 
+           ## (Somalia (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "somalia"
+         | 
+           ## (South Africa (in Places > Sovereign Territories
+           ##                                             > Sub-Saharan Africa).) 
+           "south-africa"
+         | 
+           ## (South Sudan (in Places > Sovereign Territories
+           ##                                             > Sub-Saharan Africa).) 
+           "south-sudan"
+         | 
+           ## (Sudan (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "sudan"
+         | 
+           ## (Swaziland (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "swaziland"
+         | 
+           ## (Tanzania (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "tanzania"
+         | 
+           ## (Togo (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "togo"
+         | 
+           ## (Uganda (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "uganda"
+         | 
+           ## (Zambia (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "zambia"
+         | 
+           ## (Zimbabwe (in Places > Sovereign Territories >
+           ##                                             Sub-Saharan Africa).) 
+           "zimbabwe"
+         | 
+           ## (East Asia and Pacific (in Places > Sovereign
+           ##                                             Territories).) 
+           "east-asia-and-pacific"
+         | 
+           ## (Australia (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "australia"
+         | 
+           ## (Brunei (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "brunei"
+         | 
+           ## (Burma (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "burma"
+         | 
+           ## (Cambodia (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "cambodia"
+         | 
+           ## (China (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "china"
+         | 
+           ## (The Federated States of Micronesia (in Places >
+           ##                                             Sovereign Territories > East Asia and
+           ##                                             Pacific).) 
+           "the-federated-states-of-micronesia"
+         | 
+           ## (Fiji (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "fiji"
+         | 
+           ## (Indonesia (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "indonesia"
+         | 
+           ## (Japan (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "japan"
+         | 
+           ## (Kiribati (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "kiribati"
+         | 
+           ## (Laos (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "laos"
+         | 
+           ## (Malaysia (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "malaysia"
+         | 
+           ## (Marshall Islands (in Places > Sovereign
+           ##                                             Territories > East Asia and Pacific).) 
+           "marshall-islands"
+         | 
+           ## (Mongolia (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "mongolia"
+         | 
+           ## (Nauru (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "nauru"
+         | 
+           ## (New Zealand (in Places > Sovereign Territories
+           ##                                             > East Asia and Pacific).) 
+           "new-zealand"
+         | 
+           ## (North Korea (in Places > Sovereign Territories
+           ##                                             > East Asia and Pacific).) 
+           "north-korea"
+         | 
+           ## (Palau (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "palau"
+         | 
+           ## (Papua New Guinea (in Places > Sovereign
+           ##                                             Territories > East Asia and Pacific).) 
+           "papua-new-guinea"
+         | 
+           ## (Philippines (in Places > Sovereign Territories
+           ##                                             > East Asia and Pacific).) 
+           "philippines"
+         | 
+           ## (Samoa (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "samoa"
+         | 
+           ## (Singapore (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "singapore"
+         | 
+           ## (Solomon Islands (in Places > Sovereign Territories
+           ##                                             > East Asia and Pacific).) 
+           "solomon-islands"
+         | 
+           ## (South Korea (in Places > Sovereign Territories
+           ##                                             > East Asia and Pacific).) 
+           "south-korea"
+         | 
+           ## (Taiwan (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "taiwan"
+         | 
+           ## (Thailand (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "thailand"
+         | 
+           ## (Timor-Leste (in Places > Sovereign Territories
+           ##                                             > East Asia and Pacific).) 
+           "timor-leste"
+         | 
+           ## (Tonga (in Places > Sovereign Territories > East
+           ##                                             Asia and Pacific).) 
+           "tonga"
+         | 
+           ## (Tuvalu (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "tuvalu"
+         | 
+           ## (Vanuatu (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "vanuatu"
+         | 
+           ## (Vietnam (in Places > Sovereign Territories >
+           ##                                             East Asia and Pacific).) 
+           "vietnam"
+         | 
+           ## (Europe (in Places > Sovereign
+           ##                                             Territories).) 
+           "europe"
+         | 
+           ## (Albania (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "albania"
+         | 
+           ## (Andorra (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "andorra"
+         | 
+           ## (Armenia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "armenia"
+         | 
+           ## (Austria (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "austria"
+         | 
+           ## (Azerbaijan (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "azerbaijan"
+         | 
+           ## (Belarus (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "belarus"
+         | 
+           ## (Belgium (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "belgium"
+         | 
+           ## (Bosnia and Herzegovina (in Places > Sovereign
+           ##                                             Territories > Europe).) 
+           "bosnia-and-herzegovina"
+         | 
+           ## (Bulgaria (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "bulgaria"
+         | 
+           ## (Croatia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "croatia"
+         | 
+           ## (Cyprus (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "cyprus"
+         | 
+           ## (Czech Republic (in Places > Sovereign Territories
+           ##                                             > Europe).) 
+           "czech-republic"
+         | 
+           ## (Denmark (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "denmark"
+         | 
+           ## (Estonia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "estonia"
+         | 
+           ## (Finland (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "finland"
+         | 
+           ## (France (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "france"
+         | 
+           ## (Georgia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "georgia"
+         | 
+           ## (Germany (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "germany"
+         | 
+           ## (Greece (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "greece"
+         | 
+           ## (Holy See (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "holy-see"
+         | 
+           ## (Hungary (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "hungary"
+         | 
+           ## (Iceland (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "iceland"
+         | 
+           ## (Ireland (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "ireland"
+         | 
+           ## (Italy (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "italy"
+         | 
+           ## (Kosovo (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "kosovo"
+         | 
+           ## (Latvia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "latvia"
+         | 
+           ## (Liechtenstein (in Places > Sovereign Territories
+           ##                                             > Europe).) 
+           "liechtenstein"
+         | 
+           ## (Lithuania (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "lithuania"
+         | 
+           ## (Luxembourg (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "luxembourg"
+         | 
+           ## (Macedonia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "macedonia"
+         | 
+           ## (Malta (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "malta"
+         | 
+           ## (Moldova (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "moldova"
+         | 
+           ## (Monaco (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "monaco"
+         | 
+           ## (Montenegro (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "montenegro"
+         | 
+           ## (Netherlands (in Places > Sovereign Territories
+           ##                                             > Europe).) 
+           "netherlands"
+         | 
+           ## (Norway (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "norway"
+         | 
+           ## (Poland (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "poland"
+         | 
+           ## (Portugal (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "portugal"
+         | 
+           ## (Romania (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "romania"
+         | 
+           ## (Russia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "russia"
+         | 
+           ## (San Marino (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "san-marino"
+         | 
+           ## (Serbia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "serbia"
+         | 
+           ## (Slovakia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "slovakia"
+         | 
+           ## (Slovenia (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "slovenia"
+         | 
+           ## (Spain (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "spain"
+         | 
+           ## (Sweden (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "sweden"
+         | 
+           ## (Switzerland (in Places > Sovereign Territories
+           ##                                             > Europe).) 
+           "switzerland"
+         | 
+           ## (Turkey (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "turkey"
+         | 
+           ## (Ukraine (in Places > Sovereign Territories >
+           ##                                             Europe).) 
+           "ukraine"
+         | 
+           ## (United Kingdom (in Places > Sovereign Territories
+           ##                                             > Europe).) 
+           "united-kingdom"
+         | 
+           ## (Near East (in Places > Sovereign
+           ##                                             Territories).) 
+           "near-east"
+         | 
+           ## (Algeria (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "algeria"
+         | 
+           ## (Bahrain (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "bahrain"
+         | 
+           ## (Egypt (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "egypt"
+         | 
+           ## (Iran (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "iran"
+         | 
+           ## (Iraq (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "iraq"
+         | 
+           ## (Israel (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "israel"
+         | 
+           ## (Jordan (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "jordan"
+         | 
+           ## (Kuwait (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "kuwait"
+         | 
+           ## (Lebanon (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "lebanon"
+         | 
+           ## (Libya (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "libya"
+         | 
+           ## (Morocco (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "morocco"
+         | 
+           ## (Oman (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "oman"
+         | 
+           ## (Qatar (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "qatar"
+         | 
+           ## (Saudi Arabia (in Places > Sovereign Territories
+           ##                                             > Near East).) 
+           "saudi-arabia"
+         | 
+           ## (Syria (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "syria"
+         | 
+           ## (Tunisia (in Places > Sovereign Territories >
+           ##                                             Near East).) 
+           "tunisia"
+         | 
+           ## (United Arab Emirates (in Places > Sovereign
+           ##                                             Territories > Near East).) 
+           "united-arab-emirates"
+         | 
+           ## (Yemen (in Places > Sovereign Territories > Near
+           ##                                             East).) 
+           "yemen"
+         | 
+           ## (South and Central Asia (in Places > Sovereign
+           ##                                             Territories).) 
+           "south-and-central-asia"
+         | 
+           ## (Afghanistan (in Places > Sovereign Territories
+           ##                                             > South and Central Asia).) 
+           "afghanistan"
+         | 
+           ## (Bangladesh (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "bangladesh"
+         | 
+           ## (Bhutan (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "bhutan"
+         | 
+           ## (India (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "india"
+         | 
+           ## (Kyrgyzstan (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "kyrgyzstan"
+         | 
+           ## (Kazakhstan (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "kazakhstan"
+         | 
+           ## (Maldives (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "maldives"
+         | 
+           ## (Nepal (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "nepal"
+         | 
+           ## (Pakistan (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "pakistan"
+         | 
+           ## (Sri Lanka (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "sri-lanka"
+         | 
+           ## (Tajikistan (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "tajikistan"
+         | 
+           ## (Turkmenistan (in Places > Sovereign Territories
+           ##                                             > South and Central Asia).) 
+           "turkmenistan"
+         | 
+           ## (Uzbekistan (in Places > Sovereign Territories >
+           ##                                             South and Central Asia).) 
+           "uzbekistan"
+         | 
+           ## (Western Hemisphere (in Places > Sovereign
+           ##                                             Territories).) 
+           "western-hemisphere"
+         | 
+           ## (Antigua and Barbuda (in Places > Sovereign
+           ##                                             Territories > Western Hemisphere).) 
+           "antigua-and-barbuda"
+         | 
+           ## (Argentina (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "argentina"
+         | 
+           ## (The Bahamas (in Places > Sovereign Territories
+           ##                                             > Western Hemisphere).) 
+           "the-bahamas"
+         | 
+           ## (Barbados (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "barbados"
+         | 
+           ## (Belize (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "belize"
+         | 
+           ## (Brazil (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "brazil"
+         | 
+           ## (Bolivia (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "bolivia"
+         | 
+           ## (Canada (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "canada"
+         | 
+           ## (Chile (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "chile"
+         | 
+           ## (Colombia (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "colombia"
+         | 
+           ## (Costa Rica (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "costa-rica"
+         | 
+           ## (Cuba (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "cuba"
+         | 
+           ## (Dominica (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "dominica"
+         | 
+           ## (Dominican Republic (in Places > Sovereign
+           ##                                             Territories > Western Hemisphere).) 
+           "dominican-republic"
+         | 
+           ## (Ecuador (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "ecuador"
+         | 
+           ## (El Salvador (in Places > Sovereign Territories
+           ##                                             > Western Hemisphere).) 
+           "el-salvador"
+         | 
+           ## (Grenada (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "grenada"
+         | 
+           ## (Guatemala (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "guatemala"
+         | 
+           ## (Guyana (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "guyana"
+         | 
+           ## (Haiti (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "haiti"
+         | 
+           ## (Honduras (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "honduras"
+         | 
+           ## (Jamaica (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "jamaica"
+         | 
+           ## (Mexico (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "mexico"
+         | 
+           ## (Nicaragua (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "nicaragua"
+         | 
+           ## (Panama (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "panama"
+         | 
+           ## (Paraguay (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "paraguay"
+         | 
+           ## (Peru (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "peru"
+         | 
+           ## (St. Kitts and Nevis (in Places > Sovereign
+           ##                                             Territories > Western Hemisphere).) 
+           "st-kitts-and-nevis"
+         | 
+           ## (St. Lucia (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "st-lucia"
+         | 
+           ## (St. Vincent and the Grenadines (in Places >
+           ##                                             Sovereign Territories > Western Hemisphere).) 
+           "st-vincent-and-the-grenadines"
+         | 
+           ## (Suriname (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "suriname"
+         | 
+           ## (Trinidad and Tobago (in Places > Sovereign
+           ##                                             Territories > Western Hemisphere).) 
+           "trinidad-and-tobago"
+         | 
+           ## (Uruguay (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "uruguay"
+         | 
+           ## (Venezuela (in Places > Sovereign Territories >
+           ##                                             Western Hemisphere).) 
+           "venezuela"
+         | 
+           ## (Dependencies and Areas of Special Sovereignty (in
+           ##                                             Places).) 
+           "dependencies-and-areas-of-special-sovereignty"
+         | 
+           ## (Akrotiri (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "akrotiri"
+         | 
+           ## (American Samoa (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "american-samoa"
+         | 
+           ## (Anguilla (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "anguilla"
+         | 
+           ## (Aruba (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "aruba"
+         | 
+           ## (Ashmore and Cartier Islands (in Places >
+           ##                                             Dependencies and Areas of Special Sovereignty).) 
+           "ashmore-and-cartier-islands"
+         | 
+           ## (Azores (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "azores"
+         | 
+           ## (Baker Island (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "baker-island"
+         | 
+           ## (Bermuda (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "bermuda"
+         | 
+           ## (Bouvet Island (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "bouvet-island"
+         | 
+           ## (British Indian Ocean Territory (in Places >
+           ##                                             Dependencies and Areas of Special Sovereignty).) 
+           "british-indian-ocean-territory"
+         | 
+           ## (Cayman Islands (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "cayman-islands"
+         | 
+           ## (Christmas Island (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "christmas-island"
+         | 
+           ## (Clipperton Island (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "clipperton-island"
+         | 
+           ## (Cocos (Keeling) Islands (in Places > Dependencies
+           ##                                             and Areas of Special Sovereignty).) 
+           "cocos-keeling-islands"
+         | 
+           ## (Cook Islands (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "cook-islands"
+         | 
+           ## (Coral Sea Islands (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "coral-sea-islands"
+         | 
+           ## (Curacao (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "curacao"
+         | 
+           ## (Dhekelia (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "dhekelia"
+         | 
+           ## (Falkland Islands (Islas Malvinas) (in Places >
+           ##                                             Dependencies and Areas of Special Sovereignty).) 
+           "falkland-islands-islas-malvinas"
+         | 
+           ## (Faroe Islands (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "faroe-islands"
+         | 
+           ## (French Guiana (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "french-guiana"
+         | 
+           ## (French Polynesia (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "french-polynesia"
+         | 
+           ## (French Southern and Antarctic Lands (in Places >
+           ##                                             Dependencies and Areas of Special Sovereignty).) 
+           "french-southern-and-antarctic-lands"
+         | 
+           ## (Gibralter (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "gibralter"
+         | 
+           ## (Greenland (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "greenland"
+         | 
+           ## (Guadeloupe (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "guadeloupe"
+         | 
+           ## (Guam (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "guam"
+         | 
+           ## (Guernsey (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "guernsey"
+         | 
+           ## (Heard Island and McDonald Islands (in Places >
+           ##                                             Dependencies and Areas of Special Sovereignty).) 
+           "heard-island-and-mcdonald-islands"
+         | 
+           ## (Hong Kong (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "hong-kong"
+         | 
+           ## (Howland Island (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "howland-island"
+         | 
+           ## (Isle of Man (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "isle-of-man"
+         | 
+           ## (Jan Mayen (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "jan-mayen"
+         | 
+           ## (Jarvis Island (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "jarvis-island"
+         | 
+           ## (Jersey (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "jersey"
+         | 
+           ## (Johnson Atoll (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "johnson-atoll"
+         | 
+           ## (Kingman Reef (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "kingman-reef"
+         | 
+           ## (Macau (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "macau"
+         | 
+           ## (Martinique (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "martinique"
+         | 
+           ## (Mayotte (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "mayotte"
+         | 
+           ## (Midway Islands (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "midway-islands"
+         | 
+           ## (Monterserrat (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "monterserrat"
+         | 
+           ## (Navassa Island (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "navassa-island"
+         | 
+           ## (New Caledonia (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "new-caledonia"
+         | 
+           ## (Niue (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "niue"
+         | 
+           ## (Norfolk Island (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "norfolk-island"
+         | 
+           ## (Northern Mariana Islands (in Places > Dependencies
+           ##                                             and Areas of Special Sovereignty).) 
+           "northern-mariana-islands"
+         | 
+           ## (Palmyra Atoll (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "palmyra-atoll"
+         | 
+           ## (Pitcairn Islands (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "pitcairn-islands"
+         | 
+           ## (Puerto Rico (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "puerto-rico"
+         | 
+           ## (Reunion (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "reunion"
+         | 
+           ## (Saint Barthelemy (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "saint-barthelemy"
+         | 
+           ## (Saint Helena (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "saint-helena"
+         | 
+           ## (Saint Martin (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "saint-martin"
+         | 
+           ## (Saint Pierre and Miquelon (in Places >
+           ##                                             Dependencies and Areas of Special Sovereignty).) 
+           "saint-pierre-and-miquelon"
+         | 
+           ## (Sint Maarten (in Places > Dependencies and Areas
+           ##                                             of Special Sovereignty).) 
+           "sint-maarten"
+         | 
+           ## (South Georgia and the South Sandwich Islands (in
+           ##                                             Places > Dependencies and Areas of Special
+           ##                                             Sovereignty).) 
+           "south-georgia-and-the-south-sandwich-islands"
+         | 
+           ## (Svalbard (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "svalbard"
+         | 
+           ## (Tokelau (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "tokelau"
+         | 
+           ## (Turks and Caicos Islands (in Places > Dependencies
+           ##                                             and Areas of Special Sovereignty).) 
+           "turks-and-caicos-islands"
+         | 
+           ## (Virgin Islands, British (in Places > Dependencies
+           ##                                             and Areas of Special Sovereignty).) 
+           "virgin-islands-british"
+         | 
+           ## (Virgin Islands, U.S. (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "virgin-islands-u-s"
+         | 
+           ## (Wake Island (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "wake-island"
+         | 
+           ## (Wallis and Futuna (in Places > Dependencies and
+           ##                                             Areas of Special Sovereignty).) 
+           "wallis-and-futuna"
+         | 
+           ## (Zanzibar (in Places > Dependencies and Areas of
+           ##                                             Special Sovereignty).) 
+           "zanzibar"
+         | 
+           ## (Other (in Places).) 
+           "other"
+         | 
+           ## (Antarctica (in Places > Other).) 
+           "antarctica"
+         | 
+           ## (Palestine (in Places > Other).) 
+           "palestine"
+         | 
+           ## (Paracel Islands (in Places > Other).) 
+           "paracel-islands"
+         | 
+           ## (Spratly Islands (in Places > Other).) 
+           "spratly-islands"
+         | 
+           ## (Western Sahara (in Places > Other).) 
+           "western-sahara"
+         | 
+           ## (Topics) 
+           "topics"
+         | 
+           ## (Arms Control and Disarmament (in Topics).) 
+           "arms-control-and-disarmament"
+         | 
+           ## (Arms Embargoes (in Topics > Arms Control and
+           ##                                             Disarmament).) 
+           "arms-embargoes"
+         | 
+           ## (Arms Transfers (in Topics > Arms Control and
+           ##                                             Disarmament).) 
+           "arms-transfers"
+         | 
+           ## (Chemical and Bacteriological Warfare (in Topics >
+           ##                                             Arms Control and Disarmament).) 
+           "chemical-and-bacteriological-warfare"
+         | 
+           ## (Collective Security (in Topics > Arms Control and
+           ##                                             Disarmament).) 
+           "collective-security"
+         | 
+           ## (Confidence-Building Measures (in Topics > Arms
+           ##                                             Control and Disarmament). [These measures will usually
+           ##                                             be explicitly be labeled as such by negotiating
+           ##                                             partners.]) 
+           "confidence-building-measures"
+         | 
+           ## (Nuclear Nonproliferation (in Topics > Arms Control
+           ##                                             and Disarmament).) 
+           "nuclear-nonproliferation"
+         | 
+           ## (Nuclear Weapons (in Topics > Arms Control and
+           ##                                             Disarmament).) 
+           "nuclear-weapons"
+         | 
+           ## (Department of State (in Topics). [Do not use as tag;
+           ##                                             this term is too general.]) 
+           "department-of-state"
+         | 
+           ## (Buildings: Domestic (in Topics > Department of
+           ##                                             State).) 
+           "buildings-domestic"
+         | 
+           ## (Buildings: Foreign (in Topics > Department of
+           ##                                             State).) 
+           "buildings-foreign"
+         | 
+           ## (Congressional Relations (in Topics > Department of
+           ##                                             State).) 
+           "congressional-relations"
+         | 
+           ## (Organization and Management (in Topics >
+           ##                                             Department of State).) 
+           "organization-and-management"
+         | 
+           ## (Personnel: Civil Service (in Topics > Department
+           ##                                             of State).) 
+           "personnel-civil-service"
+         | 
+           ## (Personnel: Demographics (in Topics > Department of
+           ##                                             State).) 
+           "personnel-demographics"
+         | 
+           ## (Personnel: Foreign Service (in Topics > Department
+           ##                                             of State).) 
+           "personnel-foreign-service"
+         | 
+           ## (Personnel: Locally Employed Staff (in Topics >
+           ##                                             Department of State).) 
+           "personnel-locally-employed-staff"
+         | 
+           ## (Protection of Americans Abroad (in Topics >
+           ##                                             Department of State).) 
+           "protection-of-americans-abroad"
+         | 
+           ## (Protocol (in Topics > Department of
+           ##                                             State).) 
+           "protocol"
+         | 
+           ## (Foreign Economic Policy (in Topics).) 
+           "foreign-economic-policy"
+         | 
+           ## (Agriculture (in Topics > Foreign Economic
+           ##                                             Policy).) 
+           "agriculture"
+         | 
+           ## (Economic Sanctions (in Topics > Foreign Economic
+           ##                                             Policy).) 
+           "economic-sanctions"
+         | 
+           ## (Economic Summit Meetings (in Topics > Foreign
+           ##                                             Economic Policy).) 
+           "economic-summit-meetings"
+         | 
+           ## (Energy and Natural Resources (in Topics > Foreign
+           ##                                             Economic Policy).) 
+           "energy-and-natural-resources"
+         | 
+           ## (Financial and Monetary Policy (in Topics > Foreign
+           ##                                             Economic Policy).) 
+           "financial-and-monetary-policy"
+         | 
+           ## (Foreign Aid (in Topics > Foreign Economic
+           ##                                             Policy).) 
+           "foreign-aid"
+         | 
+           ## (Foreign Investment (in Topics > Foreign Economic
+           ##                                             Policy).) 
+           "foreign-investment"
+         | 
+           ## (Labor (in Topics > Foreign Economic
+           ##                                             Policy).) 
+           "labor"
+         | 
+           ## (New International Economic Order (in Topics >
+           ##                                             Foreign Economic Policy).) 
+           "new-international-economic-order"
+         | 
+           ## (Trade and Commercial Policy/Agreements (in Topics
+           ##                                             > Foreign Economic Policy).) 
+           "trade-and-commercial-policy-agreements"
+         | 
+           ## (Global Issues (in Topics). [Do not use as tag; this
+           ##                                             term is too general.]) 
+           "global-issues"
+         | 
+           ## (Border Administration (in Topics > Global
+           ##                                             Issues).) 
+           "border-administration"
+         | 
+           ## (Decolonization (in Topics > Global
+           ##                                             Issues).) 
+           "decolonization"
+         | 
+           ## (Elections (in Topics > Global Issues).) 
+           "elections"
+         | 
+           ## (Immigration (in Topics > Global Issues).) 
+           "immigration"
+         | 
+           ## (Narcotics (in Topics > Global Issues).) 
+           "narcotics"
+         | 
+           ## (Outer Space (in Topics > Global Issues).) 
+           "outer-space"
+         | 
+           ## (Peace (in Topics > Global Issues).) 
+           "peace"
+         | 
+           ## (Polar Affairs (in Topics > Global Issues).) 
+           "polar-affairs"
+         | 
+           ## (Population Demographics (in Topics > Global
+           ##                                             Issues).) 
+           "population-demographics"
+         | 
+           ## (Self-Determination (in Topics > Global
+           ##                                             Issues).) 
+           "self-determination"
+         | 
+           ## (Human Rights (in Topics).) 
+           "human-rights"
+         | 
+           ## (Asylum (in Topics > Human Rights).) 
+           "asylum"
+         | 
+           ## (Detainees (in Topics > Human Rights).) 
+           "detainees"
+         | 
+           ## (Genocide (in Topics > Human Rights).) 
+           "genocide"
+         | 
+           ## (Political Prisoners (in Topics > Human
+           ##                                             Rights).) 
+           "political-prisoners"
+         | 
+           ## (Refugees (in Topics > Human Rights).) 
+           "refugees"
+         | 
+           ## (Information Programs (in Topics).) 
+           "information-programs"
+         | 
+           ## (International Law (in Topics).) 
+           "international-law"
+         | 
+           ## (Domestic Protest against U.S. Activity (in Topics
+           ##                                             > International Law).) 
+           "domestic-protest-against-u-s-activity"
+         | 
+           ## (Foreign Protest against U.S. Activity (in Topics >
+           ##                                             International Law).) 
+           "foreign-protest-against-u-s-activity"
+         | 
+           ## (Law of the Sea (in Topics > International
+           ##                                             Law).) 
+           "law-of-the-sea"
+         | 
+           ## (Property Claims (in Topics > International
+           ##                                             Law).) 
+           "property-claims"
+         | 
+           ## (International Organizations (in Topics). [If an
+           ##                                             organization begins to appear frequently, please suggest
+           ##                                             a separate tag for the organization.]) 
+           "international-organizations"
+         | 
+           ## (Association of Southeast Asian Nations (in Topics
+           ##                                             > International Organizations).) 
+           "association-of-southeast-asian-nations"
+         | 
+           ## (Conference on Security and Cooperation in Europe (in
+           ##                                             Topics > International Organizations).) 
+           "conference-on-security-and-cooperation-in-europe"
+         | 
+           ## (European Advisory Commission (in Topics >
+           ##                                             International Organizations).) 
+           "european-advisory-commission"
+         | 
+           ## (European Economic Community (in Topics >
+           ##                                             International Organizations).) 
+           "european-economic-community"
+         | 
+           ## (Far Eastern Commission (in Topics > International
+           ##                                             Organizations).) 
+           "far-eastern-commission"
+         | 
+           ## (International Monetary Fund (in Topics >
+           ##                                             International Organizations).) 
+           "international-monetary-fund"
+         | 
+           ## (League of Nations (in Topics > International
+           ##                                             Organizations).) 
+           "league-of-nations"
+         | 
+           ## (International Atomic Energy Agency (in Topics >
+           ##                                             International Organizations).) 
+           "international-atomic-energy-agency"
+         | 
+           ## (Non-governmental Organizations (in Topics >
+           ##                                             International Organizations).) 
+           "non-governmental-organizations"
+         | 
+           ## (North Atlantic Treaty Organization (in Topics >
+           ##                                             International Organizations).) 
+           "north-atlantic-treaty-organization"
+         | 
+           ## (Organization of American States (in Topics >
+           ##                                             International Organizations).) 
+           "organization-of-american-states"
+         | 
+           ## (Organization of Petroleum Exporting Countries (in
+           ##                                             Topics > International Organizations).) 
+           "organization-of-petroleum-exporting-countries"
+         | 
+           ## (Southeast Asia Treaty Organization (in Topics >
+           ##                                             International Organizations).) 
+           "southeast-asia-treaty-organization"
+         | 
+           ## (United Nations (in Topics > International
+           ##                                             Organizations).) 
+           "united-nations"
+         | 
+           ## (Universal Postal Union (in Topics > International
+           ##                                             Organizations).) 
+           "universal-postal-union"
+         | 
+           ## (World Trade Organization (in Topics >
+           ##                                             International Organizations).) 
+           "world-trade-organization"
+         | 
+           ## (Politico-Military issues (in Topics). [Do not use as
+           ##                                             tag; this term is too general.]) 
+           "politico-military-issues"
+         | 
+           ## (Alliances (in Topics > Politico-Military
+           ##                                             issues).) 
+           "alliances"
+         | 
+           ## (Armistices (in Topics > Politico-Military
+           ##                                             issues).) 
+           "armistices"
+         | 
+           ## (Covert Actions (in Topics > Politico-Military
+           ##                                             issues).) 
+           "covert-actions"
+         | 
+           ## (Diplomatic Recognition (in Topics >
+           ##                                             Politico-Military issues).) 
+           "diplomatic-recognition"
+         | 
+           ## (Military Bases (in Topics > Politico-Military
+           ##                                             issues).) 
+           "military-bases"
+         | 
+           ## (Military Intervention, Presence and Withdrawal (in
+           ##                                             Topics > Politico-Military issues).) 
+           "military-intervention-presence-and-withdrawal"
+         | 
+           ## (National Security Council (in Topics >
+           ##                                             Politico-Military issues).) 
+           "national-security-council"
+         | 
+           ## (National Security Policy (in Topics >
+           ##                                             Politico-Military issues).) 
+           "national-security-policy"
+         | 
+           ## (Quarantine (Blockade) (in Topics >
+           ##                                             Politico-Military issues).) 
+           "quarantine-blockade"
+         | 
+           ## (Terrorism (in Topics > Politico-Military
+           ##                                             issues).) 
+           "terrorism"
+         | 
+           ## (Science and Technology (in Topics).) 
+           "science-and-technology"
+         | 
+           ## (Atomic Energy (in Topics > Science and
+           ##                                             Technology).) 
+           "atomic-energy"
+         | 
+           ## (Warfare (in Topics).) 
+           "warfare"
+         | 
+           ## (Afghanistan Conflict (2001) (in Topics >
+           ##                                             Warfare).) 
+           "afghanistan-conflict-2001"
+         | 
+           ## (American Revolutionary War (in Topics >
+           ##                                             Warfare).) 
+           "american-revolutionary-war"
+         | 
+           ## (Arab-Israeli Dispute (in Topics >
+           ##                                             Warfare).) 
+           "arab-israeli-dispute"
+         | 
+           ## (Civil War (U.S.) (in Topics > Warfare).) 
+           "civil-war-u-s"
+         | 
+           ## (Cuban Missile Crisis (in Topics >
+           ##                                             Warfare).) 
+           "cuban-missile-crisis"
+         | 
+           ## (Geneva Convention (in Topics > Warfare).) 
+           "geneva-convention"
+         | 
+           ## (Iraq War (2003) (in Topics > Warfare).) 
+           "iraq-war-2003"
+         | 
+           ## (Korean War (in Topics > Warfare).) 
+           "korean-war"
+         | 
+           ## (Mexican-American War (in Topics >
+           ##                                             Warfare).) 
+           "mexican-american-war"
+         | 
+           ## (Neutrality (in Topics > Warfare).) 
+           "neutrality"
+         | 
+           ## (Prisoners of War (in Topics > Warfare).) 
+           "prisoners-of-war"
+         | 
+           ## (Spanish-American War (in Topics >
+           ##                                             Warfare).) 
+           "spanish-american-war"
+         | 
+           ## (Suez Canal (in Topics > Warfare).) 
+           "suez-canal"
+         | 
+           ## (Vietnam Conflict (in Topics > Warfare).) 
+           "vietnam-conflict"
+         | 
+           ## (War Crimes and War Criminals (in Topics >
+           ##                                             Warfare).) 
+           "war-crimes-and-war-criminals"
+         | 
+           ## (War of 1812 (in Topics > Warfare).) 
+           "war-of-1812"
+         | 
+           ## (World War I (in Topics > Warfare).) 
+           "world-war-i"
+         | 
+           ## (World War II (in Topics > Warfare).) 
+           "world-war-ii")+
+      }
+    },
+    empty
+  }
+byline =
+  
+  ## contains the primary statement of responsibility given for a work on its title page or at the head or end of the work. [4.2.2.  4.5. ]
+  element byline {
+    (text | model.gLike | model.phrase | model.global)*,
+    att.global.attributes,
+    empty
+  }
+dateline =
+  
+  ## contains a brief description of the place, date, time, etc. of production of a letter, newspaper story, or other work, prefixed or suffixed to it as a kind of heading or trailer.  [4.2.2. ]
+  element dateline { macro.phraseSeq, att.global.attributes, empty }
+closer =
+  
+  ## groups together salutations, datelines, and similar phrases appearing as a final group at the end of a division, especially of a letter. [4.2.2.  4.2. ]
+  element closer {
+    (text
+     | model.gLike
+     | signed
+     | dateline
+     | model.phrase
+     | model.global)*,
+    att.global.attributes,
+    empty
+  }
+signed =
+  
+  ## (signature) contains the closing salutation, etc., appended to a foreword, dedicatory epistle, or other division of a text.  [4.2.2. ]
+  element signed { macro.paraContent, att.global.attributes, empty }
+titlePage =
+  
+  ## (title page) contains the title page of a text, appearing within the front or back matter.  [4.6. ]
+  element titlePage {
+    (model.global*,
+     model.titlepagePart,
+     (model.titlepagePart | model.global)*),
+    att.global.attributes,
+    
+    ## classifies the title page according to any convenient typology.
+    attribute type { data.enumerated }?,
+    empty
+  }
+docTitle =
+  
+  ## (document title) contains the title of a document, including all its constituents, as given on a title page. [4.6. ]
+  element docTitle {
+    (model.global*, (titlePart, model.global*)+),
+    att.global.attributes,
+    att.canonical.attributes,
+    empty
+  }
+titlePart =
+  
+  ## contains a subsection or division of the title of a work, as indicated on a title page. [4.6. ]
+  element titlePart {
+    macro.paraContent,
+    att.global.attributes,
+    
+    ## specifies the role of this subdivision of the title.
+    ## Suggested values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] short; 5] desc(descriptive) 
+    [ a:defaultValue = "main" ]
+    attribute type {
+      
+      ## main title of the work 
+      "main"
+      | 
+        ## (subordinate) subtitle of the work 
+        "sub"
+      | 
+        ## (alternate) alternative title of the work 
+        "alt"
+      | 
+        ## abbreviated form of title
+        "short"
+      | 
+        ## (descriptive) descriptive paraphrase of the work 
+        "desc"
+      | xsd:Name
+    }?,
+    empty
+  }
+docImprint =
+  
+  ## (document imprint) contains the imprint statement (place and date of publication, publisher name), as given (usually) at the foot of a title page. [4.6. ]
+  element docImprint {
+    (text
+     | model.gLike
+     | model.phrase
+     | pubPlace
+     | docDate
+     | publisher
+     | model.global)*,
+    att.global.attributes,
+    empty
+  }
+docDate =
+  
+  ## (document date) contains the date of a document, as given (usually) on a title page. [4.6. ]
+  element docDate {
+    macro.phraseSeq,
+    att.global.attributes,
+    
+    ## gives the value of the date in standard form, i.e. YYYY-MM-DD.
+    attribute when { data.temporal.w3c }?,
+    empty
+  }
+front =
+  
+  ## (front matter) contains any prefatory matter (headers, title page, prefaces, dedications, etc.) found at the start of a document, before the main body. [4.6.  4. ]
+  element front {
+    ((model.frontPart
+      | model.pLike
+      | model.pLike.front
+      | model.global)*,
+     (((model.div1Like,
+        (model.div1Like | model.frontPart | model.global)*)
+       | (model.divLike,
+          (model.divLike | model.frontPart | model.global)*)),
+      (model.divBottom, (model.divBottom | model.global)*)?)?),
+    att.global.attributes,
+    empty
+  }
+back =
+  
+  ## (back matter) contains any appendixes, etc. following the main part of a text. [4.7.  4. ]
+  element back {
+    ((model.frontPart
+      | model.pLike.front
+      | model.pLike
+      | model.listLike
+      | model.global)*,
+     ((model.div1Like,
+       (model.frontPart | model.div1Like | model.global)*)
+      | (model.divLike,
+         (model.frontPart | model.divLike | model.global)*))?,
+     (model.divBottomPart, (model.divBottomPart | model.global)*)?),
+    att.global.attributes,
+    empty
+  }
+att.datable.custom.attributes =
+  att.datable.custom.attribute.when-custom,
+  att.datable.custom.attribute.notBefore-custom,
+  att.datable.custom.attribute.notAfter-custom,
+  att.datable.custom.attribute.from-custom,
+  att.datable.custom.attribute.to-custom,
+  att.datable.custom.attribute.datingPoint,
+  att.datable.custom.attribute.datingMethod
+att.datable.custom.attribute.when-custom =
+  
+  ## supplies the value of a date or time in some standard form.
+  attribute when-custom {
+    list { data.word+ }
+  }?
+att.datable.custom.attribute.notBefore-custom =
+  
+  ## specifies the earliest possible date for the event in some custom standard form.
+  attribute notBefore-custom {
+    list { data.word+ }
+  }?
+att.datable.custom.attribute.notAfter-custom =
+  
+  ## specifies the latest possible date for the event in some custom standard form.
+  attribute notAfter-custom {
+    list { data.word+ }
+  }?
+att.datable.custom.attribute.from-custom =
+  
+  ## indicates the starting point of the period in some standard form.
+  attribute from-custom {
+    list { data.word+ }
+  }?
+att.datable.custom.attribute.to-custom =
+  
+  ## indicates the ending point of the period in some standard form.
+  attribute to-custom {
+    list { data.word+ }
+  }?
+att.datable.custom.attribute.datingPoint =
+  
+  ## supplies a pointer to some location defining a named point in time with reference to which the datable item is understood to have occurred
+  attribute datingPoint { data.pointer }?
+att.datable.custom.attribute.datingMethod =
+  
+  ## supplies a pointer to a calendar element or other means of interpreting the values of the custom dating attributes.
+  attribute datingMethod { data.pointer }?
+att.datable.iso.attributes =
+  att.datable.iso.attribute.when-iso,
+  att.datable.iso.attribute.notBefore-iso,
+  att.datable.iso.attribute.notAfter-iso,
+  att.datable.iso.attribute.from-iso,
+  att.datable.iso.attribute.to-iso
+att.datable.iso.attribute.when-iso =
+  
+  ## supplies the value of a date or time in a standard form.
+  attribute when-iso { data.temporal.iso }?
+att.datable.iso.attribute.notBefore-iso =
+  
+  ## specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notBefore-iso { data.temporal.iso }?
+att.datable.iso.attribute.notAfter-iso =
+  
+  ## specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notAfter-iso { data.temporal.iso }?
+att.datable.iso.attribute.from-iso =
+  
+  ## indicates the starting point of the period in standard form.
+  attribute from-iso { data.temporal.iso }?
+att.datable.iso.attribute.to-iso =
+  
+  ## indicates the ending point of the period in standard form.
+  attribute to-iso { data.temporal.iso }?
+orgName =
+  
+  ## (organization name) contains an organizational name.  [13.2.2. ]
+  element orgName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.typed.attributes,
+    empty
+  }
+persName =
+  
+  ## (personal name) contains a proper noun or proper-noun phrase referring to a person, possibly including one or more of the person's forenames, surnames, honorifics, added names, etc. [13.2.1. ]
+  element persName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.typed.attributes,
+    empty
+  }
+placeName =
+  
+  ## contains an absolute or relative place name.  [13.2.3. ]
+  element placeName {
+    macro.phraseSeq,
+    att.datable.attributes,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+table =
+  
+  ## contains text displayed in tabular form, in rows and columns. [14.1.1. ]
+  element table {
+    ((model.headLike | model.global)*,
+     ((row, model.global*)+ | (model.graphicLike, model.global*)+),
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    
+    ## indicates the number of rows in the table.
+    attribute rows { data.count }?,
+    
+    ## (columns) indicates the number of columns in each row of the table.
+    attribute cols { data.count }?,
+    empty
+  }
+row =
+  
+  ## contains one row of a table.  [14.1.1. ]
+  element row {
+    cell+, att.global.attributes, att.tableDecoration.attributes, empty
+  }
+cell =
+  
+  ## contains one cell of a table.  [14.1.1. ]
+  element cell {
+    macro.specialPara,
+    att.global.attributes,
+    att.tableDecoration.attributes,
+    empty
+  }
+figure =
+  
+  ## groups elements representing or containing graphic information such as an illustration, formula, or figure. [14.4. ]
+  element figure {
+    (model.headLike
+     | model.common
+     | model.graphicLike
+     | model.global
+     | model.divBottom)*,
+    att.global.attributes,
+    att.placement.attributes,
+    att.typed.attributes,
+    empty
+  }
+att.global.linking.attributes = att.global.linking.attribute.corresp
+att.global.linking.attribute.corresp =
+  
+  ## (corresponds) points to elements that correspond to the current element in some way.
+  attribute corresp {
+    list { data.pointer+ }
+  }?
+anchor =
+  
+  ## (anchor point) attaches an identifier to a point within a text, whether or not it corresponds with a textual element. [8.4.2.  16.4. ]
+  element anchor {
+    empty, att.global.attributes, att.typed.attributes, empty
+  }
+att.global.facs.attributes = att.global.facs.attribute.facs
+att.global.facs.attribute.facs =
+  
+  ## (facsimile) points to all or part of an image which corresponds with the content of the element.
+  attribute facs {
+    list { data.pointer+ }
+  }?
+att.global.change.attributes = att.global.change.attribute.change
+att.global.change.attribute.change =
+  
+  ## points to one or more change elements documenting a state or revision campaign to which the element bearing this attribute and its children have been assigned by the encoder.
+  attribute change {
+    list { data.pointer+ }
+  }?
+facsimile =
+  
+  ## contains a representation of some written source in the form of a set of images rather than as transcribed or encoded text. [11.1. ]
+  element facsimile {
+    (front?, (model.graphicLike)+, back?),
+    att.global.attributes,
+    empty
+  }
+space =
+  
+  ## indicates the location of a significant space in the copy text. [11.5.1. ]
+  element space {
+    (model.descLike | model.certLike)*,
+    att.global.attributes,
+    att.dimensions.attributes,
+    
+    ## (dimension) indicates whether the space is horizontal or vertical.
+    attribute dim {
+      
+      ## the space is horizontal.
+      "horizontal"
+      | 
+        ## the space is vertical.
+        "vertical"
+    }?,
+    
+    ## (responsible party) indicates the individual responsible for identifying and measuring the space.
+    attribute resp { data.pointer }?,
+    empty
+  }
+start = TEI
