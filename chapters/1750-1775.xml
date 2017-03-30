@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -54,10 +54,10 @@
                 <p>The French and Indian War, the North American phase of the larger Seven Years’
                     War, began after a series of incidents in the upper Ohio River valley, which the
                     French and British governments both claimed as their territory. Military forces
-                    assembled by both imperial powers built forts in the region and attempted to capture each others’
-                    forts. These skirmishes, which included an expedition led by
-                    George Washington, ultimately led to the escalation of a wider, full-scale war
-                    between Great Britain and France.</p>
+                    assembled by both imperial powers built forts in the region and attempted to
+                    capture each others’ forts. These skirmishes, which included an expedition led
+                    by George Washington, ultimately led to the escalation of a wider, full-scale
+                    war between Great Britain and France.</p>
                 <p>Wanting to limit British influence along their frontier, the French built a
                     string of forts from <placeName>Lake Erie</placeName> towards the forks of the
                     Ohio (present-day Pittsburgh).</p>
@@ -77,22 +77,23 @@
                     French rejection of British demands constituted a hostile act, and that the
                     French must be driven from their frontier forts on British-claimed land.
                     Dinwiddie sent Captain William Trent of the Virginia militia to construct a fort
-                    at the strategically important forks of the Ohio River and to convince the
-                    local Indians to ally against the French. Dinwiddie also promoted Washington to
-                    the rank of Lieutenant Colonel and ordered an expedition to compel the French to
+                    at the strategically important forks of the Ohio River and to convince the local
+                    Indians to ally against the French. Dinwiddie also promoted Washington to the
+                    rank of Lieutenant Colonel and ordered an expedition to compel the French to
                     surrender their forts.</p>
                 <p>While French and British officials maneuvered military forces about, they also
                     attempted to curry favor with American Indians living in the region. The most
-                    important group, the Mingoes, were part of the Iroquois Confederation, which was allied with Great Britain. British officials claimed the Iroquois
-                    Confederacy had granted a Native American named Tanaghrisson the title of
-                    ‘Half-King’ over the Mingoes and other Native communities under Iroquois rule.
-                    However, many Indians in the upper Ohio Valley were concerned about British
-                    colonists encroaching upon their land, and did not acknowledge either British or
-                    Iroquois authority. Although many of them also feared French power and bore
-                    grudges against the French from previous wars, the Indians of the upper Ohio
-                    valley believed a French alliance to be the lesser of two evils. Consequently,
-                    they were amenable to supplying French forces with additional men and
-                    intelligence about British movements.</p>
+                    important group, the Mingoes, were part of the Iroquois Confederation, which was
+                    allied with Great Britain. British officials claimed the Iroquois Confederacy
+                    had granted a Native American named Tanaghrisson the title of ‘Half-King’ over
+                    the Mingoes and other Native communities under Iroquois rule. However, many
+                    Indians in the upper Ohio Valley were concerned about British colonists
+                    encroaching upon their land, and did not acknowledge either British or Iroquois
+                    authority. Although many of them also feared French power and bore grudges
+                    against the French from previous wars, the Indians of the upper Ohio valley
+                    believed a French alliance to be the lesser of two evils. Consequently, they
+                    were amenable to supplying French forces with additional men and intelligence
+                    about British movements.</p>
                 <p>Aided by such reports, the French soon learned of the British fort that William
                     Trent and his small group of men were constructing, and French forces moved
                     swiftly to compel its surrender on April 17, 1754. The French destroyed the
@@ -204,15 +205,15 @@
                     Great Britain secured significant territorial gains in North America, including
                     all French territory east of the Mississippi river, as well as Spanish Florida,
                     although the treaty returned Cuba to Spain.</p>
-                <p>Unfortunately for the British, the fruits of victory brought seeds of
-                    trouble with Great Britain’s American colonies. The war had been enormously
-                    expensive, and the British government’s attempts to impose taxes on colonists to
-                    help cover these expenses resulted in increasing colonial resentment of British
-                    attempts to expand imperial authority in the colonies. British attempts to limit
-                    western expansion by colonists and inadvertent provocation of a major Indian war
-                    further angered the British subjects living in the American colonies. These
-                    disputes ultimately spurred colonial rebellion, which eventually developed into
-                    a full-scale war for independence.</p>
+                <p>Unfortunately for the British, the fruits of victory brought seeds of trouble
+                    with Great Britain’s American colonies. The war had been enormously expensive,
+                    and the British government’s attempts to impose taxes on colonists to help cover
+                    these expenses resulted in increasing colonial resentment of British attempts to
+                    expand imperial authority in the colonies. British attempts to limit western
+                    expansion by colonists and inadvertent provocation of a major Indian war further
+                    angered the British subjects living in the American colonies. These disputes
+                    ultimately spurred colonial rebellion, which eventually developed into a
+                    full-scale war for independence.</p>
             </div>
             <div type="section" xml:id="albany-plan">
                 <head>Albany Plan of Union, <date when="1754">1754</date>

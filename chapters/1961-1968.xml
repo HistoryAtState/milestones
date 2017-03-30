@@ -1,4 +1,4 @@
-<?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -121,9 +121,8 @@
                     military launched Operation Rolling Thunder, a bombing campaign against the
                     North. Shortly after, Johnson introduced U.S. ground combat forces with the
                     landing of Marines at Danang. By 1967, nearly 500,000 troops were in Vietnam.
-                    Following the Tet Offensive in 1968 and facing dwindling
-                    public support for the war, Johnson announced that he would not seek a second
-                    term as President.</p>
+                    Following the Tet Offensive in 1968 and facing dwindling public support for the
+                    war, Johnson announced that he would not seek a second term as President.</p>
                 <p>Though preoccupied with Vietnam, the Johnson administration faced challenges
                     elsewhere. In Latin America, riots in Panama in 1964 led to concessions that
                     still preserved U.S. control of the Panama Canal. In an unpopular move, Johnson
@@ -273,7 +272,7 @@
                     <head>Colonel Joseph Mobutu, September 14, 1960. (AP Photo)</head>
                 </figure>
                 <p>In the months leading up to independence, the Congolese elected a president,
-                    <persName>Joseph Kasavubu</persName>, prime minister, <persName>Patrice
+                        <persName>Joseph Kasavubu</persName>, prime minister, <persName>Patrice
                         Lumumba</persName>, a senate and assembly, and similar bodies in the Congo’s
                     numerous provinces. The Eisenhower administration had high hopes that the
                     Republic of the Congo would form a stable, pro-Western, central government.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -13,7 +13,7 @@
             <sourceDesc>
                 <p>Office of the Historian, United States Department of State Publication</p>
             </sourceDesc>
-        </fileDesc> 
+        </fileDesc>
         <revisionDesc>
             <listChange>
                 <change when="2013-10-31" target="#berlin-airlift"/>
@@ -34,8 +34,8 @@
                     their shattered economies.</p>
                 <figure>
                     <graphic url="churchill-speach.jpg" height="200px" width="200px"/>
-                    <head>British Prime Minister Winston Churchill and President Harry Truman at the famous
-                        “Iron Curtain” Speech</head>
+                    <head>British Prime Minister Winston Churchill and President Harry Truman at the
+                        famous “Iron Curtain” Speech</head>
                 </figure>
                 <p>In contrast to American unwillingness to politically or militarily entangle
                     itself in the League of Nations, the United States became one of the first
@@ -95,7 +95,8 @@
                     <graphic url="potsdam.jpg" width="200px" height="200px"/>
                     <head>The Potsdam Conference</head>
                 </figure>
-                <p>Scholars debate the extent to which Truman’s mention of the bomb at <ref target="/milestones/1937-1945/potsdam-conf">Potsdam</ref> and his use of the
+                <p>Scholars debate the extent to which Truman’s mention of the bomb at <ref
+                        target="/milestones/1937-1945/potsdam-conf">Potsdam</ref> and his use of the
                     weapon in Japan represent atomic diplomacy. In 1965, historian Gar Alperovitz
                     published a book which argued that the use of nuclear weapons on the Japanese
                     cities of Hiroshima and Nagasaki was intended to gain a stronger position for
@@ -309,7 +310,8 @@
                     time.</p>
             </div>
             <div type="section" xml:id="japan-reconstruction">
-                <head>Occupation and Reconstruction of Japan, <date from="1945" to="1952">1945–52</date>
+                <head>Occupation and Reconstruction of Japan, <date from="1945" to="1952"
+                        >1945–52</date>
                 </head>
                 <p>After the defeat of <placeName>Japan</placeName> in World War II, the United
                     States led the Allies in the occupation and rehabilitation of the Japanese
@@ -326,7 +328,8 @@
                     Britain, the Soviet Union, the Republic of China, and the United States
                     discussed how to disarm Japan, deal with its colonies (especially Korea and
                     Taiwan), stabilize the Japanese economy, and prevent the remilitarization of the
-                    state in the future. In the <ref target="/milestones/1937-1945/potsdam-conf">Potsdam Declaration</ref>, they called for Japan’s unconditional surrender;
+                    state in the future. In the <ref target="/milestones/1937-1945/potsdam-conf"
+                        >Potsdam Declaration</ref>, they called for Japan’s unconditional surrender;
                     by August of 1945, that objective had been achieved.</p>
                 <p>In September, 1945, General <persName>Douglas MacArthur</persName> took charge of
                     the Supreme Command of Allied Powers (SCAP) and began the work of rebuilding
@@ -394,12 +397,11 @@
                 <head>The Acheson-Lilienthal &amp; Baruch Plans, <date when="1946">1946</date>
                 </head>
                 <p>On June 14, 1946, before a session of the United Nations Atomic Energy Commission
-                    (UNAEC), U.S. representative Bernard
-                        Baruch, presented a proposal for the creation of an international
-                    Atomic Development Authority. The presentation of the Baruch Plan marked the
-                    culmination of an effort to establish international oversight of the use of
-                    atomic energy in the hopes of avoiding unchecked proliferation of nuclear power
-                    in the post World War II period.</p>
+                    (UNAEC), U.S. representative Bernard Baruch, presented a proposal for the
+                    creation of an international Atomic Development Authority. The presentation of
+                    the Baruch Plan marked the culmination of an effort to establish international
+                    oversight of the use of atomic energy in the hopes of avoiding unchecked
+                    proliferation of nuclear power in the post World War II period.</p>
                 <figure>
                     <graphic url="churchill-baruch.jpg" height="200px" width="200px"/>
                     <head> Winston Churchill and Bernard Baruch talk in car in front of Baruch’s
@@ -617,7 +619,8 @@
                         Dulles</ref> declared during the 1952 election campaign that the United
                     States’ policy should not be containment, but the “rollback” of Soviet power and
                     the eventual “liberation” of Eastern Europe. Even within the Truman
-                    administration there was a rift over containment between Kennan and <ref target="/departmenthistory/people/nitze-paul-henry">Paul Nitze</ref>,
+                    administration there was a rift over containment between Kennan and <ref
+                        target="/departmenthistory/people/nitze-paul-henry">Paul Nitze</ref>,
                     Kennan’s successor as director of the Policy Planning Staff. Nitze, who saw the
                     Soviet threat primarily in military terms, interpreted Kennan’s call for “the
                     adroit and vigilant application of counter-force” to mean the use of military
@@ -646,7 +649,8 @@
                 <p>In the immediate post-World War II period, Europe remained ravaged by war and
                     thus susceptible to exploitation by an internal and external Communist threat.
                     In a June 5, 1947, speech to the graduating class at Harvard University,
-                    Secretary of State <ref target="/departmenthistory/people/marshall-george-catlett">George C.
+                    Secretary of State <ref
+                        target="/departmenthistory/people/marshall-george-catlett">George C.
                         Marshall</ref> issued a call for a comprehensive program to rebuild Europe.
                     Fanned by the fear of Communist expansion and the rapid deterioration of
                     European economies in the winter of 1946–1947, Congress passed the Economic
@@ -676,7 +680,8 @@
                     legitimized the concept of U.S. foreign aid programs, which have become a
                     integral part of U.S. foreign policy.</p>
             </div>
-            <div type="section" xml:id="berlin-airlift" ana="truman-harry-s marshall-george-catlett germany russia collective-security foreign-aid north-atlantic-treaty-organization alliances quarantine-blockade">
+            <div type="section" xml:id="berlin-airlift"
+                ana="truman-harry-s marshall-george-catlett germany russia collective-security foreign-aid north-atlantic-treaty-organization alliances quarantine-blockade">
                 <head>The Berlin Airlift, 1948–1949</head>
                 <p>At the end of the Second World War, U.S., British, and Soviet military forces
                     divided and occupied Germany. Also divided into occupation zones, Berlin was
@@ -713,7 +718,8 @@
                     emerged as a forward salient in the Western struggle against the Soviet
                     Union.</p>
                 <p>The year 1947 saw major shifts in occupation policy in Germany. On January 1, the
-                    United States and United Kingdom unified their respective zones and formed <hi rend="italic">Bizonia</hi>, which caused tensions between East and West to
+                    United States and United Kingdom unified their respective zones and formed <hi
+                        rend="italic">Bizonia</hi>, which caused tensions between East and West to
                     escalate. In March, the breakdown of the Moscow Conference of Foreign Ministers
                     and the enunciation of the Truman Doctrine served to harden the lines of an
                     increasingly bipolar international order. In June, Secretary of State George
@@ -804,7 +810,8 @@
                     vital political and economic interests in Palestine.</p>
                 <p>Soon after President Truman took office, he appointed several experts to study
                     the Palestinian issue. In the summer of 1946, Truman established a special
-                    cabinet committee under the chairmanship of Dr. <ref target="/departmenthistory/people/grady-henry-francis">Henry F. Grady</ref>,
+                    cabinet committee under the chairmanship of Dr. <ref
+                        target="/departmenthistory/people/grady-henry-francis">Henry F. Grady</ref>,
                     an Assistant Secretary of State, who entered into negotiations with a parallel
                     British committee to discuss the future of Palestine. In May 1946, Truman
                     announced his approval of a recommendation to admit 100,000 displaced persons
@@ -884,11 +891,12 @@
                     bordering nations agreed to formal armistice lines. Israel gained some territory
                     formerly granted to Palestinian Arabs under the United Nations resolution in
                     1947. Egypt and Jordan retained control over the Gaza Strip and the West Bank
-                    respectively. These armistice lines held until <ref target="/milestones/1961-1968/arab-israeli-war-1967">1967</ref>. The United
+                    respectively. These armistice lines held until <ref
+                        target="/milestones/1961-1968/arab-israeli-war-1967">1967</ref>. The United
                     States did not become directly involved with the armistice negotiations, but
                     hoped that instability in the Middle East would not interfere with the
                     international balance of power between the Soviet Union and the United States.
-                    </p>
+                </p>
             </div>
             <div type="section" xml:id="nato">
                 <head>North Atlantic Treaty Organization (NATO), <date when="1949">1949</date>
@@ -909,7 +917,8 @@
                     United States viewed an economically strong, rearmed, and integrated Europe as
                     vital to the prevention of communist expansion across the continent. As a
                     result, Secretary of State George Marshall proposed a program of large-scale
-                    economic aid to Europe. The resulting European Recovery Program, or <ref target="/milestones/1945-1952/marshall-plan">Marshall Plan</ref>, not only
+                    economic aid to Europe. The resulting European Recovery Program, or <ref
+                        target="/milestones/1945-1952/marshall-plan">Marshall Plan</ref>, not only
                     facilitated European economic integration but promoted the idea of shared
                     interests and cooperation between the United States and Europe. Soviet refusal
                     either to participate in the Marshall Plan or to allow its satellite states in
@@ -918,25 +927,26 @@
                 <p>In 1947–1948, a series of events caused the nations of Western Europe to become
                     concerned about their physical and political security and the United States to
                     become more closely involved with European affairs. The ongoing civil war in
-                    Greece, along with tensions in Turkey, led President Harry S. Truman to <ref target="/milestones/1945-1952/marshall-plan">assert that the United States
+                    Greece, along with tensions in Turkey, led President Harry S. Truman to <ref
+                        target="/milestones/1945-1952/marshall-plan">assert that the United States
                         would provide economic and military aid to both countries, as well as to any
                         other nation struggling against an attempt at subjugation</ref>. A
                     Soviet-sponsored coup in Czechoslovakia resulted in a communist government
                     coming to power on the borders of Germany. Attention also focused on elections
                     in Italy as the communist party had made significant gains among Italian voters.
-                    Furthermore, events in Germany also caused concern. The occupation and governance
-                    of Germany after the war had long been disputed, and in mid-1948, Soviet premier
-                    Joseph Stalin chose to test Western resolve by implementing a blockade against
-                    West Berlin, which was then under joint U.S., British, and French control but
-                    surrounded by Soviet-controlled East Germany. This Berlin Crisis brought the
-                    United States and the Soviet Union to the brink of conflict, although a massive
-                    airlift to resupply the city for the duration of the blockade helped to prevent
-                    an outright confrontation. These events caused U.S. officials to grow
-                    increasingly wary of the possibility that the countries of Western Europe might
-                    deal with their security concerns by negotiating with the Soviets. To counter
-                    this possible turn of events, the Truman Administration considered the
-                    possibility of forming a European-American alliance that would commit the United
-                    States to bolstering the security of Western Europe.</p>
+                    Furthermore, events in Germany also caused concern. The occupation and
+                    governance of Germany after the war had long been disputed, and in mid-1948,
+                    Soviet premier Joseph Stalin chose to test Western resolve by implementing a
+                    blockade against West Berlin, which was then under joint U.S., British, and
+                    French control but surrounded by Soviet-controlled East Germany. This Berlin
+                    Crisis brought the United States and the Soviet Union to the brink of conflict,
+                    although a massive airlift to resupply the city for the duration of the blockade
+                    helped to prevent an outright confrontation. These events caused U.S. officials
+                    to grow increasingly wary of the possibility that the countries of Western
+                    Europe might deal with their security concerns by negotiating with the Soviets.
+                    To counter this possible turn of events, the Truman Administration considered
+                    the possibility of forming a European-American alliance that would commit the
+                    United States to bolstering the security of Western Europe.</p>
                 <figure>
                     <graphic url="brusselstreaty.jpg" width="200px" height="200px"/>
                     <head>Signing of the Brussels Treaty</head>
@@ -1001,7 +1011,8 @@
                     assurances against Soviet aggression on the European continent. In 1952, the
                     members agreed to admit Greece and Turkey to NATO and added the Federal Republic
                     of Germany in 1955. West German entry led the Soviet Union to retaliate with its
-                    own regional alliance, which took the form of the <ref target="/milestones/1953-1960/warsaw-treaty">Warsaw Treaty
+                    own regional alliance, which took the form of the <ref
+                        target="/milestones/1953-1960/warsaw-treaty">Warsaw Treaty
                         Organization</ref> and included the Soviet satellite states of Eastern
                     Europe as members.</p>
                 <p>The collective defense arrangements in NATO served to place the whole of Western
@@ -1024,7 +1035,8 @@
                     and the Nationalist Party, or Kuomintang (KMT), which broke out immediately
                     following World War II and had been preceded by on and off conflict between the
                     two sides since the 1920’s. The creation of the PRC also completed the long
-                    process of governmental upheaval in China begun by the <ref target="/milestones/1899-1913/chinese-rev">Chinese Revolution of 1911</ref>.
+                    process of governmental upheaval in China begun by the <ref
+                        target="/milestones/1899-1913/chinese-rev">Chinese Revolution of 1911</ref>.
                     The “fall” of mainland China to communism in 1949 led the United States to
                     suspend diplomatic ties with the PRC for decades.</p>
                 <figure>
@@ -1107,7 +1119,8 @@
                     States. Truman’s desire to prevent the Korean conflict from spreading south led
                     to the U.S. policy of protecting the Chiang Kai-shek government on Taiwan.</p>
                 <p>For more than twenty years after the Chinese revolution of 1949, there were few
-                    contacts, limited trade and no diplomatic ties between the two countries. <ref target="/milestones/1969-1976">Until the 1970s</ref>, the United States
+                    contacts, limited trade and no diplomatic ties between the two countries. <ref
+                        target="/milestones/1969-1976">Until the 1970s</ref>, the United States
                     continued to recognize the Republic of China, located on Taiwan, as China’s true
                     government and supported that government’s holding the Chinese seat in the
                     United Nations.</p>
@@ -1133,7 +1146,8 @@
                 <p>Reeling from the recent victory of Communist forces in the Chinese Civil War and
                     the successful detonation of an atomic weapon by the Soviet Union, Secretary of
                     State <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean
-                        Acheson</ref> asked the Policy Planning Staff, led by <ref target="/departmenthistory/people/nitze-paul-henry">Paul Nitze</ref>, to
+                        Acheson</ref> asked the Policy Planning Staff, led by <ref
+                        target="/departmenthistory/people/nitze-paul-henry">Paul Nitze</ref>, to
                     undertake a comprehensive review of U.S. national security strategy. Building
                     upon the conclusions of an earlier National Security Council paper (NSC-20/4),
                     the authors of NSC-68 based their conclusions on the theory that the decline of
@@ -1176,7 +1190,8 @@
                     expenditures.</p>
                 <p>Initially, a number of U.S. officials strongly opposed NSC-68’s recommendations.
                     Critics such as Secretary of Defense Louis Johnson, and senior diplomats such as
-                    Soviet experts and former ambassadors to the Soviet Union <ref target="/departmenthistory/people/kennan-george-frost">George Kennan</ref>
+                    Soviet experts and former ambassadors to the Soviet Union <ref
+                        target="/departmenthistory/people/kennan-george-frost">George Kennan</ref>
                     and <ref target="/departmenthistory/people/bohlen-charles-eustis">Charles
                         Bohlen</ref>, argued that the United States already had a substantial
                     military advantage over the Soviet Union. Kennan, in particular, disagreed with
@@ -1194,7 +1209,8 @@
                     percent).</p>
             </div>
             <div type="section" xml:id="asia-and-africa">
-                <head>Decolonization of Asia and Africa, <date from="1945" to="1960">1945–1960</date>
+                <head>Decolonization of Asia and Africa, <date from="1945" to="1960"
+                        >1945–1960</date>
                 </head>
                 <p>Between 1945 and 1960, three dozen new states in <placeName>Asia</placeName> and
                         <placeName>Africa</placeName> achieved autonomy or outright independence
@@ -1503,7 +1519,8 @@
                     1940s, the United States was heavily engaged in the rebuilding of Japan, but the
                     United States did not extend its defense interests far beyond Japanese territory
                     before the Korean War. In response to Australian suggestions for a regional
-                    coalition, U.S. Secretary of State <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean Acheson</ref>
+                    coalition, U.S. Secretary of State <ref
+                        target="/departmenthistory/people/acheson-dean-gooderham">Dean Acheson</ref>
                     stated that formal treaties with the South Pacific nations were unnecessary, as
                     any real attack on Australia or New Zealand would elicit a U.S. response even
                     without formal treaties in place to guarantee it. Moreover, the situations in
@@ -1608,7 +1625,8 @@
                     of Labor and the Congress of Industrial Organizations took opposite sides in the
                     debate, demonstrating that there was not one, clear pro-labor position. </p>
                 <p>At the basis of the Act was the continuation and codification of the National
-                    Origins Quota System. It revised the <ref target="/milestones/1921-1936/immigration-act">1924 system</ref> to allow
+                    Origins Quota System. It revised the <ref
+                        target="/milestones/1921-1936/immigration-act">1924 system</ref> to allow
                     for national quotas at a rate of one-sixth of one percent of each nationality’s
                     population in the United States in 1920. As a result, 85 percent of the 154,277
                     visas available annually were allotted to individuals of northern and western
@@ -1648,7 +1666,8 @@
                 <head>Korean War and Japan’s Recovery</head>
                 <p>As the Cold War came to dominate U.S. foreign policy, America extended security
                     commitments to two nations in Northeast Asia—the Republic of Korea and Japan.
-                    The Department of State under Secretary <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean Acheson</ref>
+                    The Department of State under Secretary <ref
+                        target="/departmenthistory/people/acheson-dean-gooderham">Dean Acheson</ref>
                     forged a series of agreements to build a permanent American presence in the
                     region and support these two nations, creating alliances that have lasted to
                     today. </p>

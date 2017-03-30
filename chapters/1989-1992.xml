@@ -1,4 +1,4 @@
-<?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -15,13 +15,16 @@
         </fileDesc>
         <revisionDesc>
             <listChange>
-                <change when="2013-10-31" target="#foreword #fall-of-communism #collapse-soviet-union #breakup-yugoslavia #tiananmen-square #gulf-war #madrid-conference"/>
+                <change when="2013-10-31"
+                    target="#foreword #fall-of-communism #collapse-soviet-union #breakup-yugoslavia #tiananmen-square #gulf-war #madrid-conference"
+                />
             </listChange>
         </revisionDesc>
     </teiHeader>
     <text>
         <front>
-            <div type="section" xml:id="foreword" ana="bush-george-h-w baker-james-addison rice-condoleezza russia">
+            <div type="section" xml:id="foreword"
+                ana="bush-george-h-w baker-james-addison rice-condoleezza russia">
                 <head>
                     <date from="1989" to="1992">1989–1992</date>: The Presidency of George H.W.
                     Bush</head>
@@ -46,7 +49,8 @@
                 <p>Patrician and self-effacing, President Bush engaged foreign dignitaries with
                     ease. He already knew most world leaders on a first-name basis. Former President
                     Ronald Reagan’s physical grace and soaring rhetoric led to unkind comparisons in
-                    the lead-up to the 1988 campaign. The October 19, 1987, edition of <hi rend="italic">Newsweek </hi>featured Bush on the cover with the caption:
+                    the lead-up to the 1988 campaign. The October 19, 1987, edition of <hi
+                        rend="italic">Newsweek </hi>featured Bush on the cover with the caption:
                     “Fighting the ‘Wimp Factor.’” Whether from this portrayal of him or merely his
                     highly competitive instincts, Bush overwhelmed his opponents in Republican
                     primary debates and ran a highly aggressive general election campaign against
@@ -268,7 +272,8 @@
                     United States has maintained a high level of engagement with this key
                     organization.</p>
             </div>
-            <div type="section" xml:id="fall-of-communism" ana="bush-george-h-w baker-james-addison eagleburger-lawrence-sidney bulgaria czech-republic germany hungary malta poland romania russia border-administration elections self-determination diplomatic-recognition">
+            <div type="section" xml:id="fall-of-communism"
+                ana="bush-george-h-w baker-james-addison eagleburger-lawrence-sidney bulgaria czech-republic germany hungary malta poland romania russia border-administration elections self-determination diplomatic-recognition">
                 <head>Fall of Communism in Eastern Europe, <date when="1989">1989</date>
                 </head>
                 <p>On November 9, 1989, thousands of jubilant Germans brought down the most visible
@@ -301,7 +306,8 @@
                 <p>The Reagan administration’s strong rhetoric in support of the political
                     aspirations of Eastern European and Soviet citizens was met, following 1985,
                     with a new type of leader in the Soviet Union. Mikhail Gorbachev’s policies of
-                        <hi rend="italic">perestroika</hi> (restructuring) and <hi rend="italic">glasnost</hi> (transparency) further legitimized popular calls for reform
+                        <hi rend="italic">perestroika</hi> (restructuring) and <hi rend="italic"
+                        >glasnost</hi> (transparency) further legitimized popular calls for reform
                     from within. Gorbachev also made clear—at first secretly to the Eastern European
                     leaders, then increasingly more public—that the Soviet Union had abandoned the
                     policy of military intervention in support of communist regimes (the Brezhnev
@@ -383,7 +389,8 @@
                     supporting the transformations to cultivating Soviet acquiescence, even
                     collaboration, in them.”</p>
             </div>
-            <div type="section" xml:id="collapse-soviet-union" ana="bush-george-h-w baker-james-addison estonia georgia latvia lithuania russia ukraine arms-control-and-disarmament nuclear-nonproliferation nuclear-weapons">
+            <div type="section" xml:id="collapse-soviet-union"
+                ana="bush-george-h-w baker-james-addison estonia georgia latvia lithuania russia ukraine arms-control-and-disarmament nuclear-nonproliferation nuclear-weapons">
                 <head>The Collapse of the Soviet Union</head>
                 <p>After his inauguration in January 1989, <persName>George H.W. Bush</persName> did
                     not automatically follow the policy of his predecessor, <persName>Ronald
@@ -505,7 +512,8 @@
                     and international organizations like the World Bank and IMF to provide financial
                     assistance and hopefully prevent a humanitarian crisis in Russia.</p>
             </div>
-            <div type="section" xml:id="breakup-yugoslavia" ana="bosnia-and-herzegovina croatia kosovo macedonia montenegro serbia slovenia bush-george-h-w baker-james-addison">
+            <div type="section" xml:id="breakup-yugoslavia"
+                ana="bosnia-and-herzegovina croatia kosovo macedonia montenegro serbia slovenia bush-george-h-w baker-james-addison">
                 <head>The Breakup of Yugoslavia, 1990–1992</head>
                 <p>Issued on October 18, 1990, National Intelligence Estimate (NIE) 15–90 presented
                     a dire warning to the U.S. policy community:</p>
@@ -629,7 +637,8 @@
                     2008, Kosovo declared independence and was recognized by the United States and
                     most European states, despite Russian objections.</p>
             </div>
-            <div type="section" xml:id="tiananmen-square" ana="china arms-embargoes economic-sanctions human-rights">
+            <div type="section" xml:id="tiananmen-square"
+                ana="china arms-embargoes economic-sanctions human-rights">
                 <head>Tiananmen Square, 1989</head>
                 <p>The establishment of formal diplomatic relations between the United States and
                     the People’s Republic of China in 1979, together with Chinese Vice Premier Deng
@@ -657,7 +666,8 @@
                 <p>The Chinese leadership was divided on how to handle the demonstrations. As the
                     numbers of protesters swelled to the tens of thousands, some leaders who saw the
                     protests as a direct challenge to Communist Party rule labeled the demonstrators
-                    “counter-revolutionary” in an April 26 editorial in the government-run <hi rend="italic">People’s Daily</hi> newspaper. Other officials sympathetic to
+                    “counter-revolutionary” in an April 26 editorial in the government-run <hi
+                        rend="italic">People’s Daily</hi> newspaper. Other officials sympathetic to
                     the protestors’ demands for political reform favored a conciliatory approach, as
                     represented by General Secretary of the Communist Party Zhao Ziyang’s visit with
                     protestors on May 4 to hear and acknowledge their concerns.</p>
@@ -690,7 +700,8 @@
                     controversial questions for the remainder of President Bush’s term and into the
                     term of President Bill Clinton.</p>
             </div>
-            <div type="section" xml:id="gulf-war" ana="bush-george-h-w iraq kuwait organization-of-petroleum-exporting-countries united-arab-emirates military-intervention-presence-and-withdrawal">
+            <div type="section" xml:id="gulf-war"
+                ana="bush-george-h-w iraq kuwait organization-of-petroleum-exporting-countries united-arab-emirates military-intervention-presence-and-withdrawal">
                 <head>The Gulf War, 1991</head>
                 <p>At the end of the Iran-Iraq War of 1980–1988, Iraq emerged with its state intact
                     and a reinforced sense of national pride, but laden with massive debts. Iraq had
@@ -803,7 +814,8 @@
                     broke out but were eventually suppressed by Saddam Hussein and his Revolutionary
                     Guards.</p>
             </div>
-            <div type="section" xml:id="madrid-conference" ana="bush-george-h-w baker-james-addison israel jordan palestine peace arab-israeli-dispute">
+            <div type="section" xml:id="madrid-conference"
+                ana="bush-george-h-w baker-james-addison israel jordan palestine peace arab-israeli-dispute">
                 <head>The Madrid Conference, 1991</head>
                 <p>On March 6, 1991, President <persName>George H. W. Bush</persName> told Congress,
                     “The time has come to put an end to the Arab-Israeli conflict.” Bush’s
@@ -910,8 +922,10 @@
                     independently of the Madrid framework, holding direct talks which produced a
                     peace treaty by October 1994.</p>
             </div>
-            <div type="section" subtype="removed-pending-rewrite" xml:id="strategic-arms-reduction" ana="arms-control-and-disarmament russia reagan-ronald">
-                <head>Strategic Arms Reduction Treaties, <date when="1991">1991</date> and <date when="1993">1993</date>
+            <div type="section" subtype="removed-pending-rewrite" xml:id="strategic-arms-reduction"
+                ana="arms-control-and-disarmament russia reagan-ronald">
+                <head>Strategic Arms Reduction Treaties, <date when="1991">1991</date> and <date
+                        when="1993">1993</date>
                 </head>
             </div>
         </body>

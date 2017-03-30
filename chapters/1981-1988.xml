@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -302,17 +302,17 @@
                     election won by opposition candidate <persName>Guillermo Endara</persName> that
                     May. In addition, Bush had become opposed to Noriega's continued leadership of
                     Panama due to Noriega’s connections with drug smuggling and money laundering, as
-                    well as the declining security situation around the Panama Canal. In the months leading up to the
-                    invasion, the Bush administration implemented economic sanctions and increased
-                    local troop levels. The Panamanian legislature declared that a state of war
-                    existed with the United States on December 15 due to the escalating tension
-                    between the two countries. A U.S. serviceman was killed in Panama the following
-                    day; this and other events, including the harassment of a U.S. officer and his
-                    wife, precipitated U.S. action. Code-named Operation Just Cause, the fighting
-                    lasted for five days. After taking refuge in the Vatican Embassy, Noriega
-                    eventually surrendered to U.S. authorities and Endara regained his presidency.
-                    Noriega was tried in a United States court and convicted on charges of drug
-                    trafficking, money laundering, and racketeering.</p>
+                    well as the declining security situation around the Panama Canal. In the months
+                    leading up to the invasion, the Bush administration implemented economic
+                    sanctions and increased local troop levels. The Panamanian legislature declared
+                    that a state of war existed with the United States on December 15 due to the
+                    escalating tension between the two countries. A U.S. serviceman was killed in
+                    Panama the following day; this and other events, including the harassment of a
+                    U.S. officer and his wife, precipitated U.S. action. Code-named Operation Just
+                    Cause, the fighting lasted for five days. After taking refuge in the Vatican
+                    Embassy, Noriega eventually surrendered to U.S. authorities and Endara regained
+                    his presidency. Noriega was tried in a United States court and convicted on
+                    charges of drug trafficking, money laundering, and racketeering.</p>
             </div>
             <div type="section" xml:id="lebanon"
                 ana="reagan-ronald haig-alexander-meigs shultz-george-pratt israel lebanon syria palestine peace military-intervention-presence-and-withdrawal terrorism arab-israeli-dispute">

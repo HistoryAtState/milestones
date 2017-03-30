@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -703,9 +703,10 @@
                     Spain also agreed to sell the Philippines to the United States for the sum of
                     $20 million. The U.S. Senate ratified the treaty on February 6, 1899, by a
                     margin of only one vote.</p>
-                <p>The McKinley Administration also used the war as a pretext to <ref target="/milestones/1866-1898/hawaii">annex the independent state of
-                    Hawaii</ref>. In 1893, a group of Hawaii-based planters and businessmen led a
-                    coup against Queen Liliuokalani and established a new government. They
+                <p>The McKinley Administration also used the war as a pretext to <ref
+                        target="/milestones/1866-1898/hawaii">annex the independent state of
+                        Hawaii</ref>. In 1893, a group of Hawaii-based planters and businessmen led
+                    a coup against Queen Liliuokalani and established a new government. They
                     promptly sought annexation by the United States, but President <persName>Grover
                         Cleveland</persName> rejected their requests. In 1898, however, President
                     McKinley and the American public were more favorably disposed toward acquiring

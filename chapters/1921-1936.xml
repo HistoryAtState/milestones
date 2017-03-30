@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -146,14 +146,14 @@
                     followed. The combination of the Shangtung Treaty and the Nine-Power Treaty was
                     meant to reassure China that its territory would not be further compromised by
                     Japanese expansion. Additionally, Japan agreed to withdraw its troops from
-                    Siberia and the United States and Japan formally agreed to equal access to
-                    cable and radio facilities on the Japanese-controlled island of Yap.</p>
-                <p>Together, the treaties signed at the Washington Naval Conference served to uphold the
-                    status quo in the Pacific: they recognized existing interests and did not make
-                    fundamental changes to them. At the same time, the United States secured
+                    Siberia and the United States and Japan formally agreed to equal access to cable
+                    and radio facilities on the Japanese-controlled island of Yap.</p>
+                <p>Together, the treaties signed at the Washington Naval Conference served to uphold
+                    the status quo in the Pacific: they recognized existing interests and did not
+                    make fundamental changes to them. At the same time, the United States secured
                     agreements that reinforced its existing policy in the Pacific, including the
-                    Open Door Policy in China and the protection of the Philippines, while limiting the
-                    scope of Japanese imperial expansion as much as possible.</p>
+                    Open Door Policy in China and the protection of the Philippines, while limiting
+                    the scope of Japanese imperial expansion as much as possible.</p>
             </div>
             <div type="section" xml:id="immigration-act">
                 <head>The Immigration Act of <date when="1924">1924</date> (The Johnson-Reed
@@ -175,19 +175,19 @@
                 </p>
                 <p>In 1917, the U.S. Congress enacted the first widely restrictive immigration law.
                     The uncertainty generated over national security during World War I made it
-                    possible for Congress to pass this legislation, and it included several important
-                    provisions that paved the way for the 1924 Act. The 1917 Act implemented a
-                    literacy test that required immigrants over 16 years old to demonstrate basic
-                    reading comprehension in any language. It also increased the tax paid by new
-                    immigrants upon arrival and allowed immigration officials to exercise more
-                    discretion in making decisions over whom to exclude. Finally, the Act excluded
-                    from entry anyone born in a geographically defined “Asiatic Barred Zone” except
-                    for Japanese and Filipinos. In 1907, the Japanese Government had voluntarily
-                    limited Japanese immigration to the United States in the Gentlemen’s Agreement. The
-                    Philippines was a U.S. colony, so its citizens were U.S. nationals and
-                    could travel freely to the United States. China was not included in the Barred
-                    Zone, but the Chinese were already denied immigration visas under the Chinese
-                    Exclusion Act.</p>
+                    possible for Congress to pass this legislation, and it included several
+                    important provisions that paved the way for the 1924 Act. The 1917 Act
+                    implemented a literacy test that required immigrants over 16 years old to
+                    demonstrate basic reading comprehension in any language. It also increased the
+                    tax paid by new immigrants upon arrival and allowed immigration officials to
+                    exercise more discretion in making decisions over whom to exclude. Finally, the
+                    Act excluded from entry anyone born in a geographically defined “Asiatic Barred
+                    Zone” except for Japanese and Filipinos. In 1907, the Japanese Government had
+                    voluntarily limited Japanese immigration to the United States in the Gentlemen’s
+                    Agreement. The Philippines was a U.S. colony, so its citizens were U.S.
+                    nationals and could travel freely to the United States. China was not included
+                    in the Barred Zone, but the Chinese were already denied immigration visas under
+                    the Chinese Exclusion Act.</p>
                 <p>
                     <hi rend="strong">Immigration Quotas</hi>
                 </p>
@@ -218,8 +218,8 @@
                 <p>Another change to the quota altered the basis of the quota calculations. The
                     quota had been based on the number of people born outside of the United States,
                     or the number of immigrants in the United States. The new law traced the origins
-                    of the whole of the U.S. population, including natural-born citizens. The
-                    new quota calculations included large numbers of people of British descent whose
+                    of the whole of the U.S. population, including natural-born citizens. The new
+                    quota calculations included large numbers of people of British descent whose
                     families had long resided in the United States. As a result, the percentage of
                     visas available to individuals from the British Isles and Western Europe
                     increased, but newer immigration from other areas like Southern and Eastern
@@ -233,20 +233,19 @@
                     which was a violation of the <ref
                         target="/milestones/1899-1913/japanese-relations">Gentlemen’s
                         Agreement</ref>. The Japanese government protested, but the law remained,
-                    resulting in an increase in existing tensions between the two nations. Despite the increased tensions, it
-                    appeared that the U.S. Congress had decided that preserving the racial
-                    composition of the country was more important than promoting good ties with Japan.</p>
-                <p>The restrictive principles of the Act could have resulted in strained
-                    relations with some European countries as well, but these potential problems did
-                    not appear for several reasons. The global
-                    depression of the 1930s, World War II, and stricter enforcement of U.S.
-                    immigration policy served to curtail European emigration. When these crises had
-                    passed, emergency provisions for the resettlement of displaced persons in 1948
-                    and 1950 helped the United States avoid conflict over its new immigration
-                    laws.</p>
+                    resulting in an increase in existing tensions between the two nations. Despite
+                    the increased tensions, it appeared that the U.S. Congress had decided that
+                    preserving the racial composition of the country was more important than
+                    promoting good ties with Japan.</p>
+                <p>The restrictive principles of the Act could have resulted in strained relations
+                    with some European countries as well, but these potential problems did not
+                    appear for several reasons. The global depression of the 1930s, World War II,
+                    and stricter enforcement of U.S. immigration policy served to curtail European
+                    emigration. When these crises had passed, emergency provisions for the
+                    resettlement of displaced persons in 1948 and 1950 helped the United States
+                    avoid conflict over its new immigration laws.</p>
                 <p>In all of its parts, the most basic purpose of the 1924 Immigration Act was to
-                    preserve the ideal of U.S. homogeneity. Congress revised the Act in
-                    1952.</p>
+                    preserve the ideal of U.S. homogeneity. Congress revised the Act in 1952.</p>
             </div>
             <div type="section" xml:id="dawes">
                 <head>The Dawes Plan, the Young Plan, German Reparations, and Inter-allied War
@@ -256,8 +255,8 @@
                 </p>
                 <p>In the years following the First World War, issues of debt repayment and
                     reparations troubled relations between the Allies and the now defeated Germany.
-                    The U.S.-sponsored Dawes and Young Plans offered a possible solution to
-                    these challenges.</p>
+                    The U.S.-sponsored Dawes and Young Plans offered a possible solution to these
+                    challenges.</p>
                 <figure>
                     <graphic url="dawes-charles.jpg" height="350px" width="466px"/>
                     <head>Charles G. Dawes (Prints and Photographs Division, Library of
@@ -305,14 +304,14 @@
                     in Berlin would be reorganized under foreign supervision and a new currency, the
                     Reichsmark, adopted. France and Belgium would evacuate the Ruhr and foreign
                     banks would loan the German government $200 million to help encourage economic
-                    stabilization. U.S. financier <persName>J. P. Morgan</persName> floated the
-                    loan on the U.S. market, which was quickly oversubscribed. Over the next four
-                    years, U.S. banks continued to lend Germany enough money to enable it to meet
-                    its reparation payments to countries such as France and the United Kingdom.
-                    These countries, in turn, used their reparation payments from Germany to service
-                    their war debts to the United States. In 1925, Dawes was a co-recipient of the
-                    Nobel Peace Prize in recognition of his plan’s contribution to the resolution of
-                    the crisis over reparations.</p>
+                    stabilization. U.S. financier <persName>J. P. Morgan</persName> floated the loan
+                    on the U.S. market, which was quickly oversubscribed. Over the next four years,
+                    U.S. banks continued to lend Germany enough money to enable it to meet its
+                    reparation payments to countries such as France and the United Kingdom. These
+                    countries, in turn, used their reparation payments from Germany to service their
+                    war debts to the United States. In 1925, Dawes was a co-recipient of the Nobel
+                    Peace Prize in recognition of his plan’s contribution to the resolution of the
+                    crisis over reparations.</p>
                 <p>
                     <hi rend="strong">The Young Plan</hi>
                 </p>
@@ -347,14 +346,17 @@
                     European debtor nations except Finland had defaulted on their loans from the
                     United States.</p>
                 <p>Nevertheless, the Dawes and Young Plans were important U.S. efforts that had
-                    lasting consequences. Coming so soon after the U.S. rejection of the <ref target="/milestones/1914-1920/paris-peace">Treaty
-                    of Versailles</ref> and the <ref target="/milestones/1914-1920/league">League of Nations</ref>, the Dawes and Young Plans were
-                    significant instances of U.S. reengagement with European affairs. The Young Plan
-                    also had a more lasting effect: the Bank for International Settlements, or BIS,
-                    continues to operate to this day as a forum for central bank consultation and
-                    cooperation. The United States’ experience with inter-allied war debts continued
-                    to influence its foreign policy for years to come; this influence is evident in
-                    the Johnson Act in 1934, the <ref target="/milestones/1921-1936/neutrality-acts">Neutrality Acts</ref> of the 1930s, and the <ref target="/milestones/1937-1945/lend-lease">Lend-Lease</ref>
+                    lasting consequences. Coming so soon after the U.S. rejection of the <ref
+                        target="/milestones/1914-1920/paris-peace">Treaty of Versailles</ref> and
+                    the <ref target="/milestones/1914-1920/league">League of Nations</ref>, the
+                    Dawes and Young Plans were significant instances of U.S. reengagement with
+                    European affairs. The Young Plan also had a more lasting effect: the Bank for
+                    International Settlements, or BIS, continues to operate to this day as a forum
+                    for central bank consultation and cooperation. The United States’ experience
+                    with inter-allied war debts continued to influence its foreign policy for years
+                    to come; this influence is evident in the Johnson Act in 1934, the <ref
+                        target="/milestones/1921-1936/neutrality-acts">Neutrality Acts</ref> of the
+                    1930s, and the <ref target="/milestones/1937-1945/lend-lease">Lend-Lease</ref>
                     program in the Second World War.</p>
             </div>
             <div type="section" xml:id="geneva">

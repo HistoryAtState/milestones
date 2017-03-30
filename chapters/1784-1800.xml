@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -243,43 +243,44 @@
                     <head>The Storming of the Bastille</head>
                 </figure>
                 <p>In 1794, the French Revolution entered its most violent phase, the Terror. Under
-                    foreign invasion, the French Government declared a state of emergency, and
-                    many foreigners residing in France were arrested, including American
-                    revolutionary pamphleteer Thomas Paine, owing to his British birth. Although
-                    U.S. Minister to France Gouverneur Morris was unable to obtain Paine’s release,
-                    Morris was able to intercede successfully on behalf of many other Americans imprisoned
-                    during the Terror, including the American Consuls at Dunkirk, Rouen, and Le
-                    Havre. Once the Terror ended in late July of 1794, the arrests ended, and Paine,
-                    who had been scheduled to be executed, was released.</p>
+                    foreign invasion, the French Government declared a state of emergency, and many
+                    foreigners residing in France were arrested, including American revolutionary
+                    pamphleteer Thomas Paine, owing to his British birth. Although U.S. Minister to
+                    France Gouverneur Morris was unable to obtain Paine’s release, Morris was able
+                    to intercede successfully on behalf of many other Americans imprisoned during
+                    the Terror, including the American Consuls at Dunkirk, Rouen, and Le Havre. Once
+                    the Terror ended in late July of 1794, the arrests ended, and Paine, who had
+                    been scheduled to be executed, was released.</p>
                 <p>Although the French Revolution had ended its radical phase, Federalists in the
                     United States remained wary of revolutionary ideology infiltrating the United
                     States. Many French citizens, refugees from the French and Haitian revolutions,
                     had settled in American cities and remained politically active, setting up
                     newspapers and agitating for their political causes. A French spy, Victor
-                    Collot, traveled through the United States in 1796, noting the
-                    weaknesses in its western border. When a breakdown in diplomatic negotiations
-                    resulted in the <ref target="/milestones/1784-1800/xyz">Quasi-War</ref> with France, the Federalist-controlled Congress passed
-                    a series of laws known as the Alien and Sedition Acts, intended to curb
-                    political dissent and limit the political participation of immigrants by easing
-                    deportation and lengthening the time required for citizenship. A number of
-                    political radicals were arrested for sedition, including Congressman Matthew
-                    Lyon and newspaper editors James Thompson Callendar and William Duane. Many
-                    refugees, sensing American hostility, chose to return to France and Haiti since the
-                    political situation had temporarily calmed in both places.</p>
+                    Collot, traveled through the United States in 1796, noting the weaknesses in its
+                    western border. When a breakdown in diplomatic negotiations resulted in the <ref
+                        target="/milestones/1784-1800/xyz">Quasi-War</ref> with France, the
+                    Federalist-controlled Congress passed a series of laws known as the Alien and
+                    Sedition Acts, intended to curb political dissent and limit the political
+                    participation of immigrants by easing deportation and lengthening the time
+                    required for citizenship. A number of political radicals were arrested for
+                    sedition, including Congressman Matthew Lyon and newspaper editors James
+                    Thompson Callendar and William Duane. Many refugees, sensing American hostility,
+                    chose to return to France and Haiti since the political situation had
+                    temporarily calmed in both places.</p>
                 <p>The Alien and Sedition Acts, originally intended to prevent a growth in
                     pro-French sentiment, actually backfired for the Federalists. Taken aback by
                     such extreme measures, swing voters in the presidential election of 1800 instead
                     backed the pro-French Thomas Jefferson and his Democratic-Republican Party,
                     instead of the Federalist John Adams, who was running for re-election as
-                    President. Adams had also alienated the anti-Revolutionary wing of his party
-                    by seeking peace with France, whose revolution had already been brought to a
-                    close by General Napoleon Bonaparte.</p>
+                    President. Adams had also alienated the anti-Revolutionary wing of his party by
+                    seeking peace with France, whose revolution had already been brought to a close
+                    by General Napoleon Bonaparte.</p>
                 <p>Despite Federalist warnings that electing Jefferson would bring revolution to the
-                    United States, Jefferson instead chose to distance himself
-                    from political radicals and win over political moderates. The revolution in
-                    France was over, and while many Americans voters sympathized with the revolution
-                    in the abstract, they did not want the revolution’s most radical changes
-                    put into effect in the United States.</p>
+                    United States, Jefferson instead chose to distance himself from political
+                    radicals and win over political moderates. The revolution in France was over,
+                    and while many Americans voters sympathized with the revolution in the abstract,
+                    they did not want the revolution’s most radical changes put into effect in the
+                    United States.</p>
             </div>
             <div type="section" xml:id="haitian-rev">
                 <head>The United States and the Haitian Revolution, <date when="1791"
@@ -638,8 +639,7 @@
                     Gerry</persName>, <ref
                         target="/departmenthistory/people/pinckney-charles-cotesworth">Charles
                         Cotesworth Pinckney</ref>, and <ref
-                        target="/departmenthistory/people/marshall-john">John
-                        Marshall.</ref>
+                        target="/departmenthistory/people/marshall-john">John Marshall.</ref>
                 </p>
                 <figure>
                     <graphic url="jmarshall.jpg" height="303px" width="225px"/>

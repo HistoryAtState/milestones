@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -33,7 +33,8 @@
                     recognizing the Confederacy as a legitimate nation and from getting involved in
                     the Civil War.</p>
                 <p>In an attempt to starve the Confederate economy and to cut it off from its
-                    international supporters, the Union engaged in a <ref target="/milestones/1861-1865/blockade">blockade of Confederate
+                    international supporters, the Union engaged in a <ref
+                        target="/milestones/1861-1865/blockade">blockade of Confederate
                     ports</ref>—a move that was of questionable legality in international law.
                     Despite the Confederacy’s significant international commercial ties, the lack of
                     definitive military victories for the South and the success of Union efforts to
@@ -43,7 +44,8 @@
         </front>
         <body>
             <div type="section" xml:id="confederacy">
-                <head>Preventing Diplomatic Recognition of the Confederacy, <date when="1861">1861–1865</date>
+                <head>Preventing Diplomatic Recognition of the Confederacy, <date when="1861"
+                        >1861–1865</date>
                 </head>
                 <p>
                     <hi rend="strong">Introduction</hi>
@@ -72,7 +74,8 @@
                         Southern ports</ref>. Any interruption of cotton supply would disrupt the
                     British economy and reduce the workers to starvation, they thought. Britain
                     would have to break the blockade and provoke a war with the North that would
-                    allow Confederates to solidify independence and gain international recognition.</p>
+                    allow Confederates to solidify independence and gain international
+                    recognition.</p>
                 <p>When the Union did declare a blockade upon the rebel states in April 1861,
                     however, it did not prompt the response expected from the Europeans. The
                     blockade’s legal and political implications took on greater significance than
@@ -91,8 +94,10 @@
                     <head>British Foreign Secretary Lord John Russell.</head>
                 </figure>
                 <p>Sensitive to any further international recognition of the Confederates as
-                    statesmen rather than rebels, Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William H.
-                    Seward</ref> instructed <ref target="/departmenthistory/people/adams-charles-francis">Charles Francis
+                    statesmen rather than rebels, Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William H.
+                        Seward</ref> instructed <ref
+                        target="/departmenthistory/people/adams-charles-francis">Charles Francis
                         Adams</ref>, Minister to England and the son of former Secretary of State
                     and President <persName>John Quincy Adams</persName>, to warn the British not to
                     “fraternize with our domestic enemy,” whether officially or unofficially, or
@@ -100,7 +105,8 @@
                     neutrality also constituted official acceptance of the blockade, a position with
                     many long-standing implications. Although international law stated that a
                     blockade must be “physically effective” to be legally binding on neutral powers,
-                    the definition was ambiguous. From before the <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>, the United
+                    the definition was ambiguous. From before the <ref
+                        target="/milestones/1801-1829/war-of-1812">War of 1812</ref>, the United
                     States had insisted upon a strict definition in order to maintain trading rights
                     as a neutral. Now, however, the United States was the belligerent and Britain
                     the predominant neutral power. By officially respecting the Union blockade, even
@@ -110,7 +116,8 @@
                     the British argument in future naval issues. </p>
             </div>
             <div type="section" xml:id="blockade">
-                <head>The Blockade of Confederate Ports, <date from="1861" to="1865">1861–1865</date>
+                <head>The Blockade of Confederate Ports, <date from="1861" to="1865"
+                        >1861–1865</date>
                 </head>
                 <p>
                     <hi rend="strong">Introduction</hi>
@@ -128,11 +135,12 @@
                 <figure>
                     <graphic url="blockade.jpg" height="240px" width="310px"/>
                     <head>1861 Cartoon of the Union Blockade of the South during the Civil
-                    War</head>
+                        War</head>
                 </figure>
-                <p>U.S. Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William Henry
-                    Seward</ref> recommended adopting the blockade shortly after the Battle of Fort
-                    Sumter in April, 1861 that marked the beginning of Civil War hostilities.
+                <p>U.S. Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William Henry
+                        Seward</ref> recommended adopting the blockade shortly after the Battle of
+                    Fort Sumter in April, 1861 that marked the beginning of Civil War hostilities.
                         <persName>Gideon Welles</persName>, the Secretary of the Navy, argued for a
                     de facto but undeclared blockade, which would prevent foreign governments from
                     granting the Confederacy belligerent status. President Abraham Lincoln sided
@@ -150,8 +158,9 @@
                 <p>As the Union Navy took steps to enforce the blockade, controversies arose with
                     foreign governments over the legality of Union seizures of neutral shipping, as
                     well as other related practices. The most important of these was the arrest of
-                    Confederate commissioners that precipitated the <ref target="/milestones/1861-1865/trent-affair">Trent Affair</ref> in November of
-                    1861, an incident that was resolved by the release of the commissioners one
+                    Confederate commissioners that precipitated the <ref
+                        target="/milestones/1861-1865/trent-affair">Trent Affair</ref> in November
+                    of 1861, an incident that was resolved by the release of the commissioners one
                     month later. Foreign governments acknowledged the right to stop and search
                     neutral ships in international waters, but were displeased by what they saw as
                     violations of the spirit rather than the letter of the law; Union ships
@@ -200,7 +209,8 @@
                     <hi rend="strong">Introduction</hi>
                 </p>
                 <p>On November 8, 1861, Charles Wilkes, a U.S. Navy Officer, captured two
-                    Confederate envoys aboard the British mail ship, the <hi rend="italic">Trent</hi>. Great Britain accused the United States of violating British
+                    Confederate envoys aboard the British mail ship, the <hi rend="italic"
+                        >Trent</hi>. Great Britain accused the United States of violating British
                     neutrality, and the incident created a diplomatic crisis between the United
                     States and Great Britain during the Civil War.</p>
                 <figure>
@@ -228,7 +238,8 @@
                     envoys.</p>
                 <p>In October 1861, Mason and Slidell slipped through the U.S. naval blockade and
                     left Charleston, South Carolina for Cuba, where they took passage for England on
-                    the <hi rend="italic">Trent</hi>. U.S. Captain Wilkes intercepted the <hi rend="italic">Trent</hi> on November 8, 1861 and, without permission from
+                    the <hi rend="italic">Trent</hi>. U.S. Captain Wilkes intercepted the <hi
+                        rend="italic">Trent</hi> on November 8, 1861 and, without permission from
                     Washington, ordered his lieutenant to board and search the ship. The U.S.
                     boarding party took Mason, Slidell, and their secretaries as prisoners, but
                     allowed the <hi rend="italic">Trent</hi> to depart for England.</p>
@@ -258,7 +269,8 @@
                 <p>The Lincoln administration understood that it would be unwise to risk a possible
                     armed conflict and perpetuate bad relations with a foreign power while it was
                     prosecuting a war against the Confederacy and moved to smooth things over
-                    through diplomatic negotiations. <ref target="/departmenthistory/people/adams-charles-francis">Charles Francis
+                    through diplomatic negotiations. <ref
+                        target="/departmenthistory/people/adams-charles-francis">Charles Francis
                         Adams</ref>, the U.S. Minister to Great Britain assured the British that the
                     United States did not want a war and advised President Lincoln and Secretary of
                     State <ref target="/departmenthistory/people/seward-william-henry">William
@@ -277,7 +289,8 @@
                     change. </p>
             </div>
             <div type="section" xml:id="french-intervention">
-                <head>French Intervention in Mexico and the American Civil War, <date from="1862" to="1867">1862–1867</date>
+                <head>French Intervention in Mexico and the American Civil War, <date from="1862"
+                        to="1867">1862–1867</date>
                 </head>
                 <p>
                     <hi rend="strong">Introduction</hi>
@@ -288,10 +301,12 @@
                     of Mexico. Stiff Mexican resistance caused Napoleon III to order French
                     withdrawal in 1867, a decision strongly encouraged by a United States recovered
                     from its Civil War weakness in foreign affairs. Earlier, during the Civil War,
-                    U.S. Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William Henry
-                    Seward</ref> followed a more cautious policy that attempted to keep relations
-                    with France harmonious and prevent French willingness to assist the Confederacy.
-                    Consequently, Maximilian’s government <ref target="/milestones/1861-1865/confederacy">rebuffed Confederate diplomatic
+                    U.S. Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William Henry
+                        Seward</ref> followed a more cautious policy that attempted to keep
+                    relations with France harmonious and prevent French willingness to assist the
+                    Confederacy. Consequently, Maximilian’s government <ref
+                        target="/milestones/1861-1865/confederacy">rebuffed Confederate diplomatic
                         overtures</ref>.</p>
                 <figure>
                     <graphic url="maximilianofmexico.jpg" height="332px" width="230px"/>
@@ -309,7 +324,7 @@
                     repaid, Mexico would agree to the cession of Baja California and other Mexican
                     states. The terms of the loan were onerous to the Mexican government, but U.S.
                     diplomat <ref target="/departmenthistory/people/corwin-thomas">Thomas
-                    Corwin</ref> successfully negotiated a treaty with Mexican representative
+                        Corwin</ref> successfully negotiated a treaty with Mexican representative
                         <persName>Manuel Maria Zamacona</persName>. Ultimately, though, the U.S.
                     Congress rejected the treaty on grounds that it would drain money from Civil War
                     expenditures.</p>
@@ -341,8 +356,8 @@
                     the side of the Confederacy. The U.S. Government also rejected overtures from
                     other Latin American countries for a pan-American solution to the conflict.
                     However, the Mexican Minister to the United States, <persName>Matías
-                    Romero</persName>, worked carefully to build American support for Mexico. Seward
-                    soon began to show increased support for Juárez’s government.</p>
+                        Romero</persName>, worked carefully to build American support for Mexico.
+                    Seward soon began to show increased support for Juárez’s government.</p>
                 <p>
                     <hi rend="strong">Napoleon’s Withdrawal from Mexico</hi>
                 </p>
@@ -405,7 +420,9 @@
                     was launched on July 29, 1862. It captured 58 Northern merchant ships before it
                     was sunk in June 1864 by a U.S. warship off the coast of France. In addition to
                     the <hi rend="italic"/>Alabama, other British-built ships in the Confederate
-                    Navy included the <hi rend="italic">Florida</hi>, <hi rend="italic">Georgia</hi>, <hi rend="italic">Rappahannock</hi>, and <hi rend="italic">Shenandoah</hi>. Together, they sank more than 150 Northern ships and
+                    Navy included the <hi rend="italic">Florida</hi>, <hi rend="italic"
+                    >Georgia</hi>, <hi rend="italic">Rappahannock</hi>, and <hi rend="italic"
+                        >Shenandoah</hi>. Together, they sank more than 150 Northern ships and
                     impelled much of the U.S. merchant marine to adopt foreign registry. The damage
                     to Northern shipping would have been even worse had not fervent protests from
                     the U.S. Government persuaded British and French officials to seize additional
@@ -451,9 +468,10 @@
                     demonstrated the strength of the United States Government and restored its
                     legitimacy to handle the sectional tensions that had complicated U.S. external
                     relations in the years before the Civil War. The renewed strength of the U.S.
-                    Government led to the defeat of <ref target="/milestones/1861-1865/french-intervention">French intervention in
+                    Government led to the defeat of <ref
+                        target="/milestones/1861-1865/french-intervention">French intervention in
                         Mexico</ref>, and hastened the confederation of
-                    <placeName>Canada</placeName> in 1867.</p>
+                        <placeName>Canada</placeName> in 1867.</p>
                 <figure>
                     <graphic url="courthouse.jpg" height="200px" width="250px"/>
                     <head>Appomattox Court House, Virginia</head>
@@ -487,7 +505,8 @@
                 <p>The renewed international image of the United States also helped Secretary of
                     State <ref target="/departmenthistory/people/seward-william-henry">William
                         Seward</ref> in his attempts to acquire additional territory in the postwar
-                    period. In 1867, Seward succeeded in <ref target="/milestones/1866-1898/alaska-purchase">purchasing Alaska from the
+                    period. In 1867, Seward succeeded in <ref
+                        target="/milestones/1866-1898/alaska-purchase">purchasing Alaska from the
                         Russian Government</ref>. Seward also sought to acquire territories in the
                     Caribbean, and to negotiate permission to build the Panama Canal. The postwar
                     period also saw attempts by U.S. political leaders, including Seward, to

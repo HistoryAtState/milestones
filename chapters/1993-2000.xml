@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -542,11 +542,11 @@
                     assume governing responsibilities in the West Bank and Gaza Strip over a
                     five-year period. Then, permanent status talks on the issues of borders,
                     refugees, and Jerusalem would be held. While President <persName>Bill
-                        Clinton’s</persName> administration played a limited role in bringing the Oslo
-                    Accord into being, it would invest vast amounts of time and resources in order
-                    to help Israel and the Palestinians implement the agreement. By the time Clinton
-                    left office, however, the peace process had run aground, and a new round of
-                    Israeli-Palestinian violence had begun. </p>
+                        Clinton’s</persName> administration played a limited role in bringing the
+                    Oslo Accord into being, it would invest vast amounts of time and resources in
+                    order to help Israel and the Palestinians implement the agreement. By the time
+                    Clinton left office, however, the peace process had run aground, and a new round
+                    of Israeli-Palestinian violence had begun. </p>
                 <figure>
                     <graphic url="oslo.jpg" height="400px" width="265px"/>
                     <head>President Clinton, Yitzhak Rabin, and Yasir Arafat at the signing ceremony
