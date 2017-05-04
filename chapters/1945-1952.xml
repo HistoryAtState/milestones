@@ -1307,9 +1307,8 @@
                     community, the colonial era was ending.</p>
             </div>
             <div type="section" subtype="removed-pending-rewrite" xml:id="korean-war-2">
-                <head>The Korean War, <date when="1950">1950–1953</date>
-                </head>
-                <!--  <p>The Korean War began as a civil war between <placeName>North and South
+                <head>The Korean War, <date when="1950">1950–1953</date></head>
+                <p>The Korean War began as a civil war between <placeName>North and South
                         Korea</placeName>, but the conflict soon became international when, under
                     U.S. leadership, the United Nations joined to support <placeName>South
                         Korea</placeName> and the <placeName>People’s Republic of China
@@ -1466,7 +1465,7 @@
                     the stage for the further enlargement of the U.S. defense perimeter in Asia.
                     These Cold War policies would eventually lead the United States to regional
                     actions that included its attempts at preventing the fall of Vietnam to
-                    communism. </p>-->
+                    communism.</p>
             </div>
             <div type="section" xml:id="anzus">
                 <head>The Australia, New Zealand and United States Security Treaty (ANZUS Treaty),
