@@ -1,4 +1,4 @@
-﻿<?xml-model href="../schema/milestones.rnc" type="application/relax-ng-compact-syntax"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -925,8 +925,83 @@
             <div type="section" subtype="removed-pending-rewrite" xml:id="strategic-arms-reduction"
                 ana="arms-control-and-disarmament russia reagan-ronald">
                 <head>Strategic Arms Reduction Treaties, <date when="1991">1991</date> and <date
-                        when="1993">1993</date>
-                </head>
+                        when="1993">1993</date></head>
+                <p>The Strategic Arms Reductions Treaties, known as START I and START II, were
+                    agreements to reduce the number of long-range nuclear weapons in the
+                    <placeName>United States</placeName> and the former <placeName>Soviet
+                        Union</placeName>. START I was signed by the United States and the Soviet
+                    Union in 1991, and it was followed by the conclusion of the START II treaty
+                    between the United States and <placeName>Russia</placeName> in 1993.</p>
+                <figure>
+                    <graphic url="bushandyeltsin.jpg" height="200px" width="200px"/>
+                    <head> President Bush and Russian President Boris Yeltsin sign the Start II
+                        Treaty at a Ceremony in Vladimir Hall, The Kremlin in Moscow, Russia</head>
+                </figure>
+                <p>When <persName>Ronald Reagan</persName> assumed the U.S. Presidency in 1981,
+                    provisions for continuing the Strategic Arms Limitations Talks (SALT) that
+                    yielded two arms agreements between the United States and the Soviet Union in
+                    the 1970s were already in place. The first round of SALT produced the
+                    Antiballistic Missile Treaty (ABM) and a framework for reducing caps on nuclear
+                    warhead delivery systems, and the second round (SALT II) produced a treaty
+                    limiting these delivery systems that was signed but never ratified. In spite of
+                    the difficulties involved in ratification of the second agreement, both sides
+                    adhered to the terms of SALT II and expressed an interest in moving forward with
+                    a third round of talks. In late 1981, Reagan proposed that the talks be renamed
+                    the Strategic Arms Reductions Talks, to place the focus of the subsequent
+                    negotiations on deep cuts in existing weapons, not simply limits on future
+                    deployments. As a part of this announcement, Reagan also suggested bilateral
+                    negotiations on the elimination of intermediate range nuclear weapons.</p>
+                <p>The initial proposals offered by the Reagan Administration to the Soviet Union
+                    called for a fifty percent reduction in total strategic weapons. U.S. officials
+                    realized that such a drastic change in policy would likely be rejected by the
+                    Soviets, but they had their own reasons to make the suggestion. In the 1980s, a
+                    growing nuclear “freeze” movement called for the elimination of nuclear weapons,
+                    spurred on in part by the promulgation of scientific studies that forecast a
+                    “nuclear winter” effect. This scientific prediction assumed that the use of
+                    nuclear weapons anywhere in the world would effectively destroy the earth’s
+                    capacity for sustaining human life. The Reagan proposals for broad reductions in
+                    nuclear arms reflected an effort by Reagan Administration officials to deflect
+                    the criticism directed at them by antinuclear activists for continuing the arms
+                    race. By proposing reductions that the Soviets were sure to resist, the Reagan
+                    Administration could blame the ongoing arms race on the Soviet Union and justify
+                    continued U.S. development of strategic weapons. At the same time, however, this
+                    approach to arms control led Moscow to abandon talks in 1983.</p>
+                <p>After <persName>Mikhail Gorbachev</persName> took power in the Soviet Union in
+                    1985, the two countries resumed arms control discussions. At a summit meeting in
+                    Reykjavik in 1986, Reagan once again proposed a fifty percent reduction in long
+                    range strategic weapons. At this point, Gorbachev was far more inclined to
+                    consider the proposal and act upon it, because economic problems in the Soviet
+                    Union made ending, or at least curtailing, the expensive nuclear arms race a
+                    necessity. What prevented a deal at this juncture was not the ambitious nature
+                    of the proposal, but the ongoing U.S. research into a missile defense system
+                    under President Reagan’s Strategic Defense Initiative. The Soviets argued that
+                    under the1972 Antiballistic Missile Treaty developing a missile defense system
+                    was illegal, and they demanded that the United States halt research on the
+                    project before any agreement be reached on long-range strategic weapons
+                    reductions. A 1987 agreement between the United States and the Soviet Union
+                    provided a way around this impasse by calling for fifty percent reductions in
+                    long-range strategic weapons and a new treaty to reconfirm a mutual commitment
+                    to the ABM Treaty. Although this agreement appeared to have solved the problem,
+                    the treaty was not completed before the end of the Reagan Administration.</p>
+                <p>By the early 1990s, after President Reagan had been out of office a few years,
+                    domestic support in the United States for the Strategic Defense Initiative
+                    dwindled and Cold War tensions were dying away with the collapse of communism in
+                    Eastern Europe. Instead, there was a renewed desire to see an arms reduction
+                    treaty signed. In 1991, Presidents <persName>George H. W. Bush</persName> and
+                    Mikhail Gorbachev met in Moscow and finally signed the first START agreement,
+                    which required the two countries to reduce their total number of nuclear
+                    warheads and bombs by one third. Later that year, however, the collapse of the
+                    Soviet Union raised doubts about the efficacy of the treaty, as Soviet nuclear
+                    weapons and delivery systems were spread out between three republics and Russia,
+                    each of which was now independent of Soviet control. One by one, the republics
+                    ratified the START treaty and agreed either to destroy the weapons housed in
+                    their territory or turn them over to Russia. A second START agreement signed by
+                    President Bush and Russian President <persName>Boris Yeltsin</persName> in 1993
+                    called for further reductions in strategic weapons. START II therefore
+                    translated to an overall fifty percent reduction in nuclear weapons, limiting
+                    each country to a total of between 3,000 and 3,500 strategic weapons. The United
+                    States ratified the START II agreement in 1996, and Russia followed suit in
+                    2000.</p>
             </div>
         </body>
     </text>
