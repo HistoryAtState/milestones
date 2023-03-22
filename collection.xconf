@@ -3,7 +3,14 @@
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text qname="tei:div"/>
+            <text qname="tei:div" index="no">
+                <!-- start required facets and fields -->
+                <facet dimension="hsg-category" expression="'retired'"/>
+                <facet dimension="hsg-publication" expression="'milestones'"/>
+                <field name="hsg-fulltext" if="@type eq 'section'" store="no"/>
+                <field name="hsg-url" expression="'/milestones/' || substring-before(util:document-name(.), '.xml') || (if (./ancestor::tei:front) then () else ('/' || @xml:id))"/>
+                <!-- end required facets and fields -->
+            </text>
         </lucene>
         <create qname="@target" type="xs:string"/>
         <create qname="@corresp" type="xs:string"/>
