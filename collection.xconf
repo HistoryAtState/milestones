@@ -87,6 +87,11 @@
                 <field analyzer="cased" name="hsg-fulltext-cased" if="@type eq 'section'" store="no"/>
                 <field analyzer="punct" name="hsg-fulltext-punct" if="@type eq 'section'" store="no"/>
                 <field analyzer="literal" name="hsg-fulltext-literal" if="@type eq 'section'" store="no"/>
+                <vector-field name="hsg-passages" dimension="384" similarity="cosine" embedding="local" model="all-MiniLM-L6-v2"
+                    chunk="tokens" chunk-overlap="16"
+                    chunk-units="if (@type eq 'section') then node() else ()"
+                    chunk-context="normalize-space((.//tei:head)[1])"
+                    quantize="int8"/>
                 <vector-field name="hsg-embedding" expression="if (@type eq 'section') then . else ()"
                     dimension="384" similarity="cosine"
                     embedding="local" model="all-MiniLM-L6-v2"/>
