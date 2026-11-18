@@ -1,0 +1,21 @@
+package-lock.json
+  s_874b7624a113cc::t_39161a374e6a7b 13,51-53,507-509,513,520-536,560-562,566,575-591,628-630,634-638,646-648,652,658-691,922-924,929,936-937,1306-1308,1312,1735-1748,2550-2552,2556-2558,2561,2565-2567,2571-2573,2576,2867-2873,5451-5468,6342-6344
+package.json
+  s_874b7624a113cc::t_11f1122298ab9a 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "21c75df6d3252778bc53f91f9721fdb3649b0b3a",
+  "prompts": {},
+  "sessions": {
+    "s_874b7624a113cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_874b7624a113cc",
+        "model": "unknown"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
